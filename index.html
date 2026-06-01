@@ -324,7 +324,7 @@ function renderKanbanByResp(fp) {
   RESP_ORDER.forEach(r => {
     if (!groups[r] || groups[r].length === 0) return;
     const col = RESP_COLORS[r] || "#475569";
-    const cards = groups[r].map(makeCard).join("");
+    const cards = groups[r].sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
     cols += `<div class="kanban-col">
       <div class="kanban-col-header" style="border-left:3px solid ${col}">
         <span class="kanban-col-title">${respLabel(r)}</span>
@@ -357,7 +357,7 @@ function renderKanbanByStage(fp) {
     const tierColor = tier === "T1" ? "var(--t1)" : tier === "T2" ? "var(--t2)" : "var(--t3)";
     
     sorted.forEach(([stage, data]) => {
-      const cards = data.projects.map(makeCard).join("");
+      const cards = data.projects.sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
       allCols += `<div class="kanban-col">
         <div class="kanban-col-header" style="border-left:3px solid ${tierColor}">
           <span class="kanban-col-title" title="${stage}">${tier}: ${stage.length > 22 ? stage.slice(0,20)+"…" : stage}</span>

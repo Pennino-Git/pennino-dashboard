@@ -88,7 +88,7 @@ def get_all_projects():
     return all_projects
 
 def get_contact_name(project, contact_cache):
-    """Get PM or Client name from project links. Uses LINK_OBJECT_NAME/LINK_OBJECT_ID."""
+    """Get PM or Client name from project links."""
     links = project.get("LINKS", [])
     pm_link = None
     client_link = None
@@ -142,6 +142,19 @@ def load_previous_data():
     except Exception:
         return {}
 
+def load_stage_tracking():
+    """Load stage_tracking.json — tracks when each project entered its current stage."""
+    try:
+        with open("stage_tracking.json", "r") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+def save_stage_tracking(tracking):
+    """Save stage_tracking.json."""
+    with open("stage_tracking.json", "w") as f:
+        json.dump(tracking, f, indent=2)
+
 def main():
     if not API_KEY:
         print("ERROR: INSIGHTLY_API_KEY not set", file=sys.stderr)
@@ -150,6 +163,10 @@ def main():
     # Load previous client names to avoid unnecessary API calls
     prev_clients = load_previous_data()
     print(f"Loaded {len(prev_clients)} cached client names from previous run")
+    
+    # Load stage tracking for days-in-stage calculation
+    stage_tracking = load_stage_tracking()
+    print(f"Loaded {len(stage_tracking)} stage tracking entries")
     
     print("Fetching pipeline stages...")
     stages = get_all_stages()
@@ -165,8 +182,14 @@ def main():
                        and p.get("PIPELINE_ID") in PIPELINES]
     print(f"  Filtered to {len(active_projects)} active projects")
     
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    adelaide = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
+    now_adelaide = now_utc.astimezone(adelaide)
+    today_str = now_adelaide.strftime("%Y-%m-%d")
+    
     projects = []
     contact_cache = {}
+    new_tracking = {}
     
     for i, p in enumerate(active_projects):
         pid = p.get("PIPELINE_ID")
@@ -190,6 +213,31 @@ def main():
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
         
         project_id = p["PROJECT_ID"]
+        project_key = str(project_id)
+        
+        # Stage tracking: detect stage changes and calculate days
+        prev = stage_tracking.get(project_key, {})
+        prev_stage_id = prev.get("stage_id")
+        
+        if prev_stage_id == stage_id and prev.get("entered"):
+            # Same stage — keep original entered date
+            entered_date = prev["entered"]
+        else:
+            # New project or stage changed — record today
+            entered_date = today_str
+        
+        new_tracking[project_key] = {
+            "stage_id": stage_id,
+            "entered": entered_date,
+            "stage_name": stage_name
+        }
+        
+        # Calculate days in stage
+        try:
+            entered_dt = datetime.datetime.strptime(entered_date, "%Y-%m-%d").date()
+            days_in_stage = (now_adelaide.date() - entered_dt).days
+        except Exception:
+            days_in_stage = 0
         
         # Try to reuse previous client name, otherwise fetch
         client = prev_clients.get(project_id, "")
@@ -208,7 +256,7 @@ def main():
             "client": client,
             "link": f"https://crm.na1.insightly.com/details/project/{project_id}",
             "responsibility": responsibility,
-            "days_in_stage": 0,
+            "days_in_stage": days_in_stage,
             "stage_name": stage_name,
             "sa_water_ref": sa_water,
             "stage_order": stage_order,
@@ -216,19 +264,21 @@ def main():
     
     projects.sort(key=lambda x: ({"T1":1,"T2":2,"T3":3}.get(x["tier"],9), x["name"]))
     
-    now_utc = datetime.datetime.now(datetime.timezone.utc)
-    adelaide = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
-    timestamp = now_utc.astimezone(adelaide).isoformat()
+    timestamp = now_adelaide.isoformat()
     
     output = {"projects": projects, "last_updated": timestamp, "total": len(projects)}
     
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
     
+    # Save stage tracking
+    save_stage_tracking(new_tracking)
+    
     # Stats
     with_client = sum(1 for p in projects if p.get("client"))
     unknown_stage = sum(1 for p in projects if p.get("stage_name") == "Unknown")
-    print(f"\n✅ Generated data.json: {len(projects)} projects, {with_client} with client names, {unknown_stage} unknown stages")
+    with_days = sum(1 for p in projects if p.get("days_in_stage", 0) > 0)
+    print(f"\n✅ Generated data.json: {len(projects)} projects, {with_client} with client names, {unknown_stage} unknown stages, {with_days} with days tracked")
 
 if __name__ == "__main__":
     main()

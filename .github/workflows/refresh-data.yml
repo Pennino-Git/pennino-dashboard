@@ -2,10 +2,8 @@ name: Refresh Dashboard Data
 
 on:
   schedule:
-    # Every 15 minutes during Adelaide business hours (Mon-Fri 7:30am-6:30pm ACST = 10pm-9am UTC prev day)
-    # Simplified: run every 15 min, the script itself is fast
     - cron: '*/15 * * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -29,5 +27,5 @@ jobs:
         run: |
           git config user.name "Pennino Dashboard Bot"
           git config user.email "office@pennino.com.au"
-          git add data.json
+          git add data.json stage_tracking.json
           git diff --cached --quiet || (git commit -m "📊 Auto-refresh dashboard data $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git push)

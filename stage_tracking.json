@@ -1,0 +1,417 @@
+{
+  "11236872": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "11764688": {
+    "stage_id": 3823963,
+    "entered": "2026-06-01",
+    "stage_name": "Pegging"
+  },
+  "12121769": {
+    "stage_id": 4845742,
+    "entered": "2026-06-01",
+    "stage_name": "10. LTO Approval"
+  },
+  "12413029": {
+    "stage_id": 4845742,
+    "entered": "2026-06-01",
+    "stage_name": "10. LTO Approval"
+  },
+  "13213940": {
+    "stage_id": 3823964,
+    "entered": "2026-06-01",
+    "stage_name": "DAC Cert"
+  },
+  "13746454": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "13910424": {
+    "stage_id": 4845742,
+    "entered": "2026-06-01",
+    "stage_name": "10. LTO Approval"
+  },
+  "14617925": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "14754903": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "15187921": {
+    "stage_id": 4845734,
+    "entered": "2026-06-01",
+    "stage_name": "2. PlanSA Lodgement"
+  },
+  "15599174": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "15769844": {
+    "stage_id": 4845741,
+    "entered": "2026-06-01",
+    "stage_name": "9. LTO Lodgement"
+  },
+  "15978707": {
+    "stage_id": 4845737,
+    "entered": "2026-06-01",
+    "stage_name": "5. Certified Survey"
+  },
+  "16351320": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "16351328": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "16416720": {
+    "stage_id": 4845739,
+    "entered": "2026-06-01",
+    "stage_name": "7. SCAP Application"
+  },
+  "16435772": {
+    "stage_id": 4845739,
+    "entered": "2026-06-01",
+    "stage_name": "7. SCAP Application"
+  },
+  "16477307": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "16772033": {
+    "stage_id": 4845734,
+    "entered": "2026-06-01",
+    "stage_name": "2. PlanSA Lodgement"
+  },
+  "16823916": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17278348": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "17328458": {
+    "stage_id": 3823964,
+    "entered": "2026-06-01",
+    "stage_name": "DAC Cert"
+  },
+  "17375037": {
+    "stage_id": 3823936,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Project"
+  },
+  "17385935": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17522792": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "17539782": {
+    "stage_id": 4845734,
+    "entered": "2026-06-01",
+    "stage_name": "2. PlanSA Lodgement"
+  },
+  "17552256": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "17584717": {
+    "stage_id": 3823963,
+    "entered": "2026-06-01",
+    "stage_name": "Pegging"
+  },
+  "17632301": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17700505": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "17704260": {
+    "stage_id": 4845738,
+    "entered": "2026-06-01",
+    "stage_name": "Land Division Certificate Lodged with PlanSA"
+  },
+  "17708499": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "17732479": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17782437": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17810905": {
+    "stage_id": 3134301,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "17830378": {
+    "stage_id": 3823960,
+    "entered": "2026-06-01",
+    "stage_name": "Concept Plan"
+  },
+  "17830522": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17845187": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "17847316": {
+    "stage_id": 4845737,
+    "entered": "2026-06-01",
+    "stage_name": "5. Certified Survey"
+  },
+  "17861274": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "17863628": {
+    "stage_id": 3823963,
+    "entered": "2026-06-01",
+    "stage_name": "Pegging"
+  },
+  "17876195": {
+    "stage_id": 3823938,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Plan"
+  },
+  "17894399": {
+    "stage_id": 3823964,
+    "entered": "2026-06-01",
+    "stage_name": "DAC Cert"
+  },
+  "17900271": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "17902817": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "17923064": {
+    "stage_id": 3823963,
+    "entered": "2026-06-01",
+    "stage_name": "Pegging"
+  },
+  "17928270": {
+    "stage_id": 3823959,
+    "entered": "2026-06-01",
+    "stage_name": "Drafting"
+  },
+  "17956195": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18021299": {
+    "stage_id": 4845741,
+    "entered": "2026-06-01",
+    "stage_name": "9. LTO Lodgement"
+  },
+  "18039448": {
+    "stage_id": 3823963,
+    "entered": "2026-06-01",
+    "stage_name": "Pegging"
+  },
+  "18046019": {
+    "stage_id": 3823962,
+    "entered": "2026-06-01",
+    "stage_name": "Authority Reviews Application"
+  },
+  "18046089": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18051614": {
+    "stage_id": 3823936,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Project"
+  },
+  "18059610": {
+    "stage_id": 3823960,
+    "entered": "2026-06-01",
+    "stage_name": "Concept Plan"
+  },
+  "18076465": {
+    "stage_id": 3823961,
+    "entered": "2026-06-01",
+    "stage_name": "PlanSA Lodgment"
+  },
+  "18078768": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18091731": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "18133721": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18156649": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18187249": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18187753": {
+    "stage_id": 4845735,
+    "entered": "2026-06-01",
+    "stage_name": "3. Authority Assessment"
+  },
+  "18196569": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18203158": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18214852": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18217316": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18223472": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18225672": {
+    "stage_id": 4845734,
+    "entered": "2026-06-01",
+    "stage_name": "2. PlanSA Lodgement"
+  },
+  "18227807": {
+    "stage_id": 3823936,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Project"
+  },
+  "18230693": {
+    "stage_id": 3134301,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18237772": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18238164": {
+    "stage_id": 3134302,
+    "entered": "2026-06-01",
+    "stage_name": "Plan Drawing & Check"
+  },
+  "18249652": {
+    "stage_id": 3823960,
+    "entered": "2026-06-01",
+    "stage_name": "Concept Plan"
+  },
+  "18250076": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18252749": {
+    "stage_id": 3823959,
+    "entered": "2026-06-01",
+    "stage_name": "Drafting"
+  },
+  "18254196": {
+    "stage_id": 3823959,
+    "entered": "2026-06-01",
+    "stage_name": "Drafting"
+  },
+  "18256019": {
+    "stage_id": 3134302,
+    "entered": "2026-06-01",
+    "stage_name": "Plan Drawing & Check"
+  },
+  "18259933": {
+    "stage_id": 3823939,
+    "entered": "2026-06-01",
+    "stage_name": "Send Plan to Client"
+  },
+  "18269218": {
+    "stage_id": 3823938,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Plan"
+  },
+  "18273273": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18273554": {
+    "stage_id": 4845733,
+    "entered": "2026-06-01",
+    "stage_name": "1. Concept Planning"
+  },
+  "18309240": {
+    "stage_id": 3823959,
+    "entered": "2026-06-01",
+    "stage_name": "Drafting"
+  },
+  "18313305": {
+    "stage_id": 3134304,
+    "entered": "2026-06-01",
+    "stage_name": "Further Work Required"
+  },
+  "18317513": {
+    "stage_id": 3823936,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Project"
+  }
+}
