@@ -15,6 +15,34 @@
       "stage_order": 2
     },
     {
+      "id": 18313304,
+      "name": "A1349 Cecilia Rd IDENT",
+      "tier": "T1",
+      "status": "NOT STARTED",
+      "address": "Cecilia Rd",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18313304",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2
+    },
+    {
+      "id": 18294425,
+      "name": "C1065 Lookout Dr CONTOUR",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "52 Lookout Drive, Murray Bridge East SA 5253",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18294425",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1
+    },
+    {
       "id": 18317513,
       "name": "F1145 South Para Rd IDENT",
       "tier": "T1",
@@ -27,6 +55,20 @@
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1
+    },
+    {
+      "id": 18287874,
+      "name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "Cnr Frisby & Currtis 470 Curtis Road, Angle Vale SA 5117",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18287874",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Send Plan to Client",
+      "sa_water_ref": "",
+      "stage_order": 4
     },
     {
       "id": 18156649,
@@ -176,7 +218,7 @@
       "address": "28 Fife Street, Klemzig SA 5087",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17278348",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0177652; H0177653",
@@ -218,7 +260,7 @@
       "address": "49 Wood Street, South Plympton SA 5038",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17704260",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "CD H0182403; TD H0182399",
@@ -260,7 +302,7 @@
       "address": "90 Kensington Way, Burton SA 5110",
       "client": "Carmine Belperio",
       "link": "https://crm.na1.insightly.com/details/project/15187921",
-      "responsibility": "Council/Authority",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0148953",
@@ -274,7 +316,7 @@
       "address": "93 & 95 Peachey Road, Davoren Park SA 5113",
       "client": "Frank Barbaro",
       "link": "https://crm.na1.insightly.com/details/project/16416720",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0164798",
@@ -288,7 +330,7 @@
       "address": "119 Holbrooks Road, Underdale SA 5032",
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/16435772",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "LTO",
       "days_in_stage": 0,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0162462",
@@ -680,11 +722,11 @@
       "address": "30 Wilsden Street, Walkerville SA 5081",
       "client": "Lori Kambitsis",
       "link": "https://crm.na1.insightly.com/details/project/17385935",
-      "responsibility": "Council/Authority",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Authority Reviews Application",
+      "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0177446",
-      "stage_order": 4
+      "stage_order": 5
     },
     {
       "id": 16351320,
@@ -1105,8 +1147,22 @@
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
+    },
+    {
+      "id": 18184868,
+      "name": "T1319 Grange Rd TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Grange Road, Colonel Light Gardens",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18184868",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Plan to Client",
+      "sa_water_ref": "",
+      "stage_order": 4
     }
   ],
-  "last_updated": "2026-06-01T23:08:42.643289+09:30",
-  "total": 79
+  "last_updated": "2026-06-01T23:31:48.898930+09:30",
+  "total": 83
 }

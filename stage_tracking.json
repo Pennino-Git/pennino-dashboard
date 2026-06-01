@@ -110,9 +110,9 @@
     "stage_name": "DAC Cert"
   },
   "17385935": {
-    "stage_id": 3823962,
+    "stage_id": 4845737,
     "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_name": "5. Certified Survey"
   },
   "17522792": {
     "stage_id": 3823937,
@@ -284,6 +284,11 @@
     "entered": "2026-06-01",
     "stage_name": "Field Work Scheduled"
   },
+  "18184868": {
+    "stage_id": 3134303,
+    "entered": "2026-06-01",
+    "stage_name": "Plan to Client"
+  },
   "18187249": {
     "stage_id": 4845733,
     "entered": "2026-06-01",
@@ -379,10 +384,25 @@
     "entered": "2026-06-01",
     "stage_name": "1. Concept Planning"
   },
+  "18287874": {
+    "stage_id": 3823939,
+    "entered": "2026-06-01",
+    "stage_name": "Send Plan to Client"
+  },
+  "18294425": {
+    "stage_id": 3823936,
+    "entered": "2026-06-01",
+    "stage_name": "Prepare Project"
+  },
   "18309240": {
     "stage_id": 3823959,
     "entered": "2026-06-01",
     "stage_name": "Drafting"
+  },
+  "18313304": {
+    "stage_id": 3823937,
+    "entered": "2026-06-01",
+    "stage_name": "Field Work Scheduled"
   },
   "18313305": {
     "stage_id": 3134304,
