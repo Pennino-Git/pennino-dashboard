@@ -89,9 +89,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .list-table .link:hover { text-decoration:underline; }
 
 /* Map tab */
-.map-tab { padding:40px 24px; text-align:center; }
-.map-link-btn { display:inline-flex; align-items:center; gap:8px; padding:16px 32px; background:var(--accent); color:#fff; border-radius:12px; font-size:16px; font-weight:600; text-decoration:none; transition:all .2s; }
-.map-link-btn:hover { filter:brightness(1.15); transform:translateY(-2px); }
+#panel-map { padding:0; }
+#panel-map.active { display:block; }
 
 /* Panels */
 .panel { display:none; }
@@ -155,12 +154,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 <div class="panel" id="panel-stage"></div>
 <div class="panel" id="panel-list"></div>
 <div class="panel" id="panel-map">
-  <div class="map-tab">
-    <h2 style="margin-bottom:12px; color:var(--text2);">Active Projects Map</h2>
-    <p style="color:var(--text3); margin-bottom:24px;">Full interactive map with clustering, satellite view, and search</p>
-    <a class="map-link-btn" href="https://www.dropbox.com/home/02%20ADMIN/JOB%20REGISTER?preview=Pennino+Active+Projects+Map.html" target="_blank">🗺️ Open Map in Dropbox</a>
-    <p style="color:var(--text3); margin-top:16px; font-size:13px;">Map refreshes every Friday at 11pm</p>
-  </div>
+  <iframe id="mapFrame" src="about:blank" style="width:100%;height:calc(100vh - 100px);border:none;border-radius:8px;margin:0;"></iframe>
 </div>
 
 <script>
@@ -438,6 +432,7 @@ function renderAll() {
 }
 
 // Tab switching
+let mapLoaded = false;
 document.querySelectorAll(".nav-tab").forEach(tab => {
   tab.addEventListener("click", () => {
     document.querySelectorAll(".nav-tab").forEach(t => t.classList.remove("active"));
@@ -445,6 +440,18 @@ document.querySelectorAll(".nav-tab").forEach(tab => {
     currentTab = tab.dataset.tab;
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
     document.getElementById("panel-" + currentTab).classList.add("active");
+    
+    // Hide filters/stats/bottleneck on map tab
+    const isMap = currentTab === "map";
+    document.querySelector(".filters").style.display = isMap ? "none" : "flex";
+    document.getElementById("statsBar").style.display = isMap ? "none" : "flex";
+    document.getElementById("bottleneckBar").style.display = isMap ? "none" : "block";
+    
+    // Lazy-load map iframe on first visit
+    if (isMap && !mapLoaded) {
+      document.getElementById("mapFrame").src = "map.html";
+      mapLoaded = true;
+    }
   });
 });
 
