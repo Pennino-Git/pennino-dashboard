@@ -9,7 +9,7 @@
       "client": "Jon Brunyee",
       "link": "https://crm.na1.insightly.com/details/project/18196569",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -23,7 +23,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18313304",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -37,7 +37,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18294425",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1
@@ -51,7 +51,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18317513",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1
@@ -65,7 +65,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18287874",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Send Plan to Client",
       "sa_water_ref": "",
       "stage_order": 4
@@ -79,7 +79,7 @@
       "client": "Donato Russo",
       "link": "https://crm.na1.insightly.com/details/project/18156649",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -93,7 +93,7 @@
       "client": "Joe Sarti",
       "link": "https://crm.na1.insightly.com/details/project/18051614",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1
@@ -107,7 +107,7 @@
       "client": "Dave Stockbridge",
       "link": "https://crm.na1.insightly.com/details/project/18227807",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1
@@ -121,7 +121,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/17522792",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -135,7 +135,7 @@
       "client": "Luke  Williams",
       "link": "https://crm.na1.insightly.com/details/project/18269218",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
       "stage_order": 3
@@ -149,7 +149,7 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/16477307",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -163,7 +163,7 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17876195",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
       "stage_order": 3
@@ -177,7 +177,7 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17902817",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -191,7 +191,7 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18217316",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -205,7 +205,7 @@
       "client": "Patrick Nhim",
       "link": "https://crm.na1.insightly.com/details/project/15978707",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0162794",
       "stage_order": 5
@@ -219,7 +219,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17278348",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0177652; H0177653",
       "stage_order": 3
@@ -233,7 +233,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17539782",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
       "stage_order": 2
@@ -247,7 +247,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17700505",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
       "stage_order": 3
@@ -261,7 +261,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17704260",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "CD H0182403; TD H0182399",
       "stage_order": 6
@@ -275,7 +275,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17900271",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
       "stage_order": 3
@@ -289,7 +289,7 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17956195",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -303,7 +303,7 @@
       "client": "Carmine Belperio",
       "link": "https://crm.na1.insightly.com/details/project/15187921",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0148953",
       "stage_order": 2
@@ -317,7 +317,7 @@
       "client": "Frank Barbaro",
       "link": "https://crm.na1.insightly.com/details/project/16416720",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0164798",
       "stage_order": 7
@@ -331,7 +331,7 @@
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/16435772",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0162462",
       "stage_order": 7
@@ -345,7 +345,7 @@
       "client": "Shannon Bow",
       "link": "https://crm.na1.insightly.com/details/project/17847316",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0183854",
       "stage_order": 5
@@ -359,7 +359,7 @@
       "client": "Beau  Brug",
       "link": "https://crm.na1.insightly.com/details/project/18223472",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -373,7 +373,7 @@
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/18250076",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -387,7 +387,7 @@
       "client": "Aliana Chris Caruso's GF",
       "link": "https://crm.na1.insightly.com/details/project/11236872",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0112737",
       "stage_order": 3
@@ -401,7 +401,7 @@
       "client": "Raff Caruso",
       "link": "https://crm.na1.insightly.com/details/project/18046089",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -415,7 +415,7 @@
       "client": "Chris  Georgiou",
       "link": "https://crm.na1.insightly.com/details/project/18133721",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -429,7 +429,7 @@
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187249",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -443,7 +443,7 @@
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187753",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
       "stage_order": 3
@@ -457,7 +457,7 @@
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
       "stage_order": 2
@@ -471,7 +471,7 @@
       "client": "Tania Horvat",
       "link": "https://crm.na1.insightly.com/details/project/12121769",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0109989",
       "stage_order": 10
@@ -485,7 +485,7 @@
       "client": "Vanessa Jarvis",
       "link": "https://crm.na1.insightly.com/details/project/16772033",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
       "stage_order": 2
@@ -499,7 +499,7 @@
       "client": "Tony Fontanelli",
       "link": "https://crm.na1.insightly.com/details/project/12413029",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0113201",
       "stage_order": 10
@@ -513,7 +513,7 @@
       "client": "Franca Papalia",
       "link": "https://crm.na1.insightly.com/details/project/13910424",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0136249",
       "stage_order": 10
@@ -527,7 +527,7 @@
       "client": "Sazgar  Fatah",
       "link": "https://crm.na1.insightly.com/details/project/15769844",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0153209",
       "stage_order": 9
@@ -541,7 +541,7 @@
       "client": "Sandro Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17584717",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0178459",
       "stage_order": 10
@@ -555,7 +555,7 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17632301",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0187396",
       "stage_order": 4
@@ -569,7 +569,7 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17708499",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "PlanSA Lodgment",
       "sa_water_ref": "H0181220",
       "stage_order": 3
@@ -583,7 +583,7 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17782437",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0181127",
       "stage_order": 4
@@ -597,7 +597,7 @@
       "client": "Alisa Styles",
       "link": "https://crm.na1.insightly.com/details/project/17923064",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0186222",
       "stage_order": 5
@@ -611,7 +611,7 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18046019",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0187514",
       "stage_order": 4
@@ -625,7 +625,7 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18091731",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
       "stage_order": 3
@@ -639,7 +639,7 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Drafting",
       "sa_water_ref": "",
       "stage_order": 1
@@ -653,7 +653,7 @@
       "client": "Tim  Gallasch",
       "link": "https://crm.na1.insightly.com/details/project/18273273",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -667,7 +667,7 @@
       "client": "Rick Hurst",
       "link": "https://crm.na1.insightly.com/details/project/11764688",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Pegging",
       "sa_water_ref": "H0108995",
       "stage_order": 5
@@ -681,7 +681,7 @@
       "client": "Sarah Hannam",
       "link": "https://crm.na1.insightly.com/details/project/13746454",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0130689",
       "stage_order": 4
@@ -695,7 +695,7 @@
       "client": "Alan Fu",
       "link": "https://crm.na1.insightly.com/details/project/15599174",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0188535",
       "stage_order": 4
@@ -709,7 +709,7 @@
       "client": "Jamie Launer",
       "link": "https://crm.na1.insightly.com/details/project/17928270",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Drafting",
       "sa_water_ref": "",
       "stage_order": 1
@@ -723,7 +723,7 @@
       "client": "Lori Kambitsis",
       "link": "https://crm.na1.insightly.com/details/project/17385935",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0177446",
       "stage_order": 5
@@ -737,7 +737,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351320",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "PlanSA Lodgment",
       "sa_water_ref": "H0161247",
       "stage_order": 3
@@ -751,7 +751,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351328",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "PlanSA Lodgment",
       "sa_water_ref": "H0161246",
       "stage_order": 3
@@ -765,7 +765,7 @@
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "DAC Cert",
       "sa_water_ref": "H0162554; H0182031",
       "stage_order": 6
@@ -779,7 +779,7 @@
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18203158",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -793,7 +793,7 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18214852",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -807,7 +807,7 @@
       "client": "Moni  Mazzeo",
       "link": "https://crm.na1.insightly.com/details/project/16823916",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "",
       "stage_order": 4
@@ -821,7 +821,7 @@
       "client": "Joseph Scali",
       "link": "https://crm.na1.insightly.com/details/project/17845187",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0183449",
       "stage_order": 4
@@ -835,7 +835,7 @@
       "client": "Tyler  Nottle",
       "link": "https://crm.na1.insightly.com/details/project/18078768",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -849,7 +849,7 @@
       "client": "Viv Chauhan",
       "link": "https://crm.na1.insightly.com/details/project/14754903",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "PlanSA Lodgment",
       "sa_water_ref": "H0139787",
       "stage_order": 3
@@ -863,7 +863,7 @@
       "client": "Franca Papalia",
       "link": "https://crm.na1.insightly.com/details/project/13213940",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "DAC Cert",
       "sa_water_ref": "H0129560",
       "stage_order": 6
@@ -877,7 +877,7 @@
       "client": "Rory Carter",
       "link": "https://crm.na1.insightly.com/details/project/17894399",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "DAC Cert",
       "sa_water_ref": "H0186678",
       "stage_order": 6
@@ -891,7 +891,7 @@
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17732479",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0183205",
       "stage_order": 4
@@ -905,7 +905,7 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17830522",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0182765",
       "stage_order": 4
@@ -919,7 +919,7 @@
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17863628",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0183925",
       "stage_order": 5
@@ -933,7 +933,7 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Pegging",
       "sa_water_ref": "",
       "stage_order": 5
@@ -947,7 +947,7 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18254196",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Drafting",
       "sa_water_ref": "",
       "stage_order": 1
@@ -961,7 +961,7 @@
       "client": "Gerry Russo",
       "link": "https://crm.na1.insightly.com/details/project/18249652",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
       "stage_order": 2
@@ -975,7 +975,7 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18273554",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
@@ -989,7 +989,7 @@
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/18309240",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Drafting",
       "sa_water_ref": "",
       "stage_order": 1
@@ -1003,7 +1003,7 @@
       "client": "John  Tali",
       "link": "https://crm.na1.insightly.com/details/project/18076465",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "PlanSA Lodgment",
       "sa_water_ref": "H0187793",
       "stage_order": 3
@@ -1017,7 +1017,7 @@
       "client": "Robert Vickery",
       "link": "https://crm.na1.insightly.com/details/project/17830378",
       "responsibility": "Client",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
       "stage_order": 2
@@ -1031,7 +1031,7 @@
       "client": "Tony Zappia",
       "link": "https://crm.na1.insightly.com/details/project/14617925",
       "responsibility": "Council/Authority",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Authority Reviews Application",
       "sa_water_ref": "H0167771",
       "stage_order": 4
@@ -1045,7 +1045,7 @@
       "client": "Leigh Zouroudis",
       "link": "https://crm.na1.insightly.com/details/project/17552256",
       "responsibility": "Harry",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "",
       "stage_order": 5
@@ -1059,7 +1059,7 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18021299",
       "responsibility": "LTO",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "",
       "stage_order": 9
@@ -1073,10 +1073,24 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18059610",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
       "stage_order": 2
+    },
+    {
+      "id": 17303279,
+      "name": "A1310 Railway Tce TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Railway Tce",
+      "client": "Joe Campbell",
+      "link": "https://crm.na1.insightly.com/details/project/17303279",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
     },
     {
       "id": 18238164,
@@ -1087,7 +1101,7 @@
       "client": "Joe Nash",
       "link": "https://crm.na1.insightly.com/details/project/18238164",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
       "stage_order": 3
@@ -1101,7 +1115,7 @@
       "client": "Sam Dyson",
       "link": "https://crm.na1.insightly.com/details/project/18256019",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
       "stage_order": 3
@@ -1115,6 +1129,20 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18313305",
       "responsibility": "Client",
+      "days_in_stage": 1,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
+    },
+    {
+      "id": 18212535,
+      "name": "D1069 Railway Tce TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Railway Terrace, Mile End South Australia",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18212535",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
       "stage_name": "Further Work Required",
       "sa_water_ref": "",
@@ -1129,7 +1157,7 @@
       "client": "Kevin Dougan",
       "link": "https://crm.na1.insightly.com/details/project/18230693",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
@@ -1143,10 +1171,80 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/17810905",
       "responsibility": "Contractor",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
+    },
+    {
+      "id": 17847395,
+      "name": "S1134 Wynn Vale Dr TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Wynn Vale Drive",
+      "client": "Aaron Seychell",
+      "link": "https://crm.na1.insightly.com/details/project/17847395",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
+    },
+    {
+      "id": 18103170,
+      "name": "S1141 Montague & Bridge Rd TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Corner of Montague and Bridge Road",
+      "client": "Aaron Seychell",
+      "link": "https://crm.na1.insightly.com/details/project/18103170",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
+    },
+    {
+      "id": 18264763,
+      "name": "S1147 Ashton Pl TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Ashton Place, Wynn Vale Drive",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18264763",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
+    },
+    {
+      "id": 18289825,
+      "name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "21 Park Road, Kensington Park SA 5068",
+      "client": "Aaron Seychell",
+      "link": "https://crm.na1.insightly.com/details/project/18289825",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5
+    },
+    {
+      "id": 18316698,
+      "name": "S1151 Morphett Rd TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "476 Anzac Hwy, Camden Park SA 5038",
+      "client": "Aaron Seychell",
+      "link": "https://crm.na1.insightly.com/details/project/18316698",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Plan Drawing & Check",
+      "sa_water_ref": "",
+      "stage_order": 3
     },
     {
       "id": 18184868,
@@ -1157,12 +1255,26 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18184868",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
+      "days_in_stage": 1,
       "stage_name": "Plan to Client",
       "sa_water_ref": "",
       "stage_order": 4
+    },
+    {
+      "id": 18323822,
+      "name": "T1322-Nazar Reserve Pots TIER 3",
+      "tier": "T3",
+      "status": "NOT STARTED",
+      "address": "46 Swan Terrace, Ethelton SA 5015",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18323822",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-01T23:31:48.898930+09:30",
-  "total": 83
+  "last_updated": "2026-06-02T00:00:33.312660+09:30",
+  "total": 91
 }
