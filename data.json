@@ -15,20 +15,6 @@
       "stage_order": 2
     },
     {
-      "id": 18259933,
-      "name": "A1348 Bone St IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "Lot 701 & 702 Bone Street, Morphett Vale SA 5162",
-      "client": "Teegan  Bowley",
-      "link": "https://crm.na1.insightly.com/details/project/18259933",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 0,
-      "stage_name": "Send Plan to Client",
-      "sa_water_ref": "",
-      "stage_order": 4
-    },
-    {
       "id": 17375037,
       "name": "B1128 Whittington Rd IDENT",
       "tier": "T1",
@@ -1163,6 +1149,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-01T22:14:19.194648+09:30",
-  "total": 83
+  "last_updated": "2026-06-01T22:49:10.565712+09:30",
+  "total": 82
 }
