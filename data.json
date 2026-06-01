@@ -667,10 +667,10 @@
       "client": "Rick Hurst",
       "link": "https://crm.na1.insightly.com/details/project/11764688",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 1,
-      "stage_name": "Pegging",
+      "days_in_stage": 0,
+      "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0108995",
-      "stage_order": 5
+      "stage_order": 8
     },
     {
       "id": 13746454,
@@ -1275,6 +1275,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-02T00:00:33.312660+09:30",
+  "last_updated": "2026-06-02T04:37:43.328463+09:30",
   "total": 91
 }
