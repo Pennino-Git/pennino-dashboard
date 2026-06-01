@@ -8,6 +8,8 @@ import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, dateti
 API_KEY = os.environ.get("INSIGHTLY_API_KEY", "")
 BASE = "https://api.na1.insightly.com/v3.1"
 
+ACTIVE_STATUSES = {"IN PROGRESS", "NOT STARTED", "DEFERRED"}
+
 PIPELINES = {
     934369: {"name": "T1 Land Survey", "tier": "T1"},
     934372: {"name": "T2 Land Division & Realignment", "tier": "T2"},
@@ -40,13 +42,11 @@ def api_get(endpoint, params=None):
     url = f"{BASE}/{endpoint}"
     if params:
         url += "?" + urllib.parse.urlencode(params)
-    
     auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
     req = urllib.request.Request(url, headers={
         "Authorization": f"Basic {auth}",
         "Accept": "application/json"
     })
-    
     try:
         with urllib.request.urlopen(req, timeout=60) as resp:
             return json.loads(resp.read().decode())
@@ -57,24 +57,20 @@ def api_get(endpoint, params=None):
         print(f"Request error: {e}", file=sys.stderr)
         return []
 
-def get_all_active_projects():
+def get_all_projects():
+    """Fetch all projects, paginating 500 at a time."""
     all_projects = []
-    for status in ["IN PROGRESS", "NOT STARTED", "DEFERRED"]:
-        skip = 0
-        while True:
-            params = {
-                "status": status,
-                "top": 500,
-                "skip": skip,
-                "brief": "false"
-            }
-            batch = api_get("Projects/Search", params)
-            if not batch:
-                break
-            all_projects.extend(batch)
-            if len(batch) < 500:
-                break
-            skip += 500
+    skip = 0
+    while True:
+        params = {"top": 500, "skip": skip, "brief": "false"}
+        batch = api_get("Projects/Search", params)
+        if not batch:
+            break
+        all_projects.extend(batch)
+        print(f"  Fetched {len(all_projects)} projects so far...")
+        if len(batch) < 500:
+            break
+        skip += 500
     return all_projects
 
 def get_pipeline_stages():
@@ -94,7 +90,6 @@ def get_contact_name(project):
     links = project.get("LINKS", [])
     pm_link = None
     client_link = None
-    
     for link in links:
         role = (link.get("ROLE") or "").strip().lower()
         if any(skip in role for skip in ["site contact", "conveyancer", "planner", "council", "contractor"]):
@@ -103,11 +98,9 @@ def get_contact_name(project):
             pm_link = link
         elif "client" in role:
             client_link = link
-    
     best = pm_link or client_link
     if not best:
         return ""
-    
     contact_id = best.get("CONTACT_ID")
     if not contact_id:
         org_id = best.get("ORGANISATION_ID")
@@ -115,7 +108,6 @@ def get_contact_name(project):
             org = api_get(f"Organisations/{org_id}")
             return org.get("ORGANISATION_NAME", "") if org else ""
         return ""
-    
     contact = api_get(f"Contacts/{contact_id}")
     if contact:
         first = contact.get("FIRST_NAME", "")
@@ -132,18 +124,21 @@ def main():
     stages = get_pipeline_stages()
     print(f"  Got {len(stages)} stages")
     
-    print("Fetching active projects...")
-    raw_projects = get_all_active_projects()
-    print(f"  Got {len(raw_projects)} raw active projects")
+    print("Fetching all projects from Insightly...")
+    raw_projects = get_all_projects()
+    print(f"  Got {len(raw_projects)} total projects")
+    
+    # CLIENT-SIDE FILTER: only active statuses + known pipelines
+    active_projects = [p for p in raw_projects 
+                       if p.get("STATUS", "") in ACTIVE_STATUSES 
+                       and p.get("PIPELINE_ID") in PIPELINES]
+    print(f"  Filtered to {len(active_projects)} active projects (statuses: {', '.join(ACTIVE_STATUSES)})")
     
     projects = []
     contact_cache = {}
     
-    for p in raw_projects:
+    for i, p in enumerate(active_projects):
         pid = p.get("PIPELINE_ID")
-        if pid not in PIPELINES:
-            continue
-        
         tier = PIPELINES[pid]["tier"]
         stage_id = p.get("STAGE_ID")
         stage_info = stages.get(stage_id, {})
@@ -169,6 +164,9 @@ def main():
                 contact_cache[project_id] = get_contact_name(p)
             except Exception:
                 contact_cache[project_id] = ""
+        
+        if (i + 1) % 20 == 0:
+            print(f"  Processing contacts: {i+1}/{len(active_projects)}")
         
         projects.append({
             "id": project_id,
@@ -196,7 +194,7 @@ def main():
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
     
-    print(f"\n✅ Generated data.json: {len(projects)} projects at {timestamp}")
+    print(f"\n✅ Generated data.json: {len(projects)} active projects at {timestamp}")
 
 if __name__ == "__main__":
     main()
