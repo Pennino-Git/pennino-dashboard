@@ -1,32 +1,18 @@
 {
   "projects": [
     {
-      "id": 15952653,
-      "name": "A1264 Glandore Regulator Replacement",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "Churchill Avenue, Glandore Regulator Replacement",
-      "client": "Sam Dyson",
-      "link": "https://crm.na1.insightly.com/details/project/15952653",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
       "id": 18196569,
       "name": "A1343 Lower North East Rd EASEMENT",
       "tier": "T1",
-      "status": "IN PROGRESS",
+      "status": "DEFERRED",
       "address": "618 Lower North East Road, Campbelltown SA 5074",
       "client": "Jon Brunyee",
       "link": "https://crm.na1.insightly.com/details/project/18196569",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 2
     },
     {
       "id": 18259933,
@@ -155,48 +141,6 @@
       "stage_order": 2
     },
     {
-      "id": 17923026,
-      "name": "T1313 Kinkaid Ave DETAIL SURVEY",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "42/46 Kinkaid Ave. & 48-52 Kinkaid Ave. North Plympton",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/17923026",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
-      "id": 17483060,
-      "name": "V1014 Townsend St TIER1",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "26-30 Townsend Street, Mount Torrens SA 5244",
-      "client": "Robert Vickery",
-      "link": "https://crm.na1.insightly.com/details/project/17483060",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5
-    },
-    {
-      "id": 17676225,
-      "name": "V1016 Womma West Rd LEASE",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "226 Womma West Road, Virginia SA 5120",
-      "client": "Tony  Nguyen",
-      "link": "https://crm.na1.insightly.com/details/project/17676225",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5
-    },
-    {
       "id": 18269218,
       "name": "W1021 Gully View Ct IDENT",
       "tier": "T1",
@@ -204,11 +148,11 @@
       "address": "7 Gully View Court, Salisbury Heights SA 5109",
       "client": "Luke  Williams",
       "link": "https://crm.na1.insightly.com/details/project/18269218",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 3
     },
     {
       "id": 16477307,
@@ -232,11 +176,11 @@
       "address": "Lot 22 Old Port Wakefield Road, Virginia SA 5120",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17876195",
-      "responsibility": "AR (Alex)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 3
     },
     {
       "id": 17902817,
@@ -253,20 +197,6 @@
       "stage_order": 2
     },
     {
-      "id": 18182359,
-      "name": "Z1065 Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "504 Port Wakefield Road, Parafield Gardens SA 5107",
-      "client": "Andrew Zummo",
-      "link": "https://crm.na1.insightly.com/details/project/18182359",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
       "id": 18217316,
       "name": "Z1068 Angas St IDENT",
       "tier": "T1",
@@ -274,11 +204,11 @@
       "address": "63-69 Angas Street, Adelaide SA 5000",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18217316",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 2
     },
     {
       "id": 15978707,
@@ -442,7 +372,7 @@
       "address": "2 Karri Street, Munno Para SA 5115",
       "client": "Beau  Brug",
       "link": "https://crm.na1.insightly.com/details/project/18223472",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -484,7 +414,7 @@
       "address": "6 Orchestra Place, Salisbury Heights",
       "client": "Raff Caruso",
       "link": "https://crm.na1.insightly.com/details/project/18046089",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -498,7 +428,7 @@
       "address": "Lot 27 31 Innovation Drive, Totness SA 5250",
       "client": "Chris  Georgiou",
       "link": "https://crm.na1.insightly.com/details/project/18133721",
-      "responsibility": "AR (Alex)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -512,7 +442,7 @@
       "address": "223-225 Eastern Parade, Port Adelaide SA 5015",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187249",
-      "responsibility": "AR (Alex)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -526,11 +456,11 @@
       "address": "12 Crossley Avenue, Croydon Park 5008",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187753",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Council/Authority",
       "days_in_stage": 0,
-      "stage_name": "1. Concept Planning",
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 3
     },
     {
       "id": 18225672,
@@ -708,11 +638,11 @@
       "address": "29 Isabella Road, Morphett Vale SA 5162",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18091731",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Council/Authority",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 3
     },
     {
       "id": 18252749,
@@ -732,15 +662,15 @@
       "id": 18273273,
       "name": "F1114 Blackham Cres TD1-3",
       "tier": "T2",
-      "status": "NOT STARTED",
+      "status": "IN PROGRESS",
       "address": "4 Blackham Crescent, Smithfield Plains SA 5114",
       "client": "Tim  Gallasch",
       "link": "https://crm.na1.insightly.com/details/project/18273273",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 11764688,
@@ -813,20 +743,6 @@
       "stage_order": 4
     },
     {
-      "id": 17690177,
-      "name": "K1032 Wharfe St TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "11 Wharfe Street, Woodville South SA 5011",
-      "client": "Rosanna Karnas",
-      "link": "https://crm.na1.insightly.com/details/project/17690177",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "FINAL STAGE",
-      "sa_water_ref": "H0180504",
-      "stage_order": 8
-    },
-    {
       "id": 16351320,
       "name": "L1025 Lipson 1 CD3-13 Stage 1",
       "tier": "T2",
@@ -876,11 +792,11 @@
       "address": "160-168 Beach Road, Noarlunga Centre SA 5168",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18203158",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 18214852,
@@ -890,11 +806,11 @@
       "address": "137, 139, 141 Kensington Road, Norwood SA 5067",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18214852",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 16823916,
@@ -932,11 +848,11 @@
       "address": "91 Lyndoch Road, Gawler East SA 5118",
       "client": "Tyler  Nottle",
       "link": "https://crm.na1.insightly.com/details/project/18078768",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 14754903,
@@ -1023,20 +939,6 @@
       "stage_order": 5
     },
     {
-      "id": 17869836,
-      "name": "S1136 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "status": "DEFERRED",
-      "address": "91 Elizabeth Road, Christie Downs SA 5164",
-      "client": "Alice  Wright",
-      "link": "https://crm.na1.insightly.com/details/project/17869836",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Concept Plan",
-      "sa_water_ref": "",
-      "stage_order": 2
-    },
-    {
       "id": 18039448,
       "name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
@@ -1044,11 +946,11 @@
       "address": "2 & 4 Ellis Avenue, Morphettville SA 5043",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 0,
-      "stage_name": "Concept Plan",
+      "stage_name": "Pegging",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 5
     },
     {
       "id": 18254196,
@@ -1072,7 +974,7 @@
       "address": "Lot 5 & 14 10 Symonds Street, Royal Park SA 5014",
       "client": "Gerry Russo",
       "link": "https://crm.na1.insightly.com/details/project/18249652",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
@@ -1088,7 +990,7 @@
       "link": "https://crm.na1.insightly.com/details/project/18273554",
       "responsibility": "Kate (Drafting)",
       "days_in_stage": 0,
-      "stage_name": "Drafting",
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
     },
@@ -1121,20 +1023,6 @@
       "stage_order": 3
     },
     {
-      "id": 18287769,
-      "name": "TEST Pipeline v2 Review",
-      "tier": "T2",
-      "status": "NOT STARTED",
-      "address": "",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18287769",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
       "id": 17830378,
       "name": "V1017 Townsend St TD1-2",
       "tier": "T2",
@@ -1142,7 +1030,7 @@
       "address": "30 Townsend Street, Mount Torrens SA 5244",
       "client": "Robert Vickery",
       "link": "https://crm.na1.insightly.com/details/project/17830378",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
@@ -1184,7 +1072,7 @@
       "address": "3 Collison Street, Dry Creek SA 5094",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18021299",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "LTO",
       "days_in_stage": 0,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "",
@@ -1198,25 +1086,11 @@
       "address": "29 Leon Street, Salisbury North SA 5108",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18059610",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
       "stage_name": "Concept Plan",
       "sa_water_ref": "",
       "stage_order": 2
-    },
-    {
-      "id": 14944495,
-      "name": "A1239 Valve 752",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Valve 752",
-      "client": "Sam Dyson",
-      "link": "https://crm.na1.insightly.com/details/project/14944495",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
-      "sa_water_ref": "",
-      "stage_order": 1
     },
     {
       "id": 18238164,
@@ -1240,25 +1114,11 @@
       "address": "V506 Columbia Crescent, Hallet Cove",
       "client": "Sam Dyson",
       "link": "https://crm.na1.insightly.com/details/project/18256019",
-      "responsibility": "AR (Alex)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
+      "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
-      "id": 17317748,
-      "name": "D1057 Cnr Mill Rd & Diment Rd TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Cnr Mill Rd. & Diment Rd., Direk",
-      "client": "Kevin Dougan",
-      "link": "https://crm.na1.insightly.com/details/project/17317748",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
-      "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 3
     },
     {
       "id": 18313305,
@@ -1282,11 +1142,11 @@
       "address": "Moorook River Crossing",
       "client": "Kevin Dougan",
       "link": "https://crm.na1.insightly.com/details/project/18230693",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 2
     },
     {
       "id": 17810905,
@@ -1296,55 +1156,13 @@
       "address": "RFQ Edinburgh- Geotech Investigation",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/17810905",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Contractor",
       "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
-      "id": 15085822,
-      "name": "T1203 McLean St",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "5 McLean Street, Findon",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/15085822",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
-      "id": 15168671,
-      "name": "T1208 Cnr of Fork Tree Rd & Reservoir Rd",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Cnr of Fork Tree Rd & Reservoir Rd, Myponga",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/15168671",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
-      "sa_water_ref": "",
-      "stage_order": 1
-    },
-    {
-      "id": 15536695,
-      "name": "T1224 Coast Park Grange",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Coast Park Grange",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/15536695",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
-      "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-01T20:48:24.668416+09:30",
-  "total": 96
+  "last_updated": "2026-06-01T22:03:13.087219+09:30",
+  "total": 83
 }
