@@ -109,11 +109,6 @@
     "entered": "2026-06-01",
     "stage_name": "DAC Cert"
   },
-  "17375037": {
-    "stage_id": 3823936,
-    "entered": "2026-06-01",
-    "stage_name": "Prepare Project"
-  },
   "17385935": {
     "stage_id": 3823962,
     "entered": "2026-06-01",
@@ -130,14 +125,14 @@
     "stage_name": "2. PlanSA Lodgement"
   },
   "17552256": {
-    "stage_id": 3823961,
+    "stage_id": 4845737,
     "entered": "2026-06-01",
-    "stage_name": "PlanSA Lodgment"
+    "stage_name": "5. Certified Survey"
   },
   "17584717": {
-    "stage_id": 3823963,
+    "stage_id": 4845742,
     "entered": "2026-06-01",
-    "stage_name": "Pegging"
+    "stage_name": "10. LTO Approval"
   },
   "17632301": {
     "stage_id": 3823962,
@@ -194,15 +189,10 @@
     "entered": "2026-06-01",
     "stage_name": "5. Certified Survey"
   },
-  "17861274": {
-    "stage_id": 3823937,
-    "entered": "2026-06-01",
-    "stage_name": "Field Work Scheduled"
-  },
   "17863628": {
-    "stage_id": 3823963,
+    "stage_id": 4845737,
     "entered": "2026-06-01",
-    "stage_name": "Pegging"
+    "stage_name": "5. Certified Survey"
   },
   "17876195": {
     "stage_id": 3823938,
@@ -341,11 +331,6 @@
   },
   "18230693": {
     "stage_id": 3134301,
-    "entered": "2026-06-01",
-    "stage_name": "Field Work Scheduled"
-  },
-  "18237772": {
-    "stage_id": 3823937,
     "entered": "2026-06-01",
     "stage_name": "Field Work Scheduled"
   },
