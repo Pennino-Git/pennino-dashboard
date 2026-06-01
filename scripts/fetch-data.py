@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
 Fetch active projects from Insightly and generate data.json for the dashboard.
-Runs as a GitHub Action every 15 minutes during business hours.
+Runs as a GitHub Action every 15 minutes.
 """
-import json, os, sys, urllib.request, urllib.error, base64, datetime
+import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime
 
 API_KEY = os.environ.get("INSIGHTLY_API_KEY", "")
 BASE = "https://api.na1.insightly.com/v3.1"
 
-# Pipeline IDs
 PIPELINES = {
     934369: {"name": "T1 Land Survey", "tier": "T1"},
     934372: {"name": "T2 Land Division & Realignment", "tier": "T2"},
@@ -16,61 +15,31 @@ PIPELINES = {
     783292: {"name": "APA Project", "tier": "T3"},
 }
 
-# Stage -> Responsibility mapping
 STAGE_RESPONSIBILITY = {
-    # T1 Land Survey
-    "Prepare Project": "AR (Alex)",
-    "Field Work Scheduled": "DP (Damiano)",
-    "Prepare Plan": "TR (Tristan)",
-    "Send Plan to Client": "DP (Damiano)",
+    "Prepare Project": "AR (Alex)", "Field Work Scheduled": "DP (Damiano)",
+    "Prepare Plan": "TR (Tristan)", "Send Plan to Client": "DP (Damiano)",
     "Invoice": "AR (Alex)",
-    # Land Division v2
-    "1. Concept Planning": "AR (Alex)",
-    "2. PlanSA Lodgement": "Council/Authority",
-    "3. Authority Assessment": "Council/Authority",
-    "4. Conditions & Compliance": "Client",
-    "5. Certified Survey": "DP (Damiano)",
+    "1. Concept Planning": "AR (Alex)", "Concept Planning": "AR (Alex)",
+    "2. PlanSA Lodgement": "Council/Authority", "PlanSA Lodgement": "Council/Authority",
+    "3. Authority Assessment": "Council/Authority", "Authority Assessment": "Council/Authority",
+    "4. Conditions & Compliance": "Client", "Conditions & Compliance": "Client",
+    "5. Certified Survey": "DP (Damiano)", "Certified Survey": "DP (Damiano)",
     "6. Land Division Certificate Lodged with PlanSA": "Council/Authority",
-    "7. SCAP Application": "SCAP/DAC",
-    "8. Final Authority Approvals": "SCAP/DAC",
-    "9. LTO Lodgement": "LTO",
-    "10. LTO Approval": "LTO",
-    "11. Complete": "AR (Alex)",
-    # T2 legacy
-    "Concept Planning": "AR (Alex)",
-    "PlanSA Lodgement": "Council/Authority",
-    "Authority Assessment": "Council/Authority",
-    "Conditions & Compliance": "Client",
-    "Certified Survey": "DP (Damiano)",
     "Land Division Certificate Lodged with PlanSA": "Council/Authority",
-    "SCAP Application": "SCAP/DAC",
-    "Final Authority Approvals": "SCAP/DAC",
-    "LTO Lodgement": "LTO",
-    "LTO Approval": "LTO",
-    "Complete": "AR (Alex)",
-    # T3 APA Project
-    "Search & DBYD": "AR (Alex)",
-    "Plan Drawing & Check": "TR (Tristan)",
-    "Plan to Client": "DP (Damiano)",
-    "Further Work Required": "Client",
+    "7. SCAP Application": "SCAP/DAC", "SCAP Application": "SCAP/DAC",
+    "8. Final Authority Approvals": "SCAP/DAC", "Final Authority Approvals": "SCAP/DAC",
+    "9. LTO Lodgement": "LTO", "LTO Lodgement": "LTO",
+    "10. LTO Approval": "LTO", "LTO Approval": "LTO",
+    "11. Complete": "AR (Alex)", "Complete": "AR (Alex)",
+    "Search & DBYD": "AR (Alex)", "Plan Drawing & Check": "TR (Tristan)",
+    "Plan to Client": "DP (Damiano)", "Further Work Required": "Client",
     "Invoice & Close": "AR (Alex)",
-}
-
-# Smart filter stage keywords
-SMART_FILTERS = {
-    "Fieldwork": ["Field Work"],
-    "Drafting": ["Prepare Plan", "Plan Drawing", "Concept"],
-    "With Authority": ["Authority", "PlanSA", "SCAP", "LTO", "Council"],
-    "On Hold": [],  # checked via status
-    "New": ["Prepare Project", "Search", "Concept Planning"],
-    "PlanSA": ["PlanSA"],
-    "LTO": ["LTO"],
 }
 
 def api_get(endpoint, params=None):
     url = f"{BASE}/{endpoint}"
     if params:
-        url += "?" + "&".join(f"{k}={v}" for k, v in params.items())
+        url += "?" + urllib.parse.urlencode(params)
     
     auth = base64.b64encode(f"{API_KEY}:".encode()).decode()
     req = urllib.request.Request(url, headers={
@@ -79,14 +48,16 @@ def api_get(endpoint, params=None):
     })
     
     try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:
             return json.loads(resp.read().decode())
     except urllib.error.HTTPError as e:
         print(f"API error {e.code}: {e.read().decode()[:200]}", file=sys.stderr)
         return []
+    except Exception as e:
+        print(f"Request error: {e}", file=sys.stderr)
+        return []
 
 def get_all_active_projects():
-    """Fetch all active projects (IN PROGRESS, NOT STARTED, DEFERRED)"""
     all_projects = []
     for status in ["IN PROGRESS", "NOT STARTED", "DEFERRED"]:
         skip = 0
@@ -107,7 +78,6 @@ def get_all_active_projects():
     return all_projects
 
 def get_pipeline_stages():
-    """Fetch all pipeline stage details"""
     stages = {}
     for pid in PIPELINES:
         data = api_get(f"Pipelines/{pid}")
@@ -121,23 +91,17 @@ def get_pipeline_stages():
     return stages
 
 def get_contact_name(project):
-    """Get PM name first, then Client, skip Site Contact/Conveyancer etc."""
     links = project.get("LINKS", [])
-    
     pm_link = None
     client_link = None
     
     for link in links:
-        role = (link.get("ROLE") or "").strip()
-        role_lower = role.lower()
-        
-        # Skip non-relevant roles
-        if any(skip in role_lower for skip in ["site contact", "conveyancer", "planner", "council", "contractor"]):
+        role = (link.get("ROLE") or "").strip().lower()
+        if any(skip in role for skip in ["site contact", "conveyancer", "planner", "council", "contractor"]):
             continue
-        
-        if any(pm in role_lower for pm in ["project manager", "pm"]):
+        if any(pm in role for pm in ["project manager", "pm"]):
             pm_link = link
-        elif "client" in role_lower:
+        elif "client" in role:
             client_link = link
     
     best = pm_link or client_link
@@ -166,13 +130,12 @@ def main():
     
     print("Fetching pipeline stages...")
     stages = get_pipeline_stages()
-    print(f"  Got {len(stages)} stages across {len(PIPELINES)} pipelines")
+    print(f"  Got {len(stages)} stages")
     
     print("Fetching active projects...")
     raw_projects = get_all_active_projects()
-    print(f"  Got {len(raw_projects)} active projects")
+    print(f"  Got {len(raw_projects)} raw active projects")
     
-    # Process projects
     projects = []
     contact_cache = {}
     
@@ -187,33 +150,25 @@ def main():
         stage_name = stage_info.get("name", "Unknown")
         stage_order = stage_info.get("order", 0)
         
-        # Get custom fields
         address = ""
         sa_water = ""
         responsibility = ""
-        custom_fields = p.get("CUSTOMFIELDS", [])
-        for cf in custom_fields:
+        for cf in p.get("CUSTOMFIELDS", []):
             fid = cf.get("FIELD_NAME", "")
             val = cf.get("FIELD_VALUE", "") or ""
-            if fid == "PROJECT_FIELD_3":
-                address = val
-            elif fid == "PROJECT_FIELD_6":
-                sa_water = val
-            elif fid == "Current_Responsibility__c":
-                responsibility = val
+            if fid == "PROJECT_FIELD_3": address = val
+            elif fid == "PROJECT_FIELD_6": sa_water = val
+            elif fid == "Current_Responsibility__c": responsibility = val
         
-        # If no custom responsibility, derive from stage
         if not responsibility:
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
         
-        # Get contact name (cache to avoid repeated API calls)
         project_id = p["PROJECT_ID"]
         if project_id not in contact_cache:
             try:
                 contact_cache[project_id] = get_contact_name(p)
             except Exception:
                 contact_cache[project_id] = ""
-        client = contact_cache[project_id]
         
         projects.append({
             "id": project_id,
@@ -221,35 +176,27 @@ def main():
             "tier": tier,
             "status": p.get("STATUS", ""),
             "address": address,
-            "client": client,
+            "client": contact_cache[project_id],
             "link": f"https://crm.na1.insightly.com/details/project/{project_id}",
             "responsibility": responsibility,
-            "days_in_stage": 0,  # Will be populated by stage tracking
+            "days_in_stage": 0,
             "stage_name": stage_name,
             "sa_water_ref": sa_water,
             "stage_order": stage_order,
         })
     
-    # Sort by tier then name
     projects.sort(key=lambda x: ({"T1":1,"T2":2,"T3":3}.get(x["tier"],9), x["name"]))
     
-    # Generate timestamp in Adelaide time
     now_utc = datetime.datetime.now(datetime.timezone.utc)
-    adelaide_offset = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
-    now_adelaide = now_utc.astimezone(adelaide_offset)
-    timestamp = now_adelaide.isoformat()
+    adelaide = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
+    timestamp = now_utc.astimezone(adelaide).isoformat()
     
-    output = {
-        "projects": projects,
-        "last_updated": timestamp,
-        "total": len(projects)
-    }
+    output = {"projects": projects, "last_updated": timestamp, "total": len(projects)}
     
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
     
-    print(f"\nGenerated data.json: {len(projects)} projects")
-    print(f"Timestamp: {timestamp}")
+    print(f"\n✅ Generated data.json: {len(projects)} projects at {timestamp}")
 
 if __name__ == "__main__":
     main()
