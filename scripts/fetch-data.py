@@ -51,11 +51,25 @@ def api_get(endpoint, params=None):
         with urllib.request.urlopen(req, timeout=60) as resp:
             return json.loads(resp.read().decode())
     except urllib.error.HTTPError as e:
-        print(f"API error {e.code}: {e.read().decode()[:200]}", file=sys.stderr)
-        return []
+        print(f"  API error {e.code} on {endpoint}: {e.read().decode()[:200]}", file=sys.stderr)
+        return None
     except Exception as e:
-        print(f"Request error: {e}", file=sys.stderr)
-        return []
+        print(f"  Request error on {endpoint}: {e}", file=sys.stderr)
+        return None
+
+def get_all_stages():
+    """Fetch all pipeline stages via PipelineStages endpoint."""
+    result = api_get("PipelineStages")
+    stages = {}
+    if isinstance(result, list):
+        for s in result:
+            if s.get("PIPELINE_ID") in PIPELINES:
+                stages[s["STAGE_ID"]] = {
+                    "name": s["STAGE_NAME"],
+                    "order": s.get("STAGE_ORDER", 0),
+                    "pipeline_id": s["PIPELINE_ID"]
+                }
+    return stages
 
 def get_all_projects():
     """Fetch all projects, paginating 500 at a time."""
@@ -64,7 +78,7 @@ def get_all_projects():
     while True:
         params = {"top": 500, "skip": skip, "brief": "false"}
         batch = api_get("Projects/Search", params)
-        if not batch:
+        if not batch or not isinstance(batch, list):
             break
         all_projects.extend(batch)
         print(f"  Fetched {len(all_projects)} projects so far...")
@@ -73,24 +87,16 @@ def get_all_projects():
         skip += 500
     return all_projects
 
-def get_pipeline_stages():
-    stages = {}
-    for pid in PIPELINES:
-        data = api_get(f"Pipelines/{pid}")
-        if data and "STAGES" in data:
-            for s in data["STAGES"]:
-                stages[s["STAGE_ID"]] = {
-                    "name": s["STAGE_NAME"],
-                    "order": s.get("STAGE_ORDER", 0),
-                    "pipeline_id": pid
-                }
-    return stages
-
-def get_contact_name(project):
+def get_contact_name(project, contact_cache):
+    """Get PM or Client name from project links. Uses LINK_OBJECT_NAME/LINK_OBJECT_ID."""
     links = project.get("LINKS", [])
     pm_link = None
     client_link = None
+    
     for link in links:
+        obj_type = link.get("LINK_OBJECT_NAME", "")
+        if obj_type not in ("Contact", "Organisation"):
+            continue
         role = (link.get("ROLE") or "").strip().lower()
         if any(skip in role for skip in ["site contact", "conveyancer", "planner", "council", "contractor"]):
             continue
@@ -98,41 +104,66 @@ def get_contact_name(project):
             pm_link = link
         elif "client" in role:
             client_link = link
+    
     best = pm_link or client_link
     if not best:
         return ""
-    contact_id = best.get("CONTACT_ID")
-    if not contact_id:
-        org_id = best.get("ORGANISATION_ID")
-        if org_id:
-            org = api_get(f"Organisations/{org_id}")
-            return org.get("ORGANISATION_NAME", "") if org else ""
+    
+    obj_type = best.get("LINK_OBJECT_NAME", "")
+    obj_id = best.get("LINK_OBJECT_ID")
+    if not obj_id:
         return ""
-    contact = api_get(f"Contacts/{contact_id}")
-    if contact:
-        first = contact.get("FIRST_NAME", "")
-        last = contact.get("LAST_NAME", "")
-        return f"{first} {last}".strip()
-    return ""
+    
+    cache_key = f"{obj_type}_{obj_id}"
+    if cache_key in contact_cache:
+        return contact_cache[cache_key]
+    
+    name = ""
+    if obj_type == "Contact":
+        contact = api_get(f"Contacts/{obj_id}")
+        if isinstance(contact, dict):
+            first = contact.get("FIRST_NAME", "")
+            last = contact.get("LAST_NAME", "")
+            name = f"{first} {last}".strip()
+    elif obj_type == "Organisation":
+        org = api_get(f"Organisations/{obj_id}")
+        if isinstance(org, dict):
+            name = org.get("ORGANISATION_NAME", "")
+    
+    contact_cache[cache_key] = name
+    return name
+
+def load_previous_data():
+    """Load previous data.json if it exists to reuse client names."""
+    try:
+        with open("data.json", "r") as f:
+            data = json.load(f)
+            return {p["id"]: p.get("client", "") for p in data.get("projects", []) if p.get("client")}
+    except Exception:
+        return {}
 
 def main():
     if not API_KEY:
         print("ERROR: INSIGHTLY_API_KEY not set", file=sys.stderr)
         sys.exit(1)
     
+    # Load previous client names to avoid unnecessary API calls
+    prev_clients = load_previous_data()
+    print(f"Loaded {len(prev_clients)} cached client names from previous run")
+    
     print("Fetching pipeline stages...")
-    stages = get_pipeline_stages()
-    print(f"  Got {len(stages)} stages")
+    stages = get_all_stages()
+    print(f"  Got {len(stages)} stages across {len(PIPELINES)} pipelines")
     
     print("Fetching all projects from Insightly...")
     raw_projects = get_all_projects()
     print(f"  Got {len(raw_projects)} total projects")
     
-    # CLIENT-SIDE FILTER: only active statuses + known pipelines
+    # Filter to active only
     active_projects = [p for p in raw_projects 
                        if p.get("STATUS", "") in ACTIVE_STATUSES 
                        and p.get("PIPELINE_ID") in PIPELINES]
-    print(f"  Filtered to {len(active_projects)} active projects (statuses: {', '.join(ACTIVE_STATUSES)})")
+    print(f"  Filtered to {len(active_projects)} active projects")
     
     projects = []
     contact_cache = {}
@@ -159,14 +190,14 @@ def main():
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
         
         project_id = p["PROJECT_ID"]
-        if project_id not in contact_cache:
-            try:
-                contact_cache[project_id] = get_contact_name(p)
-            except Exception:
-                contact_cache[project_id] = ""
+        
+        # Try to reuse previous client name, otherwise fetch
+        client = prev_clients.get(project_id, "")
+        if not client:
+            client = get_contact_name(p, contact_cache)
         
         if (i + 1) % 20 == 0:
-            print(f"  Processing contacts: {i+1}/{len(active_projects)}")
+            print(f"  Processing: {i+1}/{len(active_projects)}")
         
         projects.append({
             "id": project_id,
@@ -174,7 +205,7 @@ def main():
             "tier": tier,
             "status": p.get("STATUS", ""),
             "address": address,
-            "client": contact_cache[project_id],
+            "client": client,
             "link": f"https://crm.na1.insightly.com/details/project/{project_id}",
             "responsibility": responsibility,
             "days_in_stage": 0,
@@ -194,7 +225,10 @@ def main():
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
     
-    print(f"\n✅ Generated data.json: {len(projects)} active projects at {timestamp}")
+    # Stats
+    with_client = sum(1 for p in projects if p.get("client"))
+    unknown_stage = sum(1 for p in projects if p.get("stage_name") == "Unknown")
+    print(f"\n✅ Generated data.json: {len(projects)} projects, {with_client} with client names, {unknown_stage} unknown stages")
 
 if __name__ == "__main__":
     main()
