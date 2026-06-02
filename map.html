@@ -262,6 +262,21 @@ applyFilters(); } else { geocodeSearch(); }
 document.getElementById('search').addEventListener('input', function() { applyFilters(); });
 
 applyFilters();
+
+// === PENNINO OFFICE STAR ===
+(function() {
+  var oIcon = L.divIcon({
+    html: '<div class="office-star" title="Pennino Office">⭐</div>',
+    className: '',
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+    popupAnchor: [0, -18]
+  });
+  L.marker([-34.7826952, 138.6456431], {icon: oIcon, zIndexOffset: 9999})
+    .addTo(map)
+    .bindPopup('<strong style="font-size:14px">⭐ Pennino Surveying</strong><br>7 Nylex Avenue<br>Salisbury South SA 5106');
+})();
+
 </script>
 </body>
 </html>
