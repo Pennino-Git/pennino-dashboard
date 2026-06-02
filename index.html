@@ -37,8 +37,15 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .filter-sep { width:1px; height:20px; background:var(--border); margin:0 4px; }
 .search-box { margin-left:auto; padding:6px 12px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--text); font-size:13px; width:220px; }
 .search-box::placeholder { color:var(--text3); }
-.client-filter { padding:6px 10px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--text); font-size:13px; min-width:160px; max-width:200px; cursor:pointer; }
-.client-filter option { background:var(--surface2); color:var(--text); }
+.client-search-wrap { position:relative; }
+.client-search { padding:6px 12px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--text); font-size:13px; width:200px; }
+.client-search::placeholder { color:var(--text3); }
+.client-suggestions { position:absolute; top:100%; left:0; right:0; max-height:260px; overflow-y:auto; background:var(--surface); border:1px solid var(--border); border-radius:0 0 8px 8px; z-index:200; display:none; }
+.client-suggestions.show { display:block; }
+.client-sug-item { padding:6px 12px; font-size:13px; cursor:pointer; color:var(--text); }
+.client-sug-item:hover, .client-sug-item.active { background:var(--accent); color:#fff; }
+.client-sug-clear { padding:6px 12px; font-size:12px; cursor:pointer; color:var(--accent); border-bottom:1px solid var(--border); font-weight:600; }
+.client-sug-clear:hover { background:var(--surface2); }
 
 /* Stats bar */
 .stats-bar { padding:12px 24px; display:flex; gap:12px; flex-wrap:wrap; }
@@ -146,9 +153,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   <div class="filter-btn" data-filter="smart" data-value="authority">🏛️ With Authority</div>
   <div class="filter-btn" data-filter="smart" data-value="drafting">✏️ Drafting</div>
   
-  <select class="client-filter" id="clientFilter" title="Filter by client">
-    <option value="">👤 All Clients</option>
-  </select>
+  <div class="client-search-wrap">
+    <input class="client-search" type="text" id="clientSearch" placeholder="👤 Filter by client..." autocomplete="off">
+    <div class="client-suggestions" id="clientSuggestions"></div>
+  </div>
   <input class="search-box" type="text" placeholder="🔍 Search projects..." id="searchBox">
 </div>
 
@@ -172,17 +180,8 @@ async function loadData() {
     const data = await resp.json();
     PROJECTS = data.projects;
     
-    // Populate client filter dropdown
-    const clients = [...new Set(PROJECTS.map(p => p.client || '').filter(c => c))].sort();
-    const sel = document.getElementById('clientFilter');
-    const current = sel.value;
-    while (sel.options.length > 1) sel.remove(1);
-    clients.forEach(c => {
-      const opt = document.createElement('option');
-      opt.value = c; opt.textContent = c;
-      if (c === current) opt.selected = true;
-      sel.appendChild(opt);
-    });
+    // Update client search autocomplete list
+    if (window._updateClientList) window._updateClientList(PROJECTS);
     
     // Update last-updated badge
     const lu = document.getElementById('lastUpdated');
@@ -494,11 +493,47 @@ document.querySelectorAll('.filter-btn[data-filter="smart"]').forEach(btn => {
   });
 });
 
-// Client filter
-document.getElementById("clientFilter").addEventListener("change", (e) => {
-  clientFilter = e.target.value;
-  renderAll();
-});
+// Client search with autocomplete
+(function() {
+  const input = document.getElementById("clientSearch");
+  const sugBox = document.getElementById("clientSuggestions");
+  let allClients = [];
+  
+  window._updateClientList = function(projects) {
+    allClients = [...new Set(projects.map(p => p.client || '').filter(c => c))].sort();
+  };
+  
+  function showSuggestions(filter) {
+    const q = filter.toLowerCase();
+    const matches = q ? allClients.filter(c => c.toLowerCase().includes(q)) : allClients;
+    sugBox.innerHTML = '<div class="client-sug-clear">✕ Clear filter</div>' + 
+      matches.map(c => `<div class="client-sug-item">${c}</div>`).join('');
+    sugBox.classList.add('show');
+    
+    sugBox.querySelector('.client-sug-clear').onclick = () => {
+      input.value = ''; clientFilter = ''; sugBox.classList.remove('show'); renderAll();
+    };
+    sugBox.querySelectorAll('.client-sug-item').forEach(el => {
+      el.onclick = () => {
+        input.value = el.textContent; clientFilter = el.textContent;
+        sugBox.classList.remove('show'); renderAll();
+      };
+    });
+  }
+  
+  input.addEventListener('focus', () => showSuggestions(input.value));
+  input.addEventListener('input', (e) => {
+    showSuggestions(e.target.value);
+    // Also live-filter if they type a partial match
+    clientFilter = '';
+    const q = e.target.value.toLowerCase();
+    if (q && allClients.some(c => c.toLowerCase() === q)) clientFilter = allClients.find(c => c.toLowerCase() === q);
+    renderAll();
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('.client-search-wrap')) sugBox.classList.remove('show');
+  });
+})();
 
 // Search
 document.getElementById("searchBox").addEventListener("input", (e) => {
