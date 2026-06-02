@@ -974,9 +974,9 @@
       "address": "29 Minorca Crescent, Hackham West SA 5163",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18254196",
-      "responsibility": "Kate (Drafting)",
-      "days_in_stage": 2,
-      "stage_name": "Drafting",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1
     },
@@ -1303,6 +1303,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-03T05:50:27.280600+09:30",
+  "last_updated": "2026-06-03T08:04:38.522639+09:30",
   "total": 93
 }
