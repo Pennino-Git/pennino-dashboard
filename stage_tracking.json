@@ -190,9 +190,9 @@
     "stage_name": "Authority Reviews Application"
   },
   "17847316": {
-    "stage_id": 4845737,
-    "entered": "2026-06-01",
-    "stage_name": "5. Certified Survey"
+    "stage_id": 4845738,
+    "entered": "2026-06-02",
+    "stage_name": "Land Division Certificate Lodged with PlanSA"
   },
   "17847395": {
     "stage_id": 3134304,
@@ -345,9 +345,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18225672": {
-    "stage_id": 4845734,
-    "entered": "2026-06-01",
-    "stage_name": "2. PlanSA Lodgement"
+    "stage_id": 4845733,
+    "entered": "2026-06-02",
+    "stage_name": "1. Concept Planning"
   },
   "18227807": {
     "stage_id": 3823936,
@@ -424,6 +424,11 @@
     "entered": "2026-06-01",
     "stage_name": "Prepare Project"
   },
+  "18308881": {
+    "stage_id": 4845733,
+    "entered": "2026-06-02",
+    "stage_name": "1. Concept Planning"
+  },
   "18309240": {
     "stage_id": 3823959,
     "entered": "2026-06-01",
@@ -451,6 +456,11 @@
   },
   "18323822": {
     "stage_id": 3134301,
+    "entered": "2026-06-02",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18325237": {
+    "stage_id": 3823937,
     "entered": "2026-06-02",
     "stage_name": "Field Work Scheduled"
   }
