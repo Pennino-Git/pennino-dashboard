@@ -85,9 +85,9 @@
     "stage_name": "7. SCAP Application"
   },
   "16477307": {
-    "stage_id": 3823937,
-    "entered": "2026-06-01",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823938,
+    "entered": "2026-06-02",
+    "stage_name": "Prepare Plan"
   },
   "16772033": {
     "stage_id": 4845734,
@@ -295,14 +295,14 @@
     "stage_name": "1. Concept Planning"
   },
   "18156649": {
-    "stage_id": 3823937,
-    "entered": "2026-06-01",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823938,
+    "entered": "2026-06-02",
+    "stage_name": "Prepare Plan"
   },
   "18184868": {
-    "stage_id": 3134303,
-    "entered": "2026-06-01",
-    "stage_name": "Plan to Client"
+    "stage_id": 3134305,
+    "entered": "2026-06-02",
+    "stage_name": "Invoice & Close"
   },
   "18187249": {
     "stage_id": 4845733,
@@ -410,14 +410,14 @@
     "stage_name": "1. Concept Planning"
   },
   "18287874": {
-    "stage_id": 3823939,
-    "entered": "2026-06-01",
-    "stage_name": "Send Plan to Client"
+    "stage_id": 3823940,
+    "entered": "2026-06-02",
+    "stage_name": "Invoice"
   },
   "18289825": {
-    "stage_id": 3134304,
+    "stage_id": 3134302,
     "entered": "2026-06-02",
-    "stage_name": "Further Work Required"
+    "stage_name": "Plan Drawing & Check"
   },
   "18294425": {
     "stage_id": 3823936,

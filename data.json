@@ -64,11 +64,11 @@
       "address": "Cnr Frisby & Currtis 470 Curtis Road, Angle Vale SA 5117",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18287874",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 1,
-      "stage_name": "Send Plan to Client",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 4
+      "stage_order": 5
     },
     {
       "id": 18325237,
@@ -93,10 +93,10 @@
       "client": "Donato Russo",
       "link": "https://crm.na1.insightly.com/details/project/18156649",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 1,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 3
     },
     {
       "id": 18051614,
@@ -163,10 +163,10 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/16477307",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 1,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 3
     },
     {
       "id": 17876195,
@@ -470,7 +470,7 @@
       "address": "64-66 Deeds Road, North Plympton SA 5037",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1254,11 +1254,11 @@
       "address": "21 Park Road, Kensington Park SA 5068",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18289825",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
-      "stage_name": "Further Work Required",
+      "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
-      "stage_order": 5
+      "stage_order": 3
     },
     {
       "id": 18316698,
@@ -1283,10 +1283,10 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18184868",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 1,
-      "stage_name": "Plan to Client",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 4
+      "stage_order": 6
     },
     {
       "id": 18323822,
@@ -1303,6 +1303,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-02T18:16:53.179381+09:30",
+  "last_updated": "2026-06-02T22:14:01.725059+09:30",
   "total": 93
 }
