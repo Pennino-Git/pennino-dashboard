@@ -43,11 +43,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
 .logo-container img{width:120px;opacity:0.85}
 
 .office-star { 
-  font-size: 28px; 
+  font-size: 38px; 
   line-height: 1; 
-  filter: drop-shadow(0 2px 3px rgba(0,0,0,0.5));
-  cursor: default;
+  filter: drop-shadow(0 3px 6px rgba(0,0,0,0.7));
+  cursor: pointer;
+  animation: pulse-star 2s ease-in-out infinite;
 }
+@keyframes pulse-star { 0%,100%{transform:scale(1)} 50%{transform:scale(1.15)} }
 </style>
 </head>
 <body>
@@ -89,8 +91,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
   var officeIcon = L.divIcon({
     html: '<div class="office-star" title="Pennino Surveying Office">\u2B50</div>',
     className: '',
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
+    iconSize: [42, 42],
+    iconAnchor: [21, 21],
     popupAnchor: [0, -18]
   });
   L.marker([-34.7826952, 138.6456431], {icon: officeIcon, zIndexOffset: 9999})
@@ -268,8 +270,8 @@ applyFilters();
   var oIcon = L.divIcon({
     html: '<div class="office-star" title="Pennino Office">⭐</div>',
     className: '',
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
+    iconSize: [42, 42],
+    iconAnchor: [21, 21],
     popupAnchor: [0, -18]
   });
   L.marker([-34.7826952, 138.6456431], {icon: oIcon, zIndexOffset: 9999})
