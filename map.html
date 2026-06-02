@@ -41,6 +41,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
 .status-deferred{background:#f3e5f5;color:#7b1fa2}
 .logo-container{position:absolute;top:10px;right:10px;z-index:1000;pointer-events:none}
 .logo-container img{width:120px;opacity:0.85}
+
+.office-star { 
+  font-size: 28px; 
+  line-height: 1; 
+  filter: drop-shadow(0 2px 3px rgba(0,0,0,0.5));
+  cursor: default;
+}
 </style>
 </head>
 <body>
@@ -233,7 +240,21 @@ document.getElementById('search').addEventListener('keypress', function(e) {
   if(e.key==='Enter') {
     var q = this.value.toLowerCase();
     var hasMatch = ALL_PROJECTS.some(function(p){return p.project_name.toLowerCase().includes(q) || (p.address||'').toLowerCase().includes(q)});
-    if(hasMatch) { applyFilters(); } else { geocodeSearch(); }
+    if(hasMatch) { 
+// === OFFICE MARKER ===
+var officeIcon = L.divIcon({
+  html: '<div class="office-star" title="Pennino Surveying Office">&#11088;</div>',
+  className: '',
+  iconSize: [32, 32],
+  iconAnchor: [16, 16],
+  popupAnchor: [0, -18]
+});
+var officeMarker = L.marker([-34.7826952, 138.6456431], {icon: officeIcon, zIndexOffset: 9999})
+  .addTo(map)
+  .bindPopup('<strong style="font-size:14px">&#11088; Pennino Surveying</strong><br>7 Nylex Avenue, Salisbury South SA 5106<br><em style="font-size:11px;color:#666">Office</em>');
+// Add to sidebar legend
+
+applyFilters(); } else { geocodeSearch(); }
   }
 });
 document.getElementById('search').addEventListener('input', function() { applyFilters(); });
