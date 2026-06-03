@@ -134,11 +134,6 @@
     "entered": "2026-06-01",
     "stage_name": "5. Certified Survey"
   },
-  "17584717": {
-    "stage_id": 4845742,
-    "entered": "2026-06-01",
-    "stage_name": "10. LTO Approval"
-  },
   "17632301": {
     "stage_id": 3823962,
     "entered": "2026-06-01",
@@ -152,7 +147,7 @@
   "17704260": {
     "stage_id": 4845738,
     "entered": "2026-06-01",
-    "stage_name": "Land Division Certificate Lodged with PlanSA"
+    "stage_name": "6 Land Division Certificate Lodged with PlanSA"
   },
   "17708499": {
     "stage_id": 3823961,
@@ -192,7 +187,7 @@
   "17847316": {
     "stage_id": 4845738,
     "entered": "2026-06-02",
-    "stage_name": "Land Division Certificate Lodged with PlanSA"
+    "stage_name": "6 Land Division Certificate Lodged with PlanSA"
   },
   "17847395": {
     "stage_id": 3134304,
@@ -245,14 +240,14 @@
     "stage_name": "9. LTO Lodgement"
   },
   "18039448": {
-    "stage_id": 4845737,
-    "entered": "2026-06-02",
-    "stage_name": "5. Certified Survey"
+    "stage_id": 4845733,
+    "entered": "2026-06-03",
+    "stage_name": "1. Concept Planning"
   },
   "18046019": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845739,
+    "entered": "2026-06-03",
+    "stage_name": "7. SCAP Application"
   },
   "18046089": {
     "stage_id": 4845733,
