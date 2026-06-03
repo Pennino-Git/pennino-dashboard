@@ -261,10 +261,10 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17700505",
       "responsibility": "Council/Authority",
-      "days_in_stage": 2,
-      "stage_name": "3. Authority Assessment",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "",
-      "stage_order": 3
+      "stage_order": 4
     },
     {
       "id": 17704260,
@@ -597,10 +597,10 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17782437",
       "responsibility": "Council/Authority",
-      "days_in_stage": 2,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "DAC Cert",
       "sa_water_ref": "H0181127",
-      "stage_order": 4
+      "stage_order": 6
     },
     {
       "id": 17923064,
@@ -765,10 +765,10 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351328",
       "responsibility": "Council/Authority",
-      "days_in_stage": 2,
-      "stage_name": "PlanSA Lodgment",
+      "days_in_stage": 0,
+      "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0161246",
-      "stage_order": 3
+      "stage_order": 8
     },
     {
       "id": 17328458,
@@ -933,10 +933,10 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17830522",
       "responsibility": "Council/Authority",
-      "days_in_stage": 2,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "DAC Cert",
       "sa_water_ref": "H0182765",
-      "stage_order": 4
+      "stage_order": 6
     },
     {
       "id": 17863628,
@@ -1301,8 +1301,22 @@
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2
+    },
+    {
+      "id": 18327811,
+      "name": "T1323 High Street South Brighton Stormwater TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "High Street South Brighton Stormwater",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18327811",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1
     }
   ],
-  "last_updated": "2026-06-03T09:48:28.322032+09:30",
-  "total": 93
+  "last_updated": "2026-06-03T14:57:04.830719+09:30",
+  "total": 94
 }

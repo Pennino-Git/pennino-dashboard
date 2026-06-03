@@ -70,9 +70,9 @@
     "stage_name": "PlanSA Lodgment"
   },
   "16351328": {
-    "stage_id": 3823961,
-    "entered": "2026-06-01",
-    "stage_name": "PlanSA Lodgment"
+    "stage_id": 4845740,
+    "entered": "2026-06-03",
+    "stage_name": "8. Final Authority Approvals"
   },
   "16416720": {
     "stage_id": 4845739,
@@ -145,9 +145,9 @@
     "stage_name": "Authority Reviews Application"
   },
   "17700505": {
-    "stage_id": 4845735,
-    "entered": "2026-06-01",
-    "stage_name": "3. Authority Assessment"
+    "stage_id": 4845736,
+    "entered": "2026-06-03",
+    "stage_name": "4. Conditions & Compliance"
   },
   "17704260": {
     "stage_id": 4845738,
@@ -165,9 +165,9 @@
     "stage_name": "Authority Reviews Application"
   },
   "17782437": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 3823964,
+    "entered": "2026-06-03",
+    "stage_name": "DAC Cert"
   },
   "17810905": {
     "stage_id": 3134301,
@@ -180,9 +180,9 @@
     "stage_name": "Concept Plan"
   },
   "17830522": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 3823964,
+    "entered": "2026-06-03",
+    "stage_name": "DAC Cert"
   },
   "17845187": {
     "stage_id": 3823962,
@@ -463,5 +463,10 @@
     "stage_id": 3823937,
     "entered": "2026-06-02",
     "stage_name": "Field Work Scheduled"
+  },
+  "18327811": {
+    "stage_id": 3134300,
+    "entered": "2026-06-03",
+    "stage_name": "Search & DBYD"
   }
 }
