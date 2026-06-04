@@ -260,7 +260,7 @@
       "address": "Lot 301 Euston Avenue, Highgate SA 5063",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17700505",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 1,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "",
@@ -1303,6 +1303,6 @@
       "stage_order": 1
     }
   ],
-  "last_updated": "2026-06-04T16:00:27.480553+09:30",
+  "last_updated": "2026-06-04T16:15:22.413278+09:30",
   "total": 93
 }
