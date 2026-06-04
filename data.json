@@ -918,11 +918,11 @@
       "address": "62 Glenloth Drive, Happy Valley SA 5159",
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17830522",
-      "responsibility": "Council/Authority",
-      "days_in_stage": 1,
-      "stage_name": "DAC Cert",
+      "responsibility": "Harry",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0182765",
-      "stage_order": 6
+      "stage_order": 7
     },
     {
       "id": 17863628,
@@ -1087,10 +1087,10 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18059610",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 3,
-      "stage_name": "Concept Plan",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 17303279,
@@ -1303,6 +1303,6 @@
       "stage_order": 1
     }
   ],
-  "last_updated": "2026-06-04T09:31:43.025374+09:30",
+  "last_updated": "2026-06-04T14:35:39.289078+09:30",
   "total": 93
 }
