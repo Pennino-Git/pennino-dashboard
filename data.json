@@ -519,6 +519,20 @@
       "stage_order": 10
     },
     {
+      "id": 13466164,
+      "name": "F1063 Araluen St TD1-2",
+      "tier": "T2",
+      "status": "DEFERRED",
+      "address": "12 Araluen Street, Ridgehaven SA 5097",
+      "client": "Darren Ferber",
+      "link": "https://crm.na1.insightly.com/details/project/13466164",
+      "responsibility": "Council/Authority",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
+      "sa_water_ref": "H0125919",
+      "stage_order": 2
+    },
+    {
       "id": 13910424,
       "name": "F1068 Ferguson Ave TD1-2",
       "tier": "T2",
@@ -555,10 +569,10 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17632301",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0187396",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 17708499,
@@ -569,10 +583,10 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17708499",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "PlanSA Lodgment",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0181220",
-      "stage_order": 3
+      "stage_order": 2
     },
     {
       "id": 17782437,
@@ -583,10 +597,10 @@
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17782437",
       "responsibility": "Council/Authority",
-      "days_in_stage": 2,
-      "stage_name": "DAC Cert",
+      "days_in_stage": 0,
+      "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0181127",
-      "stage_order": 6
+      "stage_order": 8
     },
     {
       "id": 17923064,
@@ -681,10 +695,10 @@
       "client": "Sarah Hannam",
       "link": "https://crm.na1.insightly.com/details/project/13746454",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0130689",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 15599174,
@@ -695,10 +709,10 @@
       "client": "Alan Fu",
       "link": "https://crm.na1.insightly.com/details/project/15599174",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0188535",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 17928270,
@@ -737,10 +751,10 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351320",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "PlanSA Lodgment",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0161247",
-      "stage_order": 3
+      "stage_order": 2
     },
     {
       "id": 16351328,
@@ -765,10 +779,10 @@
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 4,
-      "stage_name": "DAC Cert",
+      "days_in_stage": 0,
+      "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
-      "stage_order": 6
+      "stage_order": 8
     },
     {
       "id": 18203158,
@@ -821,10 +835,10 @@
       "client": "Moni  Mazzeo",
       "link": "https://crm.na1.insightly.com/details/project/16823916",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 17845187,
@@ -835,10 +849,10 @@
       "client": "Joseph Scali",
       "link": "https://crm.na1.insightly.com/details/project/17845187",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0183449",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 18078768,
@@ -863,10 +877,10 @@
       "client": "Viv Chauhan",
       "link": "https://crm.na1.insightly.com/details/project/14754903",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "PlanSA Lodgment",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0139787",
-      "stage_order": 3
+      "stage_order": 2
     },
     {
       "id": 13213940,
@@ -877,10 +891,10 @@
       "client": "Franca Papalia",
       "link": "https://crm.na1.insightly.com/details/project/13213940",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 4,
-      "stage_name": "DAC Cert",
+      "days_in_stage": 0,
+      "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0129560",
-      "stage_order": 6
+      "stage_order": 8
     },
     {
       "id": 17894399,
@@ -905,10 +919,10 @@
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17732479",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0183205",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 17830522,
@@ -1031,10 +1045,10 @@
       "client": "Robert Vickery",
       "link": "https://crm.na1.insightly.com/details/project/17830378",
       "responsibility": "Client",
-      "days_in_stage": 4,
-      "stage_name": "Concept Plan",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 1
     },
     {
       "id": 14617925,
@@ -1045,10 +1059,10 @@
       "client": "Tony Zappia",
       "link": "https://crm.na1.insightly.com/details/project/14617925",
       "responsibility": "Council/Authority",
-      "days_in_stage": 4,
-      "stage_name": "Authority Reviews Application",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0167771",
-      "stage_order": 4
+      "stage_order": 3
     },
     {
       "id": 17552256,
@@ -1303,6 +1317,6 @@
       "stage_order": 1
     }
   ],
-  "last_updated": "2026-06-05T03:00:29.603234+09:30",
-  "total": 93
+  "last_updated": "2026-06-05T03:15:21.538656+09:30",
+  "total": 94
 }

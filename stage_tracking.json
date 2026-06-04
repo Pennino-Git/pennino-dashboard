@@ -20,14 +20,19 @@
     "stage_name": "10. LTO Approval"
   },
   "13213940": {
-    "stage_id": 3823964,
-    "entered": "2026-06-01",
-    "stage_name": "DAC Cert"
+    "stage_id": 4845740,
+    "entered": "2026-06-05",
+    "stage_name": "8. Final Authority Approvals"
+  },
+  "13466164": {
+    "stage_id": 4845734,
+    "entered": "2026-06-05",
+    "stage_name": "2. PlanSA Lodgement"
   },
   "13746454": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "13910424": {
     "stage_id": 4845742,
@@ -35,14 +40,14 @@
     "stage_name": "10. LTO Approval"
   },
   "14617925": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "14754903": {
-    "stage_id": 3823961,
-    "entered": "2026-06-01",
-    "stage_name": "PlanSA Lodgment"
+    "stage_id": 4845734,
+    "entered": "2026-06-05",
+    "stage_name": "2. PlanSA Lodgement"
   },
   "15187921": {
     "stage_id": 4845734,
@@ -50,9 +55,9 @@
     "stage_name": "2. PlanSA Lodgement"
   },
   "15599174": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "15769844": {
     "stage_id": 4845741,
@@ -65,9 +70,9 @@
     "stage_name": "5. Certified Survey"
   },
   "16351320": {
-    "stage_id": 3823961,
-    "entered": "2026-06-01",
-    "stage_name": "PlanSA Lodgment"
+    "stage_id": 4845734,
+    "entered": "2026-06-05",
+    "stage_name": "2. PlanSA Lodgement"
   },
   "16351328": {
     "stage_id": 4845740,
@@ -95,9 +100,9 @@
     "stage_name": "2. PlanSA Lodgement"
   },
   "16823916": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "17278348": {
     "stage_id": 4845735,
@@ -110,9 +115,9 @@
     "stage_name": "Further Work Required"
   },
   "17328458": {
-    "stage_id": 3823964,
-    "entered": "2026-06-01",
-    "stage_name": "DAC Cert"
+    "stage_id": 4845740,
+    "entered": "2026-06-05",
+    "stage_name": "8. Final Authority Approvals"
   },
   "17385935": {
     "stage_id": 4845737,
@@ -135,9 +140,9 @@
     "stage_name": "5. Certified Survey"
   },
   "17632301": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "17700505": {
     "stage_id": 4845736,
@@ -150,19 +155,19 @@
     "stage_name": "6 Land Division Certificate Lodged with PlanSA"
   },
   "17708499": {
-    "stage_id": 3823961,
-    "entered": "2026-06-01",
-    "stage_name": "PlanSA Lodgment"
+    "stage_id": 4845734,
+    "entered": "2026-06-05",
+    "stage_name": "2. PlanSA Lodgement"
   },
   "17732479": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "17782437": {
-    "stage_id": 3823964,
-    "entered": "2026-06-03",
-    "stage_name": "DAC Cert"
+    "stage_id": 4845740,
+    "entered": "2026-06-05",
+    "stage_name": "8. Final Authority Approvals"
   },
   "17810905": {
     "stage_id": 3134301,
@@ -170,9 +175,9 @@
     "stage_name": "Field Work Scheduled"
   },
   "17830378": {
-    "stage_id": 3823960,
-    "entered": "2026-06-01",
-    "stage_name": "Concept Plan"
+    "stage_id": 4845733,
+    "entered": "2026-06-05",
+    "stage_name": "1. Concept Planning"
   },
   "17830522": {
     "stage_id": 4845739,
@@ -180,9 +185,9 @@
     "stage_name": "7. SCAP Application"
   },
   "17845187": {
-    "stage_id": 3823962,
-    "entered": "2026-06-01",
-    "stage_name": "Authority Reviews Application"
+    "stage_id": 4845735,
+    "entered": "2026-06-05",
+    "stage_name": "3. Authority Assessment"
   },
   "17847316": {
     "stage_id": 4845738,
