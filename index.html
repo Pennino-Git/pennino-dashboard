@@ -220,11 +220,13 @@ let searchTerm = "";
 let clientFilter = "";
 
 // Responsibility display order & colors
-const RESP_ORDER = ["AR (Alex)", "DP (Damiano)", "TR (Tristan)", "Kate (Drafting)", "Client", "Contractor", "Council/Authority", "SA Water", "LTO", "SCAP/DAC", ""];
+const RESP_ORDER = ["AR (Alex)", "DP (Damiano)", "TR (Tristan)", "Harry", "Grant", "Kate (Drafting)", "Client", "Contractor", "Council/Authority", "SA Water", "LTO", "SCAP/DAC", ""];
 const RESP_COLORS = {
   "AR (Alex)": "#2D6DA5",
   "DP (Damiano)": "#ec4899",
   "TR (Tristan)": "#14b8a6",
+  "Harry": "#f97316",
+  "Grant": "#84cc16",
   "Kate (Drafting)": "#a78bfa",
   "Client": "#f59e0b",
   "Contractor": "#78716c",
@@ -342,6 +344,21 @@ function renderKanbanByResp(fp) {
   RESP_ORDER.forEach(r => {
     if (!groups[r] || groups[r].length === 0) return;
     const col = RESP_COLORS[r] || "#475569";
+    const cards = groups[r].sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
+    cols += `<div class="kanban-col">
+      <div class="kanban-col-header" style="border-left:3px solid ${col}">
+        <span class="kanban-col-title">${respLabel(r)}</span>
+        <span class="kanban-col-count">${groups[r].length}</span>
+      </div>
+      <div class="kanban-cards">${cards}</div>
+    </div>`;
+  });
+  
+  // Catch-all: render any responsibility values not in RESP_ORDER (e.g. new staff added later)
+  Object.keys(groups).forEach(r => {
+    if (RESP_ORDER.includes(r)) return; // already rendered
+    if (!groups[r] || groups[r].length === 0) return;
+    const col = RESP_COLORS[r] || "#94a3b8";
     const cards = groups[r].sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
     cols += `<div class="kanban-col">
       <div class="kanban-col-header" style="border-left:3px solid ${col}">
