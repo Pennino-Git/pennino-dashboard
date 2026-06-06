@@ -473,5 +473,10 @@
     "stage_id": 3134301,
     "entered": "2026-06-05",
     "stage_name": "Field Work Scheduled"
+  },
+  "18333017": {
+    "stage_id": 3134300,
+    "entered": "2026-06-07",
+    "stage_name": "Search & DBYD"
   }
 }
