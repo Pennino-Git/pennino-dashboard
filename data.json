@@ -765,10 +765,10 @@
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 1,
-      "stage_name": "8. Final Authority Approvals",
+      "days_in_stage": 0,
+      "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
-      "stage_order": 8
+      "stage_order": 9
     },
     {
       "id": 18203158,
@@ -1331,6 +1331,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-06T13:30:31.665845+09:30",
+  "last_updated": "2026-06-06T13:45:22.194430+09:30",
   "total": 95
 }
