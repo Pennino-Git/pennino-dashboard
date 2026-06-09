@@ -1199,10 +1199,10 @@
       "client": "Kevin Dougan",
       "link": "https://crm.na1.insightly.com/details/project/18230693",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 4,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
-      "stage_order": 2
+      "stage_order": 3
     },
     {
       "id": 17810905,
@@ -1373,6 +1373,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-09T21:30:39.821953+09:30",
+  "last_updated": "2026-06-09T21:45:24.811025+09:30",
   "total": 98
 }
