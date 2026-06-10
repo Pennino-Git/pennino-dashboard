@@ -94,6 +94,11 @@
     "entered": "2026-06-02",
     "stage_name": "Prepare Plan"
   },
+  "16508321": {
+    "stage_id": 4845742,
+    "entered": "2026-06-10",
+    "stage_name": "10. LTO Approval"
+  },
   "16772033": {
     "stage_id": 4845734,
     "entered": "2026-06-01",
