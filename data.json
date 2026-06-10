@@ -961,10 +961,10 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
       "responsibility": "Council/Authority",
-      "days_in_stage": 7,
-      "stage_name": "1. Concept Planning",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
-      "stage_order": 1
+      "stage_order": 2
     },
     {
       "id": 18254196,
@@ -1373,6 +1373,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-10T09:15:24.353112+09:30",
+  "last_updated": "2026-06-10T09:30:39.465870+09:30",
   "total": 98
 }
