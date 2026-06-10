@@ -3,7 +3,7 @@
 Fetch active projects from Insightly and generate data.json for the dashboard.
 Runs as a GitHub Action every 15 minutes.
 """
-import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime
+import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime, time
 
 API_KEY = os.environ.get("INSIGHTLY_API_KEY", "")
 BASE = "https://api.na1.insightly.com/v3.1"
@@ -38,7 +38,10 @@ STAGE_RESPONSIBILITY = {
     "Invoice & Close": "AR (Alex)",
 }
 
-def api_get(endpoint, params=None):
+MAX_RETRIES = 3
+RETRY_DELAY = 10  # seconds
+
+def api_get(endpoint, params=None, retries=MAX_RETRIES):
     url = f"{BASE}/{endpoint}"
     if params:
         url += "?" + urllib.parse.urlencode(params)
@@ -47,15 +50,33 @@ def api_get(endpoint, params=None):
         "Authorization": f"Basic {auth}",
         "Accept": "application/json"
     })
-    try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            return json.loads(resp.read().decode())
-    except urllib.error.HTTPError as e:
-        print(f"  API error {e.code} on {endpoint}: {e.read().decode()[:200]}", file=sys.stderr)
-        return None
-    except Exception as e:
-        print(f"  Request error on {endpoint}: {e}", file=sys.stderr)
-        return None
+    last_error = None
+    for attempt in range(retries):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            last_error = e
+            code = e.code
+            body = e.read().decode()[:200]
+            print(f"  API error {code} on {endpoint} (attempt {attempt+1}/{retries}): {body}", file=sys.stderr)
+            if code in (429, 500, 502, 503, 504):
+                if attempt < retries - 1:
+                    wait = RETRY_DELAY * (attempt + 1)
+                    print(f"  Retrying in {wait}s...", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+            return None
+        except Exception as e:
+            last_error = e
+            print(f"  Request error on {endpoint} (attempt {attempt+1}/{retries}): {e}", file=sys.stderr)
+            if attempt < retries - 1:
+                wait = RETRY_DELAY * (attempt + 1)
+                print(f"  Retrying in {wait}s...", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            return None
+    return None
 
 def get_all_stages():
     """Fetch all pipeline stages via PipelineStages endpoint."""
@@ -175,6 +196,13 @@ def main():
     print("Fetching all projects from Insightly...")
     raw_projects = get_all_projects()
     print(f"  Got {len(raw_projects)} total projects")
+    
+    # SAFETY CHECK: If we got 0 projects but had data before, Insightly is likely down.
+    # Don't overwrite good data with empty data.
+    if len(raw_projects) == 0 and len(prev_clients) > 0:
+        print("\n⚠️  Got 0 projects from API but previous data had projects — Insightly may be down.")
+        print("   Keeping existing data.json to avoid breaking the dashboard.")
+        sys.exit(0)
     
     # Filter to active only
     active_projects = [p for p in raw_projects 
