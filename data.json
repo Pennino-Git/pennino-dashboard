@@ -104,7 +104,7 @@
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "151 Angle Vale Road, Angle Vale SA 5117",
-      "client": "",
+      "client": "Dave Stockbridge",
       "link": "https://crm.na1.insightly.com/details/project/18227807",
       "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
@@ -566,7 +566,7 @@
       "tier": "T2",
       "status": "IN PROGRESS",
       "address": "2 Copernicus Road, Christie Downs SA 5164",
-      "client": "",
+      "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17632301",
       "responsibility": "Council/Authority",
       "days_in_stage": 0,
@@ -594,7 +594,7 @@
       "tier": "T2",
       "status": "IN PROGRESS",
       "address": "60 Glenloth Drive, Happy Valley SA 5159",
-      "client": "",
+      "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17782437",
       "responsibility": "SCAP/DAC",
       "days_in_stage": 0,
@@ -944,7 +944,7 @@
       "tier": "T2",
       "status": "IN PROGRESS",
       "address": "62 Glenloth Drive, Happy Valley SA 5159",
-      "client": "",
+      "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17830522",
       "responsibility": "SCAP/DAC",
       "days_in_stage": 0,
@@ -1387,6 +1387,6 @@
       "stage_order": 2
     }
   ],
-  "last_updated": "2026-06-11T07:30:37.784355+09:30",
+  "last_updated": "2026-06-11T07:45:25.056501+09:30",
   "total": 99
 }
