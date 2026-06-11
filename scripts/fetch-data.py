@@ -242,7 +242,7 @@ def main():
         
         # Extract tags
         tags = [t.get("TAG_NAME", "") for t in p.get("TAGS", []) if t.get("TAG_NAME")]
-        needs_fieldwork = "FIELD WORK REQUIRED" in tags
+        needs_fieldwork = "FIELD" in tags
         
         project_id = p["PROJECT_ID"]
         project_key = str(project_id)
@@ -316,4 +316,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
