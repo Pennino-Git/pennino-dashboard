@@ -1,0 +1,150 @@
+{
+  "rfis": [
+    {
+      "app_id": "25032987",
+      "project_ref": "A1325",
+      "project_name": "A1325 Wood St TD1-2",
+      "insightly_id": 17704260,
+      "location": "49 Wood St South Plympton",
+      "authority": "City of Marion",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Community division of proposed lot - Further Information Requested",
+      "due_date_iso": "2026-05-29"
+    },
+    {
+      "app_id": "25032971",
+      "project_ref": "A1325",
+      "project_name": "A1325 Wood St TD1-2",
+      "insightly_id": 17704260,
+      "location": "49 Wood St South Plympton",
+      "authority": "City of Marion",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Division 1 into 2 - Further Information Requested",
+      "due_date_iso": "2026-06-05"
+    },
+    {
+      "app_id": "24029524",
+      "project_ref": "J1015",
+      "project_name": "J1015 Bruce St TD1-56",
+      "insightly_id": null,
+      "location": "Lot 400 Bruce St Eudunda",
+      "authority": "SPC Planning Services",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Land Division 1 into 56 - Further Information Requested",
+      "due_date_iso": "2026-06-10"
+    },
+    {
+      "app_id": "25029522",
+      "project_ref": "F1105",
+      "project_name": "F1105 Auricchio Ave TD1-2",
+      "insightly_id": null,
+      "location": "66 Auricchio Ave St Marys",
+      "authority": "City of Mitcham",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Land Division 1 into 2 - Further Information Requested",
+      "due_date_iso": "2026-06-17"
+    },
+    {
+      "app_id": "22040576",
+      "project_ref": "E1031",
+      "project_name": "E1031 Hindmarsh Rd TD1-132",
+      "insightly_id": null,
+      "location": "77-101 Hindmarsh Rd Murray Bridge",
+      "authority": "Minister (SA Housing Trust)",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Land Division 132 allotments - Ministerial referral RFI",
+      "due_date_iso": "2026-06-22"
+    },
+    {
+      "app_id": "25005003",
+      "project_ref": "E1032",
+      "project_name": "E1032 Henri St TD2-44",
+      "insightly_id": null,
+      "location": "Lot 157 Henri St Coober Pedy",
+      "authority": "State Planning Commission",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Land Division 2 into 44 - Further Information Requested",
+      "due_date_iso": "2026-06-29"
+    },
+    {
+      "app_id": "25032522",
+      "project_ref": "F1106",
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "insightly_id": 17782437,
+      "location": "60 Glenloth Dr Happy Valley",
+      "authority": "City of Onkaparinga",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Torrens title division 1 into 3 - Further Information Requested",
+      "due_date_iso": "2026-07-01"
+    },
+    {
+      "app_id": "25031176",
+      "project_ref": "A1324",
+      "project_name": "A1324 Euston Ave CD1-7",
+      "insightly_id": null,
+      "location": "Lot 301 Euston Ave Highgate",
+      "authority": "City of Unley",
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Community division 1 into 7 - Mandatory documentation required",
+      "due_date_iso": "2026-08-25"
+    },
+    {
+      "app_id": "26004646",
+      "project_ref": "A1318",
+      "project_name": "A1318 Euston Ave TD1-4",
+      "insightly_id": 17539782,
+      "location": "Lot 300 Euston Ave Highgate",
+      "authority": "City of Unley",
+      "status": "pending",
+      "type": "RFI",
+      "description": "1 into 4 Torrens Title - Further Information Requested",
+      "due_date_iso": "2026-08-28"
+    },
+    {
+      "app_id": "26000851",
+      "project_ref": "A1336",
+      "project_name": "A1336 The Parade TD1-2",
+      "insightly_id": 17956195,
+      "location": "42 The Parade Holden Hill",
+      "authority": "City of Tea Tree Gully",
+      "status": "action_required",
+      "type": "Mandatory Docs",
+      "description": "Land Division 1 into 2 - Mandatory documentation required",
+      "due_date_iso": null
+    },
+    {
+      "app_id": "25040193",
+      "project_ref": "A1335",
+      "project_name": "A1335 Mitchell Dr TD1-3",
+      "insightly_id": 17900271,
+      "location": "7 Mitchell Dr Para Hills",
+      "authority": "City of Salisbury",
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Land Division 1 into 3 - Mandatory documentation required",
+      "due_date_iso": null
+    },
+    {
+      "app_id": "25008390",
+      "project_ref": "D1031",
+      "project_name": "D1031 Diment Rd TD3-2",
+      "insightly_id": null,
+      "location": "371-387 Diment Rd Direk",
+      "authority": "City of Salisbury",
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Land Division 3 from 2 - Mandatory documentation required (over 12 months overdue)",
+      "due_date_iso": null
+    }
+  ],
+  "last_updated": "2026-06-11T12:09:29.268943+09:30",
+  "total": 12
+}

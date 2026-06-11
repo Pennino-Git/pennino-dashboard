@@ -31,5 +31,5 @@ jobs:
         run: |
           git config user.name "Pennino Dashboard Bot"
           git config user.email "office@pennino.com.au"
-          git add data.json stage_tracking.json
+          git add data.json stage_tracking.json activity_log.json
           git diff --cached --quiet || (git commit -m "📊 Auto-refresh dashboard data $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git pull --rebase origin main && git push)

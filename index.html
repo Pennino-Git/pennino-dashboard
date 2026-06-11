@@ -24,10 +24,11 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .refresh-badge { background:var(--surface2); padding:4px 10px; border-radius:12px; font-size:11px; }
 
 /* Nav */
-.nav { background:var(--surface); border-bottom:1px solid var(--border); padding:0 24px; display:flex; gap:0; }
-.nav-tab { padding:10px 20px; font-size:14px; color:var(--text2); cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; }
+.nav { background:var(--surface); border-bottom:1px solid var(--border); padding:0 24px; display:flex; gap:0; overflow-x:auto; }
+.nav-tab { padding:10px 16px; font-size:13px; color:var(--text2); cursor:pointer; border-bottom:2px solid transparent; transition:all .2s; white-space:nowrap; flex-shrink:0; }
 .nav-tab:hover { color:var(--text); background:var(--surface2); }
 .nav-tab.active { color:var(--accent); border-bottom-color:var(--accent); }
+.nav-tab .tab-badge { background:var(--red); color:#fff; font-size:9px; padding:1px 5px; border-radius:8px; margin-left:4px; font-weight:700; }
 
 /* Filters */
 .filters { padding:12px 24px; display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
@@ -49,10 +50,27 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 
 /* Stats bar */
 .stats-bar { padding:12px 24px; display:flex; gap:12px; flex-wrap:wrap; }
-.stat-card { background:var(--surface); border:1px solid var(--border); border-radius:10px; padding:12px 16px; min-width:120px; flex:1; }
+.stat-card { background:var(--surface); border:1px solid var(--border); border-radius:10px; padding:12px 16px; min-width:100px; flex:1; }
 .stat-card .label { font-size:11px; color:var(--text3); text-transform:uppercase; letter-spacing:.5px; }
 .stat-card .value { font-size:24px; font-weight:700; margin-top:2px; }
 .stat-card .sub { font-size:11px; color:var(--text2); margin-top:2px; }
+
+/* Workload Summary */
+.workload-section { padding:0 24px 12px; }
+.workload-toggle { font-size:12px; color:var(--accent); cursor:pointer; display:flex; align-items:center; gap:4px; margin-bottom:8px; user-select:none; }
+.workload-toggle:hover { color:var(--text); }
+.workload-chart { display:flex; gap:16px; flex-wrap:wrap; }
+.workload-bars { flex:1; min-width:300px; }
+.workload-bar-row { display:flex; align-items:center; gap:8px; margin-bottom:6px; }
+.workload-bar-label { font-size:12px; color:var(--text2); width:120px; text-align:right; flex-shrink:0; }
+.workload-bar-track { flex:1; height:22px; background:var(--surface2); border-radius:4px; overflow:hidden; position:relative; }
+.workload-bar-fill { height:100%; border-radius:4px; display:flex; align-items:center; padding-left:6px; font-size:11px; font-weight:600; color:#fff; min-width:24px; transition:width .3s; }
+.workload-donut-wrap { width:180px; display:flex; flex-direction:column; align-items:center; justify-content:center; }
+.workload-donut { position:relative; width:140px; height:140px; }
+.workload-donut svg { transform:rotate(-90deg); }
+.workload-donut-center { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); text-align:center; }
+.workload-donut-center .big { font-size:28px; font-weight:700; }
+.workload-donut-center .small { font-size:10px; color:var(--text3); }
 
 /* Bottleneck bar */
 .bottleneck { padding:0 24px 12px; }
@@ -70,11 +88,12 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .kanban-cards { padding:8px; max-height:calc(100vh - 320px); overflow-y:auto; display:flex; flex-direction:column; gap:6px; }
 
 /* Cards */
-.card { background:var(--surface2); border:1px solid var(--border); border-radius:8px; padding:10px 12px; cursor:pointer; transition:all .15s; }
+.card { background:var(--surface2); border:1px solid var(--border); border-radius:8px; padding:10px 12px; cursor:pointer; transition:all .15s; position:relative; }
 .card:hover { border-color:var(--accent); transform:translateY(-1px); }
-.card-header { display:flex; justify-content:space-between; align-items:flex-start; gap:8px; }
-.card-name { font-size:13px; font-weight:600; line-height:1.3; }
-.card-tier { font-size:10px; font-weight:700; padding:2px 6px; border-radius:4px; flex-shrink:0; }
+.card-header { display:flex; justify-content:space-between; align-items:flex-start; gap:4px; }
+.card-name { font-size:13px; font-weight:600; line-height:1.3; flex:1; }
+.card-badges { display:flex; gap:3px; flex-shrink:0; align-items:center; }
+.card-tier { font-size:10px; font-weight:700; padding:2px 6px; border-radius:4px; }
 .card-tier.T1 { background:var(--t1); color:#fff; }
 .card-tier.T2 { background:var(--t2); color:#fff; }
 .card-tier.T3 { background:var(--t3); color:#fff; }
@@ -89,6 +108,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .card-fieldwork { font-size:10px; color:#ef4444; margin-top:3px; font-weight:600; display:flex; align-items:center; gap:3px; }
 .card-fieldwork .fw-dot { width:6px; height:6px; border-radius:50%; background:#ef4444; animation:fwPulse 2s infinite; }
 @keyframes fwPulse { 0%,100%{opacity:1} 50%{opacity:.4} }
+.card-premium { font-size:10px; color:#a78bfa; margin-top:3px; font-weight:600; }
+.card-stale { font-size:10px; color:#fbbf24; margin-top:3px; font-weight:600; display:flex; align-items:center; gap:3px; }
+.badge-stale { font-size:9px; background:#92400e; color:#fde047; padding:1px 4px; border-radius:3px; font-weight:700; }
+.badge-premium { font-size:9px; background:#5b21b6; color:#c4b5fd; padding:1px 4px; border-radius:3px; font-weight:700; }
 
 /* List view */
 .list-view { padding:12px 24px; }
@@ -99,6 +122,59 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .list-table tr:hover td { background:var(--surface); }
 .list-table .link { color:var(--accent); text-decoration:none; }
 .list-table .link:hover { text-decoration:underline; }
+
+/* Client View */
+.client-view { padding:12px 24px; }
+.client-group { background:var(--surface); border:1px solid var(--border); border-radius:10px; margin-bottom:8px; overflow:hidden; }
+.client-group-header { padding:12px 16px; cursor:pointer; display:flex; justify-content:space-between; align-items:center; transition:background .2s; }
+.client-group-header:hover { background:var(--surface2); }
+.client-group-name { font-size:14px; font-weight:600; }
+.client-group-count { font-size:12px; color:var(--text2); background:var(--surface2); padding:2px 10px; border-radius:10px; }
+.client-group-body { display:none; padding:0 16px 12px; }
+.client-group.open .client-group-body { display:block; }
+.client-group-chevron { color:var(--text3); transition:transform .2s; font-size:12px; }
+.client-group.open .client-group-chevron { transform:rotate(90deg); }
+.client-project-row { display:flex; align-items:center; gap:12px; padding:6px 0; border-bottom:1px solid rgba(71,85,105,.2); font-size:13px; }
+.client-project-row:last-child { border-bottom:none; }
+
+/* RFI Tracker */
+.rfi-view { padding:12px 24px; }
+.rfi-card { background:var(--surface); border:1px solid var(--border); border-radius:10px; padding:14px 16px; margin-bottom:8px; transition:border-color .2s; }
+.rfi-card:hover { border-color:var(--accent); }
+.rfi-card-header { display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }
+.rfi-project { font-size:14px; font-weight:600; }
+.rfi-urgency { font-size:11px; font-weight:700; padding:3px 10px; border-radius:12px; }
+.rfi-urgency.overdue { background:#7f1d1d; color:#fca5a5; }
+.rfi-urgency.urgent { background:#92400e; color:#fde047; }
+.rfi-urgency.normal { background:#1e3a5f; color:#93c5fd; }
+.rfi-urgency.no-date { background:var(--surface2); color:var(--text2); }
+.rfi-detail { font-size:12px; color:var(--text2); margin-top:4px; }
+.rfi-detail strong { color:var(--text); }
+.rfi-meta { display:flex; gap:16px; margin-top:8px; flex-wrap:wrap; }
+.rfi-meta-item { font-size:11px; color:var(--text3); }
+.rfi-meta-item strong { color:var(--text2); }
+.rfi-stats { display:flex; gap:12px; margin-bottom:16px; flex-wrap:wrap; }
+.rfi-stat { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:10px 14px; flex:1; min-width:100px; text-align:center; }
+.rfi-stat .rfi-stat-val { font-size:22px; font-weight:700; }
+.rfi-stat .rfi-stat-label { font-size:10px; color:var(--text3); text-transform:uppercase; }
+.rfi-updated { font-size:11px; color:var(--text3); margin-bottom:12px; }
+
+/* Activity Feed */
+.activity-view { padding:12px 24px; }
+.activity-empty { text-align:center; padding:40px; color:var(--text3); }
+.activity-item { display:flex; gap:12px; padding:10px 0; border-bottom:1px solid rgba(71,85,105,.2); }
+.activity-icon { width:32px; height:32px; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:14px; flex-shrink:0; }
+.activity-icon.stage { background:#1e3a5f; }
+.activity-icon.resp { background:#3b1f5b; }
+.activity-body { flex:1; }
+.activity-title { font-size:13px; font-weight:500; }
+.activity-title a { color:var(--accent); text-decoration:none; }
+.activity-title a:hover { text-decoration:underline; }
+.activity-change { font-size:12px; color:var(--text2); margin-top:2px; }
+.activity-change .from { color:var(--red); text-decoration:line-through; opacity:.7; }
+.activity-change .to { color:var(--green); font-weight:600; }
+.activity-time { font-size:11px; color:var(--text3); margin-top:2px; }
+.activity-updated { font-size:11px; color:var(--text3); margin-bottom:12px; }
 
 /* Map tab */
 #panel-map { padding:0; }
@@ -114,7 +190,6 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 ::-webkit-scrollbar-thumb { background:var(--border); border-radius:3px; }
 ::-webkit-scrollbar-thumb:hover { background:var(--text3); }
 
-/* Responsive */
 @media(max-width:768px) {
   .header { padding:10px 12px; }
   .filters { padding:8px 12px; }
@@ -123,6 +198,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   .list-view { padding:8px 12px; }
   .kanban-col { min-width:240px; flex:0 0 240px; }
   .search-box { width:160px; }
+  .workload-donut-wrap { display:none; }
 }
 </style>
 </head>
@@ -130,7 +206,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 
 <div class="header">
   <div class="header-left">
-    <img class="logo" src="data:image/png;base64,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" alt="Pennino">
+    <img class="logo" src="pennino_logo.png" alt="Pennino">
     <h1>Project Dashboard</h1>
   </div>
   <div class="header-right">
@@ -140,79 +216,81 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 </div>
 
 <div class="nav">
-  <div class="nav-tab active" data-tab="responsibility">👤 By Responsibility</div>
-  <div class="nav-tab" data-tab="stage">📋 By Stage</div>
-  <div class="nav-tab" data-tab="list">📊 List View</div>
-  <div class="nav-tab" data-tab="map">🗺️ Map</div>
+  <div class="nav-tab active" data-tab="responsibility">&#x1F464; Responsibility</div>
+  <div class="nav-tab" data-tab="stage">&#x1F4CB; Stage</div>
+  <div class="nav-tab" data-tab="list">&#x1F4CA; List</div>
+  <div class="nav-tab" data-tab="clients">&#x1F465; Clients</div>
+  <div class="nav-tab" data-tab="rfi">&#x1F4E1; RFIs <span class="tab-badge" id="rfiBadge" style="display:none"></span></div>
+  <div class="nav-tab" data-tab="activity">&#x1F4F0; Activity</div>
+  <div class="nav-tab" data-tab="map">&#x1F5FA;&#xFE0F; Map</div>
 </div>
 
-<div class="filters">
+<div class="filters" id="filtersBar">
   <div class="filter-btn active" data-filter="tier" data-value="all">All Tiers</div>
-  <div class="filter-btn" data-filter="tier" data-value="T1">🔵 T1 Survey</div>
-  <div class="filter-btn" data-filter="tier" data-value="T2">🟢 T2 Land Div</div>
-  <div class="filter-btn" data-filter="tier" data-value="T3">🟠 T3 Engineering</div>
+  <div class="filter-btn" data-filter="tier" data-value="T1">&#x1F535; T1 Survey</div>
+  <div class="filter-btn" data-filter="tier" data-value="T2">&#x1F7E2; T2 Land Div</div>
+  <div class="filter-btn" data-filter="tier" data-value="T3">&#x1F7E0; T3 Engineering</div>
   <div class="filter-sep"></div>
-  <div class="filter-btn" data-filter="smart" data-value="fieldwork">🔧 Field Work</div>
-  <div class="filter-btn" data-filter="smart" data-value="authority">🏛️ With Authority</div>
-  <div class="filter-btn" data-filter="smart" data-value="drafting">✏️ Drafting</div>
-  
+  <div class="filter-btn" data-filter="smart" data-value="fieldwork">&#x1F527; Field Work</div>
+  <div class="filter-btn" data-filter="smart" data-value="authority">&#x1F3DB;&#xFE0F; With Authority</div>
+  <div class="filter-btn" data-filter="smart" data-value="drafting">&#x270F;&#xFE0F; Drafting</div>
+  <div class="filter-btn" data-filter="smart" data-value="premium">&#x1F48E; Premium</div>
+  <div class="filter-btn" data-filter="smart" data-value="stale">&#x23F0; Stale</div>
   <div class="client-search-wrap">
-    <input class="client-search" type="text" id="clientSearch" placeholder="👤 Filter by client..." autocomplete="off">
+    <input class="client-search" type="text" id="clientSearch" placeholder="&#x1F464; Filter by client..." autocomplete="off">
     <div class="client-suggestions" id="clientSuggestions"></div>
   </div>
-  <input class="search-box" type="text" placeholder="🔍 Search projects..." id="searchBox">
+  <input class="search-box" type="text" placeholder="&#x1F50D; Search projects..." id="searchBox">
 </div>
 
 <div class="stats-bar" id="statsBar"></div>
+
+<div class="workload-section" id="workloadSection">
+  <div class="workload-toggle" id="workloadToggle">&#x25B6; Workload Summary</div>
+  <div id="workloadContent" style="display:none;"></div>
+</div>
+
 <div class="bottleneck" id="bottleneckBar"></div>
 
 <div class="panel active" id="panel-responsibility"></div>
 <div class="panel" id="panel-stage"></div>
 <div class="panel" id="panel-list"></div>
+<div class="panel" id="panel-clients"></div>
+<div class="panel" id="panel-rfi"></div>
+<div class="panel" id="panel-activity"></div>
 <div class="panel" id="panel-map">
   <iframe id="mapFrame" src="about:blank" style="width:100%;height:calc(100vh - 100px);border:none;border-radius:8px;margin:0;"></iframe>
 </div>
 
 <script>
 let PROJECTS = [];
+let RFI_DATA = null;
+let ACTIVITY_DATA = null;
 
-// Fetch live data
-async function loadData() {
-  try {
-    const resp = await fetch('data.json?' + Date.now());
-    const data = await resp.json();
-    PROJECTS = data.projects;
-    
-    // Update client search autocomplete list
-    if (window._updateClientList) window._updateClientList(PROJECTS);
-    
-    // Update last-updated badge
-    const lu = document.getElementById('lastUpdated');
-    if (lu && data.last_updated) {
-      const d = new Date(data.last_updated);
-      const now = new Date();
-      const diffMin = Math.round((now - d) / 60000);
-      let ago;
-      if (diffMin < 1) ago = 'just now';
-      else if (diffMin < 60) ago = diffMin + ' min ago';
-      else if (diffMin < 1440) ago = Math.round(diffMin/60) + 'h ago';
-      else ago = d.toLocaleDateString('en-AU', {day:'numeric',month:'short',year:'numeric'});
-      lu.textContent = 'Updated ' + ago;
-      lu.title = d.toLocaleString('en-AU', {timeZone:'Australia/Adelaide'});
-    }
-    
-    // Update total count in stats
-    const totalEl = document.querySelector('.stat-card .value');
-    if (totalEl) totalEl.textContent = PROJECTS.length;
-    
-    renderAll();
-  } catch(e) {
-    console.error('Failed to load data:', e);
-    const lu = document.getElementById('lastUpdated');
-    if (lu) lu.textContent = 'Data load failed';
-  }
+// Stale thresholds (days) per stage name
+const STALE_THRESHOLDS = {
+  "Prepare Project":7, "Field Work Scheduled":14, "Prepare Plan":14,
+  "Send Plan to Client":7, "Invoice":7,
+  "1. Concept Planning":14, "Concept Planning":14,
+  "2. PlanSA Lodgement":30, "PlanSA Lodgement":30,
+  "3. Authority Assessment":60, "Authority Assessment":60,
+  "4. Conditions & Compliance":30, "Conditions & Compliance":30,
+  "5. Certified Survey":21, "Certified Survey":21,
+  "6. Land Division Certificate Lodged with PlanSA":30, "Land Division Certificate Lodged with PlanSA":30,
+  "7. SCAP Application":60, "SCAP Application":60,
+  "8. Final Authority Approvals":60, "Final Authority Approvals":60,
+  "9. LTO Lodgement":30, "LTO Lodgement":30,
+  "10. LTO Approval":60, "LTO Approval":60,
+  "11. Complete":7, "Complete":7,
+  "Search & DBYD":7, "Plan Drawing & Check":14, "Plan to Client":7,
+  "Further Work Required":30, "Invoice & Close":7
+};
+
+function isStale(p) {
+  const threshold = STALE_THRESHOLDS[p.stage_name];
+  if (threshold === undefined) return false;
+  return (p.days_in_stage || 0) >= threshold;
 }
-
 
 const INSIGHTLY_BASE = "https://crm.na1.insightly.com/details/project/";
 
@@ -222,28 +300,16 @@ let smartFilter = null;
 let searchTerm = "";
 let clientFilter = "";
 
-// Responsibility display order & colors
 const RESP_ORDER = ["AR (Alex)", "DP (Damiano)", "TR (Tristan)", "Harry", "Grant", "Kate (Drafting)", "Client", "Contractor", "Council/Authority", "SA Water", "LTO", "SCAP/DAC", ""];
 const RESP_COLORS = {
-  "AR (Alex)": "#2D6DA5",
-  "DP (Damiano)": "#ec4899",
-  "TR (Tristan)": "#14b8a6",
-  "Harry": "#f97316",
-  "Grant": "#84cc16",
-  "Kate (Drafting)": "#a78bfa",
-  "Client": "#f59e0b",
-  "Contractor": "#78716c",
-  "Council/Authority": "#3b82f6",
-  "SA Water": "#38bdf8",
-  "LTO": "#f97316",
-  "SCAP/DAC": "#ef4444",
-  "": "#475569"
+  "AR (Alex)":"#2D6DA5", "DP (Damiano)":"#ec4899", "TR (Tristan)":"#14b8a6",
+  "Harry":"#f97316", "Grant":"#84cc16", "Kate (Drafting)":"#a78bfa",
+  "Client":"#f59e0b", "Contractor":"#78716c", "Council/Authority":"#3b82f6",
+  "SA Water":"#38bdf8", "LTO":"#f97316", "SCAP/DAC":"#ef4444", "":"#475569"
 };
 const RESP_LABELS = { "": "Unassigned" };
-
 function respLabel(r) { return RESP_LABELS[r] || r; }
 
-// Smart filter logic
 function matchesSmart(p, filter) {
   if (!filter) return true;
   const sn = (p.stage_name || "").toLowerCase();
@@ -252,6 +318,8 @@ function matchesSmart(p, filter) {
     case "fieldwork": return sn.includes("field work") || sn.includes("pegging") || sn.includes("certified survey") || p.needs_fieldwork === true;
     case "authority": return sn.includes("authority") || sn.includes("plansa") || sn.includes("scap") || sn.includes("lto") || rn.includes("council") || rn.includes("scap") || rn.includes("lto");
     case "drafting": return sn.includes("plan drawing") || sn.includes("prepare plan") || sn.includes("drafting") || sn.includes("concept") || rn.includes("kate");
+    case "premium": return p.is_premium === true;
+    case "stale": return isStale(p);
     default: return true;
   }
 }
@@ -279,17 +347,22 @@ function daysClass(d) {
 function makeCard(p) {
   const dc = daysClass(p.days_in_stage);
   const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "";
-  const clientHtml = p.client ? `<div class="card-sawater">👤 ${p.client}</div>` : "";
-  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>🔧 Field Work</div>` : "";
+  const clientHtml = p.client ? `<div class="card-sawater">\u{1F464} ${p.client}</div>` : "";
+  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>\u{1F527} Field Work</div>` : "";
+  const premiumHtml = p.is_premium ? `<div class="card-premium">\u{1F48E} Premium</div>` : "";
+  const staleHtml = isStale(p) ? `<div class="card-stale">\u{23F0} Stale (${STALE_THRESHOLDS[p.stage_name]}d threshold)</div>` : "";
+  let badgeHtml = "";
+  if (isStale(p)) badgeHtml += `<span class="badge-stale">\u{23F0}</span>`;
+  if (p.is_premium) badgeHtml += `<span class="badge-premium">\u{1F48E}</span>`;
+
   return `<a href="${INSIGHTLY_BASE}${p.id}" target="_blank" style="text-decoration:none;color:inherit;" title="Open in Insightly">
     <div class="card">
       <div class="card-header">
         <span class="card-name">${p.name}</span>
-        <span class="card-tier ${p.tier}">${p.tier}</span>
+        <div class="card-badges">${badgeHtml}<span class="card-tier ${p.tier}">${p.tier}</span></div>
       </div>
       <div class="card-address" title="${p.address||''}">${p.address || "No address"}</div>
-      ${clientHtml}
-      ${fwHtml}
+      ${clientHtml}${fwHtml}${premiumHtml}${staleHtml}
       <div class="card-footer">
         <span class="card-stage" title="${p.stage_name}">${p.stage_name}</span>
         ${daysHtml}
@@ -302,25 +375,81 @@ function renderStats(fp) {
   const t1 = fp.filter(p=>p.tier==="T1").length;
   const t2 = fp.filter(p=>p.tier==="T2").length;
   const t3 = fp.filter(p=>p.tier==="T3").length;
-  
-  const fieldwork = fp.filter(p=>matchesSmart(p,"fieldwork")).length;
-  
+  const fw = fp.filter(p=>matchesSmart(p,"fieldwork")).length;
+  const stale = fp.filter(p=>isStale(p)).length;
+  const premium = fp.filter(p=>p.is_premium).length;
+
   document.getElementById("statsBar").innerHTML = `
     <div class="stat-card"><div class="label">Total Active</div><div class="value">${fp.length}</div></div>
-    <div class="stat-card"><div class="label">🔵 T1 Survey</div><div class="value" style="color:var(--t1)">${t1}</div></div>
-    <div class="stat-card"><div class="label">🟢 T2 Land Div</div><div class="value" style="color:var(--t2)">${t2}</div></div>
-    <div class="stat-card"><div class="label">🟠 T3 Engineering</div><div class="value" style="color:var(--t3)">${t3}</div></div>
-    
-    <div class="stat-card"><div class="label">🔧 Field Work</div><div class="value">${fieldwork}</div></div>
+    <div class="stat-card"><div class="label">\u{1F535} T1 Survey</div><div class="value" style="color:var(--t1)">${t1}</div></div>
+    <div class="stat-card"><div class="label">\u{1F7E2} T2 Land Div</div><div class="value" style="color:var(--t2)">${t2}</div></div>
+    <div class="stat-card"><div class="label">\u{1F7E0} T3 Engineering</div><div class="value" style="color:var(--t3)">${t3}</div></div>
+    <div class="stat-card"><div class="label">\u{1F527} Field Work</div><div class="value">${fw}</div></div>
+    <div class="stat-card"><div class="label">\u{23F0} Stale</div><div class="value" style="color:${stale > 0 ? 'var(--amber)' : 'var(--green)'}">${stale}</div></div>
+    ${premium > 0 ? `<div class="stat-card"><div class="label">\u{1F48E} Premium</div><div class="value" style="color:#a78bfa">${premium}</div></div>` : ''}
   `;
   document.getElementById("projectCount").textContent = fp.length + " projects";
+}
+
+function renderWorkload(fp) {
+  if (fp.length === 0) return;
+  const counts = {};
+  fp.forEach(p => { const r = p.responsibility || ""; counts[r] = (counts[r]||0) + 1; });
+  const maxCount = Math.max(...Object.values(counts), 1);
+
+  // Bar chart
+  let bars = "";
+  RESP_ORDER.forEach(r => {
+    if (!counts[r]) return;
+    const pct = (counts[r] / maxCount * 100);
+    const col = RESP_COLORS[r] || "#475569";
+    bars += `<div class="workload-bar-row">
+      <span class="workload-bar-label">${respLabel(r)}</span>
+      <div class="workload-bar-track">
+        <div class="workload-bar-fill" style="width:${pct}%;background:${col}">${counts[r]}</div>
+      </div>
+    </div>`;
+  });
+  // Catch-all for unlisted
+  Object.keys(counts).forEach(r => {
+    if (RESP_ORDER.includes(r)) return;
+    const pct = (counts[r] / maxCount * 100);
+    bars += `<div class="workload-bar-row">
+      <span class="workload-bar-label">${respLabel(r)}</span>
+      <div class="workload-bar-track">
+        <div class="workload-bar-fill" style="width:${pct}%;background:#94a3b8">${counts[r]}</div>
+      </div>
+    </div>`;
+  });
+
+  // Donut chart (SVG)
+  const entries = RESP_ORDER.filter(r => counts[r]).map(r => ({label:respLabel(r), count:counts[r], color:RESP_COLORS[r]||"#475569"}));
+  const radius = 52, cx = 70, cy = 70, circumference = 2 * Math.PI * radius;
+  let offset = 0;
+  let circles = "";
+  entries.forEach(e => {
+    const pct = e.count / fp.length;
+    const dash = circumference * pct;
+    const gap = circumference - dash;
+    circles += `<circle cx="${cx}" cy="${cy}" r="${radius}" fill="none" stroke="${e.color}" stroke-width="16" stroke-dasharray="${dash} ${gap}" stroke-dashoffset="${-offset}" />`;
+    offset += dash;
+  });
+
+  document.getElementById("workloadContent").innerHTML = `<div class="workload-chart">
+    <div class="workload-bars">${bars}</div>
+    <div class="workload-donut-wrap">
+      <div class="workload-donut">
+        <svg width="140" height="140">${circles}</svg>
+        <div class="workload-donut-center"><div class="big">${fp.length}</div><div class="small">ACTIVE</div></div>
+      </div>
+    </div>
+  </div>`;
 }
 
 function renderBottleneck(fp) {
   if (fp.length === 0) { document.getElementById("bottleneckBar").innerHTML = ""; return; }
   const counts = {};
   fp.forEach(p => { const r = p.responsibility || ""; counts[r] = (counts[r]||0) + 1; });
-  
   let segs = "";
   RESP_ORDER.forEach(r => {
     if (!counts[r]) return;
@@ -329,9 +458,8 @@ function renderBottleneck(fp) {
     const col = RESP_COLORS[r] || "#475569";
     segs += `<div class="bottleneck-seg" style="width:${pct}%;background:${col}" title="${respLabel(r)}: ${counts[r]}">${pct > 6 ? respLabel(r) + " " + counts[r] : counts[r]}</div>`;
   });
-  
   document.getElementById("bottleneckBar").innerHTML = `
-    <div class="bottleneck-title">Workload Distribution</div>
+    <div class="bottleneck-title">Responsibility Distribution</div>
     <div class="bottleneck-bar">${segs}</div>
   `;
 }
@@ -344,7 +472,6 @@ function renderKanbanByResp(fp) {
     if (!groups[r]) groups[r] = [];
     groups[r].push(p);
   });
-  
   let cols = "";
   RESP_ORDER.forEach(r => {
     if (!groups[r] || groups[r].length === 0) return;
@@ -358,12 +485,10 @@ function renderKanbanByResp(fp) {
       <div class="kanban-cards">${cards}</div>
     </div>`;
   });
-  
-  // Catch-all: render any responsibility values not in RESP_ORDER (e.g. new staff added later)
   Object.keys(groups).forEach(r => {
-    if (RESP_ORDER.includes(r)) return; // already rendered
+    if (RESP_ORDER.includes(r)) return;
     if (!groups[r] || groups[r].length === 0) return;
-    const col = RESP_COLORS[r] || "#94a3b8";
+    const col = "#94a3b8";
     const cards = groups[r].sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
     cols += `<div class="kanban-col">
       <div class="kanban-col-header" style="border-left:3px solid ${col}">
@@ -373,58 +498,50 @@ function renderKanbanByResp(fp) {
       <div class="kanban-cards">${cards}</div>
     </div>`;
   });
-  
   document.getElementById("panel-responsibility").innerHTML = `<div class="kanban">${cols}</div>`;
 }
 
 function renderKanbanByStage(fp) {
-  // Group by tier then stage order
   const tiers = ["T1", "T2", "T3"];
   let allCols = "";
-  
   tiers.forEach(tier => {
     const tierProjects = fp.filter(p => p.tier === tier);
     if (tierProjects.length === 0) return;
-    
     const stageGroups = {};
     tierProjects.forEach(p => {
       const key = p.stage_name || "Unknown";
       if (!stageGroups[key]) stageGroups[key] = { projects: [], order: p.stage_order };
       stageGroups[key].projects.push(p);
     });
-    
     const sorted = Object.entries(stageGroups).sort((a,b) => a[1].order - b[1].order);
     const tierColor = tier === "T1" ? "var(--t1)" : tier === "T2" ? "var(--t2)" : "var(--t3)";
-    
     sorted.forEach(([stage, data]) => {
       const cards = data.projects.sort((a,b) => (b.days_in_stage||0) - (a.days_in_stage||0)).map(makeCard).join("");
       allCols += `<div class="kanban-col">
         <div class="kanban-col-header" style="border-left:3px solid ${tierColor}">
-          <span class="kanban-col-title" title="${stage}">${tier}: ${stage.length > 22 ? stage.slice(0,20)+"…" : stage}</span>
+          <span class="kanban-col-title" title="${stage}">${tier}: ${stage.length > 22 ? stage.slice(0,20)+"\u2026" : stage}</span>
           <span class="kanban-col-count">${data.projects.length}</span>
         </div>
         <div class="kanban-cards">${cards}</div>
       </div>`;
     });
   });
-  
   document.getElementById("panel-stage").innerHTML = `<div class="kanban">${allCols}</div>`;
 }
 
 function renderListView(fp) {
   let sortCol = "name";
   let sortDir = 1;
-  
   function render() {
     const sorted = [...fp].sort((a,b) => {
       let va = a[sortCol] || "", vb = b[sortCol] || "";
       if (sortCol === "days_in_stage") { va = a.days_in_stage ?? -1; vb = b.days_in_stage ?? -1; return (va - vb) * sortDir; }
       return String(va).localeCompare(String(vb)) * sortDir;
     });
-    
     const rows = sorted.map(p => {
       const dc = daysClass(p.days_in_stage);
       const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "-";
+      const badges = (isStale(p) ? '\u{23F0} ' : '') + (p.is_premium ? '\u{1F48E} ' : '') + (p.needs_fieldwork ? '\u{1F527}' : '');
       return `<tr>
         <td><a class="link" href="${INSIGHTLY_BASE}${p.id}" target="_blank">${p.name}</a></td>
         <td><span class="card-tier ${p.tier}" style="font-size:11px">${p.tier}</span></td>
@@ -433,24 +550,23 @@ function renderListView(fp) {
         <td>${respLabel(p.responsibility || "")}</td>
         <td>${daysHtml}</td>
         <td style="color:#38bdf8">${p.client || "-"}</td>
+        <td>${badges}</td>
       </tr>`;
     }).join("");
-    
-    const arrow = (col) => sortCol === col ? (sortDir === 1 ? " ▲" : " ▼") : "";
-    
+    const arrow = (col) => sortCol === col ? (sortDir === 1 ? " \u25B2" : " \u25BC") : "";
     document.getElementById("panel-list").innerHTML = `<div class="list-view"><table class="list-table">
       <thead><tr>
         <th data-col="name">Project${arrow("name")}</th>
         <th data-col="tier">Tier${arrow("tier")}</th>
         <th data-col="address">Address${arrow("address")}</th>
         <th data-col="stage_name">Stage${arrow("stage_name")}</th>
-        <th data-col="responsibility">Responsibility${arrow("responsibility")}</th>
+        <th data-col="responsibility">Resp${arrow("responsibility")}</th>
         <th data-col="days_in_stage">Days${arrow("days_in_stage")}</th>
         <th>Client</th>
+        <th>Flags</th>
       </tr></thead>
       <tbody>${rows}</tbody>
     </table></div>`;
-    
     document.querySelectorAll("#panel-list th[data-col]").forEach(th => {
       th.addEventListener("click", () => {
         const col = th.dataset.col;
@@ -462,13 +578,208 @@ function renderListView(fp) {
   render();
 }
 
+// === FEATURE 5: CLIENT VIEW ===
+function renderClientView(fp) {
+  const groups = {};
+  fp.forEach(p => {
+    const c = p.client || "No Client Linked";
+    if (!groups[c]) groups[c] = [];
+    groups[c].push(p);
+  });
+  const sorted = Object.entries(groups).sort((a,b) => b[1].length - a[1].length);
+
+  let html = '<div class="client-view">';
+  sorted.forEach(([client, projects]) => {
+    const projRows = projects.sort((a,b) => (a.name||"").localeCompare(b.name||"")).map(p => {
+      const dc = daysClass(p.days_in_stage);
+      const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}" style="font-size:11px">${p.days_in_stage}d</span>` : "";
+      const badges = (isStale(p) ? '<span class="badge-stale">\u{23F0}</span> ' : '') + (p.is_premium ? '<span class="badge-premium">\u{1F48E}</span>' : '');
+      return `<div class="client-project-row">
+        <span class="card-tier ${p.tier}" style="font-size:10px">${p.tier}</span>
+        <a href="${INSIGHTLY_BASE}${p.id}" target="_blank" style="color:var(--accent);text-decoration:none;font-size:13px;font-weight:500">${p.name}</a>
+        <span style="flex:1;font-size:11px;color:var(--text3);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${p.address||""}</span>
+        <span style="font-size:11px;color:var(--text2)">${p.stage_name}</span>
+        ${daysHtml} ${badges}
+      </div>`;
+    }).join("");
+
+    html += `<div class="client-group" onclick="this.classList.toggle('open')">
+      <div class="client-group-header">
+        <span class="client-group-name"><span class="client-group-chevron">\u25B6</span> ${client}</span>
+        <span class="client-group-count">${projects.length}</span>
+      </div>
+      <div class="client-group-body">${projRows}</div>
+    </div>`;
+  });
+  html += '</div>';
+  document.getElementById("panel-clients").innerHTML = html;
+}
+
+// === FEATURE 3: RFI TRACKER ===
+async function loadRFIs() {
+  try {
+    const resp = await fetch('rfi.json?' + Date.now());
+    RFI_DATA = await resp.json();
+    // Update badge
+    const active = (RFI_DATA.rfis || []).filter(r => r.status !== "resolved").length;
+    const badge = document.getElementById("rfiBadge");
+    if (active > 0) { badge.textContent = active; badge.style.display = "inline"; }
+    else { badge.style.display = "none"; }
+  } catch(e) {
+    console.log("No rfi.json available");
+  }
+}
+
+function renderRFIView() {
+  if (!RFI_DATA || !RFI_DATA.rfis) {
+    document.getElementById("panel-rfi").innerHTML = '<div class="rfi-view"><div class="activity-empty">\u{1F4E1} RFI data loading...</div></div>';
+    return;
+  }
+  const rfis = RFI_DATA.rfis.filter(r => r.status !== "resolved");
+  const now = new Date();
+
+  function urgency(r) {
+    if (!r.due_date_iso) return {cls:"no-date", label:"No Due Date", days:null};
+    const due = new Date(r.due_date_iso + "T00:00:00");
+    const diff = Math.ceil((due - now) / 86400000);
+    if (diff < 0) return {cls:"overdue", label:`${Math.abs(diff)}d OVERDUE`, days:diff};
+    if (diff <= 14) return {cls:"urgent", label:`${diff}d left`, days:diff};
+    return {cls:"normal", label:`${diff}d left`, days:diff};
+  }
+
+  // Sort: overdue first, then by days remaining
+  const sorted = [...rfis].sort((a,b) => {
+    const ua = urgency(a), ub = urgency(b);
+    if (ua.days === null) return 1;
+    if (ub.days === null) return -1;
+    return ua.days - ub.days;
+  });
+
+  const overdue = sorted.filter(r => urgency(r).cls === "overdue").length;
+  const urgent = sorted.filter(r => urgency(r).cls === "urgent").length;
+  const noDue = sorted.filter(r => urgency(r).cls === "no-date").length;
+
+  let html = '<div class="rfi-view">';
+  if (RFI_DATA.last_updated) {
+    const d = new Date(RFI_DATA.last_updated);
+    html += `<div class="rfi-updated">\u{1F4E1} RFI data last updated: ${d.toLocaleDateString('en-AU',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Australia/Adelaide'})}</div>`;
+  }
+
+  html += `<div class="rfi-stats">
+    <div class="rfi-stat"><div class="rfi-stat-val">${sorted.length}</div><div class="rfi-stat-label">Active RFIs</div></div>
+    <div class="rfi-stat"><div class="rfi-stat-val" style="color:var(--red)">${overdue}</div><div class="rfi-stat-label">Overdue</div></div>
+    <div class="rfi-stat"><div class="rfi-stat-val" style="color:var(--amber)">${urgent}</div><div class="rfi-stat-label">Due \u226414 days</div></div>
+    <div class="rfi-stat"><div class="rfi-stat-val" style="color:var(--text3)">${noDue}</div><div class="rfi-stat-label">No Due Date</div></div>
+  </div>`;
+
+  sorted.forEach(r => {
+    const u = urgency(r);
+    const link = r.insightly_id ? `<a href="${INSIGHTLY_BASE}${r.insightly_id}" target="_blank" style="color:var(--accent);text-decoration:none">${r.project_name || r.project_ref}</a>` : (r.project_name || r.project_ref);
+    html += `<div class="rfi-card">
+      <div class="rfi-card-header">
+        <div>
+          <div class="rfi-project">${link}</div>
+          <div class="rfi-detail">${r.description || ""}</div>
+        </div>
+        <span class="rfi-urgency ${u.cls}">${u.label}</span>
+      </div>
+      <div class="rfi-meta">
+        <div class="rfi-meta-item"><strong>Authority:</strong> ${r.authority || "-"}</div>
+        <div class="rfi-meta-item"><strong>Location:</strong> ${r.location || "-"}</div>
+        <div class="rfi-meta-item"><strong>PlanSA ID:</strong> ${r.app_id || "-"}</div>
+        <div class="rfi-meta-item"><strong>Type:</strong> ${r.type || "RFI"}</div>
+        ${r.due_date_iso ? `<div class="rfi-meta-item"><strong>Due:</strong> ${new Date(r.due_date_iso+"T00:00:00").toLocaleDateString('en-AU',{day:'numeric',month:'short',year:'numeric'})}</div>` : ''}
+      </div>
+    </div>`;
+  });
+
+  html += '</div>';
+  document.getElementById("panel-rfi").innerHTML = html;
+}
+
+// === FEATURE 4: ACTIVITY FEED ===
+async function loadActivity() {
+  try {
+    const resp = await fetch('activity_log.json?' + Date.now());
+    ACTIVITY_DATA = await resp.json();
+  } catch(e) {
+    console.log("No activity_log.json available");
+  }
+}
+
+function renderActivityView() {
+  if (!ACTIVITY_DATA || !ACTIVITY_DATA.changes || ACTIVITY_DATA.changes.length === 0) {
+    document.getElementById("panel-activity").innerHTML = '<div class="activity-view"><div class="activity-empty">\u{1F4F0} No activity recorded yet. Changes will appear here as projects move through stages.</div></div>';
+    return;
+  }
+  let html = '<div class="activity-view">';
+  if (ACTIVITY_DATA.last_updated) {
+    const d = new Date(ACTIVITY_DATA.last_updated);
+    html += `<div class="activity-updated">Last checked: ${d.toLocaleDateString('en-AU',{day:'numeric',month:'short',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Australia/Adelaide'})}</div>`;
+  }
+
+  ACTIVITY_DATA.changes.slice(0, 50).forEach(c => {
+    const isStage = c.type === "stage_change";
+    const icon = isStage ? "\u{1F4CB}" : "\u{1F464}";
+    const iconCls = isStage ? "stage" : "resp";
+    const actionText = isStage ? "moved to a new stage" : "responsibility changed";
+    const ts = c.timestamp ? new Date(c.timestamp) : null;
+    const timeStr = ts ? ts.toLocaleDateString('en-AU', {day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Australia/Adelaide'}) : "";
+
+    html += `<div class="activity-item">
+      <div class="activity-icon ${iconCls}">${icon}</div>
+      <div class="activity-body">
+        <div class="activity-title"><a href="${INSIGHTLY_BASE}${c.project_id}" target="_blank">${c.project_name}</a> ${actionText}</div>
+        <div class="activity-change"><span class="from">${c.from}</span> \u2192 <span class="to">${c.to}</span></div>
+        <div class="activity-time">${timeStr}</div>
+      </div>
+    </div>`;
+  });
+
+  html += '</div>';
+  document.getElementById("panel-activity").innerHTML = html;
+}
+
+// Render all data-driven views
 function renderAll() {
   const fp = filteredProjects();
   renderStats(fp);
+  renderWorkload(fp);
   renderBottleneck(fp);
   renderKanbanByResp(fp);
   renderKanbanByStage(fp);
   renderListView(fp);
+  renderClientView(fp);
+  renderRFIView();
+  renderActivityView();
+}
+
+// Data loading
+async function loadData() {
+  try {
+    const resp = await fetch('data.json?' + Date.now());
+    const data = await resp.json();
+    PROJECTS = data.projects;
+    if (window._updateClientList) window._updateClientList(PROJECTS);
+    const lu = document.getElementById('lastUpdated');
+    if (lu && data.last_updated) {
+      const d = new Date(data.last_updated);
+      const now = new Date();
+      const diffMin = Math.round((now - d) / 60000);
+      let ago;
+      if (diffMin < 1) ago = 'just now';
+      else if (diffMin < 60) ago = diffMin + ' min ago';
+      else if (diffMin < 1440) ago = Math.round(diffMin/60) + 'h ago';
+      else ago = d.toLocaleDateString('en-AU', {day:'numeric',month:'short',year:'numeric'});
+      lu.textContent = 'Updated ' + ago;
+      lu.title = d.toLocaleString('en-AU', {timeZone:'Australia/Adelaide'});
+    }
+    renderAll();
+  } catch(e) {
+    console.error('Failed to load data:', e);
+    const lu = document.getElementById('lastUpdated');
+    if (lu) lu.textContent = 'Data load failed';
+  }
 }
 
 // Tab switching
@@ -480,15 +791,14 @@ document.querySelectorAll(".nav-tab").forEach(tab => {
     currentTab = tab.dataset.tab;
     document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
     document.getElementById("panel-" + currentTab).classList.add("active");
-    
-    // Hide filters/stats/bottleneck on map tab
-    const isMap = currentTab === "map";
-    document.querySelector(".filters").style.display = isMap ? "none" : "flex";
-    document.getElementById("statsBar").style.display = isMap ? "none" : "flex";
-    document.getElementById("bottleneckBar").style.display = isMap ? "none" : "block";
-    
-    // Lazy-load map iframe on first visit
-    if (isMap && !mapLoaded) {
+
+    const hideControls = currentTab === "map" || currentTab === "rfi" || currentTab === "activity";
+    document.getElementById("filtersBar").style.display = hideControls ? "none" : "flex";
+    document.getElementById("statsBar").style.display = (currentTab === "map") ? "none" : "flex";
+    document.getElementById("bottleneckBar").style.display = (currentTab === "map" || currentTab === "rfi" || currentTab === "activity") ? "none" : "block";
+    document.getElementById("workloadSection").style.display = (currentTab === "map" || currentTab === "rfi" || currentTab === "activity") ? "none" : "block";
+
+    if (currentTab === "map" && !mapLoaded) {
       document.getElementById("mapFrame").src = "map.html";
       mapLoaded = true;
     }
@@ -515,23 +825,20 @@ document.querySelectorAll('.filter-btn[data-filter="smart"]').forEach(btn => {
   });
 });
 
-// Client search with autocomplete
+// Client search autocomplete
 (function() {
   const input = document.getElementById("clientSearch");
   const sugBox = document.getElementById("clientSuggestions");
   let allClients = [];
-  
   window._updateClientList = function(projects) {
     allClients = [...new Set(projects.map(p => p.client || '').filter(c => c))].sort();
   };
-  
   function showSuggestions(filter) {
     const q = filter.toLowerCase();
     const matches = q ? allClients.filter(c => c.toLowerCase().includes(q)) : allClients;
-    sugBox.innerHTML = '<div class="client-sug-clear">✕ Clear filter</div>' + 
+    sugBox.innerHTML = '<div class="client-sug-clear">\u2715 Clear filter</div>' +
       matches.map(c => `<div class="client-sug-item">${c}</div>`).join('');
     sugBox.classList.add('show');
-    
     sugBox.querySelector('.client-sug-clear').onclick = () => {
       input.value = ''; clientFilter = ''; sugBox.classList.remove('show'); renderAll();
     };
@@ -542,11 +849,9 @@ document.querySelectorAll('.filter-btn[data-filter="smart"]').forEach(btn => {
       };
     });
   }
-  
   input.addEventListener('focus', () => showSuggestions(input.value));
   input.addEventListener('input', (e) => {
     showSuggestions(e.target.value);
-    // Also live-filter if they type a partial match
     clientFilter = '';
     const q = e.target.value.toLowerCase();
     if (q && allClients.some(c => c.toLowerCase() === q)) clientFilter = allClients.find(c => c.toLowerCase() === q);
@@ -563,12 +868,26 @@ document.getElementById("searchBox").addEventListener("input", (e) => {
   renderAll();
 });
 
-// Initial data load
-loadData();
+// Workload toggle
+document.getElementById("workloadToggle").addEventListener("click", () => {
+  const content = document.getElementById("workloadContent");
+  const toggle = document.getElementById("workloadToggle");
+  if (content.style.display === "none") {
+    content.style.display = "block";
+    toggle.innerHTML = "\u25BC Workload Summary";
+  } else {
+    content.style.display = "none";
+    toggle.innerHTML = "\u25B6 Workload Summary";
+  }
+});
 
-// Auto-refresh every 15 minutes
-setInterval(loadData, 15 * 60 * 1000);
+// Initial load
+loadData();
+loadRFIs();
+loadActivity();
+
+// Auto-refresh
+setInterval(() => { loadData(); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
 </script>
 </body>
 </html>
-

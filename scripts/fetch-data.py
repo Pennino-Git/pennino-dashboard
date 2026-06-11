@@ -2,6 +2,7 @@
 """
 Fetch active projects from Insightly and generate data.json for the dashboard.
 Runs as a GitHub Action every 15 minutes.
+Also tracks stage/responsibility changes in activity_log.json.
 """
 import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime, time
 
@@ -39,7 +40,7 @@ STAGE_RESPONSIBILITY = {
 }
 
 MAX_RETRIES = 3
-RETRY_DELAY = 10  # seconds
+RETRY_DELAY = 10
 
 def api_get(endpoint, params=None, retries=MAX_RETRIES):
     url = f"{BASE}/{endpoint}"
@@ -79,7 +80,6 @@ def api_get(endpoint, params=None, retries=MAX_RETRIES):
     return None
 
 def get_all_stages():
-    """Fetch all pipeline stages via PipelineStages endpoint."""
     result = api_get("PipelineStages")
     stages = {}
     if isinstance(result, list):
@@ -93,7 +93,6 @@ def get_all_stages():
     return stages
 
 def get_all_projects():
-    """Fetch all projects, paginating 500 at a time."""
     all_projects = []
     skip = 0
     while True:
@@ -109,11 +108,9 @@ def get_all_projects():
     return all_projects
 
 def get_contact_name(project, contact_cache):
-    """Get PM or Client name from project links."""
     links = project.get("LINKS", [])
     pm_link = None
     client_link = None
-    
     for link in links:
         obj_type = link.get("LINK_OBJECT_NAME", "")
         if obj_type not in ("Contact", "Organisation"):
@@ -125,20 +122,16 @@ def get_contact_name(project, contact_cache):
             pm_link = link
         elif "client" in role:
             client_link = link
-    
     best = pm_link or client_link
     if not best:
         return ""
-    
     obj_type = best.get("LINK_OBJECT_NAME", "")
     obj_id = best.get("LINK_OBJECT_ID")
     if not obj_id:
         return ""
-    
     cache_key = f"{obj_type}_{obj_id}"
     if cache_key in contact_cache:
         return contact_cache[cache_key]
-    
     name = ""
     if obj_type == "Contact":
         contact = api_get(f"Contacts/{obj_id}")
@@ -150,21 +143,18 @@ def get_contact_name(project, contact_cache):
         org = api_get(f"Organisations/{obj_id}")
         if isinstance(org, dict):
             name = org.get("ORGANISATION_NAME", "")
-    
     contact_cache[cache_key] = name
     return name
 
 def load_previous_data():
-    """Load previous data.json if it exists to reuse client names."""
     try:
         with open("data.json", "r") as f:
             data = json.load(f)
-            return {p["id"]: p.get("client", "") for p in data.get("projects", []) if p.get("client")}
+            return {p["id"]: p for p in data.get("projects", [])}
     except Exception:
         return {}
 
 def load_stage_tracking():
-    """Load stage_tracking.json — tracks when each project entered its current stage."""
     try:
         with open("stage_tracking.json", "r") as f:
             return json.load(f)
@@ -172,66 +162,76 @@ def load_stage_tracking():
         return {}
 
 def save_stage_tracking(tracking):
-    """Save stage_tracking.json."""
     with open("stage_tracking.json", "w") as f:
         json.dump(tracking, f, indent=2)
+
+def load_activity_log():
+    try:
+        with open("activity_log.json", "r") as f:
+            return json.load(f)
+    except Exception:
+        return {"changes": [], "last_updated": ""}
+
+def save_activity_log(log):
+    with open("activity_log.json", "w") as f:
+        json.dump(log, f, indent=2)
 
 def main():
     if not API_KEY:
         print("ERROR: INSIGHTLY_API_KEY not set", file=sys.stderr)
         sys.exit(1)
-    
-    # Load previous client names to avoid unnecessary API calls
-    prev_clients = load_previous_data()
+
+    prev_data = load_previous_data()
+    prev_clients = {pid: p.get("client", "") for pid, p in prev_data.items() if p.get("client")}
     print(f"Loaded {len(prev_clients)} cached client names from previous run")
-    
-    # Load stage tracking for days-in-stage calculation
+
     stage_tracking = load_stage_tracking()
     print(f"Loaded {len(stage_tracking)} stage tracking entries")
-    
+
+    activity_log = load_activity_log()
+    print(f"Loaded {len(activity_log.get('changes', []))} activity log entries")
+
     print("Fetching pipeline stages...")
     stages = get_all_stages()
     print(f"  Got {len(stages)} stages across {len(PIPELINES)} pipelines")
-    
+
     print("Fetching all projects from Insightly...")
     raw_projects = get_all_projects()
     print(f"  Got {len(raw_projects)} total projects")
-    
-    # SAFETY CHECK: If we got 0 projects or active count dropped dramatically, Insightly may be down.
-    # Don't overwrite good data with bad data.
+
     if len(raw_projects) == 0 and len(prev_clients) > 0:
-        print("\n⚠️  Got 0 projects from API but previous data had projects — Insightly may be down.")
+        print("\n  Got 0 projects from API but previous data had projects - Insightly may be down.")
         print("   Keeping existing data.json to avoid breaking the dashboard.")
         sys.exit(0)
-    
-    # Also check if active count dropped by more than 50% (API may have returned partial data)
+
     try:
         with open("data.json", "r") as f:
             old_data = json.load(f)
         old_count = old_data.get("total", 0)
     except Exception:
         old_count = 0
-    
-    # Filter to active only
-    active_projects = [p for p in raw_projects 
-                       if p.get("STATUS", "") in ACTIVE_STATUSES 
+
+    active_projects = [p for p in raw_projects
+                       if p.get("STATUS", "") in ACTIVE_STATUSES
                        and p.get("PIPELINE_ID") in PIPELINES]
     print(f"  Filtered to {len(active_projects)} active projects")
-    
+
     if old_count > 20 and len(active_projects) < old_count * 0.5:
-        print(f"\n⚠️  Active projects dropped from {old_count} to {len(active_projects)} — likely API issue.")
+        print(f"\n  Active projects dropped from {old_count} to {len(active_projects)} - likely API issue.")
         print("   Keeping existing data.json to avoid breaking the dashboard.")
         sys.exit(0)
-    
+
     now_utc = datetime.datetime.now(datetime.timezone.utc)
     adelaide = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
     now_adelaide = now_utc.astimezone(adelaide)
     today_str = now_adelaide.strftime("%Y-%m-%d")
-    
+    now_iso = now_adelaide.isoformat()
+
     projects = []
     contact_cache = {}
     new_tracking = {}
-    
+    new_changes = []
+
     for i, p in enumerate(active_projects):
         pid = p.get("PIPELINE_ID")
         tier = PIPELINES[pid]["tier"]
@@ -239,7 +239,7 @@ def main():
         stage_info = stages.get(stage_id, {})
         stage_name = stage_info.get("name", "Unknown")
         stage_order = stage_info.get("order", 0)
-        
+
         address = ""
         sa_water = ""
         responsibility = ""
@@ -249,52 +249,75 @@ def main():
             if fid == "PROJECT_FIELD_3": address = val
             elif fid == "PROJECT_FIELD_6": sa_water = val
             elif fid == "Current_Responsibility__c": responsibility = val
-        
+
         if not responsibility:
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
-        
-        # Extract tags
+
         tags = [t.get("TAG_NAME", "") for t in p.get("TAGS", []) if t.get("TAG_NAME")]
         needs_fieldwork = "FIELD" in tags
-        
+        is_premium = "PREMIUM" in tags
+
         project_id = p["PROJECT_ID"]
         project_key = str(project_id)
-        
-        # Stage tracking: detect stage changes and calculate days
+        project_name = p.get("PROJECT_NAME", "")
+
+        # Stage tracking
         prev = stage_tracking.get(project_key, {})
         prev_stage_id = prev.get("stage_id")
-        
+
         if prev_stage_id == stage_id and prev.get("entered"):
-            # Same stage — keep original entered date
             entered_date = prev["entered"]
         else:
-            # New project or stage changed — record today
             entered_date = today_str
-        
+
         new_tracking[project_key] = {
             "stage_id": stage_id,
             "entered": entered_date,
             "stage_name": stage_name
         }
-        
-        # Calculate days in stage
+
         try:
             entered_dt = datetime.datetime.strptime(entered_date, "%Y-%m-%d").date()
             days_in_stage = (now_adelaide.date() - entered_dt).days
         except Exception:
             days_in_stage = 0
-        
-        # Try to reuse previous client name, otherwise fetch
+
+        # Activity tracking - detect stage and responsibility changes
+        prev_project = prev_data.get(project_id)
+        if prev_project:
+            prev_stage = prev_project.get("stage_name", "")
+            prev_resp = prev_project.get("responsibility", "")
+            if prev_stage and prev_stage != stage_name:
+                new_changes.append({
+                    "type": "stage_change",
+                    "project_id": project_id,
+                    "project_name": project_name,
+                    "tier": tier,
+                    "from": prev_stage,
+                    "to": stage_name,
+                    "timestamp": now_iso
+                })
+            if prev_resp and prev_resp != responsibility:
+                new_changes.append({
+                    "type": "responsibility_change",
+                    "project_id": project_id,
+                    "project_name": project_name,
+                    "tier": tier,
+                    "from": prev_resp,
+                    "to": responsibility,
+                    "timestamp": now_iso
+                })
+
         client = prev_clients.get(project_id, "")
         if not client:
             client = get_contact_name(p, contact_cache)
-        
+
         if (i + 1) % 20 == 0:
             print(f"  Processing: {i+1}/{len(active_projects)}")
-        
+
         projects.append({
             "id": project_id,
-            "name": p.get("PROJECT_NAME", ""),
+            "name": project_name,
             "tier": tier,
             "status": p.get("STATUS", ""),
             "address": address,
@@ -307,27 +330,35 @@ def main():
             "stage_order": stage_order,
             "tags": tags,
             "needs_fieldwork": needs_fieldwork,
+            "is_premium": is_premium,
         })
-    
+
     projects.sort(key=lambda x: ({"T1":1,"T2":2,"T3":3}.get(x["tier"],9), x["name"]))
-    
-    timestamp = now_adelaide.isoformat()
-    
-    output = {"projects": projects, "last_updated": timestamp, "total": len(projects)}
-    
+
+    output = {"projects": projects, "last_updated": now_iso, "total": len(projects)}
+
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
-    
-    # Save stage tracking
+
     save_stage_tracking(new_tracking)
-    
-    # Stats
+
+    # Update activity log - prepend new changes, keep last 200
+    if new_changes:
+        all_changes = new_changes + activity_log.get("changes", [])
+        all_changes = all_changes[:200]
+        activity_log = {"changes": all_changes, "last_updated": now_iso}
+        save_activity_log(activity_log)
+        print(f"  Logged {len(new_changes)} activity changes")
+    else:
+        # Update timestamp even if no changes
+        activity_log["last_updated"] = now_iso
+        save_activity_log(activity_log)
+
     with_client = sum(1 for p in projects if p.get("client"))
     unknown_stage = sum(1 for p in projects if p.get("stage_name") == "Unknown")
     with_days = sum(1 for p in projects if p.get("days_in_stage", 0) > 0)
-    print(f"\n✅ Generated data.json: {len(projects)} projects, {with_client} with client names, {unknown_stage} unknown stages, {with_days} with days tracked")
+    premium = sum(1 for p in projects if p.get("is_premium"))
+    print(f"\n  Generated data.json: {len(projects)} projects, {with_client} clients, {unknown_stage} unknown stages, {with_days} days tracked, {premium} premium")
 
 if __name__ == "__main__":
     main()
-
-
