@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde CD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-06-11T21:15:26.005981+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18256019,
       "project_name": "A1347 V506 Columbia Cres TIER3",
@@ -37,5 +46,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-11T21:00:34.333349+09:30"
+  "last_updated": "2026-06-11T21:15:26.005981+09:30"
 }
