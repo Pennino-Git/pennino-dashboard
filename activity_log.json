@@ -1,4 +1,23 @@
 {
-  "changes": [],
-  "last_updated": "2026-06-11T14:00:30.841717+09:30"
+  "changes": [
+    {
+      "type": "stage_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "10. LTO Approval",
+      "to": "11. Complete",
+      "timestamp": "2026-06-11T14:15:23.730963+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-11T14:15:23.730963+09:30"
+    }
+  ],
+  "last_updated": "2026-06-11T14:15:23.730963+09:30"
 }
