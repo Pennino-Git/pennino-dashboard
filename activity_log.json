@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-06-12T06:15:25.031781+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16853856,
+      "project_name": "F1094 Galloway Rd TD1-3",
+      "tier": "T2",
+      "from": "Harry",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-12T06:15:25.031781+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde CD1-2",
       "tier": "T2",
@@ -46,5 +64,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-12T06:00:30.985454+09:30"
+  "last_updated": "2026-06-12T06:15:25.031781+09:30"
 }
