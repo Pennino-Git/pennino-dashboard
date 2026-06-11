@@ -240,6 +240,10 @@ def main():
         if not responsibility:
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
         
+        # Extract tags
+        tags = [t.get("TAG_NAME", "") for t in p.get("TAGS", []) if t.get("TAG_NAME")]
+        needs_fieldwork = "FIELD WORK REQUIRED" in tags
+        
         project_id = p["PROJECT_ID"]
         project_key = str(project_id)
         
@@ -288,6 +292,8 @@ def main():
             "stage_name": stage_name,
             "sa_water_ref": sa_water,
             "stage_order": stage_order,
+            "tags": tags,
+            "needs_fieldwork": needs_fieldwork,
         })
     
     projects.sort(key=lambda x: ({"T1":1,"T2":2,"T3":3}.get(x["tier"],9), x["name"]))
@@ -310,3 +316,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
