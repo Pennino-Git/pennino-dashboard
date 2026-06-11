@@ -25,8 +25,8 @@
       "id": 18313304,
       "name": "A1349 Cecilia Rd IDENT",
       "tier": "T1",
-      "status": "NOT STARTED",
-      "address": "Cecilia Rd",
+      "status": "IN PROGRESS",
+      "address": "45 Cecilia Road, Christies Downs SA 5164",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18313304",
       "responsibility": "TR (Tristan)",
@@ -34,8 +34,10 @@
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2,
-      "tags": [],
-      "needs_fieldwork": false,
+      "tags": [
+        "FIELD"
+      ],
+      "needs_fieldwork": true,
       "is_premium": false
     },
     {
@@ -1420,9 +1422,10 @@
       "stage_order": 5,
       "tags": [
         "tier2",
-        "torrens_division"
+        "torrens_division",
+        "FIELD"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false
     },
     {
@@ -2029,6 +2032,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-11T13:15:24.194920+09:30",
+  "last_updated": "2026-06-11T13:30:36.432192+09:30",
   "total": 99
 }
