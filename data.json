@@ -1139,26 +1139,6 @@
       "is_premium": false
     },
     {
-      "id": 17328458,
-      "name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "17 Stebonheath Road, Edinburgh North (Womma Road)",
-      "client": "Louis Beinke",
-      "link": "https://crm.na1.insightly.com/details/project/17328458",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "11. Complete",
-      "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
-      "stage_order": 11,
-      "tags": [
-        "tier2",
-        "torrens_division"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 18203158,
       "name": "L1038 Beach Rd TD1-2",
       "tier": "T2",
@@ -2032,6 +2012,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-11T18:30:38.915347+09:30",
-  "total": 99
+  "last_updated": "2026-06-11T18:45:27.345456+09:30",
+  "total": 98
 }
