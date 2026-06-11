@@ -86,6 +86,9 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .card-days.amber { background:#713f12; color:#fde047; }
 .card-days.red { background:#7f1d1d; color:#fca5a5; }
 .card-sawater { font-size:10px; color:#38bdf8; margin-top:3px; }
+.card-fieldwork { font-size:10px; color:#ef4444; margin-top:3px; font-weight:600; display:flex; align-items:center; gap:3px; }
+.card-fieldwork .fw-dot { width:6px; height:6px; border-radius:50%; background:#ef4444; animation:fwPulse 2s infinite; }
+@keyframes fwPulse { 0%,100%{opacity:1} 50%{opacity:.4} }
 
 /* List view */
 .list-view { padding:12px 24px; }
@@ -152,6 +155,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   <div class="filter-btn" data-filter="smart" data-value="fieldwork">🔨 Fieldwork</div>
   <div class="filter-btn" data-filter="smart" data-value="authority">🏛️ With Authority</div>
   <div class="filter-btn" data-filter="smart" data-value="drafting">✏️ Drafting</div>
+  <div class="filter-btn" data-filter="smart" data-value="needsfieldwork">🔧 Needs Field Work</div>
   
   <div class="client-search-wrap">
     <input class="client-search" type="text" id="clientSearch" placeholder="👤 Filter by client..." autocomplete="off">
@@ -249,6 +253,7 @@ function matchesSmart(p, filter) {
     case "fieldwork": return sn.includes("field work") || sn.includes("pegging") || sn.includes("certified survey");
     case "authority": return sn.includes("authority") || sn.includes("plansa") || sn.includes("scap") || sn.includes("lto") || rn.includes("council") || rn.includes("scap") || rn.includes("lto");
     case "drafting": return sn.includes("plan drawing") || sn.includes("prepare plan") || sn.includes("drafting") || sn.includes("concept") || rn.includes("kate");
+    case "needsfieldwork": return p.needs_fieldwork === true;
     default: return true;
   }
 }
@@ -277,6 +282,7 @@ function makeCard(p) {
   const dc = daysClass(p.days_in_stage);
   const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "";
   const clientHtml = p.client ? `<div class="card-sawater">👤 ${p.client}</div>` : "";
+  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>🔧 Field Work Required</div>` : "";
   return `<a href="${INSIGHTLY_BASE}${p.id}" target="_blank" style="text-decoration:none;color:inherit;" title="Open in Insightly">
     <div class="card">
       <div class="card-header">
@@ -285,6 +291,7 @@ function makeCard(p) {
       </div>
       <div class="card-address" title="${p.address||''}">${p.address || "No address"}</div>
       ${clientHtml}
+      ${fwHtml}
       <div class="card-footer">
         <span class="card-stage" title="${p.stage_name}">${p.stage_name}</span>
         ${daysHtml}
@@ -299,6 +306,7 @@ function renderStats(fp) {
   const t3 = fp.filter(p=>p.tier==="T3").length;
   
   const fieldwork = fp.filter(p=>matchesSmart(p,"fieldwork")).length;
+  const needsfw = fp.filter(p=>p.needs_fieldwork).length;
   
   document.getElementById("statsBar").innerHTML = `
     <div class="stat-card"><div class="label">Total Active</div><div class="value">${fp.length}</div></div>
@@ -306,7 +314,8 @@ function renderStats(fp) {
     <div class="stat-card"><div class="label">🟢 T2 Land Div</div><div class="value" style="color:var(--t2)">${t2}</div></div>
     <div class="stat-card"><div class="label">🟠 T3 Engineering</div><div class="value" style="color:var(--t3)">${t3}</div></div>
     
-    <div class="stat-card"><div class="label">🔨 Fieldwork</div><div class="value">${fieldwork}</div></div>
+    <div class="stat-card"><div class="label">🔨 Fieldwork Stage</div><div class="value">${fieldwork}</div></div>
+    <div class="stat-card"><div class="label">🔧 Needs Field Work</div><div class="value" style="color:var(--red)">${needsfw}</div></div>
   `;
   document.getElementById("projectCount").textContent = fp.length + " projects";
 }
