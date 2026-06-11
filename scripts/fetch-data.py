@@ -97,7 +97,7 @@ def get_all_projects():
     all_projects = []
     skip = 0
     while True:
-        params = {"top": 500, "skip": skip, "brief": "false"}
+        params = {"top": 500, "skip": skip}
         batch = api_get("Projects/Search", params)
         if not batch or not isinstance(batch, list):
             break
@@ -197,18 +197,31 @@ def main():
     raw_projects = get_all_projects()
     print(f"  Got {len(raw_projects)} total projects")
     
-    # SAFETY CHECK: If we got 0 projects but had data before, Insightly is likely down.
-    # Don't overwrite good data with empty data.
+    # SAFETY CHECK: If we got 0 projects or active count dropped dramatically, Insightly may be down.
+    # Don't overwrite good data with bad data.
     if len(raw_projects) == 0 and len(prev_clients) > 0:
         print("\n⚠️  Got 0 projects from API but previous data had projects — Insightly may be down.")
         print("   Keeping existing data.json to avoid breaking the dashboard.")
         sys.exit(0)
+    
+    # Also check if active count dropped by more than 50% (API may have returned partial data)
+    try:
+        with open("data.json", "r") as f:
+            old_data = json.load(f)
+        old_count = old_data.get("total", 0)
+    except Exception:
+        old_count = 0
     
     # Filter to active only
     active_projects = [p for p in raw_projects 
                        if p.get("STATUS", "") in ACTIVE_STATUSES 
                        and p.get("PIPELINE_ID") in PIPELINES]
     print(f"  Filtered to {len(active_projects)} active projects")
+    
+    if old_count > 20 and len(active_projects) < old_count * 0.5:
+        print(f"\n⚠️  Active projects dropped from {old_count} to {len(active_projects)} — likely API issue.")
+        print("   Keeping existing data.json to avoid breaking the dashboard.")
+        sys.exit(0)
     
     now_utc = datetime.datetime.now(datetime.timezone.utc)
     adelaide = datetime.timezone(datetime.timedelta(hours=9, minutes=30))
