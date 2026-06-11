@@ -1721,11 +1721,11 @@
       "address": "V506 Columbia Crescent, Hallet Cove",
       "client": "Sam Dyson",
       "link": "https://crm.na1.insightly.com/details/project/18256019",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
-      "stage_name": "Plan Drawing & Check",
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "agig"
@@ -2032,6 +2032,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-11T16:45:26.993548+09:30",
+  "last_updated": "2026-06-11T17:00:33.782005+09:30",
   "total": 99
 }

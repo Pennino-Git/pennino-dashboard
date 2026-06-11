@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18256019,
+      "project_name": "A1347 V506 Columbia Cres TIER3",
+      "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-06-11T17:00:33.782005+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18256019,
+      "project_name": "A1347 V506 Columbia Cres TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-11T17:00:33.782005+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5",
       "tier": "T2",
@@ -19,5 +37,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-11T16:45:26.993548+09:30"
+  "last_updated": "2026-06-11T17:00:33.782005+09:30"
 }
