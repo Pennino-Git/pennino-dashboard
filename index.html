@@ -282,7 +282,7 @@ function makeCard(p) {
   const dc = daysClass(p.days_in_stage);
   const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "";
   const clientHtml = p.client ? `<div class="card-sawater">👤 ${p.client}</div>` : "";
-  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>🔧 Field Work Required</div>` : "";
+  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>🔧 Field Work</div>` : "";
   return `<a href="${INSIGHTLY_BASE}${p.id}" target="_blank" style="text-decoration:none;color:inherit;" title="Open in Insightly">
     <div class="card">
       <div class="card-header">
@@ -575,3 +575,4 @@ setInterval(loadData, 15 * 60 * 1000);
 </script>
 </body>
 </html>
+
