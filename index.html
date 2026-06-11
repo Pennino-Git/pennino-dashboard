@@ -152,10 +152,9 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   <div class="filter-btn" data-filter="tier" data-value="T2">🟢 T2 Land Div</div>
   <div class="filter-btn" data-filter="tier" data-value="T3">🟠 T3 Engineering</div>
   <div class="filter-sep"></div>
-  <div class="filter-btn" data-filter="smart" data-value="fieldwork">🔨 Fieldwork</div>
+  <div class="filter-btn" data-filter="smart" data-value="fieldwork">🔧 Field Work</div>
   <div class="filter-btn" data-filter="smart" data-value="authority">🏛️ With Authority</div>
   <div class="filter-btn" data-filter="smart" data-value="drafting">✏️ Drafting</div>
-  <div class="filter-btn" data-filter="smart" data-value="needsfieldwork">🔧 Needs Field Work</div>
   
   <div class="client-search-wrap">
     <input class="client-search" type="text" id="clientSearch" placeholder="👤 Filter by client..." autocomplete="off">
@@ -250,10 +249,9 @@ function matchesSmart(p, filter) {
   const sn = (p.stage_name || "").toLowerCase();
   const rn = (p.responsibility || "").toLowerCase();
   switch(filter) {
-    case "fieldwork": return sn.includes("field work") || sn.includes("pegging") || sn.includes("certified survey");
+    case "fieldwork": return sn.includes("field work") || sn.includes("pegging") || sn.includes("certified survey") || p.needs_fieldwork === true;
     case "authority": return sn.includes("authority") || sn.includes("plansa") || sn.includes("scap") || sn.includes("lto") || rn.includes("council") || rn.includes("scap") || rn.includes("lto");
     case "drafting": return sn.includes("plan drawing") || sn.includes("prepare plan") || sn.includes("drafting") || sn.includes("concept") || rn.includes("kate");
-    case "needsfieldwork": return p.needs_fieldwork === true;
     default: return true;
   }
 }
@@ -306,7 +304,6 @@ function renderStats(fp) {
   const t3 = fp.filter(p=>p.tier==="T3").length;
   
   const fieldwork = fp.filter(p=>matchesSmart(p,"fieldwork")).length;
-  const needsfw = fp.filter(p=>p.needs_fieldwork).length;
   
   document.getElementById("statsBar").innerHTML = `
     <div class="stat-card"><div class="label">Total Active</div><div class="value">${fp.length}</div></div>
@@ -314,8 +311,7 @@ function renderStats(fp) {
     <div class="stat-card"><div class="label">🟢 T2 Land Div</div><div class="value" style="color:var(--t2)">${t2}</div></div>
     <div class="stat-card"><div class="label">🟠 T3 Engineering</div><div class="value" style="color:var(--t3)">${t3}</div></div>
     
-    <div class="stat-card"><div class="label">🔨 Fieldwork Stage</div><div class="value">${fieldwork}</div></div>
-    <div class="stat-card"><div class="label">🔧 Needs Field Work</div><div class="value" style="color:var(--red)">${needsfw}</div></div>
+    <div class="stat-card"><div class="label">🔧 Field Work</div><div class="value">${fieldwork}</div></div>
   `;
   document.getElementById("projectCount").textContent = fp.length + " projects";
 }
