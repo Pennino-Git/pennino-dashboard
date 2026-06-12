@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-06-12T11:30:38.489732+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
       "tier": "T2",
@@ -64,5 +73,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-12T11:15:24.810946+09:30"
+  "last_updated": "2026-06-12T11:30:38.489732+09:30"
 }
