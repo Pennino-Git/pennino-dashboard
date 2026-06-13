@@ -815,7 +815,7 @@
       "address": "73 Galloway Road, O'Sullivan Beach SA 5166",
       "client": "Alisa Styles",
       "link": "https://crm.na1.insightly.com/details/project/16853856",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 2,
       "stage_name": "11. Complete",
       "sa_water_ref": "H0178452",
@@ -2032,6 +2032,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-13T10:45:31.488488+09:30",
+  "last_updated": "2026-06-13T11:00:37.901217+09:30",
   "total": 99
 }
