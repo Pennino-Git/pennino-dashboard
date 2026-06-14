@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-15T06:15:49.050265+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 16853856,
       "project_name": "F1094 Galloway Rd TD1-3",
       "tier": "T2",
@@ -91,5 +100,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-15T06:00:41.098438+09:30"
+  "last_updated": "2026-06-15T06:15:49.050265+09:30"
 }
