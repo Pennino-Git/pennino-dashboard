@@ -2030,8 +2030,28 @@
       ],
       "needs_fieldwork": false,
       "is_premium": false
+    },
+    {
+      "id": 18350144,
+      "name": "T1326 Garnet Ave TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Garnet Avenue, Blackwood",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18350144",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier3",
+        "tpc"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
     }
   ],
-  "last_updated": "2026-06-15T20:15:39.691104+09:30",
-  "total": 99
+  "last_updated": "2026-06-15T20:30:52.844556+09:30",
+  "total": 100
 }
