@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-06-16T15:15:31.139370+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18287874,
       "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
       "tier": "T3",
@@ -100,5 +109,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-16T15:00:48.130280+09:30"
+  "last_updated": "2026-06-16T15:15:31.139370+09:30"
 }
