@@ -360,50 +360,94 @@ def main():
     premium = sum(1 for p in projects if p.get("is_premium"))
     print(f"\n  Generated data.json: {len(projects)} projects, {with_client} clients, {unknown_stage} unknown stages, {with_days} days tracked, {premium} premium")
 
-    # --- Pre-compute tasks.json for daily digest ---
-    print("\nFetching Insightly tasks for digest pre-computation...")
-    tasks_data = {"tasks_due_today": [], "tasks_overdue": [], "last_updated": now_iso}
+    # --- Pre-compute tasks.json for dashboard cards + daily digest ---
+    print("\nFetching Insightly tasks for dashboard + digest...")
     today_iso = now_adelaide.strftime("%Y-%m-%d")
-    yesterday_iso = (now_adelaide - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 
-    # Project name lookup
+    # Project ID set for active projects
+    active_ids = {p["id"] for p in projects}
     proj_lookup = {p["id"]: p["name"] for p in projects}
 
-    # Tasks due today
-    today_tasks = api_get("Tasks/Search", {"field_name": "DUE_DATE", "field_value": today_iso, "field_filter_operator": "EQUAL_TO", "top": 100})
-    if isinstance(today_tasks, list):
-        for t in today_tasks:
-            if not t.get("COMPLETED") and t.get("RESPONSIBLE_USER_ID") == 1007093:
-                pid = t.get("PROJECT_ID")
-                tasks_data["tasks_due_today"].append({
-                    "task_id": t.get("TASK_ID"),
-                    "title": t.get("TITLE", ""),
-                    "due_date": today_iso,
-                    "project_id": pid,
-                    "project_name": proj_lookup.get(pid, ""),
-                    "status": t.get("STATUS", ""),
-                })
-    print(f"  Tasks due today: {len(tasks_data['tasks_due_today'])}")
+    # Fetch ALL incomplete tasks (paginated, max 500/call)
+    all_tasks = []
+    skip = 0
+    while True:
+        batch = api_get("Tasks", {"top": 500, "skip": skip})
+        if not isinstance(batch, list) or len(batch) == 0:
+            break
+        all_tasks.extend(batch)
+        if len(batch) < 500:
+            break
+        skip += 500
+    print(f"  Fetched {len(all_tasks)} total tasks")
 
-    # Overdue tasks (due before today)
-    overdue_tasks = api_get("Tasks/Search", {"field_name": "DUE_DATE", "field_value": yesterday_iso, "field_filter_operator": "LESS_THAN_OR_EQUAL_TO", "top": 100})
-    if isinstance(overdue_tasks, list):
-        for t in overdue_tasks:
-            if not t.get("COMPLETED") and t.get("RESPONSIBLE_USER_ID") == 1007093:
-                pid = t.get("PROJECT_ID")
-                tasks_data["tasks_overdue"].append({
-                    "task_id": t.get("TASK_ID"),
-                    "title": t.get("TITLE", ""),
-                    "due_date": (t.get("DUE_DATE") or "")[:10],
-                    "project_id": pid,
-                    "project_name": proj_lookup.get(pid, ""),
-                    "status": t.get("STATUS", ""),
-                })
-    print(f"  Tasks overdue: {len(tasks_data['tasks_overdue'])}")
+    # Filter: incomplete, linked to active project
+    open_tasks = [t for t in all_tasks
+                  if not t.get("COMPLETED")
+                  and t.get("PROJECT_ID") in active_ids
+                  and t.get("STATUS") in ("NOT STARTED", "IN PROGRESS", "DEFERRED", "WAITING")]
+
+    # Build per-project task summary
+    by_project = {}
+    digest_today = []
+    digest_overdue = []
+
+    for t in open_tasks:
+        pid = t["PROJECT_ID"]
+        due = (t.get("DUE_DATE") or "")[:10]
+        title = t.get("TITLE", "")
+        status = t.get("STATUS", "")
+
+        is_overdue = due and due < today_iso
+        is_due_today = due == today_iso
+        is_due_soon = due and not is_overdue and not is_due_today and due <= (now_adelaide + datetime.timedelta(days=7)).strftime("%Y-%m-%d")
+
+        task_entry = {
+            "task_id": t.get("TASK_ID"),
+            "title": title,
+            "due_date": due or None,
+            "status": status,
+            "overdue": is_overdue,
+            "due_today": is_due_today,
+            "due_soon": is_due_soon,
+        }
+
+        if pid not in by_project:
+            by_project[pid] = {"total": 0, "overdue": 0, "due_today": 0, "due_soon": 0, "tasks": []}
+        by_project[pid]["total"] += 1
+        if is_overdue:
+            by_project[pid]["overdue"] += 1
+        if is_due_today:
+            by_project[pid]["due_today"] += 1
+        if is_due_soon:
+            by_project[pid]["due_soon"] += 1
+        by_project[pid]["tasks"].append(task_entry)
+
+        # Digest lists
+        if is_due_today:
+            digest_today.append({**task_entry, "project_id": pid, "project_name": proj_lookup.get(pid, "")})
+        if is_overdue:
+            digest_overdue.append({**task_entry, "project_id": pid, "project_name": proj_lookup.get(pid, "")})
+
+    # Convert project IDs to strings for JSON
+    by_project_str = {str(k): v for k, v in by_project.items()}
+
+    tasks_data = {
+        "by_project": by_project_str,
+        "tasks_due_today": digest_today,
+        "tasks_overdue": digest_overdue,
+        "summary": {
+            "total_open": len(open_tasks),
+            "total_overdue": len(digest_overdue),
+            "total_due_today": len(digest_today),
+            "projects_with_tasks": len(by_project),
+        },
+        "last_updated": now_iso,
+    }
 
     with open("tasks.json", "w") as f:
         json.dump(tasks_data, f, indent=2)
-    print("  Saved tasks.json")
+    print(f"  Saved tasks.json — {len(open_tasks)} open tasks across {len(by_project)} projects")
 
 if __name__ == "__main__":
     main()

@@ -112,6 +112,20 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .card-stale { font-size:10px; color:#fbbf24; margin-top:3px; font-weight:600; display:flex; align-items:center; gap:3px; }
 .badge-stale { font-size:9px; background:#92400e; color:#fde047; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-premium { font-size:9px; background:#5b21b6; color:#c4b5fd; padding:1px 4px; border-radius:3px; font-weight:700; }
+.badge-tasks { font-size:9px; padding:1px 5px; border-radius:3px; font-weight:700; }
+.badge-tasks.overdue { background:#7f1d1d; color:#fca5a5; }
+.badge-tasks.due-today { background:#92400e; color:#fde047; }
+.badge-tasks.on-track { background:#14532d; color:#86efac; }
+.card-tasks { font-size:10px; margin-top:3px; color:var(--text2); }
+.card-tasks .task-overdue { color:#fca5a5; font-weight:600; }
+.card-tasks .task-today { color:#fde047; font-weight:600; }
+.card-tasks .task-soon { color:#93c5fd; }
+.card-task-list { font-size:10px; color:var(--text3); margin-top:2px; padding-left:12px; display:none; }
+.card:hover .card-task-list { display:block; }
+.card-task-item { margin-bottom:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+.card-task-item.overdue { color:#fca5a5; }
+.card-task-item.due-today { color:#fde047; }
+.card-task-item.due-soon { color:#93c5fd; }
 
 /* List view */
 .list-view { padding:12px 24px; }
@@ -236,6 +250,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
   <div class="filter-btn" data-filter="smart" data-value="drafting">&#x270F;&#xFE0F; Drafting</div>
   <div class="filter-btn" data-filter="smart" data-value="premium">&#x1F48E; Premium</div>
   <div class="filter-btn" data-filter="smart" data-value="stale">&#x23F0; Stale</div>
+  <div class="filter-btn" data-filter="smart" data-value="tasks">&#x1F4CC; Has Tasks <span class="tab-badge" id="taskFilterBadge" style="display:none"></span></div>
   <div class="client-search-wrap">
     <input class="client-search" type="text" id="clientSearch" placeholder="&#x1F464; Filter by client..." autocomplete="off">
     <div class="client-suggestions" id="clientSuggestions"></div>
@@ -266,6 +281,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 let PROJECTS = [];
 let RFI_DATA = null;
 let ACTIVITY_DATA = null;
+let TASK_DATA = null;
+let TASK_BY_PROJECT = {};
 
 // Stale thresholds (days) per stage name
 const STALE_THRESHOLDS = {
@@ -320,6 +337,7 @@ function matchesSmart(p, filter) {
     case "drafting": return sn.includes("plan drawing") || sn.includes("prepare plan") || sn.includes("drafting") || sn.includes("concept") || rn.includes("kate");
     case "premium": return p.is_premium === true;
     case "stale": return isStale(p);
+    case "tasks": { const td = TASK_BY_PROJECT[String(p.id)]; return td && td.total > 0; }
     default: return true;
   }
 }
@@ -351,7 +369,34 @@ function makeCard(p) {
   const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>\u{1F527} Field Work</div>` : "";
   const premiumHtml = p.is_premium ? `<div class="card-premium">\u{1F48E} Premium</div>` : "";
   const staleHtml = isStale(p) ? `<div class="card-stale">\u{23F0} Stale (${STALE_THRESHOLDS[p.stage_name]}d threshold)</div>` : "";
+
+  // Task badges
+  const td = TASK_BY_PROJECT[String(p.id)];
+  let taskBadgeHtml = "";
+  let taskDetailHtml = "";
+  if (td && td.total > 0) {
+    const badgeCls = td.overdue > 0 ? "overdue" : td.due_today > 0 ? "due-today" : "on-track";
+    taskBadgeHtml = `<span class="badge-tasks ${badgeCls}" title="${td.total} tasks${td.overdue ? ', '+td.overdue+' overdue' : ''}">${td.total}</span>`;
+    let parts = [];
+    if (td.overdue > 0) parts.push(`<span class="task-overdue">${td.overdue} overdue</span>`);
+    if (td.due_today > 0) parts.push(`<span class="task-today">${td.due_today} due today</span>`);
+    if (td.due_soon > 0) parts.push(`<span class="task-soon">${td.due_soon} due this week</span>`);
+    const remaining = td.total - td.overdue - td.due_today - td.due_soon;
+    if (remaining > 0) parts.push(`${remaining} open`);
+    taskDetailHtml = `<div class="card-tasks">\u{1F4CC} ${parts.join(' · ')}</div>`;
+    // Show top 3 tasks on hover
+    const topTasks = td.tasks.slice(0, 3).map(t => {
+      const cls = t.overdue ? "overdue" : t.due_today ? "due-today" : t.due_soon ? "due-soon" : "";
+      const dueStr = t.due_date ? " (" + t.due_date.slice(5) + ")" : "";
+      const title = t.title.length > 35 ? t.title.slice(0,33) + "\u2026" : t.title;
+      return `<div class="card-task-item ${cls}">\u2022 ${title}${dueStr}</div>`;
+    }).join("");
+    const moreCount = td.tasks.length - 3;
+    taskDetailHtml += `<div class="card-task-list">${topTasks}${moreCount > 0 ? `<div class="card-task-item">+ ${moreCount} more</div>` : ""}</div>`;
+  }
+
   let badgeHtml = "";
+  if (td && td.total > 0) badgeHtml += taskBadgeHtml;
   if (isStale(p)) badgeHtml += `<span class="badge-stale">\u{23F0}</span>`;
   if (p.is_premium) badgeHtml += `<span class="badge-premium">\u{1F48E}</span>`;
 
@@ -362,7 +407,7 @@ function makeCard(p) {
         <div class="card-badges">${badgeHtml}<span class="card-tier ${p.tier}">${p.tier}</span></div>
       </div>
       <div class="card-address" title="${p.address||''}">${p.address || "No address"}</div>
-      ${clientHtml}${fwHtml}${premiumHtml}${staleHtml}
+      ${clientHtml}${fwHtml}${premiumHtml}${staleHtml}${taskDetailHtml}
       <div class="card-footer">
         <span class="card-stage" title="${p.stage_name}">${p.stage_name}</span>
         ${daysHtml}
@@ -387,6 +432,7 @@ function renderStats(fp) {
     <div class="stat-card"><div class="label">\u{1F527} Field Work</div><div class="value">${fw}</div></div>
     <div class="stat-card"><div class="label">\u{23F0} Stale</div><div class="value" style="color:${stale > 0 ? 'var(--amber)' : 'var(--green)'}">${stale}</div></div>
     ${premium > 0 ? `<div class="stat-card"><div class="label">\u{1F48E} Premium</div><div class="value" style="color:#a78bfa">${premium}</div></div>` : ''}
+    ${TASK_DATA && TASK_DATA.summary ? `<div class="stat-card"><div class="label">\u{1F4CC} Open Tasks</div><div class="value" style="color:${TASK_DATA.summary.total_overdue > 0 ? 'var(--red)' : 'var(--text)'}">${TASK_DATA.summary.total_open}</div><div class="sub">${TASK_DATA.summary.total_overdue} overdue</div></div>` : ''}
   `;
   document.getElementById("projectCount").textContent = fp.length + " projects";
 }
@@ -541,7 +587,14 @@ function renderListView(fp) {
     const rows = sorted.map(p => {
       const dc = daysClass(p.days_in_stage);
       const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "-";
-      const badges = (isStale(p) ? '\u{23F0} ' : '') + (p.is_premium ? '\u{1F48E} ' : '') + (p.needs_fieldwork ? '\u{1F527}' : '');
+      const badges = (isStale(p) ? '\u{23F0} ' : '') + (p.is_premium ? '\u{1F48E} ' : '') + (p.needs_fieldwork ? '\u{1F527} ' : '');
+      const ptd = TASK_BY_PROJECT[String(p.id)];
+      let taskCol = '-';
+      if (ptd && ptd.total > 0) {
+        const cls = ptd.overdue > 0 ? 'color:#fca5a5;font-weight:600' : ptd.due_today > 0 ? 'color:#fde047;font-weight:600' : 'color:#86efac';
+        taskCol = `<span style="${cls}">${ptd.total}</span>`;
+        if (ptd.overdue > 0) taskCol += ` <span style="font-size:10px;color:#fca5a5">(${ptd.overdue} overdue)</span>`;
+      }
       return `<tr>
         <td><a class="link" href="${INSIGHTLY_BASE}${p.id}" target="_blank">${p.name}</a></td>
         <td><span class="card-tier ${p.tier}" style="font-size:11px">${p.tier}</span></td>
@@ -550,6 +603,7 @@ function renderListView(fp) {
         <td>${respLabel(p.responsibility || "")}</td>
         <td>${daysHtml}</td>
         <td style="color:#38bdf8">${p.client || "-"}</td>
+        <td>${taskCol}</td>
         <td>${badges}</td>
       </tr>`;
     }).join("");
@@ -563,6 +617,7 @@ function renderListView(fp) {
         <th data-col="responsibility">Resp${arrow("responsibility")}</th>
         <th data-col="days_in_stage">Days${arrow("days_in_stage")}</th>
         <th>Client</th>
+        <th>Tasks</th>
         <th>Flags</th>
       </tr></thead>
       <tbody>${rows}</tbody>
@@ -695,6 +750,31 @@ function renderRFIView() {
 
   html += '</div>';
   document.getElementById("panel-rfi").innerHTML = html;
+}
+
+// === TASKS DATA ===
+async function loadTasks() {
+  try {
+    const resp = await fetch('tasks.json?' + Date.now());
+    TASK_DATA = await resp.json();
+    TASK_BY_PROJECT = TASK_DATA.by_project || {};
+    // Sort tasks within each project: overdue first, then due_today, then due_soon
+    Object.values(TASK_BY_PROJECT).forEach(td => {
+      td.tasks.sort((a,b) => {
+        if (a.overdue !== b.overdue) return a.overdue ? -1 : 1;
+        if (a.due_today !== b.due_today) return a.due_today ? -1 : 1;
+        if (a.due_soon !== b.due_soon) return a.due_soon ? -1 : 1;
+        return 0;
+      });
+    });
+    // Update filter badge
+    const overdueCount = TASK_DATA.summary ? TASK_DATA.summary.total_overdue : 0;
+    const badge = document.getElementById("taskFilterBadge");
+    if (badge && overdueCount > 0) { badge.textContent = overdueCount; badge.style.display = "inline"; }
+    else if (badge) { badge.style.display = "none"; }
+  } catch(e) {
+    console.log("No tasks.json available yet");
+  }
 }
 
 // === FEATURE 4: ACTIVITY FEED ===
@@ -882,12 +962,12 @@ document.getElementById("workloadToggle").addEventListener("click", () => {
 });
 
 // Initial load
-loadData();
+loadTasks().then(() => loadData());
 loadRFIs();
 loadActivity();
 
 // Auto-refresh
-setInterval(() => { loadData(); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
+setInterval(() => { loadTasks().then(() => loadData()); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
 </script>
 </body>
 </html>
