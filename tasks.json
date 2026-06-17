@@ -367,8 +367,8 @@
     },
     "15599174": {
       "total": 10,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -457,8 +457,8 @@
           "title": "Check status? See what's actionable. Jaimie was asking",
           "due_date": "2026-06-17",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1410,8 +1410,8 @@
     "17782437": {
       "total": 20,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 202742750,
@@ -1590,8 +1590,8 @@
           "due_date": "2026-06-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2041,8 +2041,8 @@
     "17539782": {
       "total": 21,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -2230,8 +2230,8 @@
           "due_date": "2026-06-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2364,7 +2364,7 @@
       "total": 5,
       "overdue": 2,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204528159,
@@ -2400,7 +2400,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205613845,
@@ -4142,8 +4142,8 @@
     "18252749": {
       "total": 13,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205464397,
@@ -4259,8 +4259,8 @@
           "due_date": "2026-06-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4409,8 +4409,8 @@
     "17928270": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -4427,8 +4427,8 @@
           "due_date": "2026-06-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205723401,
@@ -5079,8 +5079,8 @@
     "17328458": {
       "total": 2,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205593948,
@@ -5088,8 +5088,8 @@
           "due_date": "2026-06-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205595960,
@@ -5228,15 +5228,59 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205648625,
-      "title": "Check status? See what's actionable. Jaimie was asking",
-      "due_date": "2026-06-17",
+      "task_id": 205593948,
+      "title": "Check Final Invoice was Issued and Paid",
+      "due_date": "2026-06-18",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 15599174,
-      "project_name": "J1015 Eudunda Land TD1-50"
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 205614488,
+      "title": "RFI sent to client?",
+      "due_date": "2026-06-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 205723400,
+      "title": "Application form completed on PlanSA portal",
+      "due_date": "2026-06-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 205725316,
+      "title": "Lodge, look for next consent request to remove.",
+      "due_date": "2026-06-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 205726691,
+      "title": "Ask Jake to confirm if he wants to proceed with concept plan",
+      "due_date": "2026-06-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5791,6 +5835,17 @@
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
     {
+      "task_id": 205648625,
+      "title": "Check status? See what's actionable. Jaimie was asking",
+      "due_date": "2026-06-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50"
+    },
+    {
       "task_id": 205656121,
       "title": "Check SA Water requirement",
       "due_date": "2026-06-16",
@@ -5804,9 +5859,9 @@
   ],
   "summary": {
     "total_open": 505,
-    "total_overdue": 51,
-    "total_due_today": 1,
+    "total_overdue": 52,
+    "total_due_today": 5,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-17T23:45:37.379570+09:30"
+  "last_updated": "2026-06-18T00:00:43.893108+09:30"
 }
