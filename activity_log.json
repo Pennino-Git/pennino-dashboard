@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-06-17T10:45:37.393283+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-17T10:45:37.393283+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18350144,
       "project_name": "T1326 Garnet Ave TIER3",
@@ -118,5 +136,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-17T10:30:46.518354+09:30"
+  "last_updated": "2026-06-17T10:45:37.393283+09:30"
 }
