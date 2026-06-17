@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-06-17T19:00:40.328887+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-17T19:00:40.328887+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5",
@@ -145,5 +163,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-17T18:45:33.039270+09:30"
+  "last_updated": "2026-06-17T19:00:40.328887+09:30"
 }
