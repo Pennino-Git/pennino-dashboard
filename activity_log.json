@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "SA Water",
+      "timestamp": "2026-06-17T17:15:31.782825+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4",
@@ -136,5 +145,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-17T13:15:30.392656+09:30"
+  "last_updated": "2026-06-17T17:15:31.782825+09:30"
 }

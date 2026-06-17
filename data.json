@@ -41,6 +41,27 @@
       "is_premium": false
     },
     {
+      "id": 18353608,
+      "name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "2 Sturt Street, Murray Bridge SA 5253",
+      "client": "Teegan  Bowley",
+      "link": "https://crm.na1.insightly.com/details/project/18353608",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier1",
+        "alete_homes",
+        "ident"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 18294425,
       "name": "C1065 Lookout Dr CONTOUR",
       "tier": "T1",
@@ -1145,17 +1166,16 @@
       "address": "17 Stebonheath Road, Edinburgh North (Womma Road)",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
-      "responsibility": "AR (Alex)",
+      "responsibility": "SA Water",
       "days_in_stage": 5,
       "stage_name": "11. Complete",
       "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
       "stage_order": 11,
       "tags": [
         "tier2",
-        "torrens_division",
-        "FIELD"
+        "torrens_division"
       ],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false
     },
     {
@@ -2052,6 +2072,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-17T13:15:30.392656+09:30",
-  "total": 100
+  "last_updated": "2026-06-17T17:15:31.782825+09:30",
+  "total": 101
 }
