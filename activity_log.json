@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-06-18T10:00:38.201551+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4",
       "tier": "T2",
@@ -181,5 +190,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-18T09:45:30.993823+09:30"
+  "last_updated": "2026-06-18T10:00:38.201551+09:30"
 }
