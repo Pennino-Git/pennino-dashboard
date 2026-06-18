@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-06-19T06:15:29.964692+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
@@ -235,5 +244,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-19T06:00:41.781984+09:30"
+  "last_updated": "2026-06-19T06:15:29.964692+09:30"
 }
