@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-06-18T14:45:30.526698+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
       "tier": "T2",
@@ -217,5 +226,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-18T14:30:50.193922+09:30"
+  "last_updated": "2026-06-18T14:45:30.526698+09:30"
 }

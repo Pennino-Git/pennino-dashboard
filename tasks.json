@@ -1113,158 +1113,6 @@
         }
       ]
     },
-    "17845187": {
-      "total": 16,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 201061038,
-          "title": "1.1 Prepare concept plan",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201061039,
-          "title": "1.2 Follow-up with drafter after X weeks",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202196130,
-          "title": "2.1 Prep 1st INV",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202196131,
-          "title": "2.2 send LD2 template to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202196132,
-          "title": "2.3 follow-up with client after 5 days",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202196133,
-          "title": "2.4 secure acceptance in writing",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202196134,
-          "title": "2.5 invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 203312746,
-          "title": "4.1 SA Water (Request for Investigation Requirements)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 203312747,
-          "title": "4.2 Secure DNF from Council",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 203312748,
-          "title": "4.3 Send DNF to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472522,
-          "title": "Council assessment in progress",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472523,
-          "title": "SA Water connection request submitted (May Require Pegging)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472524,
-          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472525,
-          "title": "All RFIs received and responded to",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472526,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472527,
-          "title": "All authority approvals received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17847395": {
       "total": 1,
       "overdue": 1,
@@ -4424,6 +4272,23 @@
         }
       ]
     },
+    "17845187": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205472527,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
     "17928270": {
       "total": 7,
       "overdue": 0,
@@ -5865,10 +5730,10 @@
     }
   ],
   "summary": {
-    "total_open": 507,
+    "total_open": 492,
     "total_overdue": 52,
     "total_due_today": 4,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-18T14:30:50.193922+09:30"
+  "last_updated": "2026-06-18T14:45:30.526698+09:30"
 }
