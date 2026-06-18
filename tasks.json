@@ -1410,8 +1410,8 @@
     "17782437": {
       "total": 20,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 1,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 202742750,
@@ -1585,13 +1585,13 @@
           "due_soon": true
         },
         {
-          "task_id": 205725316,
-          "title": "Lodge, look for next consent request to remove.",
-          "due_date": "2026-06-18",
+          "task_id": 205747221,
+          "title": "Check for actionables. Prem Serv approved but can't lodge yet",
+          "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5261,17 +5261,6 @@
       "project_name": "J1024 Pine Ave TD1-4"
     },
     {
-      "task_id": 205725316,
-      "title": "Lodge, look for next consent request to remove.",
-      "due_date": "2026-06-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 205726691,
       "title": "Ask Jake to confirm if he wants to proceed with concept plan",
       "due_date": "2026-06-18",
@@ -5860,8 +5849,8 @@
   "summary": {
     "total_open": 505,
     "total_overdue": 52,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-18T10:00:38.201551+09:30"
+  "last_updated": "2026-06-18T10:15:29.906695+09:30"
 }
