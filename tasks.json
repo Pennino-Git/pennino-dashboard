@@ -2191,10 +2191,10 @@
       ]
     },
     "18225672": {
-      "total": 5,
+      "total": 11,
       "overdue": 2,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 204528159,
@@ -2215,15 +2215,6 @@
           "due_soon": false
         },
         {
-          "task_id": 205482117,
-          "title": "Referrals issued (SA Water, Council, DIT, EPA)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205591586,
           "title": "Invoice #468684 - $988.00 PlanSA Payment",
           "due_date": "2026-06-25",
@@ -2240,6 +2231,69 @@
           "overdue": false,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 205749481,
+          "title": "Council assessment in progress",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749482,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749483,
+          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749484,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749485,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749486,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205749490,
+          "title": "Did DP response? SA Water RFI to builder?",
+          "due_date": "2026-06-19",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5730,10 +5784,10 @@
     }
   ],
   "summary": {
-    "total_open": 492,
+    "total_open": 498,
     "total_overdue": 52,
     "total_due_today": 4,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-18T16:30:48.721700+09:30"
+  "last_updated": "2026-06-18T16:45:37.680106+09:30"
 }

@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-06-18T16:45:37.680106+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18021299,
       "project_name": "Z1060 Collison St IDENT & CONTOUR",
@@ -226,5 +235,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-18T16:30:48.721700+09:30"
+  "last_updated": "2026-06-18T16:45:37.680106+09:30"
 }
