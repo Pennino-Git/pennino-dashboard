@@ -3458,10 +3458,10 @@
       ]
     },
     "18021299": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205375582,
@@ -3473,13 +3473,22 @@
           "due_soon": ""
         },
         {
-          "task_id": 205538956,
-          "title": "OB REQ actioned? Ask DP",
-          "due_date": "2026-06-22",
+          "task_id": 205748746,
+          "title": "Kate Drafting REQ",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
+          "overdue": "",
           "due_today": false,
-          "due_soon": true
+          "due_soon": ""
+        },
+        {
+          "task_id": 205748750,
+          "title": "Re Lodged After Req",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5856,10 +5865,10 @@
     }
   ],
   "summary": {
-    "total_open": 506,
+    "total_open": 507,
     "total_overdue": 52,
     "total_due_today": 4,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-18T14:15:30.662494+09:30"
+  "last_updated": "2026-06-18T14:30:50.193922+09:30"
 }
