@@ -543,11 +543,11 @@
       "address": "17-19 Laura Street, Murray Bridge SA 5253",
       "client": "Shannon Bow",
       "link": "https://crm.na1.insightly.com/details/project/17847316",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 7,
-      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0183854",
-      "stage_order": 6,
+      "stage_order": 7,
       "tags": [
         "tier2",
         "torrens_division"
@@ -2072,6 +2072,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-18T13:45:29.191119+09:30",
+  "last_updated": "2026-06-18T14:00:39.926391+09:30",
   "total": 101
 }
