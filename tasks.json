@@ -2537,7 +2537,7 @@
       ]
     },
     "18187753": {
-      "total": 15,
+      "total": 5,
       "overdue": 1,
       "due_today": 1,
       "due_soon": 0,
@@ -2552,53 +2552,8 @@
           "due_soon": false
         },
         {
-          "task_id": 205382002,
-          "title": "Council assessment in progress",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205382003,
           "title": "SA Water connection request submitted",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205382004,
-          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205382005,
-          "title": "All RFIs received and responded to",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205382006,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205382007,
-          "title": "All authority approvals received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -2617,51 +2572,6 @@
         {
           "task_id": 205650887,
           "title": "Ask if Cert is ready",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205727399,
-          "title": "Conditions of approval reviewed and itemised",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205727400,
-          "title": "Tree assessment/removal actioned (if required)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205727401,
-          "title": "Demolition arranged (if required)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205727402,
-          "title": "Allotment clearance confirmed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205727403,
-          "title": "All pre-survey conditions met",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3472,8 +3382,8 @@
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 205382772,
-          "title": "Certified plan reviewed Report and Check List Complete",
+          "task_id": 205382773,
+          "title": "DWG in DPL and SCAP Certificate Applied For",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3481,8 +3391,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 205382773,
-          "title": "DWG in DPL and SCAP Certificate Applied For",
+          "task_id": 205771233,
+          "title": "DP To do Checklist",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5781,10 +5691,10 @@
     }
   ],
   "summary": {
-    "total_open": 502,
+    "total_open": 492,
     "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-19T14:30:47.021478+09:30"
+  "last_updated": "2026-06-19T14:45:30.574491+09:30"
 }
