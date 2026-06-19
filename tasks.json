@@ -5013,32 +5013,6 @@
         }
       ]
     },
-    "17328458": {
-      "total": 2,
-      "overdue": 2,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205593948,
-          "title": "Check Final Invoice was Issued and Paid",
-          "due_date": "2026-06-18",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205595960,
-          "title": "Ask DP if INV is ready",
-          "due_date": "2026-06-16",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18256019": {
       "total": 3,
       "overdue": 0,
@@ -5728,28 +5702,6 @@
       "project_name": "F1102 Copernicus Rd TD1-4"
     },
     {
-      "task_id": 205593948,
-      "title": "Check Final Invoice was Issued and Paid",
-      "due_date": "2026-06-18",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5"
-    },
-    {
-      "task_id": 205595960,
-      "title": "Ask DP if INV is ready",
-      "due_date": "2026-06-16",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5"
-    },
-    {
       "task_id": 205614488,
       "title": "RFI sent to client?",
       "due_date": "2026-06-18",
@@ -5817,10 +5769,10 @@
     }
   ],
   "summary": {
-    "total_open": 498,
-    "total_overdue": 56,
+    "total_open": 496,
+    "total_overdue": 54,
     "total_due_today": 3,
-    "projects_with_tasks": 85
+    "projects_with_tasks": 84
   },
-  "last_updated": "2026-06-19T09:30:49.294305+09:30"
+  "last_updated": "2026-06-19T09:39:30.063180+09:30"
 }
