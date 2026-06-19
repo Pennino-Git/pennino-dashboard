@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-06-19T11:00:38.470797+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2",
@@ -262,5 +271,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-19T10:45:32.167700+09:30"
+  "last_updated": "2026-06-19T11:00:38.470797+09:30"
 }
