@@ -935,10 +935,10 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17923064",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 8,
-      "stage_name": "5. Certified Survey",
+      "days_in_stage": 0,
+      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "H0186222",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier2",
         "jake_ferraro",
@@ -2088,6 +2088,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-19T14:55:15.830755+09:30",
+  "last_updated": "2026-06-19T15:00:40.654127+09:30",
   "total": 102
 }

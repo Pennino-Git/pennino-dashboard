@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "6 Land Division Certificate Lodged with PlanSA",
+      "timestamp": "2026-06-19T15:00:40.654127+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
@@ -325,5 +334,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-19T14:55:15.830755+09:30"
+  "last_updated": "2026-06-19T15:00:40.654127+09:30"
 }
