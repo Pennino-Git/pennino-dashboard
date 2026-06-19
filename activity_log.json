@@ -1,6 +1,60 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "LTO",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18217316,
+      "project_name": "Z1068 Angas St IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18313304,
+      "project_name": "A1349 Cecilia Rd IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18325237,
+      "project_name": "L1043 KFC Womma Road LEASE",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-06-19T14:15:31.321077+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18021299,
       "project_name": "Z1060 Collison St IDENT & CONTOUR",
@@ -271,5 +325,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-19T14:00:39.936600+09:30"
+  "last_updated": "2026-06-19T14:15:31.321077+09:30"
 }
