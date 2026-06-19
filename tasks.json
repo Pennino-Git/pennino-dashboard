@@ -2184,8 +2184,8 @@
     },
     "18225672": {
       "total": 11,
-      "overdue": 2,
-      "due_today": 1,
+      "overdue": 3,
+      "due_today": 0,
       "due_soon": 2,
       "tasks": [
         {
@@ -2283,8 +2283,8 @@
           "title": "Did DP response? SA Water RFI to builder?",
           "due_date": "2026-06-19",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4445,8 +4445,8 @@
     },
     "18309240": {
       "total": 3,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4472,8 +4472,8 @@
           "title": "Prep INV for Concept Plan",
           "due_date": "2026-06-19",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5287,30 +5287,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 205727262,
-      "title": "Prep INV for Concept Plan",
-      "due_date": "2026-06-19",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18309240,
-      "project_name": "S1150 Edward St TD1-3"
-    },
-    {
-      "task_id": 205749490,
-      "title": "Did DP response? SA Water RFI to builder?",
-      "due_date": "2026-06-19",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5817,13 +5794,35 @@
       "due_soon": false,
       "project_id": 18046019,
       "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
+      "task_id": 205727262,
+      "title": "Prep INV for Concept Plan",
+      "due_date": "2026-06-19",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18309240,
+      "project_name": "S1150 Edward St TD1-3"
+    },
+    {
+      "task_id": 205749490,
+      "title": "Did DP response? SA Water RFI to builder?",
+      "due_date": "2026-06-19",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "summary": {
     "total_open": 510,
-    "total_overdue": 46,
-    "total_due_today": 2,
+    "total_overdue": 48,
+    "total_due_today": 0,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-19T23:45:30.186930+09:30"
+  "last_updated": "2026-06-20T00:00:40.178009+09:30"
 }
