@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "4. Conditions & Compliance",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-06-19T15:15:30.698152+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-06-19T15:15:30.698152+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-19T15:15:30.698152+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3",
       "tier": "T2",
@@ -334,5 +361,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-19T15:00:40.654127+09:30"
+  "last_updated": "2026-06-19T15:15:30.698152+09:30"
 }

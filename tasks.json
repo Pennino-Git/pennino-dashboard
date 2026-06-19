@@ -2537,10 +2537,10 @@
       ]
     },
     "18187753": {
-      "total": 5,
+      "total": 12,
       "overdue": 1,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204967981,
@@ -2561,17 +2561,17 @@
           "due_soon": ""
         },
         {
-          "task_id": 205648744,
-          "title": "Did DP respond with field sched for SA Water",
-          "due_date": "2026-06-19",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
           "task_id": 205650887,
           "title": "Ask if Cert is ready",
+          "due_date": "2026-06-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205727404,
+          "title": "SA Water Information Sent (Requires Pegging Of Allotments)",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -2579,8 +2579,71 @@
           "due_soon": ""
         },
         {
-          "task_id": 205727404,
-          "title": "SA Water Information Sent (Requires Pegging Of Allotments)",
+          "task_id": 205771855,
+          "title": "Surveyor assigned and field survey scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771856,
+          "title": "Surveyor assigned (Tristan / Harry / Grantley / Damiano)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771857,
+          "title": "Field survey date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771858,
+          "title": "Field survey completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771859,
+          "title": "Pegging and Final Plan to Drafter",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771860,
+          "title": "Certified plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771861,
+          "title": "Certified plan reviewed Report and Check List Complete",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205771862,
+          "title": "DWG in DPL and SCAP Certificate Applied For",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4388,10 +4451,10 @@
       ]
     },
     "18273554": {
-      "total": 6,
+      "total": 7,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205481668,
@@ -4414,11 +4477,11 @@
         {
           "task_id": 205481670,
           "title": "Lodgement invoice received",
-          "due_date": null,
+          "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 205481671,
@@ -4446,6 +4509,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205771370,
+          "title": "Need Field work per DP's email on 19th. Ask for schedule (TR)",
+          "due_date": "2026-06-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5181,17 +5253,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205648744,
-      "title": "Did DP respond with field sched for SA Water",
-      "due_date": "2026-06-19",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2"
-    },
-    {
       "task_id": 205727262,
       "title": "Prep INV for Concept Plan",
       "due_date": "2026-06-19",
@@ -5745,10 +5806,10 @@
     }
   ],
   "summary": {
-    "total_open": 498,
+    "total_open": 506,
     "total_overdue": 48,
-    "total_due_today": 3,
+    "total_due_today": 2,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-19T15:00:40.654127+09:30"
+  "last_updated": "2026-06-19T15:15:30.698152+09:30"
 }
