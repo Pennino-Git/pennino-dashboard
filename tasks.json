@@ -3937,7 +3937,7 @@
       ]
     },
     "18252749": {
-      "total": 13,
+      "total": 19,
       "overdue": 2,
       "due_today": 0,
       "due_soon": 0,
@@ -4058,6 +4058,60 @@
           "overdue": true,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 205773299,
+          "title": "Application form completed on PlanSA portal",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205773300,
+          "title": "All supporting documents uploaded",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205773301,
+          "title": "Lodgement invoice received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205773302,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205773303,
+          "title": "Referrals issued (SA Water, Council, DIT, EPA)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205773304,
+          "title": "Client Advised of Lodgement in Plan SA",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5788,10 +5842,10 @@
     }
   ],
   "summary": {
-    "total_open": 504,
+    "total_open": 510,
     "total_overdue": 48,
     "total_due_today": 2,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-19T15:45:31.576571+09:30"
+  "last_updated": "2026-06-19T16:00:40.035196+09:30"
 }

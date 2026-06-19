@@ -999,10 +999,10 @@
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 8,
-      "stage_name": "1. Concept Planning",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "ferraro_project",
         "tier2",
@@ -2090,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-19T15:45:31.576571+09:30",
+  "last_updated": "2026-06-19T16:00:40.035196+09:30",
   "total": 102
 }
