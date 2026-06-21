@@ -1267,8 +1267,8 @@
     "17782437": {
       "total": 18,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1429,8 +1429,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1793,7 +1793,7 @@
       "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448416,
@@ -1802,7 +1802,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205068707,
@@ -3140,8 +3140,8 @@
     "17894399": {
       "total": 12,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205094097,
@@ -3239,8 +3239,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205771166,
@@ -3248,16 +3248,16 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
     "17847316": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205289296,
@@ -3301,8 +3301,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3930,8 +3930,8 @@
     "18252749": {
       "total": 18,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205464397,
@@ -4092,8 +4092,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4489,8 +4489,8 @@
     "18273554": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205481668,
@@ -4516,8 +4516,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205481671,
@@ -5078,8 +5078,8 @@
     "18356989": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205770630,
@@ -5105,8 +5105,8 @@
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205770641,
@@ -5278,7 +5278,85 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205481670,
+      "title": "Lodgement invoice received",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 205747221,
+      "title": "Check for actionables. Prem Serv approved but can't lodge yet",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 205748632,
+      "title": "Pegging Plan sent?",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
+    },
+    {
+      "task_id": 205770640,
+      "title": "Field work date scheduled",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
+    },
+    {
+      "task_id": 205771164,
+      "title": "Ask DP if INV is good",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17894399,
+      "project_name": "P1085 Churchill Rd CD1-14"
+    },
+    {
+      "task_id": 205771166,
+      "title": "DAC Cert?",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17894399,
+      "project_name": "P1085 Churchill Rd CD1-14"
+    },
+    {
+      "task_id": 205774535,
+      "title": "Plan SA lodged? Ask DP",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5812,8 +5890,8 @@
   "summary": {
     "total_open": 509,
     "total_overdue": 48,
-    "total_due_today": 0,
+    "total_due_today": 7,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-21T23:45:29.860117+09:30"
+  "last_updated": "2026-06-22T00:00:38.215333+09:30"
 }
