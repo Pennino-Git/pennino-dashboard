@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-06-21T14:45:30.982723+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
       "tier": "T2",
@@ -379,5 +388,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-21T14:30:48.213233+09:30"
+  "last_updated": "2026-06-21T14:45:30.982723+09:30"
 }
