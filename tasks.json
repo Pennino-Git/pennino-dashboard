@@ -1584,77 +1584,6 @@
         }
       ]
     },
-    "17732479": {
-      "total": 7,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 203810235,
-          "title": "Follow up on demo",
-          "due_date": "2026-03-23",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205472468,
-          "title": "Council assessment in progress",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472469,
-          "title": "SA Water connection request submitted (May Require Pegging)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472470,
-          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472471,
-          "title": "All RFIs received and responded to",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472472,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472473,
-          "title": "All authority approvals received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "15978707": {
       "total": 14,
       "overdue": 1,
@@ -3439,10 +3368,10 @@
       ]
     },
     "17863628": {
-      "total": 3,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205384049,
@@ -3470,6 +3399,24 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205811787,
+          "title": "Send Copy of Cert to Nicola when available",
+          "due_date": "2026-06-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205811805,
+          "title": "Did DP respond to question about SA Water RFI",
+          "due_date": "2026-06-23",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3861,17 +3808,8 @@
       "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 205457242,
-          "title": "Open Space invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 205457243,
           "title": "LDC/SCAP clearance fee paid",
@@ -3898,6 +3836,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205811857,
+          "title": "Check for DAC Cert",
+          "due_date": "2026-06-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4235,6 +4182,77 @@
           "status": "NOT STARTED",
           "overdue": true,
           "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "17732479": {
+      "total": 7,
+      "overdue": 0,
+      "due_today": 1,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205472468,
+          "title": "Council assessment in progress",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472469,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472470,
+          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472471,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472472,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472473,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205811846,
+          "title": "Double check schedule",
+          "due_date": "2026-06-22",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
           "due_soon": false
         }
       ]
@@ -5355,6 +5373,17 @@
       "due_soon": false,
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
+      "task_id": 205811846,
+      "title": "Double check schedule",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "tasks_overdue": [
@@ -5533,17 +5562,6 @@
       "due_soon": false,
       "project_id": 17708499,
       "project_name": "F1105 Auricchio Ave TD1-2"
-    },
-    {
-      "task_id": 203810235,
-      "title": "Follow up on demo",
-      "due_date": "2026-03-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
     },
     {
       "task_id": 204114437,
@@ -5888,10 +5906,10 @@
     }
   ],
   "summary": {
-    "total_open": 509,
-    "total_overdue": 48,
-    "total_due_today": 7,
+    "total_open": 511,
+    "total_overdue": 47,
+    "total_due_today": 8,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-22T00:30:44.996814+09:30"
+  "last_updated": "2026-06-22T00:45:32.686842+09:30"
 }
