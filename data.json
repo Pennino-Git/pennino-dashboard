@@ -1457,7 +1457,7 @@
       "responsibility": "Council/Authority",
       "days_in_stage": 11,
       "stage_name": "2. PlanSA Lodgement",
-      "sa_water_ref": "",
+      "sa_water_ref": "H0190333",
       "stage_order": 2,
       "tags": [
         "tier2",
@@ -2090,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-22T15:00:42.067406+09:30",
+  "last_updated": "2026-06-22T15:15:31.765183+09:30",
   "total": 102
 }
