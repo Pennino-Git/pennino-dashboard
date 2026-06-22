@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-06-22T16:15:34.471695+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
@@ -469,5 +478,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-22T16:00:44.474101+09:30"
+  "last_updated": "2026-06-22T16:15:34.471695+09:30"
 }
