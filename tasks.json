@@ -5252,10 +5252,10 @@
       ]
     },
     "17923064": {
-      "total": 8,
+      "total": 9,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 2,
+      "due_soon": 3,
       "tasks": [
         {
           "task_id": 205771233,
@@ -5324,6 +5324,15 @@
           "task_id": 205771281,
           "title": "Check with Jake regarding SA Water INV",
           "due_date": "2026-06-23",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205815307,
+          "title": "Call Plan SA, ask for Open Space",
+          "due_date": "2026-06-26",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -5986,10 +5995,10 @@
     }
   ],
   "summary": {
-    "total_open": 519,
+    "total_open": 520,
     "total_overdue": 47,
     "total_due_today": 8,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-06-22T11:45:31.680438+09:30"
+  "last_updated": "2026-06-22T12:00:37.846631+09:30"
 }
