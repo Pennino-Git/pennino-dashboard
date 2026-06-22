@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18350144,
+      "project_name": "T1326 Garnet Ave TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-06-22T17:00:41.874788+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4",
       "tier": "T2",
@@ -478,5 +487,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-22T16:45:37.627935+09:30"
+  "last_updated": "2026-06-22T17:00:41.874788+09:30"
 }
