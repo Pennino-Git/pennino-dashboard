@@ -5235,9 +5235,9 @@
       ]
     },
     "17923064": {
-      "total": 9,
+      "total": 7,
       "overdue": 0,
-      "due_today": 2,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -5293,24 +5293,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205771280,
-          "title": "Open Space INV?",
-          "due_date": "2026-06-23",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 205771281,
-          "title": "Check with Jake regarding SA Water INV",
-          "due_date": "2026-06-23",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         },
         {
           "task_id": 205815307,
@@ -5390,28 +5372,6 @@
       "due_soon": false,
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 205771280,
-      "title": "Open Space INV?",
-      "due_date": "2026-06-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 205771281,
-      "title": "Check with Jake regarding SA Water INV",
-      "due_date": "2026-06-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
       "task_id": 205775113,
@@ -6033,10 +5993,10 @@
     }
   ],
   "summary": {
-    "total_open": 519,
+    "total_open": 517,
     "total_overdue": 52,
-    "total_due_today": 8,
+    "total_due_today": 6,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T09:00:42.627755+09:30"
+  "last_updated": "2026-06-23T09:15:32.801007+09:30"
 }
