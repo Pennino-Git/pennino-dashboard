@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18313304,
+      "project_name": "A1349 Cecilia Rd IDENT",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-06-22T11:45:31.680438+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18313304,
+      "project_name": "A1349 Cecilia Rd IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-22T11:45:31.680438+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4",
@@ -433,5 +451,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-22T11:32:12.845698+09:30"
+  "last_updated": "2026-06-22T11:45:31.680438+09:30"
 }
