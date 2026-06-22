@@ -535,26 +535,6 @@
       "is_premium": false
     },
     {
-      "id": 16508321,
-      "name": "B1123 Barnett Ave REALIGNMENT",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "10 Barnett Avenue, Glynde SA 5070",
-      "client": "Dino Pietrobon",
-      "link": "https://crm.na1.insightly.com/details/project/16508321",
-      "responsibility": "LTO",
-      "days_in_stage": 0,
-      "stage_name": "11. Complete",
-      "sa_water_ref": "",
-      "stage_order": 11,
-      "tags": [
-        "realignment",
-        "tier2"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17847316,
       "name": "B1136 Laura St TD1-2",
       "tier": "T2",
@@ -2110,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-22T12:30:47.781411+09:30",
-  "total": 103
+  "last_updated": "2026-06-22T12:45:32.435441+09:30",
+  "total": 102
 }
