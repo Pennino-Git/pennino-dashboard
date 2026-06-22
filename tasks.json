@@ -4841,7 +4841,7 @@
       ]
     },
     "16508321": {
-      "total": 2,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4858,6 +4858,33 @@
         {
           "task_id": 205568427,
           "title": "Confirmation of Approval Sent to All Parties",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205815352,
+          "title": "Check Final Invoice was Issued and Paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205815353,
+          "title": "Check all Correspondence and Plans are Filed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205815354,
+          "title": "Project file closed and archived",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5995,10 +6022,10 @@
     }
   ],
   "summary": {
-    "total_open": 520,
+    "total_open": 523,
     "total_overdue": 47,
     "total_due_today": 8,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-06-22T12:00:37.846631+09:30"
+  "last_updated": "2026-06-22T12:15:30.615451+09:30"
 }
