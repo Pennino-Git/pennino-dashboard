@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-22T15:00:42.067406+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 16508321,
       "project_name": "B1123 Barnett Ave REALIGNMENT",
@@ -460,5 +469,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-22T14:45:31.800200+09:30"
+  "last_updated": "2026-06-22T15:00:42.067406+09:30"
 }
