@@ -992,7 +992,7 @@
       "total": 13,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 201030656,
@@ -1055,7 +1055,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205472507,
@@ -1133,8 +1133,8 @@
     "18009966": {
       "total": 14,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202664110,
@@ -1259,15 +1259,15 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
     "17782437": {
       "total": 18,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1428,8 +1428,8 @@
           "title": "Check for actionables. Prem Serv approved but can't lodge yet",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3068,8 +3068,8 @@
     },
     "17894399": {
       "total": 12,
-      "overdue": 0,
-      "due_today": 2,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3167,8 +3167,8 @@
           "title": "Ask DP if INV is good",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3176,8 +3176,8 @@
           "title": "DAC Cert?",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3370,8 +3370,8 @@
     "17863628": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205384049,
@@ -3415,8 +3415,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4179,8 +4179,8 @@
     },
     "17732479": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4242,8 +4242,8 @@
           "title": "Double check schedule",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4286,8 +4286,8 @@
     "17928270": {
       "total": 9,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -4313,8 +4313,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205817288,
@@ -4482,8 +4482,8 @@
     "18309240": {
       "total": 4,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472651,
@@ -4509,8 +4509,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205816889,
@@ -4542,8 +4542,8 @@
     },
     "18273554": {
       "total": 7,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -4569,8 +4569,8 @@
           "title": "Lodgement invoice received",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4658,8 +4658,8 @@
     "18273273": {
       "total": 8,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205503484,
@@ -4730,8 +4730,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5087,8 +5087,8 @@
     },
     "18356989": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5114,8 +5114,8 @@
           "title": "Field work date scheduled",
           "due_date": "2026-06-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5158,8 +5158,8 @@
     "18313304": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205771105,
@@ -5185,8 +5185,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205815179,
@@ -5237,8 +5237,8 @@
     "17923064": {
       "total": 9,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 3,
+      "due_today": 2,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205771233,
@@ -5300,8 +5300,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205771281,
@@ -5309,8 +5309,8 @@
           "due_date": "2026-06-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205815307,
@@ -5370,70 +5370,92 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205481670,
-      "title": "Lodgement invoice received",
-      "due_date": "2026-06-22",
+      "task_id": 205727262,
+      "title": "Prep INV for Concept Plan- see DP's email on 17th Jun ",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 18309240,
+      "project_name": "S1150 Edward St TD1-3"
     },
     {
-      "task_id": 205747221,
-      "title": "Check for actionables. Prem Serv approved but can't lodge yet",
-      "due_date": "2026-06-22",
+      "task_id": 205770272,
+      "title": "SA Water paid? Form?",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
     },
     {
-      "task_id": 205770640,
-      "title": "Field work date scheduled",
-      "due_date": "2026-06-22",
+      "task_id": 205771280,
+      "title": "Open Space INV?",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18356989,
-      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
-      "task_id": 205771164,
-      "title": "Ask DP if INV is good",
-      "due_date": "2026-06-22",
+      "task_id": 205771281,
+      "title": "Check with Jake regarding SA Water INV",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17894399,
-      "project_name": "P1085 Churchill Rd CD1-14"
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
-      "task_id": 205771166,
-      "title": "DAC Cert?",
-      "due_date": "2026-06-22",
+      "task_id": 205775113,
+      "title": "Follow up on Teegan",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17894399,
-      "project_name": "P1085 Churchill Rd CD1-14"
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3"
     },
     {
-      "task_id": 205811846,
-      "title": "Double check schedule",
-      "due_date": "2026-06-22",
+      "task_id": 205811805,
+      "title": "Did DP respond to question about SA Water RFI",
+      "due_date": "2026-06-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2"
+    },
+    {
+      "task_id": 205814473,
+      "title": "Prep 1st INV",
+      "due_date": "2026-06-23",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 205815178,
+      "title": "Invoice issued",
+      "due_date": "2026-06-23",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18313304,
+      "project_name": "A1349 Cecilia Rd IDENT"
     }
   ],
   "tasks_overdue": [
@@ -5823,6 +5845,17 @@
       "project_name": "S1148 Elizabeth Rd TD1-3"
     },
     {
+      "task_id": 205481670,
+      "title": "Lodgement invoice received",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
       "task_id": 205503490,
       "title": "Follow up on Plan SA lodgment (see approval correspondence)",
       "due_date": "2026-06-12",
@@ -5933,6 +5966,17 @@
       "project_name": "F1111 Bonnin St TD1-3"
     },
     {
+      "task_id": 205747221,
+      "title": "Check for actionables. Prem Serv approved but can't lodge yet",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
       "task_id": 205749490,
       "title": "Did DP response? SA Water RFI to builder?",
       "due_date": "2026-06-19",
@@ -5942,13 +5986,57 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
+      "task_id": 205770640,
+      "title": "Field work date scheduled",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
+    },
+    {
+      "task_id": 205771164,
+      "title": "Ask DP if INV is good",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17894399,
+      "project_name": "P1085 Churchill Rd CD1-14"
+    },
+    {
+      "task_id": 205771166,
+      "title": "DAC Cert?",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17894399,
+      "project_name": "P1085 Churchill Rd CD1-14"
+    },
+    {
+      "task_id": 205811846,
+      "title": "Double check schedule",
+      "due_date": "2026-06-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "summary": {
     "total_open": 519,
-    "total_overdue": 46,
-    "total_due_today": 6,
+    "total_overdue": 52,
+    "total_due_today": 8,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-22T23:45:39.412590+09:30"
+  "last_updated": "2026-06-23T00:00:50.578484+09:30"
 }
