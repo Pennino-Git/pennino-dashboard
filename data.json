@@ -1103,7 +1103,7 @@
       "address": "12 Pine Avenue, Eudunda SA 5374",
       "client": "Jamie Launer",
       "link": "https://crm.na1.insightly.com/details/project/17928270",
-      "responsibility": "Council/Authority",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 5,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2090,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-22T10:00:40.327649+09:30",
+  "last_updated": "2026-06-22T10:15:29.903117+09:30",
   "total": 102
 }
