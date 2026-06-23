@@ -1871,23 +1871,14 @@
       ]
     },
     "18046019": {
-      "total": 13,
-      "overdue": 1,
+      "total": 11,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
           "title": "Invoice Payment \u2014 F1111 (26006160) | City of Onkaparinga | $877.00",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 204687957,
-          "title": "4.1 SA Water (Request for Investigation Requirements)",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -1983,15 +1974,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205656121,
-          "title": "Check SA Water requirement",
-          "due_date": "2026-06-16",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5739,17 +5721,6 @@
       "project_name": "J1015 Eudunda Land TD1-50"
     },
     {
-      "task_id": 205656121,
-      "title": "Check SA Water requirement",
-      "due_date": "2026-06-16",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
       "task_id": 205770640,
       "title": "Field work date scheduled",
       "due_date": "2026-06-22",
@@ -5784,10 +5755,10 @@
     }
   ],
   "summary": {
-    "total_open": 513,
-    "total_overdue": 42,
+    "total_open": 511,
+    "total_overdue": 41,
     "total_due_today": 1,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-23T21:08:50.632534+09:30"
+  "last_updated": "2026-06-23T21:15:34.521523+09:30"
 }
