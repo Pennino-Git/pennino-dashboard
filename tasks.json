@@ -4514,20 +4514,11 @@
       ]
     },
     "18273554": {
-      "total": 8,
-      "overdue": 2,
+      "total": 7,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 2,
+      "due_soon": 3,
       "tasks": [
-        {
-          "task_id": 205481668,
-          "title": "Application form completed on PlanSA portal",
-          "due_date": "2026-06-08",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
         {
           "task_id": 205481669,
           "title": "All supporting documents uploaded",
@@ -4540,11 +4531,11 @@
         {
           "task_id": 205481670,
           "title": "Lodgement invoice received",
-          "due_date": "2026-06-22",
+          "due_date": "2026-06-25",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205481671,
@@ -5737,28 +5728,6 @@
       "project_name": "S1150 Edward St TD1-3"
     },
     {
-      "task_id": 205481668,
-      "title": "Application form completed on PlanSA portal",
-      "due_date": "2026-06-08",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
-      "task_id": 205481670,
-      "title": "Lodgement invoice received",
-      "due_date": "2026-06-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 205540532,
       "title": "Ask client for demo status",
       "due_date": "2026-06-12",
@@ -5892,10 +5861,10 @@
     }
   ],
   "summary": {
-    "total_open": 518,
-    "total_overdue": 46,
+    "total_open": 517,
+    "total_overdue": 44,
     "total_due_today": 2,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T15:15:31.105787+09:30"
+  "last_updated": "2026-06-23T15:30:46.732870+09:30"
 }
