@@ -1454,7 +1454,7 @@
       "address": "2 & 4 Ellis Avenue, Morphettville SA 5043",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
-      "responsibility": "Council/Authority",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 12,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0190333",
@@ -2090,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-23T10:30:46.255824+09:30",
+  "last_updated": "2026-06-23T10:45:30.108001+09:30",
   "total": 102
 }
