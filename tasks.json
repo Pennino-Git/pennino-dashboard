@@ -1133,8 +1133,8 @@
     "18009966": {
       "total": 14,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 202664110,
@@ -1254,13 +1254,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 205770272,
-          "title": "SA Water paid? Form?",
-          "due_date": "2026-06-23",
+          "task_id": 205842050,
+          "title": "Check SA Water if met. Check with Plan SA for consent if needed to be done before DAC Cert",
+          "due_date": "2026-06-26",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3368,9 +3368,9 @@
       ]
     },
     "17863628": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -3408,15 +3408,6 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
-        },
-        {
-          "task_id": 205811805,
-          "title": "Did DP respond to question about SA Water RFI",
-          "due_date": "2026-06-23",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4656,10 +4647,10 @@
       ]
     },
     "18273273": {
-      "total": 8,
-      "overdue": 1,
-      "due_today": 1,
-      "due_soon": 0,
+      "total": 7,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205503484,
@@ -4716,22 +4707,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 205503490,
-          "title": "Follow up on Plan SA lodgment (see approval correspondence)",
-          "due_date": "2026-06-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
           "task_id": 205775113,
           "title": "Follow up on Teegan",
-          "due_date": "2026-06-23",
+          "due_date": "2026-06-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5363,39 +5345,6 @@
       "project_name": "S1150 Edward St TD1-3"
     },
     {
-      "task_id": 205770272,
-      "title": "SA Water paid? Form?",
-      "due_date": "2026-06-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 205775113,
-      "title": "Follow up on Teegan",
-      "due_date": "2026-06-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3"
-    },
-    {
-      "task_id": 205811805,
-      "title": "Did DP respond to question about SA Water RFI",
-      "due_date": "2026-06-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2"
-    },
-    {
       "task_id": 205814473,
       "title": "Prep 1st INV",
       "due_date": "2026-06-23",
@@ -5816,17 +5765,6 @@
       "project_name": "S1148 Elizabeth Rd TD1-3"
     },
     {
-      "task_id": 205503490,
-      "title": "Follow up on Plan SA lodgment (see approval correspondence)",
-      "due_date": "2026-06-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3"
-    },
-    {
       "task_id": 205540532,
       "title": "Ask client for demo status",
       "due_date": "2026-06-12",
@@ -5993,10 +5931,10 @@
     }
   ],
   "summary": {
-    "total_open": 517,
-    "total_overdue": 52,
-    "total_due_today": 6,
+    "total_open": 515,
+    "total_overdue": 51,
+    "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T09:15:32.801007+09:30"
+  "last_updated": "2026-06-23T09:30:50.382038+09:30"
 }
