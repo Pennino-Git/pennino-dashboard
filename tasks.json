@@ -5173,10 +5173,10 @@
       ]
     },
     "17923064": {
-      "total": 7,
+      "total": 8,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205771233,
@@ -5236,6 +5236,15 @@
           "task_id": 205815307,
           "title": "Call Plan SA, ask for Open Space",
           "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205843578,
+          "title": "Did DP respond about Council feedback",
+          "due_date": "2026-06-24",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -5925,10 +5934,10 @@
     }
   ],
   "summary": {
-    "total_open": 518,
+    "total_open": 519,
     "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T11:45:31.284891+09:30"
+  "last_updated": "2026-06-23T12:00:39.329241+09:30"
 }

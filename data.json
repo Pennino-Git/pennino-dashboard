@@ -915,7 +915,7 @@
       "address": "6 Kurrajong Place, Seacombe Gardens SA 5047",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17923064",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 4,
       "stage_name": "6 Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "H0186222",
@@ -1269,7 +1269,7 @@
       "address": "255 Goodwood Road, Kings Park SA 5034",
       "client": "Isaac McNicol",
       "link": "https://crm.na1.insightly.com/details/project/18009966",
-      "responsibility": "Client",
+      "responsibility": "SA Water",
       "days_in_stage": 12,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0174519",
@@ -2090,6 +2090,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-23T11:45:31.284891+09:30",
+  "last_updated": "2026-06-23T12:00:39.329241+09:30",
   "total": 102
 }
