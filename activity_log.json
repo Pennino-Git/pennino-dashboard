@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Council/Authority",
+      "timestamp": "2026-06-24T06:15:36.109756+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18269218,
+      "project_name": "W1021 Gully View Ct IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-24T06:15:36.109756+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18269218,
       "project_name": "W1021 Gully View Ct IDENT",
@@ -604,5 +622,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-24T06:00:46.899087+09:30"
+  "last_updated": "2026-06-24T06:15:36.109756+09:30"
 }
