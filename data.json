@@ -232,10 +232,10 @@
       "client": "Luke  Williams",
       "link": "https://crm.na1.insightly.com/details/project/18269218",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 12,
-      "stage_name": "Prepare Plan",
+      "days_in_stage": 0,
+      "stage_name": "Send Plan to Client",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "ident",
         "tier1"
@@ -2070,6 +2070,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-23T21:45:36.753970+09:30",
+  "last_updated": "2026-06-23T22:00:45.753289+09:30",
   "total": 101
 }

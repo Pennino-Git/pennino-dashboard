@@ -2305,23 +2305,6 @@
         }
       ]
     },
-    "18269218": {
-      "total": 1,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 204922134,
-          "title": "Confirm sched with DP. Is early June good?",
-          "due_date": "2026-05-27",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18187753": {
       "total": 12,
       "overdue": 1,
@@ -3839,7 +3822,7 @@
       ]
     },
     "18252749": {
-      "total": 18,
+      "total": 19,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
@@ -4005,6 +3988,15 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
+        },
+        {
+          "task_id": 205863308,
+          "title": "Check back with Jake if demo is done",
+          "due_date": "2026-07-22",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5286,6 +5278,41 @@
           "due_soon": true
         }
       ]
+    },
+    "18269218": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 205863215,
+          "title": "Plan sent to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205863216,
+          "title": "Client confirmation / queries addressed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205863233,
+          "title": "Asked DP how much to INV. Responded?",
+          "due_date": "2026-06-25",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5567,17 +5594,6 @@
       "project_name": "A1325 Wood St TD1-2"
     },
     {
-      "task_id": 204922134,
-      "title": "Confirm sched with DP. Is early June good?",
-      "due_date": "2026-05-27",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT"
-    },
-    {
       "task_id": 204967980,
       "title": "Invoice Payment \u2014 A1318 LOT 301 (25031176) | Payment Required",
       "due_date": "2026-05-24",
@@ -5755,10 +5771,10 @@
     }
   ],
   "summary": {
-    "total_open": 511,
-    "total_overdue": 41,
+    "total_open": 514,
+    "total_overdue": 40,
     "total_due_today": 1,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-23T21:45:36.753970+09:30"
+  "last_updated": "2026-06-23T22:00:45.753289+09:30"
 }
