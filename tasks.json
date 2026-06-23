@@ -872,122 +872,6 @@
         }
       ]
     },
-    "17632301": {
-      "total": 12,
-      "overdue": 3,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 200186539,
-          "title": "4.2 Secure DNF from Council",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 200186540,
-          "title": "4.3 Send DNF to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 204114437,
-          "title": "1st INV sent?",
-          "due_date": "2026-05-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 204979645,
-          "title": "SA Water RFI, sent?",
-          "due_date": "2026-05-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205215029,
-          "title": "RFI - 25026271 Copernicus Rd Christie Downs - respond by 17 Aug 2026",
-          "due_date": "2026-08-17",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205472431,
-          "title": "Council assessment in progress",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472432,
-          "title": "SA Water connection request submitted (May Require Pegging)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472433,
-          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472434,
-          "title": "All RFIs received and responded to",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472435,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472436,
-          "title": "All authority approvals received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205569770,
-          "title": "Ask DP for instruction if he didn't respond yet. ",
-          "due_date": "2026-06-11",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "17830378": {
       "total": 13,
       "overdue": 1,
@@ -3182,6 +3066,122 @@
         }
       ]
     },
+    "17632301": {
+      "total": 12,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205215029,
+          "title": "RFI - 25026271 Copernicus Rd Christie Downs - respond by 17 Aug 2026",
+          "due_date": "2026-08-17",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 205472431,
+          "title": "Council assessment in progress",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472432,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472433,
+          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472434,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472435,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472436,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843272,
+          "title": "SCAP certificate application submitted",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843273,
+          "title": "Open Space invoice received & Sent to Client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843274,
+          "title": "Open Space invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843275,
+          "title": "LDC/SCAP clearance fee paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843276,
+          "title": "Issue Final PAA Invoice",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
     "17847316": {
       "total": 5,
       "overdue": 0,
@@ -5288,10 +5288,10 @@
       ]
     },
     "18039448": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205843116,
@@ -5342,6 +5342,15 @@
           "task_id": 205843128,
           "title": "Prep 1st INV (Plan SA INV paid by client)",
           "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205843240,
+          "title": "Did DP respond to AR's question about SA Water feedback?",
+          "due_date": "2026-06-24",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -5563,17 +5572,6 @@
       "project_name": "F1105 Auricchio Ave TD1-2"
     },
     {
-      "task_id": 204114437,
-      "title": "1st INV sent?",
-      "due_date": "2026-05-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
-    },
-    {
       "task_id": 204312633,
       "title": "Prep 2nd INV",
       "due_date": "2026-04-07",
@@ -5693,17 +5691,6 @@
       "due_soon": false,
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2"
-    },
-    {
-      "task_id": 204979645,
-      "title": "SA Water RFI, sent?",
-      "due_date": "2026-05-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
     },
     {
       "task_id": 205047318,
@@ -5827,17 +5814,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 205569770,
-      "title": "Ask DP for instruction if he didn't respond yet. ",
-      "due_date": "2026-06-11",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
-    },
-    {
       "task_id": 205614488,
       "title": "RFI sent to client?",
       "due_date": "2026-06-18",
@@ -5949,10 +5925,10 @@
     }
   ],
   "summary": {
-    "total_open": 517,
-    "total_overdue": 51,
+    "total_open": 518,
+    "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T11:00:38.637059+09:30"
+  "last_updated": "2026-06-23T11:15:32.263979+09:30"
 }

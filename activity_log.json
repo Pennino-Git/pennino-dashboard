@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-06-23T11:15:32.263979+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-06-23T11:15:32.263979+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
@@ -532,5 +550,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-23T11:00:38.637059+09:30"
+  "last_updated": "2026-06-23T11:15:32.263979+09:30"
 }
