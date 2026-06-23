@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-06-23T11:00:38.637059+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
@@ -523,5 +532,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-23T10:45:30.108001+09:30"
+  "last_updated": "2026-06-23T11:00:38.637059+09:30"
 }

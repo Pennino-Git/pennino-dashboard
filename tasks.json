@@ -4805,50 +4805,6 @@
         }
       ]
     },
-    "18039448": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205568064,
-          "title": "Lodgement invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205568065,
-          "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205568066,
-          "title": "Application accepted by PlanSA",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205568067,
-          "title": "Referrals issued (SA Water, Council, DIT, EPA)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18327811": {
       "total": 3,
       "overdue": 0,
@@ -5328,6 +5284,68 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        }
+      ]
+    },
+    "18039448": {
+      "total": 6,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 205843116,
+          "title": "Council assessment in progress",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843117,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843119,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843120,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843121,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205843128,
+          "title": "Prep 1st INV (Plan SA INV paid by client)",
+          "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     }
@@ -5931,10 +5949,10 @@
     }
   ],
   "summary": {
-    "total_open": 515,
+    "total_open": 517,
     "total_overdue": 51,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T10:45:30.108001+09:30"
+  "last_updated": "2026-06-23T11:00:38.637059+09:30"
 }
