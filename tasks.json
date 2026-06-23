@@ -4532,10 +4532,10 @@
       ]
     },
     "18273554": {
-      "total": 7,
+      "total": 8,
       "overdue": 2,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205481668,
@@ -4594,6 +4594,15 @@
         {
           "task_id": 205771370,
           "title": "Need Field work per DP's email on 19th. Ask for schedule (TR)",
+          "due_date": "2026-06-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 205844065,
+          "title": "Check if Jim replied to email on 23.06",
           "due_date": "2026-06-24",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5934,10 +5943,10 @@
     }
   ],
   "summary": {
-    "total_open": 519,
+    "total_open": 520,
     "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T13:00:43.624833+09:30"
+  "last_updated": "2026-06-23T13:15:34.760973+09:30"
 }

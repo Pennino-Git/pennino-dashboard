@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-06-23T13:15:34.760973+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3",
       "tier": "T2",
@@ -568,5 +577,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-23T13:00:43.624833+09:30"
+  "last_updated": "2026-06-23T13:15:34.760973+09:30"
 }
