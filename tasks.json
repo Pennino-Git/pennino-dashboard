@@ -4178,8 +4178,8 @@
       ]
     },
     "17732479": {
-      "total": 7,
-      "overdue": 1,
+      "total": 6,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -4236,15 +4236,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205811846,
-          "title": "Double check schedule",
-          "due_date": "2026-06-22",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5898,24 +5889,13 @@
       "due_soon": false,
       "project_id": 17894399,
       "project_name": "P1085 Churchill Rd CD1-14"
-    },
-    {
-      "task_id": 205811846,
-      "title": "Double check schedule",
-      "due_date": "2026-06-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "summary": {
-    "total_open": 519,
-    "total_overdue": 47,
+    "total_open": 518,
+    "total_overdue": 46,
     "total_due_today": 2,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-06-23T15:00:39.848263+09:30"
+  "last_updated": "2026-06-23T15:15:31.105787+09:30"
 }
