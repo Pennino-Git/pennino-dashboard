@@ -4435,9 +4435,9 @@
       ]
     },
     "18273554": {
-      "total": 7,
+      "total": 5,
       "overdue": 0,
-      "due_today": 2,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -4484,24 +4484,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205771370,
-          "title": "Need Field work per DP's email on 19th. Ask for schedule (TR)",
-          "due_date": "2026-06-24",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 205844065,
-          "title": "Check if Jim replied to email on 23.06",
-          "due_date": "2026-06-24",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5339,17 +5321,6 @@
       "project_name": "D1068 Crossley Ave TD1-2"
     },
     {
-      "task_id": 205771370,
-      "title": "Need Field work per DP's email on 19th. Ask for schedule (TR)",
-      "due_date": "2026-06-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 205811787,
       "title": "Send Copy of Cert to Nicola when available",
       "due_date": "2026-06-24",
@@ -5403,17 +5374,6 @@
       "due_soon": false,
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 205844065,
-      "title": "Check if Jim replied to email on 23.06",
-      "due_date": "2026-06-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
     },
     {
       "task_id": 205844468,
@@ -5870,10 +5830,10 @@
     }
   ],
   "summary": {
-    "total_open": 514,
+    "total_open": 512,
     "total_overdue": 40,
-    "total_due_today": 10,
+    "total_due_today": 8,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-24T12:30:48.072712+09:30"
+  "last_updated": "2026-06-24T12:45:30.919426+09:30"
 }
