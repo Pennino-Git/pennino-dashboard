@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3",
+      "tier": "T2",
+      "from": "6 Land Division Certificate Lodged with PlanSA",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-06-25T05:00:43.416262+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-06-25T05:00:43.416262+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
       "tier": "T2",
@@ -667,5 +685,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-25T04:45:34.341457+09:30"
+  "last_updated": "2026-06-25T05:00:43.416262+09:30"
 }
