@@ -4558,10 +4558,10 @@
       ]
     },
     "18333168": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205508857,
@@ -4607,6 +4607,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205894692,
+          "title": "Concept sent to client? Per Kate, she sent it to DP on 9th June",
+          "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5786,10 +5795,10 @@
     }
   ],
   "summary": {
-    "total_open": 512,
+    "total_open": 513,
     "total_overdue": 40,
     "total_due_today": 4,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-24T21:15:31.833936+09:30"
+  "last_updated": "2026-06-24T21:30:52.329501+09:30"
 }
