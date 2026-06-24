@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave TD1-4",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-06-24T14:45:31.086602+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-06-24T14:45:31.086602+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18059610,
       "project_name": "Z1062 Leon St TD1-2",
@@ -649,5 +667,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-24T14:30:49.093633+09:30"
+  "last_updated": "2026-06-24T14:45:31.086602+09:30"
 }

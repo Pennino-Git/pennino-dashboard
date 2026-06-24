@@ -4213,41 +4213,6 @@
         }
       ]
     },
-    "17845187": {
-      "total": 3,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205472527,
-          "title": "All authority approvals received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205771139,
-          "title": "Damian to Advise KAte of Variation",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205771140,
-          "title": "Kate to Draft Variation",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17928270": {
       "total": 7,
       "overdue": 0,
@@ -5075,6 +5040,86 @@
         }
       ]
     },
+    "17845187": {
+      "total": 8,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205771140,
+          "title": "Variation form Kate Recieved",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888537,
+          "title": "Client Variation Drafted - (With Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888550,
+          "title": "Ciculate Latest Variation to Client prior to relodging",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888555,
+          "title": "Client Approval and Lodgement",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888556,
+          "title": "NEW Varied Application completed on PlanSA portal",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888558,
+          "title": "Lodgement invoice received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888559,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888560,
+          "title": "Client Advised of Lodgement in Plan SA",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
     "17923064": {
       "total": 8,
       "overdue": 0,
@@ -5839,10 +5884,10 @@
     }
   ],
   "summary": {
-    "total_open": 513,
+    "total_open": 518,
     "total_overdue": 40,
     "total_due_today": 8,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-24T14:30:49.093633+09:30"
+  "last_updated": "2026-06-24T14:45:31.086602+09:30"
 }
