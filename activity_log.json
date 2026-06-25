@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "LTO",
+      "timestamp": "2026-06-26T06:15:29.858621+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046054,
+      "project_name": "T1317 Horrocks Hwy TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-26T06:15:29.858621+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333017,
+      "project_name": "T1324 Stebonheath Rd TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-26T06:15:29.858621+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17830522,
       "project_name": "S1133 Glenloth Dr TD1-3",
@@ -784,5 +811,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-26T06:00:40.116636+09:30"
+  "last_updated": "2026-06-26T06:15:29.858621+09:30"
 }
