@@ -1364,27 +1364,6 @@
       "is_premium": false
     },
     {
-      "id": 17894399,
-      "name": "P1085 Churchill Rd CD1-14",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "98 Churchill Road, Prospect SA 5082",
-      "client": "Rory Carter",
-      "link": "https://crm.na1.insightly.com/details/project/17894399",
-      "responsibility": "SCAP/DAC",
-      "days_in_stage": 0,
-      "stage_name": "10. LTO Approval",
-      "sa_water_ref": "H0186678",
-      "stage_order": 10,
-      "tags": [
-        "tier2",
-        "community_division",
-        "pajet"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17732479,
       "name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -1929,6 +1908,26 @@
       "is_premium": false
     },
     {
+      "id": 18046054,
+      "name": "T1317 Horrocks Hwy TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Horrocks Hwy",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18046054",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "Plan Drawing & Check",
+      "sa_water_ref": "",
+      "stage_order": 3,
+      "tags": [
+        "tier3",
+        "tpc"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 18184868,
       "name": "T1319 Grange Rd TIER3",
       "tier": "T3",
@@ -2070,6 +2069,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-25T13:00:43.819495+09:30",
+  "last_updated": "2026-06-25T13:15:32.799939+09:30",
   "total": 101
 }

@@ -2906,41 +2906,6 @@
         }
       ]
     },
-    "17894399": {
-      "total": 3,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205094099,
-          "title": "6.3 Send all invoices to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205094100,
-          "title": "6.4 All fees paid?",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205918197,
-          "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17632301": {
       "total": 12,
       "overdue": 0,
@@ -5277,6 +5242,32 @@
           "due_soon": ""
         }
       ]
+    },
+    "18046054": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205918804,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205918805,
+          "title": "Final plan signed off",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5779,10 +5770,10 @@
     }
   ],
   "summary": {
-    "total_open": 510,
+    "total_open": 509,
     "total_overdue": 40,
     "total_due_today": 5,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-25T13:00:43.819495+09:30"
+  "last_updated": "2026-06-25T13:15:32.799939+09:30"
 }

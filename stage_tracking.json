@@ -209,11 +209,6 @@
     "entered": "2026-06-11",
     "stage_name": "Prepare Plan"
   },
-  "17894399": {
-    "stage_id": 4845742,
-    "entered": "2026-06-25",
-    "stage_name": "10. LTO Approval"
-  },
   "17900271": {
     "stage_id": 4845735,
     "entered": "2026-06-11",
@@ -258,6 +253,11 @@
     "stage_id": 4845739,
     "entered": "2026-06-11",
     "stage_name": "7. SCAP Application"
+  },
+  "18046054": {
+    "stage_id": 3134302,
+    "entered": "2026-06-25",
+    "stage_name": "Plan Drawing & Check"
   },
   "18046089": {
     "stage_id": 4845733,
