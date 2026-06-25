@@ -3645,46 +3645,19 @@
       ]
     },
     "17830522": {
-      "total": 4,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205457244,
           "title": "Issue Final PAA Invoice Inv Premium Service",
-          "due_date": null,
+          "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205916634,
-          "title": "Plan Lodged Via DPL",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205916635,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205916636,
-          "title": "Harry to Certify",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         }
       ]
     },
@@ -5730,10 +5703,10 @@
     }
   ],
   "summary": {
-    "total_open": 507,
+    "total_open": 504,
     "total_overdue": 40,
     "total_due_today": 3,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-25T16:15:32.333997+09:30"
+  "last_updated": "2026-06-25T16:30:48.831202+09:30"
 }

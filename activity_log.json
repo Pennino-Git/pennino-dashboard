@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-06-25T16:30:48.831202+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-25T16:30:48.831202+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17830522,
       "project_name": "S1133 Glenloth Dr TD1-3",
@@ -766,5 +784,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-25T16:15:32.333997+09:30"
+  "last_updated": "2026-06-25T16:30:48.831202+09:30"
 }
