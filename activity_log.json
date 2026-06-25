@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17894399,
+      "project_name": "P1085 Churchill Rd CD1-14",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-06-25T12:00:42.705623+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18021299,
       "project_name": "Z1060 Collison St IDENT & CONTOUR",
@@ -748,5 +757,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-25T11:45:34.811471+09:30"
+  "last_updated": "2026-06-25T12:00:42.705623+09:30"
 }

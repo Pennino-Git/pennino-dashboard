@@ -1372,10 +1372,10 @@
       "client": "Rory Carter",
       "link": "https://crm.na1.insightly.com/details/project/17894399",
       "responsibility": "SCAP/DAC",
-      "days_in_stage": 14,
-      "stage_name": "8. Final Authority Approvals",
+      "days_in_stage": 0,
+      "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0186678",
-      "stage_order": 8,
+      "stage_order": 10,
       "tags": [
         "tier2",
         "community_division",
@@ -2070,6 +2070,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-25T11:45:34.811471+09:30",
+  "last_updated": "2026-06-25T12:00:42.705623+09:30",
   "total": 101
 }
