@@ -1,6 +1,42 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-06-25T09:30:49.549790+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-25T09:30:49.549790+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18333017,
+      "project_name": "T1324 Stebonheath Rd TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-06-25T09:30:49.549790+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333017,
+      "project_name": "T1324 Stebonheath Rd TIER3",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-25T09:30:49.549790+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
@@ -703,5 +739,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-25T09:15:32.422551+09:30"
+  "last_updated": "2026-06-25T09:30:49.549790+09:30"
 }
