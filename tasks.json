@@ -3645,9 +3645,9 @@
       ]
     },
     "17830522": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3685,15 +3685,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205917650,
-          "title": "Did Harry certify DPL/respond to email?",
-          "due_date": "2026-06-25",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5314,17 +5305,6 @@
       "due_soon": false,
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 205917650,
-      "title": "Did Harry certify DPL/respond to email?",
-      "due_date": "2026-06-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5770,10 +5750,10 @@
     }
   ],
   "summary": {
-    "total_open": 509,
+    "total_open": 508,
     "total_overdue": 40,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-25T13:15:32.799939+09:30"
+  "last_updated": "2026-06-25T13:30:47.693919+09:30"
 }
