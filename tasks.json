@@ -4916,9 +4916,9 @@
       ]
     },
     "17923064": {
-      "total": 13,
+      "total": 12,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -5028,15 +5028,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205917309,
-          "title": "DP responded about Jake's email (25.06)",
-          "due_date": "2026-06-25",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5294,17 +5285,6 @@
       "due_soon": false,
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
-      "task_id": 205917309,
-      "title": "DP responded about Jake's email (25.06)",
-      "due_date": "2026-06-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5750,10 +5730,10 @@
     }
   ],
   "summary": {
-    "total_open": 508,
+    "total_open": 507,
     "total_overdue": 40,
-    "total_due_today": 4,
+    "total_due_today": 3,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-25T14:45:33.617428+09:30"
+  "last_updated": "2026-06-25T15:00:42.470005+09:30"
 }
