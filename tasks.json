@@ -5208,9 +5208,9 @@
       ]
     },
     "18250076": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -5257,6 +5257,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205942169,
+          "title": "DP reviewed/lodged Plan SA?",
+          "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     }
@@ -5360,6 +5369,17 @@
       "due_soon": false,
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
+      "task_id": 205942169,
+      "title": "DP reviewed/lodged Plan SA?",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3"
     }
   ],
   "tasks_overdue": [
@@ -5827,10 +5847,10 @@
     }
   ],
   "summary": {
-    "total_open": 508,
+    "total_open": 509,
     "total_overdue": 42,
-    "total_due_today": 9,
+    "total_due_today": 10,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T12:15:28.709830+09:30"
+  "last_updated": "2026-06-26T12:30:45.043875+09:30"
 }

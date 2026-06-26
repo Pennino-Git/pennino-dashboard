@@ -582,7 +582,7 @@
       "address": "31 Garden Terrace, Underdale SA 5032",
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/18250076",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2069,6 +2069,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-26T12:15:28.709830+09:30",
+  "last_updated": "2026-06-26T12:30:45.043875+09:30",
   "total": 101
 }
