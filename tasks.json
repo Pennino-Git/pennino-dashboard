@@ -1016,8 +1016,8 @@
     },
     "18009966": {
       "total": 14,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1142,8 +1142,8 @@
           "title": "Check SA Water if met. Check with Plan SA for consent if needed to be done before DAC Cert",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1988,8 +1988,8 @@
     },
     "18225672": {
       "total": 10,
-      "overdue": 3,
-      "due_today": 1,
+      "overdue": 4,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2024,8 +2024,8 @@
           "title": "PlanSA Invoice $988 - D1071 Deeds Rd CD1-10",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -2290,8 +2290,8 @@
     },
     "18078768": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2299,8 +2299,8 @@
           "title": "Touch base with client, per last email to resume on July",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -2891,8 +2891,8 @@
     },
     "17632301": {
       "total": 13,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3008,8 +3008,8 @@
           "title": "Check if DP responded to email",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3306,8 +3306,8 @@
     },
     "11764688": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3342,8 +3342,8 @@
           "title": "Ask DP. Call Plan SA Desk",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4891,8 +4891,8 @@
     },
     "17923064": {
       "total": 13,
-      "overdue": 0,
-      "due_today": 2,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4954,8 +4954,8 @@
           "title": "Call Plan SA, ask for Open Space",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5008,8 +5008,8 @@
           "title": "Respond to Council using Jake's email- ask DP",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5060,8 +5060,8 @@
     },
     "18039448": {
       "total": 7,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5114,8 +5114,8 @@
           "title": "Prep 1st INV (Plan SA INV paid by client)",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5236,8 +5236,8 @@
     },
     "18250076": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5290,114 +5290,14 @@
           "title": "DP reviewed/lodged Plan SA?",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 204756189,
-      "title": "Touch base with client, per last email to resume on July",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18078768,
-      "project_name": "N1028 Lyndoch Rd TD1-2"
-    },
-    {
-      "task_id": 205613845,
-      "title": "PlanSA Invoice $988 - D1071 Deeds Rd CD1-10",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
-    },
-    {
-      "task_id": 205815307,
-      "title": "Call Plan SA, ask for Open Space",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 205842050,
-      "title": "Check SA Water if met. Check with Plan SA for consent if needed to be done before DAC Cert",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 205843128,
-      "title": "Prep 1st INV (Plan SA INV paid by client)",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
-      "task_id": 205887044,
-      "title": "Ask DP. Call Plan SA Desk",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2"
-    },
-    {
-      "task_id": 205941207,
-      "title": "Check if DP responded to email",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
-    },
-    {
-      "task_id": 205941280,
-      "title": "Respond to Council using Jake's email- ask DP",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 205942169,
-      "title": "DP reviewed/lodged Plan SA?",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5653,6 +5553,17 @@
       "project_name": "A1325 Wood St TD1-2"
     },
     {
+      "task_id": 204756189,
+      "title": "Touch base with client, per last email to resume on July",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18078768,
+      "project_name": "N1028 Lyndoch Rd TD1-2"
+    },
+    {
       "task_id": 204768107,
       "title": "Apply for Land Division Certificate \u2014 A1325 (25032987/25032971) | City of Marion",
       "due_date": "2026-05-28",
@@ -5774,6 +5685,17 @@
       "project_name": "D1071 Deeds Rd CD1-10"
     },
     {
+      "task_id": 205613845,
+      "title": "PlanSA Invoice $988 - D1071 Deeds Rd CD1-10",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
       "task_id": 205614488,
       "title": "RFI sent to client?",
       "due_date": "2026-06-18",
@@ -5829,6 +5751,17 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
+      "task_id": 205815307,
+      "title": "Call Plan SA, ask for Open Space",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
       "task_id": 205816941,
       "title": "Check if SA Water responded",
       "due_date": "2026-06-24",
@@ -5840,6 +5773,28 @@
       "project_name": "B1136 Laura St TD1-2"
     },
     {
+      "task_id": 205842050,
+      "title": "Check SA Water if met. Check with Plan SA for consent if needed to be done before DAC Cert",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
+    },
+    {
+      "task_id": 205843128,
+      "title": "Prep 1st INV (Plan SA INV paid by client)",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
       "task_id": 205843240,
       "title": "Did DP respond to AR's question about SA Water feedback?",
       "due_date": "2026-06-24",
@@ -5849,13 +5804,57 @@
       "due_soon": false,
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 205887044,
+      "title": "Ask DP. Call Plan SA Desk",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
+    },
+    {
+      "task_id": 205941207,
+      "title": "Check if DP responded to email",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4"
+    },
+    {
+      "task_id": 205941280,
+      "title": "Respond to Council using Jake's email- ask DP",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
+      "task_id": 205942169,
+      "title": "DP reviewed/lodged Plan SA?",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3"
     }
   ],
   "summary": {
     "total_open": 512,
-    "total_overdue": 41,
-    "total_due_today": 9,
+    "total_overdue": 50,
+    "total_due_today": 0,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T23:45:31.198176+09:30"
+  "last_updated": "2026-06-27T00:00:40.083089+09:30"
 }
