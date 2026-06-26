@@ -2907,9 +2907,9 @@
       ]
     },
     "17632301": {
-      "total": 12,
+      "total": 13,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -3019,6 +3019,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205941207,
+          "title": "Check if DP responded to email",
+          "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4889,9 +4898,9 @@
       ]
     },
     "17923064": {
-      "total": 12,
+      "total": 13,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 2,
       "due_soon": 0,
       "tasks": [
         {
@@ -5001,6 +5010,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 205941280,
+          "title": "Acknowledge Jake's email",
+          "due_date": "2026-06-26",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5313,6 +5331,28 @@
       "due_soon": false,
       "project_id": 18333168,
       "project_name": "S1152 Tarton Rd TD1-3"
+    },
+    {
+      "task_id": 205941207,
+      "title": "Check if DP responded to email",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4"
+    },
+    {
+      "task_id": 205941280,
+      "title": "Acknowledge Jake's email",
+      "due_date": "2026-06-26",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5791,10 +5831,10 @@
     }
   ],
   "summary": {
-    "total_open": 504,
+    "total_open": 506,
     "total_overdue": 43,
-    "total_due_today": 8,
+    "total_due_today": 10,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T09:45:30.085092+09:30"
+  "last_updated": "2026-06-26T10:00:40.419356+09:30"
 }
