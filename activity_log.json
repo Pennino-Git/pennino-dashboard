@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-26T10:30:45.623504+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-26T10:30:45.623504+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17830522,
       "project_name": "S1133 Glenloth Dr TD1-3",
       "tier": "T2",
@@ -811,5 +829,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-26T10:15:33.891023+09:30"
+  "last_updated": "2026-06-26T10:30:45.623504+09:30"
 }
