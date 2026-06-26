@@ -1149,8 +1149,8 @@
       ]
     },
     "17782437": {
-      "total": 18,
-      "overdue": 1,
+      "total": 17,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 3,
       "tasks": [
@@ -1306,15 +1306,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205747221,
-          "title": "Check for actionables. Prem Serv approved but can't lodge yet",
-          "due_date": "2026-06-25",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -3656,17 +3647,17 @@
     "17830522": {
       "total": 1,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205457244,
           "title": "Issue Final PAA Invoice Inv Premium Service",
-          "due_date": "2026-06-26",
+          "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5256,17 +5247,6 @@
       "project_name": "N1028 Lyndoch Rd TD1-2"
     },
     {
-      "task_id": 205457244,
-      "title": "Issue Final PAA Invoice Inv Premium Service",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 205613845,
       "title": "PlanSA Invoice $988 - D1071 Deeds Rd CD1-10",
       "due_date": "2026-06-26",
@@ -5786,17 +5766,6 @@
       "project_name": "D1068 Crossley Ave TD1-2"
     },
     {
-      "task_id": 205747221,
-      "title": "Check for actionables. Prem Serv approved but can't lodge yet",
-      "due_date": "2026-06-25",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 205770640,
       "title": "Field work date scheduled",
       "due_date": "2026-06-22",
@@ -5831,10 +5800,10 @@
     }
   ],
   "summary": {
-    "total_open": 506,
-    "total_overdue": 43,
-    "total_due_today": 10,
+    "total_open": 505,
+    "total_overdue": 42,
+    "total_due_today": 9,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T11:30:44.320533+09:30"
+  "last_updated": "2026-06-26T11:45:28.793060+09:30"
 }
