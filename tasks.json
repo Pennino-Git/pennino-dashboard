@@ -2673,16 +2673,16 @@
       "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205068605,
           "title": "Concept plan sent to client for approval",
-          "due_date": null,
+          "due_date": "2026-06-29",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 205068606,
@@ -5836,5 +5836,5 @@
     "total_due_today": 10,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T10:30:45.623504+09:30"
+  "last_updated": "2026-06-26T10:45:29.356444+09:30"
 }
