@@ -4427,7 +4427,7 @@
     "18333168": {
       "total": 6,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4478,11 +4478,11 @@
         {
           "task_id": 205894692,
           "title": "Concept sent to client? Per Kate, she sent it to DP on 9th June",
-          "due_date": "2026-06-26",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5365,17 +5365,6 @@
       "project_name": "H1015 Barkey St TD1-2"
     },
     {
-      "task_id": 205894692,
-      "title": "Concept sent to client? Per Kate, she sent it to DP on 9th June",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18333168,
-      "project_name": "S1152 Tarton Rd TD1-3"
-    },
-    {
       "task_id": 205941207,
       "title": "Check if DP responded to email",
       "due_date": "2026-06-26",
@@ -5865,8 +5854,8 @@
   "summary": {
     "total_open": 512,
     "total_overdue": 41,
-    "total_due_today": 10,
+    "total_due_today": 9,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T15:30:42.901378+09:30"
+  "last_updated": "2026-06-26T15:45:29.019585+09:30"
 }
