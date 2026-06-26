@@ -5013,7 +5013,7 @@
         },
         {
           "task_id": 205941280,
-          "title": "Acknowledge Jake's email",
+          "title": "Respond to Council using Jake's email- ask DP",
           "due_date": "2026-06-26",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5345,7 +5345,7 @@
     },
     {
       "task_id": 205941280,
-      "title": "Acknowledge Jake's email",
+      "title": "Respond to Council using Jake's email- ask DP",
       "due_date": "2026-06-26",
       "status": "NOT STARTED",
       "overdue": false,
@@ -5836,5 +5836,5 @@
     "total_due_today": 10,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-26T10:00:40.419356+09:30"
+  "last_updated": "2026-06-26T10:15:33.891023+09:30"
 }
