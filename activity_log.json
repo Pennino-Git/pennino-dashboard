@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-06-26T12:15:28.709830+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -829,5 +838,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-26T12:00:38.433613+09:30"
+  "last_updated": "2026-06-26T12:15:28.709830+09:30"
 }
