@@ -1151,8 +1151,8 @@
     "17782437": {
       "total": 19,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 5,
+      "due_today": 1,
+      "due_soon": 4,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1322,8 +1322,8 @@
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1614,8 +1614,8 @@
     "16772033": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448416,
@@ -1623,8 +1623,8 @@
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205068707,
@@ -3193,8 +3193,8 @@
     "17863628": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205384049,
@@ -3229,8 +3229,8 @@
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3630,8 +3630,8 @@
     "17830522": {
       "total": 1,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205457244,
@@ -3639,8 +3639,8 @@
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4242,8 +4242,8 @@
     "18273554": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205481669,
@@ -4296,8 +4296,8 @@
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5279,7 +5279,63 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 204448416,
+      "title": "RFI Response \u2014 E1032 (25005003) | State Planning Commission",
+      "due_date": "2026-06-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16772033,
+      "project_name": "E1032 Henri St TD2-44"
+    },
+    {
+      "task_id": 205457244,
+      "title": "Issue Final PAA Invoice Inv Premium Service",
+      "due_date": "2026-06-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17830522,
+      "project_name": "S1133 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 205811787,
+      "title": "Send Copy of Cert to Nicola when available",
+      "due_date": "2026-06-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2"
+    },
+    {
+      "task_id": 205942747,
+      "title": "Check Plan SA if we can lodge DNF",
+      "due_date": "2026-06-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 205964945,
+      "title": "Did DP respond to follow up regarding Nic's reply?",
+      "due_date": "2026-06-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5824,8 +5880,8 @@
   "summary": {
     "total_open": 510,
     "total_overdue": 49,
-    "total_due_today": 0,
+    "total_due_today": 5,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-28T23:45:30.928019+09:30"
+  "last_updated": "2026-06-29T00:00:43.578528+09:30"
 }
