@@ -4291,8 +4291,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 205942402,
-          "title": "Check if Nic responded as per Jim's latest email about RFI",
+          "task_id": 205964945,
+          "title": "Did DP respond to follow up regarding Nic's reply?",
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5827,5 +5827,5 @@
     "total_due_today": 0,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-28T16:00:42.758476+09:30"
+  "last_updated": "2026-06-28T16:15:30.450255+09:30"
 }
