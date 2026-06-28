@@ -1,138 +1,75 @@
 {
-  "rfis": [
+  "last_updated": "2026-06-29T06:00:00+09:30",
+  "open_rfis": [
     {
-      "app_id": "26004646",
-      "project_ref": "A1318",
-      "project_name": "Euston Ave Highgate TD1-4",
-      "insightly_id": "17539782",
-      "location": "LOT 300 EUSTON AV HIGHGATE SA 5063",
-      "authority": "City of Unley",
-      "due_date_iso": null,
+      "app_id": "25032987",
+      "location": "49 WOOD ST SOUTH PLYMPTON SA 5038",
+      "due": "29/05/2026",
       "status": "pending",
-      "type": "Mandatory Docs",
-      "description": "City of Unley requires mandatory documentation for 1-into-4 Torrens title land division. Requested 18 Feb 2026. Application on hold."
-    },
-    {
-      "app_id": "26000851",
-      "project_ref": "A1336",
-      "project_name": "The Parade Holden Hill TD1-2",
-      "insightly_id": "17956195",
-      "location": "42 THE PARADE HOLDEN HILL SA 5088",
-      "authority": "City of Tea",
-      "due_date_iso": null,
-      "status": "action_required",
-      "type": "RFI",
-      "description": "City of Tea Tree Gully RFI: show crossover-tree distance, provide tree details, provide indicative dwelling plans for <9m frontage."
-    },
-    {
-      "app_id": "25040193",
-      "project_ref": "A1335",
-      "project_name": "Mitchell Dr Para Hills TD1-3",
-      "insightly_id": "17900271",
-      "location": "7 MITCHELL DR PARA HILLS SA 5096",
-      "authority": "City of Salisbury",
-      "due_date_iso": null,
-      "status": "pending",
-      "type": "Mandatory Docs",
-      "description": "City of Salisbury requires mandatory documentation for 3-lot land division. Requested 16 Feb 2026. Application on hold."
-    },
-    {
-      "app_id": "25031176",
-      "project_ref": "A1324",
-      "project_name": "Euston Ave Highgate CT1-7",
-      "insightly_id": "17539782",
-      "location": "LOT 301 EUSTON AV HIGHGATE SA 5063",
-      "authority": "City of Unley",
-      "due_date_iso": null,
-      "status": "pending",
-      "type": "Mandatory Docs",
-      "description": "City of Unley requires mandatory documentation for 7-lot community title division. Requested 6 Mar 2026. Application on hold."
-    },
-    {
-      "app_id": "25008390",
-      "project_ref": "C1031",
-      "project_name": "Diment Rd Direk TD3-2",
-      "insightly_id": "11236872",
-      "location": "371-387 DIMENT RD DIREK SA 5110",
-      "authority": "City of Salisbury",
-      "due_date_iso": null,
-      "status": "pending",
-      "type": "Mandatory Docs",
-      "description": "City of Salisbury requires mandatory documentation for 3-from-2 land division. Requested 27 Mar 2025. Over a year overdue."
-    },
-    {
-      "app_id": "25032522",
-      "project_ref": "F1106",
-      "project_name": "Glenloth Dr Happy Valley TD1-3",
-      "insightly_id": "17782437",
-      "location": "60 GLENLOTH DR HAPPY VALLEY SA 5159",
-      "authority": "City of Onkaparinga",
-      "due_date_iso": "2026-07-01",
-      "status": "pending",
-      "type": "RFI",
-      "description": "City of Onkaparinga RFI for 3-lot Torrens title division. Raised 7 Apr 2026."
+      "authority": "City of Marion"
     },
     {
       "app_id": "25032971",
-      "project_ref": "A1325",
-      "project_name": "Wood St South Plympton",
-      "insightly_id": "17704260",
       "location": "49 WOOD ST SOUTH PLYMPTON SA 5038",
-      "authority": "City of Marion",
-      "due_date_iso": "2026-06-05",
+      "due": "05/06/2026",
       "status": "pending",
-      "type": "RFI",
-      "description": "City of Marion RFI for Torrens title division. Raised 12 Mar 2026."
+      "authority": "City of Marion"
+    },
+    {
+      "app_id": "26004646",
+      "location": "LOT 300 EUSTON AV HIGHGATE SA 5063",
+      "due": null,
+      "status": "pending",
+      "authority": "City of Unley"
+    },
+    {
+      "app_id": "25040193",
+      "location": "7 MITCHELL DR PARA HILLS SA 5096",
+      "due": null,
+      "status": "pending",
+      "authority": "City of Salisbury"
+    },
+    {
+      "app_id": "25032522",
+      "location": "60 GLENLOTH DR HAPPY VALLEY SA 5159",
+      "due": "01/07/2026",
+      "status": "pending",
+      "authority": "City of Onkaparinga"
+    },
+    {
+      "app_id": "25031176",
+      "location": "LOT 301 EUSTON AV HIGHGATE SA 5063",
+      "due": null,
+      "status": "pending",
+      "authority": "City of Unley"
     },
     {
       "app_id": "25029522",
-      "project_ref": "F1105",
-      "project_name": "Auricchio Ave St Marys TD1-2",
-      "insightly_id": "17708499",
       "location": "66 AURICCHIO AV ST MARYS SA 5042",
-      "authority": "City of Mitcham",
-      "due_date_iso": "2026-06-17",
+      "due": "17/06/2026",
       "status": "pending",
-      "type": "RFI",
-      "description": "City of Mitcham RFI for 2-lot Torrens title division. Application on hold at applicant's request. Contact authority to take off hold."
+      "authority": "City of Mitcham"
     },
     {
-      "app_id": "22040576",
-      "project_ref": "E1031",
-      "project_name": "Hindmarsh Rd Murray Bridge TD1-132",
-      "insightly_id": "16735297",
-      "location": "77-101 HINDMARSH RD MURRAY BRIDGE SA 5253",
-      "authority": "Minister for SA Housing Trust",
-      "due_date_iso": "2026-06-22",
+      "app_id": "25008390",
+      "location": "371-387 DIMENT RD DIREK SA 5110",
+      "due": null,
       "status": "pending",
-      "type": "RFI",
-      "description": "Minister for SA Housing Trust RFI for 132-lot major land division. Ministerial referral involved."
-    },
-    {
-      "app_id": "25032987",
-      "project_ref": "A1325",
-      "project_name": "Wood St South Plympton",
-      "insightly_id": "17704260",
-      "location": "49 WOOD ST SOUTH PLYMPTON SA 5038",
-      "authority": "City of Marion",
-      "due_date_iso": "2026-05-29",
-      "status": "pending",
-      "type": "RFI",
-      "description": "City of Marion RFI for community title division. Dependent on parent application 25032971."
+      "authority": "City of Salisbury"
     },
     {
       "app_id": "25005003",
-      "project_ref": "E1032",
-      "project_name": "Henri St Coober Pedy TD1-44",
-      "insightly_id": "16772033",
       "location": "LOT 157 HENRI ST COOBER PEDY SA 5723",
-      "authority": "State Planning Commission",
-      "due_date_iso": "2026-06-29",
+      "due": "29/06/2026",
       "status": "pending",
-      "type": "RFI",
-      "description": "State Planning Commission RFI for 44-lot Torrens title division at Coober Pedy."
+      "authority": "State Planning Commission"
+    },
+    {
+      "app_id": "22040576",
+      "location": "77-101 HINDMARSH RD MURRAY BRIDGE SA 5253",
+      "due": "22/06/2026",
+      "status": "pending",
+      "authority": "Rural City of Murray Bridge"
     }
-  ],
-  "last_updated": "2026-06-16T08:00:00+09:30",
-  "total": 11
+  ]
 }
