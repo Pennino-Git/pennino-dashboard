@@ -1386,26 +1386,6 @@
       "is_premium": false
     },
     {
-      "id": 17830522,
-      "name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "62 Glenloth Drive, Happy Valley SA 5159",
-      "client": "Alice  Wright",
-      "link": "https://crm.na1.insightly.com/details/project/17830522",
-      "responsibility": "LTO",
-      "days_in_stage": 4,
-      "stage_name": "10. LTO Approval",
-      "sa_water_ref": "H0182765",
-      "stage_order": 10,
-      "tags": [
-        "tier2",
-        "torrens_division"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17863628,
       "name": "S1135 Kerry Rd TD1-2",
       "tier": "T2",
@@ -2069,6 +2049,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-29T22:00:46.325230+09:30",
-  "total": 101
+  "last_updated": "2026-06-29T22:15:31.489062+09:30",
+  "total": 100
 }

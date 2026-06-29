@@ -3654,23 +3654,6 @@
         }
       ]
     },
-    "17830522": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205457244,
-          "title": "Issue Final PAA Invoice Inv Premium Service",
-          "due_date": "2026-06-29",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        }
-      ]
-    },
     "18230693": {
       "total": 2,
       "overdue": 0,
@@ -4267,9 +4250,9 @@
       ]
     },
     "18273554": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4316,15 +4299,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205964945,
-          "title": "Did DP respond to follow up regarding Nic's reply?",
-          "due_date": "2026-06-29",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5319,17 +5293,6 @@
       "project_name": "E1032 Henri St TD2-44"
     },
     {
-      "task_id": 205457244,
-      "title": "Issue Final PAA Invoice Inv Premium Service",
-      "due_date": "2026-06-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 205811787,
       "title": "Send Copy of Cert to Nicola when available",
       "due_date": "2026-06-29",
@@ -5350,17 +5313,6 @@
       "due_soon": false,
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
-      "task_id": 205964945,
-      "title": "Did DP respond to follow up regarding Nic's reply?",
-      "due_date": "2026-06-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5883,10 +5835,10 @@
     }
   ],
   "summary": {
-    "total_open": 513,
+    "total_open": 511,
     "total_overdue": 47,
-    "total_due_today": 5,
-    "projects_with_tasks": 86
+    "total_due_today": 3,
+    "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-29T22:00:46.325230+09:30"
+  "last_updated": "2026-06-29T22:15:31.489062+09:30"
 }
