@@ -4873,9 +4873,9 @@
     },
     "17923064": {
       "total": 13,
-      "overdue": 2,
+      "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205771233,
@@ -4934,11 +4934,11 @@
         {
           "task_id": 205815307,
           "title": "Call Plan SA, ask for Open Space",
-          "due_date": "2026-06-26",
+          "due_date": "2026-06-30",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205911693,
@@ -5789,17 +5789,6 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
-      "task_id": 205815307,
-      "title": "Call Plan SA, ask for Open Space",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
       "task_id": 205842050,
       "title": "Check SA Water if met. Check with Plan SA for consent if needed to be done before DAC Cert",
       "due_date": "2026-06-26",
@@ -5868,9 +5857,9 @@
   ],
   "summary": {
     "total_open": 510,
-    "total_overdue": 48,
+    "total_overdue": 47,
     "total_due_today": 5,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-06-29T14:00:43.830740+09:30"
+  "last_updated": "2026-06-29T14:15:29.058504+09:30"
 }
