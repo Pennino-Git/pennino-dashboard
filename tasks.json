@@ -4511,7 +4511,7 @@
       ]
     },
     "18350144": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4526,8 +4526,17 @@
           "due_soon": ""
         },
         {
-          "task_id": 205817781,
-          "title": "Field work completed",
+          "task_id": 205998985,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205998986,
+          "title": "Final plan signed off",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5780,10 +5789,10 @@
     }
   ],
   "summary": {
-    "total_open": 500,
+    "total_open": 501,
     "total_overdue": 49,
     "total_due_today": 5,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-30T08:46:21.329453+09:30"
+  "last_updated": "2026-06-30T09:00:48.233805+09:30"
 }

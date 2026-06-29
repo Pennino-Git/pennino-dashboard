@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18046054,
+      "project_name": "T1317 Horrocks Hwy TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-30T09:00:48.233805+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18350144,
+      "project_name": "T1326 Garnet Ave TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-06-30T09:00:48.233805+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18350144,
+      "project_name": "T1326 Garnet Ave TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-06-30T09:00:48.233805+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2",
       "tier": "T2",
@@ -910,5 +937,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T08:46:21.329453+09:30"
+  "last_updated": "2026-06-30T09:00:48.233805+09:30"
 }
