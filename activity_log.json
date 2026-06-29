@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-06-30T06:15:30.143099+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-06-30T06:15:30.143099+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2",
@@ -892,5 +910,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T06:00:46.910229+09:30"
+  "last_updated": "2026-06-30T06:15:30.143099+09:30"
 }

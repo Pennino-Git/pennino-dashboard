@@ -1269,7 +1269,7 @@
       "address": "255 Goodwood Road, Kings Park SA 5034",
       "client": "Isaac McNicol",
       "link": "https://crm.na1.insightly.com/details/project/18009966",
-      "responsibility": "SA Water",
+      "responsibility": "SCAP/DAC",
       "days_in_stage": 1,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0174519",
@@ -1775,7 +1775,7 @@
       "address": "Cnr Frisby & Currtis 470 Curtis Road, Angle Vale SA 5117",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18287874",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "Client",
       "days_in_stage": 1,
       "stage_name": "Further Work Required",
       "sa_water_ref": "",
@@ -2049,6 +2049,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-30T06:00:46.910229+09:30",
+  "last_updated": "2026-06-30T06:15:30.143099+09:30",
   "total": 100
 }
