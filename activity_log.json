@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "Plan to Client",
+      "to": "Further Work Required",
+      "timestamp": "2026-06-29T15:30:49.774864+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-29T15:30:49.774864+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18250076,
       "project_name": "B1140 Garden Tce TD2-3",
@@ -865,5 +883,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-29T15:15:29.102101+09:30"
+  "last_updated": "2026-06-29T15:30:49.774864+09:30"
 }
