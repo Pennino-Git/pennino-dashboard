@@ -872,131 +872,6 @@
         }
       ]
     },
-    "17830378": {
-      "total": 13,
-      "overdue": 1,
-      "due_today": 1,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 201030656,
-          "title": "2.1 Prep 1st INV",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201030657,
-          "title": "2.2 send LD2 template to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201030658,
-          "title": "2.3 follow-up with client after 5 days",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201030659,
-          "title": "2.4 secure acceptance in writing",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201030660,
-          "title": "2.5 invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 201494503,
-          "title": "Client response to Concept Plan?",
-          "due_date": "2025-11-26",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205381115,
-          "title": "Follow up with Client",
-          "due_date": "2026-06-30",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 205472507,
-          "title": "Client Brief Received and Info Prepped",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472508,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472509,
-          "title": "Concept plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472510,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472511,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472512,
-          "title": "Physical Docket Created",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17847395": {
       "total": 1,
       "overdue": 1,
@@ -5137,17 +5012,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205381115,
-      "title": "Follow up with Client",
-      "due_date": "2026-06-30",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17830378,
-      "project_name": "V1017 Townsend St TD1-2"
-    },
-    {
       "task_id": 205942169,
       "title": "DP reviewed/lodged Plan SA?",
       "due_date": "2026-06-30",
@@ -5291,17 +5155,6 @@
       "due_soon": false,
       "project_id": 16823916,
       "project_name": "M1063 Adelaide Rd CD1-2"
-    },
-    {
-      "task_id": 201494503,
-      "title": "Client response to Concept Plan?",
-      "due_date": "2025-11-26",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17830378,
-      "project_name": "V1017 Townsend St TD1-2"
     },
     {
       "task_id": 201828754,
@@ -5712,10 +5565,10 @@
     }
   ],
   "summary": {
-    "total_open": 494,
-    "total_overdue": 49,
-    "total_due_today": 3,
-    "projects_with_tasks": 86
+    "total_open": 481,
+    "total_overdue": 48,
+    "total_due_today": 2,
+    "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-30T16:30:54.263067+09:30"
+  "last_updated": "2026-06-30T16:45:31.538412+09:30"
 }
