@@ -4914,7 +4914,7 @@
       ]
     },
     "18369356": {
-      "total": 4,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4949,6 +4949,33 @@
         {
           "task_id": 206000110,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206005686,
+          "title": "Field work date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206005687,
+          "title": "Third Parties Booked",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206005688,
+          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5565,10 +5592,10 @@
     }
   ],
   "summary": {
-    "total_open": 481,
+    "total_open": 484,
     "total_overdue": 48,
     "total_due_today": 2,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-30T20:00:50.418466+09:30"
+  "last_updated": "2026-06-30T20:15:33.053987+09:30"
 }
