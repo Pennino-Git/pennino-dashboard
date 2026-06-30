@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18333168,
+      "project_name": "S1152 Tarton Rd TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-06-30T22:45:31.133877+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
@@ -1045,5 +1054,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T22:30:58.762643+09:30"
+  "last_updated": "2026-06-30T22:45:31.133877+09:30"
 }
