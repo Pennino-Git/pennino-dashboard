@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18369356,
+      "project_name": "T1328 FMG Pelican Point TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-06-30T20:30:54.766111+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18369356,
+      "project_name": "T1328 FMG Pelican Point TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-30T20:30:54.766111+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3",
@@ -1000,5 +1018,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T20:15:33.053987+09:30"
+  "last_updated": "2026-06-30T20:30:54.766111+09:30"
 }

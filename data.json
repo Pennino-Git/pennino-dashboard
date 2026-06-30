@@ -2036,11 +2036,11 @@
       "address": "Pelican Point",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18369356",
-      "responsibility": "Client",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Search & DBYD",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "tpc",
         "tier3"
@@ -2049,6 +2049,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-30T20:15:33.053987+09:30",
+  "last_updated": "2026-06-30T20:30:54.766111+09:30",
   "total": 100
 }
