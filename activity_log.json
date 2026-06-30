@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18333017,
+      "project_name": "T1324 Stebonheath Rd TIER3",
+      "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-06-30T12:00:47.450412+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333017,
+      "project_name": "T1324 Stebonheath Rd TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-30T12:00:47.450412+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18350144,
       "project_name": "T1326 Garnet Ave TIER3",
       "tier": "T3",
@@ -955,5 +973,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T11:45:31.846317+09:30"
+  "last_updated": "2026-06-30T12:00:47.450412+09:30"
 }

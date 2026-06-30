@@ -1976,11 +1976,11 @@
       "address": "Stebonheath Rd",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18333017",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 5,
-      "stage_name": "Plan Drawing & Check",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "tpc"
@@ -2069,6 +2069,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-06-30T11:45:31.846317+09:30",
+  "last_updated": "2026-06-30T12:00:47.450412+09:30",
   "total": 101
 }
