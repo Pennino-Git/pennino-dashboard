@@ -3928,20 +3928,11 @@
       ]
     },
     "18273554": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 205481669,
-          "title": "All supporting documents uploaded",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 205481670,
           "title": "Lodgement invoice received",
@@ -3961,15 +3952,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205481672,
-          "title": "Application accepted by PlanSA",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205481673,
           "title": "Referrals issued (SA Water, Council, DIT, EPA)",
           "due_date": null,
@@ -3979,13 +3961,22 @@
           "due_soon": ""
         },
         {
-          "task_id": 206005750,
-          "title": "Physical Docket Created",
+          "task_id": 206006070,
+          "title": "RFI-Mandatory Information Needed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206006075,
+          "title": "Issue regarding description on Plan SA website",
+          "due_date": "2026-07-02",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5547,10 +5538,10 @@
     }
   ],
   "summary": {
-    "total_open": 479,
+    "total_open": 478,
     "total_overdue": 48,
     "total_due_today": 2,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-06-30T20:30:54.766111+09:30"
+  "last_updated": "2026-06-30T20:45:30.855996+09:30"
 }

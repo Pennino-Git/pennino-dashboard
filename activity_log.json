@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-06-30T20:45:30.855996+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18369356,
       "project_name": "T1328 FMG Pelican Point TIER3",
@@ -1018,5 +1027,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T20:30:54.766111+09:30"
+  "last_updated": "2026-06-30T20:45:30.855996+09:30"
 }
