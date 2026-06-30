@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-06-30T21:00:49.821202+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-06-30T21:00:49.821202+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3",
@@ -1027,5 +1045,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-06-30T20:45:30.855996+09:30"
+  "last_updated": "2026-06-30T21:00:49.821202+09:30"
 }
