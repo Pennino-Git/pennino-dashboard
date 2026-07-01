@@ -29,7 +29,7 @@
       "address": "2 Sturt Street, Murray Bridge SA 5253",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18353608",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -376,7 +376,7 @@
       "address": "Lot 300 Euston Avenue, Highgate SA 5063",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17539782",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Council/Authority",
       "days_in_stage": 1,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0189504",
@@ -481,7 +481,7 @@
       "address": "43 Gulf Parade, Maslin Beach SA 5170",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18372992",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 1,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1289,7 +1289,7 @@
       "address": "255 Goodwood Road, Kings Park SA 5034",
       "client": "Isaac McNicol",
       "link": "https://crm.na1.insightly.com/details/project/18009966",
-      "responsibility": "AR (Alex)",
+      "responsibility": "LTO",
       "days_in_stage": 1,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0174519",
@@ -1413,7 +1413,7 @@
       "address": "8 Kerry Street, Salisbury Downs SA 5108",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17863628",
-      "responsibility": "Kate (Drafting)",
+      "responsibility": "SCAP/DAC",
       "days_in_stage": 1,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0183925",
@@ -2069,6 +2069,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-02T05:56:26.590294+09:30",
+  "last_updated": "2026-07-02T07:34:14.736350+09:30",
   "total": 101
 }

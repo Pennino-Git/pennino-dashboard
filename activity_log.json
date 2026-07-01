@@ -2,6 +2,51 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-02T07:34:14.736350+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-02T07:34:14.736350+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "LTO",
+      "timestamp": "2026-07-02T07:34:14.736350+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-02T07:34:14.736350+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-02T07:34:14.736350+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
       "tier": "T2",
@@ -1153,5 +1198,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-02T05:56:26.590294+09:30"
+  "last_updated": "2026-07-02T07:34:14.736350+09:30"
 }
