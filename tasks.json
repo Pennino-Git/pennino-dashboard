@@ -1424,8 +1424,8 @@
       ]
     },
     "17539782": {
-      "total": 21,
-      "overdue": 6,
+      "total": 25,
+      "overdue": 4,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -1601,22 +1601,58 @@
           "due_soon": false
         },
         {
-          "task_id": 205569745,
-          "title": "Ask DP for schedule- we received SA Water RFI",
-          "due_date": "2026-06-11",
+          "task_id": 206031202,
+          "title": "Council assessment in progress",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
-          "task_id": 205614488,
-          "title": "RFI sent to client?",
-          "due_date": "2026-06-18",
+          "task_id": 206031203,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
+        },
+        {
+          "task_id": 206031204,
+          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206031205,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206031206,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206031207,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5428,17 +5464,6 @@
       "project_name": "F1112 Isabella Rd TD1-3"
     },
     {
-      "task_id": 205569745,
-      "title": "Ask DP for schedule- we received SA Water RFI",
-      "due_date": "2026-06-11",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
       "task_id": 205591586,
       "title": "Invoice #468684 - $988.00 PlanSA Payment",
       "due_date": "2026-06-25",
@@ -5459,17 +5484,6 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
-    },
-    {
-      "task_id": 205614488,
-      "title": "RFI sent to client?",
-      "due_date": "2026-06-18",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
     },
     {
       "task_id": 205648195,
@@ -5594,10 +5608,10 @@
     }
   ],
   "summary": {
-    "total_open": 483,
-    "total_overdue": 48,
+    "total_open": 487,
+    "total_overdue": 46,
     "total_due_today": 3,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-07-01T15:00:48.633844+09:30"
+  "last_updated": "2026-07-01T15:15:29.701927+09:30"
 }

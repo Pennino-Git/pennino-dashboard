@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-07-01T15:15:29.701927+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-01T15:15:29.701927+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18353608,
       "project_name": "A1350 Sturt St IDENT",
       "tier": "T1",
@@ -1126,5 +1144,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T15:00:48.633844+09:30"
+  "last_updated": "2026-07-01T15:15:29.701927+09:30"
 }
