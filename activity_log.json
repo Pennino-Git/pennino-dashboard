@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-01T09:45:29.775852+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-01T09:45:29.775852+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1072,5 +1090,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T09:30:56.437058+09:30"
+  "last_updated": "2026-07-01T09:45:29.775852+09:30"
 }

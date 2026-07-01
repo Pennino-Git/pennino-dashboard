@@ -1269,11 +1269,11 @@
       "address": "255 Goodwood Road, Kings Park SA 5034",
       "client": "Isaac McNicol",
       "link": "https://crm.na1.insightly.com/details/project/18009966",
-      "responsibility": "SCAP/DAC",
-      "days_in_stage": 2,
-      "stage_name": "8. Final Authority Approvals",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0174519",
-      "stage_order": 8,
+      "stage_order": 9,
       "tags": [
         "tier2",
         "torrens_division",
@@ -2049,6 +2049,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-01T09:30:56.437058+09:30",
+  "last_updated": "2026-07-01T09:45:29.775852+09:30",
   "total": 100
 }
