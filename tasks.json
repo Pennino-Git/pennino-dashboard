@@ -3272,10 +3272,10 @@
       ]
     },
     "16351328": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3312,6 +3312,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206029440,
+          "title": "Prem Serv quote received?",
+          "due_date": "2026-07-02",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4270,32 +4279,6 @@
         }
       ]
     },
-    "18353608": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205724812,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205724813,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18021299": {
       "total": 2,
       "overdue": 0,
@@ -5017,6 +5000,23 @@
           "due_soon": ""
         }
       ]
+    },
+    "18353608": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206029366,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5590,5 +5590,5 @@
     "total_due_today": 3,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-07-01T13:45:29.065735+09:30"
+  "last_updated": "2026-07-01T14:00:51.942696+09:30"
 }

@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-01T14:00:51.942696+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-01T14:00:51.942696+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17863628,
       "project_name": "S1135 Kerry Rd TD1-2",
       "tier": "T2",
@@ -1108,5 +1126,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T13:45:29.065735+09:30"
+  "last_updated": "2026-07-01T14:00:51.942696+09:30"
 }

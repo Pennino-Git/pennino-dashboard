@@ -29,11 +29,11 @@
       "address": "2 Sturt Street, Murray Bridge SA 5253",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18353608",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 14,
-      "stage_name": "Prepare Project",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "tier1",
         "alete_homes",
@@ -2049,6 +2049,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-01T13:45:29.065735+09:30",
+  "last_updated": "2026-07-01T14:00:51.942696+09:30",
   "total": 100
 }
