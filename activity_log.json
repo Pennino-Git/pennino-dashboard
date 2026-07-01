@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-07-01T12:45:32.055510+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "SA Water",
+      "timestamp": "2026-07-01T12:45:32.055510+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2",
       "tier": "T2",
@@ -1090,5 +1108,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T12:30:54.016443+09:30"
+  "last_updated": "2026-07-01T12:45:32.055510+09:30"
 }

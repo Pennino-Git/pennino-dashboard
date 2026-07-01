@@ -2869,19 +2869,19 @@
       ]
     },
     "17863628": {
-      "total": 4,
+      "total": 9,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205384049,
           "title": "Certified plan drafted (Kate)",
-          "due_date": null,
+          "due_date": "2026-07-06",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 205384050,
@@ -2909,6 +2909,51 @@
           "overdue": true,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 206028921,
+          "title": "SCAP certificate application submitted",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206028922,
+          "title": "Open Space invoice received & Sent to Client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206028923,
+          "title": "Open Space invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206028924,
+          "title": "LDC/SCAP clearance fee paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206028925,
+          "title": "Issue Final PAA Invoice",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5540,10 +5585,10 @@
     }
   ],
   "summary": {
-    "total_open": 477,
+    "total_open": 482,
     "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-07-01T12:30:54.016443+09:30"
+  "last_updated": "2026-07-01T12:45:32.055510+09:30"
 }
