@@ -891,8 +891,8 @@
     },
     "17782437": {
       "total": 18,
-      "overdue": 1,
-      "due_today": 3,
+      "overdue": 4,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -918,8 +918,8 @@
           "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
           "due_date": "2026-07-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -927,8 +927,8 @@
           "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
           "due_date": "2026-07-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -945,8 +945,8 @@
           "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
           "due_date": "2026-07-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3247,8 +3247,8 @@
     "16351328": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3292,8 +3292,8 @@
           "due_date": "2026-07-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3886,8 +3886,8 @@
     "18273554": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205481670,
@@ -3931,8 +3931,8 @@
           "due_date": "2026-07-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3983,8 +3983,8 @@
     "18009966": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 3,
+      "due_today": 2,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205503515,
@@ -4001,8 +4001,8 @@
           "due_date": "2026-07-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206027403,
@@ -4010,8 +4010,8 @@
           "due_date": "2026-07-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206027404,
@@ -5020,37 +5020,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 204448414,
-      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-      "due_date": "2026-07-01",
+      "task_id": 206006075,
+      "title": "Issue regarding description on Plan SA website",
+      "due_date": "2026-07-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
     },
     {
-      "task_id": 204449281,
-      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-      "due_date": "2026-07-01",
+      "task_id": 206027402,
+      "title": "LTO fees paid",
+      "due_date": "2026-07-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
     },
     {
-      "task_id": 204580451,
-      "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
-      "due_date": "2026-07-01",
+      "task_id": 206027403,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-07-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
+    },
+    {
+      "task_id": 206029440,
+      "title": "Prem Serv quote received?",
+      "due_date": "2026-07-02",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     }
   ],
   "tasks_overdue": [
@@ -5231,6 +5242,17 @@
       "project_name": "A1266 Fatchen St CD1-3"
     },
     {
+      "task_id": 204448414,
+      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
+      "due_date": "2026-07-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
       "task_id": 204448416,
       "title": "RFI Response \u2014 E1032 (25005003) | State Planning Commission",
       "due_date": "2026-06-29",
@@ -5264,6 +5286,17 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
+      "task_id": 204449281,
+      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
+      "due_date": "2026-07-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
       "task_id": 204528159,
       "title": "D1071 Deeds Rd \u2014 Chase SA Water invoice if not received by 5pm",
       "due_date": "2026-04-21",
@@ -5284,6 +5317,17 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
+      "task_id": 204580451,
+      "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
+      "due_date": "2026-07-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
       "task_id": 204666626,
@@ -5541,9 +5585,9 @@
   ],
   "summary": {
     "total_open": 481,
-    "total_overdue": 44,
-    "total_due_today": 3,
+    "total_overdue": 47,
+    "total_due_today": 4,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-07-01T23:25:49.916035+09:30"
+  "last_updated": "2026-07-02T01:58:42.833016+09:30"
 }
