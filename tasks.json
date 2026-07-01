@@ -890,8 +890,8 @@
       ]
     },
     "17782437": {
-      "total": 19,
-      "overdue": 2,
+      "total": 18,
+      "overdue": 1,
       "due_today": 3,
       "due_soon": 0,
       "tasks": [
@@ -1049,17 +1049,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 205942745,
-          "title": "Check if there's a response from SA Water",
-          "due_date": "2026-06-30",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
           "task_id": 205942747,
-          "title": "Check Plan SA if we can lodge DNF",
+          "title": "Check Plan SA if we can lodge Cert",
           "due_date": "2026-06-29",
           "status": "NOT STARTED",
           "overdue": true,
@@ -1219,7 +1210,7 @@
       ]
     },
     "15978707": {
-      "total": 14,
+      "total": 7,
       "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
@@ -1252,60 +1243,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205593022,
-          "title": "SA Water inspection requested and completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593023,
-          "title": "SA Water inspection requested",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593024,
-          "title": "SA Water inspection requested",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593025,
-          "title": "SA Water inspection completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593026,
-          "title": "SA Water inspection completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593027,
-          "title": "SA Water quote/invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205593028,
           "title": "SA Water invoice paid",
           "due_date": null,
@@ -1326,15 +1263,6 @@
         {
           "task_id": 205593030,
           "title": "All post-survey condition sign-offs obtained",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593031,
-          "title": "SA Water invoice paid",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5538,19 +5466,8 @@
       "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
-      "task_id": 205942745,
-      "title": "Check if there's a response from SA Water",
-      "due_date": "2026-06-30",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 205942747,
-      "title": "Check Plan SA if we can lodge DNF",
+      "title": "Check Plan SA if we can lodge Cert",
       "due_date": "2026-06-29",
       "status": "NOT STARTED",
       "overdue": true,
@@ -5561,10 +5478,10 @@
     }
   ],
   "summary": {
-    "total_open": 483,
-    "total_overdue": 45,
+    "total_open": 475,
+    "total_overdue": 44,
     "total_due_today": 3,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-07-01T18:01:45.651233+09:30"
+  "last_updated": "2026-07-01T21:13:41.310967+09:30"
 }

@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "SA Water",
+      "timestamp": "2026-07-01T21:13:41.310967+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1144,5 +1153,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T18:01:45.651233+09:30"
+  "last_updated": "2026-07-01T21:13:41.310967+09:30"
 }
