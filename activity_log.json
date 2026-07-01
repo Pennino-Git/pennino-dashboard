@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-01T09:30:56.437058+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -1063,5 +1072,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-01T09:20:17.252706+09:30"
+  "last_updated": "2026-07-01T09:30:56.437058+09:30"
 }
