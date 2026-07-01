@@ -4605,8 +4605,8 @@
       ]
     },
     "18039448": {
-      "total": 7,
-      "overdue": 2,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -4654,24 +4654,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205843128,
-          "title": "Prep 1st INV (Plan SA INV paid by client)",
-          "due_date": "2026-06-26",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205843240,
-          "title": "Did DP respond to AR's question about SA Water feedback?",
-          "due_date": "2026-06-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5491,28 +5473,6 @@
       "project_name": "S1135 Kerry Rd TD1-2"
     },
     {
-      "task_id": 205843128,
-      "title": "Prep 1st INV (Plan SA INV paid by client)",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
-      "task_id": 205843240,
-      "title": "Did DP respond to AR's question about SA Water feedback?",
-      "due_date": "2026-06-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
       "task_id": 205887044,
       "title": "Ask DP. Call Plan SA Desk",
       "due_date": "2026-06-26",
@@ -5580,10 +5540,10 @@
     }
   ],
   "summary": {
-    "total_open": 479,
-    "total_overdue": 50,
+    "total_open": 477,
+    "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 85
   },
-  "last_updated": "2026-07-01T11:30:52.498272+09:30"
+  "last_updated": "2026-07-01T11:45:29.635334+09:30"
 }
