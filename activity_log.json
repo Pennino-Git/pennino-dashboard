@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18374500,
+      "project_name": "T1329 Springs Rd Mt Barker TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-02T15:00:50.584851+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7",
@@ -1225,5 +1234,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-02T14:45:30.427801+09:30"
+  "last_updated": "2026-07-02T15:00:50.584851+09:30"
 }
