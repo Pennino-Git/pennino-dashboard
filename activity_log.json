@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-02T21:00:55.555416+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18374500,
       "project_name": "T1329 Springs Rd Mt Barker TIER3",
@@ -1234,5 +1243,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-02T20:45:31.802588+09:30"
+  "last_updated": "2026-07-02T21:00:55.555416+09:30"
 }
