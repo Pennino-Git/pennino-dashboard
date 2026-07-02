@@ -3290,10 +3290,10 @@
       ]
     },
     "16351328": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3330,6 +3330,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206154151,
+          "title": "Check for Prem Serv approval",
+          "due_date": "2026-07-06",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4019,13 +4028,13 @@
     "18009966": {
       "total": 5,
       "overdue": 0,
-      "due_today": 3,
-      "due_soon": 1,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205503515,
           "title": "Issue Final PAA Invoice",
-          "due_date": "2026-07-03",
+          "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -4034,20 +4043,20 @@
         {
           "task_id": 206027402,
           "title": "LTO fees paid",
-          "due_date": "2026-07-02",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         },
         {
           "task_id": 206027403,
           "title": "Plan Lodged Via DPL",
-          "due_date": "2026-07-02",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         },
         {
           "task_id": 206027404,
@@ -4061,11 +4070,11 @@
         {
           "task_id": 206137251,
           "title": "Call DP if no response about DPL Loodging",
-          "due_date": "2026-07-02",
+          "due_date": "2026-07-03",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5098,41 +5107,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206027402,
-      "title": "LTO fees paid",
-      "due_date": "2026-07-02",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 206027403,
-      "title": "Plan Lodged Via DPL",
-      "due_date": "2026-07-02",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 206137251,
-      "title": "Call DP if no response about DPL Loodging",
-      "due_date": "2026-07-02",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5653,10 +5628,10 @@
     }
   ],
   "summary": {
-    "total_open": 489,
+    "total_open": 490,
     "total_overdue": 47,
-    "total_due_today": 3,
+    "total_due_today": 0,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-02T21:00:55.555416+09:30"
+  "last_updated": "2026-07-02T21:15:30.388322+09:30"
 }
