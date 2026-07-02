@@ -3281,10 +3281,10 @@
       ]
     },
     "16351328": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3321,15 +3321,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206029440,
-          "title": "Prem Serv quote received?",
-          "due_date": "2026-07-03",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
         }
       ]
     },
@@ -5662,10 +5653,10 @@
     }
   ],
   "summary": {
-    "total_open": 490,
+    "total_open": 489,
     "total_overdue": 47,
     "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-02T15:31:19.691344+09:30"
+  "last_updated": "2026-07-02T15:45:31.140899+09:30"
 }
