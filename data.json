@@ -397,7 +397,7 @@
       "address": "Lot 301 Euston Avenue, Highgate SA 5063",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17700505",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 21,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "",
@@ -405,7 +405,8 @@
       "tags": [
         "alete_homes",
         "community_division",
-        "tier2"
+        "tier2",
+        "Field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -2069,6 +2070,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-02T11:20:56.776537+09:30",
+  "last_updated": "2026-07-02T14:08:25.108657+09:30",
   "total": 101
 }

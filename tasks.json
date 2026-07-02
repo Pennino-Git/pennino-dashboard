@@ -2225,7 +2225,7 @@
       ]
     },
     "17700505": {
-      "total": 11,
+      "total": 12,
       "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
@@ -2328,6 +2328,15 @@
           "overdue": true,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 206139091,
+          "title": "REPEG - SUPERSEDED DESIGN",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5609,10 +5618,10 @@
     }
   ],
   "summary": {
-    "total_open": 485,
+    "total_open": 486,
     "total_overdue": 47,
     "total_due_today": 3,
     "projects_with_tasks": 86
   },
-  "last_updated": "2026-07-02T11:20:56.776537+09:30"
+  "last_updated": "2026-07-02T14:08:25.108657+09:30"
 }
