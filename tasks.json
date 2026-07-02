@@ -2227,8 +2227,8 @@
     "17700505": {
       "total": 13,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068466,
@@ -2344,8 +2344,8 @@
           "due_date": "2026-07-03",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2880,8 +2880,8 @@
     "17863628": {
       "total": 10,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205384049,
@@ -2970,8 +2970,8 @@
           "due_date": "2026-07-03",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4028,8 +4028,8 @@
     "18009966": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205503515,
@@ -4073,8 +4073,8 @@
           "due_date": "2026-07-03",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5107,7 +5107,41 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 206029828,
+      "title": "Check if SA Water is cleared (Client paid INV)",
+      "due_date": "2026-07-03",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2"
+    },
+    {
+      "task_id": 206137251,
+      "title": "Call DP if no response about DPL Loodging",
+      "due_date": "2026-07-03",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
+    },
+    {
+      "task_id": 206153947,
+      "title": "Check with DP if Pegging Plan answers SA Water RFI",
+      "due_date": "2026-07-03",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5630,8 +5664,8 @@
   "summary": {
     "total_open": 490,
     "total_overdue": 47,
-    "total_due_today": 0,
+    "total_due_today": 3,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-02T23:45:31.389096+09:30"
+  "last_updated": "2026-07-03T00:00:51.723656+09:30"
 }
