@@ -5,6 +5,24 @@
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
       "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-07-02T11:20:56.776537+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 17704260,
+      "project_name": "A1325 Wood St TD1-2",
+      "tier": "T2",
+      "from": "6 Land Division Certificate Lodged with PlanSA",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-02T11:20:56.776537+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-07-02T07:34:14.736350+09:30"
@@ -1198,5 +1216,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-02T09:13:27.857040+09:30"
+  "last_updated": "2026-07-02T11:20:56.776537+09:30"
 }
