@@ -508,5 +508,10 @@
     "stage_id": 3134301,
     "entered": "2026-07-02",
     "stage_name": "Field Work Scheduled"
+  },
+  "18377245": {
+    "stage_id": 4845733,
+    "entered": "2026-07-03",
+    "stage_name": "1. Concept Planning"
   }
 }
