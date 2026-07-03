@@ -4933,7 +4933,7 @@
     "18009966": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -4948,11 +4948,11 @@
         {
           "task_id": 206027403,
           "title": "Plan Lodged Via DPL",
-          "due_date": null,
+          "due_date": "2026-07-03",
           "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206027404,
@@ -5072,6 +5072,17 @@
     }
   },
   "tasks_due_today": [
+    {
+      "task_id": 206027403,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-07-03",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2"
+    },
     {
       "task_id": 206153947,
       "title": "Check with DP if Pegging Plan answers SA Water RFI",
@@ -5595,8 +5606,8 @@
   "summary": {
     "total_open": 486,
     "total_overdue": 46,
-    "total_due_today": 1,
+    "total_due_today": 2,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-03T09:45:30.186514+09:30"
+  "last_updated": "2026-07-03T10:00:49.825208+09:30"
 }
