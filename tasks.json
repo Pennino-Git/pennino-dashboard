@@ -2225,23 +2225,14 @@
       ]
     },
     "17700505": {
-      "total": 13,
+      "total": 8,
       "overdue": 1,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068466,
-          "title": "SA Water connection request submitted",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068467,
-          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "title": "SA Water connection request submitted - Waiting on client ok",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -2285,33 +2276,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205430719,
-          "title": "Tree assessment/removal actioned (if required)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430720,
-          "title": "Demolition arranged (if required)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430721,
-          "title": "Allotment clearance confirmed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205430722,
           "title": "All pre-survey conditions met",
           "due_date": null,
@@ -2337,15 +2301,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206153947,
-          "title": "Check with DP if Pegging Plan answers SA Water RFI",
-          "due_date": "2026-07-03",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5127,17 +5082,6 @@
       "due_soon": false,
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2"
-    },
-    {
-      "task_id": 206153947,
-      "title": "Check with DP if Pegging Plan answers SA Water RFI",
-      "due_date": "2026-07-03",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
     }
   ],
   "tasks_overdue": [
@@ -5638,10 +5582,10 @@
     }
   ],
   "summary": {
-    "total_open": 491,
+    "total_open": 486,
     "total_overdue": 45,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-03T10:30:55.112293+09:30"
+  "last_updated": "2026-07-03T10:45:28.446398+09:30"
 }

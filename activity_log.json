@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-03T10:45:28.446398+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18091731,
       "project_name": "F1112 Isabella Rd TD1-3",
@@ -1270,5 +1279,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-03T10:30:55.112293+09:30"
+  "last_updated": "2026-07-03T10:45:28.446398+09:30"
 }
