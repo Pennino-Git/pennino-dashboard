@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Client",
+      "timestamp": "2026-07-03T13:30:55.150878+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18250076,
       "project_name": "B1140 Garden Tce TD2-3",
       "tier": "T2",
@@ -1288,5 +1297,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-03T13:15:28.946655+09:30"
+  "last_updated": "2026-07-03T13:30:55.150878+09:30"
 }
