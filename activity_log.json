@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-07-03T11:01:01.965619+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7",
       "tier": "T2",
@@ -1279,5 +1288,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-03T10:47:24.099290+09:30"
+  "last_updated": "2026-07-03T11:01:01.965619+09:30"
 }
