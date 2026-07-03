@@ -2879,8 +2879,8 @@
     },
     "17863628": {
       "total": 10,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 0,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -2913,11 +2913,11 @@
         {
           "task_id": 205811787,
           "title": "Send Copy of Cert to Nicola when available",
-          "due_date": "2026-06-29",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
           "task_id": 206028921,
@@ -2967,11 +2967,11 @@
         {
           "task_id": 206029828,
           "title": "Check if SA Water is cleared (Client paid INV)",
-          "due_date": "2026-07-03",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5073,17 +5073,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206029828,
-      "title": "Check if SA Water is cleared (Client paid INV)",
-      "due_date": "2026-07-03",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2"
-    },
-    {
       "task_id": 206153947,
       "title": "Check with DP if Pegging Plan answers SA Water RFI",
       "due_date": "2026-07-03",
@@ -5559,17 +5548,6 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
-      "task_id": 205811787,
-      "title": "Send Copy of Cert to Nicola when available",
-      "due_date": "2026-06-29",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2"
-    },
-    {
       "task_id": 205887044,
       "title": "Ask DP. Call Plan SA Desk",
       "due_date": "2026-06-26",
@@ -5616,9 +5594,9 @@
   ],
   "summary": {
     "total_open": 486,
-    "total_overdue": 47,
-    "total_due_today": 2,
+    "total_overdue": 46,
+    "total_due_today": 1,
     "projects_with_tasks": 87
   },
-  "last_updated": "2026-07-03T09:15:30.599160+09:30"
+  "last_updated": "2026-07-03T09:30:58.907556+09:30"
 }
