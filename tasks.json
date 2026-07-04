@@ -5010,8 +5010,8 @@
     },
     "18377245": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5019,8 +5019,8 @@
           "title": "Draft Plan/Brief Sent to Drafter",
           "due_date": "2026-07-04",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5063,8 +5063,8 @@
     },
     "18369356": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5072,37 +5072,14 @@
           "title": "Prep INV. Tristan sent plan on 03/07",
           "due_date": "2026-07-04",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206178695,
-      "title": "Draft Plan/Brief Sent to Drafter",
-      "due_date": "2026-07-04",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    },
-    {
-      "task_id": 206182121,
-      "title": "Prep INV. Tristan sent plan on 03/07",
-      "due_date": "2026-07-04",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18369356,
-      "project_name": "T1328 FMG Pelican Point TIER3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5609,13 +5586,35 @@
       "due_soon": false,
       "project_id": 18009966,
       "project_name": "M1067 Goodwood Rd TD1-2"
+    },
+    {
+      "task_id": 206178695,
+      "title": "Draft Plan/Brief Sent to Drafter",
+      "due_date": "2026-07-04",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
+    },
+    {
+      "task_id": 206182121,
+      "title": "Prep INV. Tristan sent plan on 03/07",
+      "due_date": "2026-07-04",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18369356,
+      "project_name": "T1328 FMG Pelican Point TIER3"
     }
   ],
   "summary": {
     "total_open": 486,
-    "total_overdue": 46,
-    "total_due_today": 2,
+    "total_overdue": 48,
+    "total_due_today": 0,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-04T23:45:29.079248+09:30"
+  "last_updated": "2026-07-05T00:00:58.101370+09:30"
 }
