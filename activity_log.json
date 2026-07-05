@@ -2,6 +2,42 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17704260,
+      "project_name": "A1325 Wood St TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "LTO",
+      "timestamp": "2026-07-06T06:15:29.864520+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-06T06:15:29.864520+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-06T06:15:29.864520+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18378158,
+      "project_name": "T1330 Simpson Pde TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-06T06:15:29.864520+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
       "tier": "T2",
@@ -1297,5 +1333,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-06T06:00:59.939236+09:30"
+  "last_updated": "2026-07-06T06:15:29.864520+09:30"
 }
