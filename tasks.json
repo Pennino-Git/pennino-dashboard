@@ -4111,19 +4111,28 @@
       ]
     },
     "18021299": {
-      "total": 1,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205770321,
           "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": "2026-07-06",
+          "due_date": "2026-07-08",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 206205855,
+          "title": "Check if INV is sent out",
+          "due_date": "2026-07-08",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5163,17 +5172,6 @@
       "project_name": "S1135 Kerry Rd TD1-2"
     },
     {
-      "task_id": 205770321,
-      "title": "Confirmation of Approval Sent to All Parties",
-      "due_date": "2026-07-06",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR"
-    },
-    {
       "task_id": 205887044,
       "title": "Ask DP. Call Plan SA Desk",
       "due_date": "2026-07-06",
@@ -5760,10 +5758,10 @@
     }
   ],
   "summary": {
-    "total_open": 493,
+    "total_open": 494,
     "total_overdue": 46,
-    "total_due_today": 9,
+    "total_due_today": 8,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-06T09:01:01.893596+09:30"
+  "last_updated": "2026-07-06T09:15:15.657055+09:30"
 }
