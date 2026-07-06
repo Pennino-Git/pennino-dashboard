@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18009966,
+      "project_name": "M1067 Goodwood Rd TD1-2",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-07-06T14:15:31.043979+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17704260,
       "project_name": "A1325 Wood St TD1-2",
@@ -1333,5 +1342,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-06T14:01:00.338968+09:30"
+  "last_updated": "2026-07-06T14:15:31.043979+09:30"
 }
