@@ -2613,8 +2613,8 @@
       ]
     },
     "17632301": {
-      "total": 6,
-      "overdue": 1,
+      "total": 4,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2626,15 +2626,6 @@
           "overdue": false,
           "due_today": false,
           "due_soon": false
-        },
-        {
-          "task_id": 205843273,
-          "title": "Open Space invoice received & Sent to Client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
         },
         {
           "task_id": 205843274,
@@ -2662,15 +2653,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205941207,
-          "title": "Check if DP responded to email",
-          "due_date": "2026-06-26",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5642,17 +5624,6 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
-      "task_id": 205941207,
-      "title": "Check if DP responded to email",
-      "due_date": "2026-06-26",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
-    },
-    {
       "task_id": 205941280,
       "title": "Respond to Council using Jake's email- ask DP",
       "due_date": "2026-06-26",
@@ -5698,10 +5669,10 @@
     }
   ],
   "summary": {
-    "total_open": 491,
-    "total_overdue": 45,
+    "total_open": 489,
+    "total_overdue": 44,
     "total_due_today": 6,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-06T15:45:30.922116+09:30"
+  "last_updated": "2026-07-06T16:01:01.160964+09:30"
 }
