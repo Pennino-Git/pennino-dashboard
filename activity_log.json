@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-06T22:01:13.902320+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 16351328,
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
       "tier": "T2",
@@ -1351,5 +1360,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-06T21:45:07.333889+09:30"
+  "last_updated": "2026-07-06T22:01:13.902320+09:30"
 }
