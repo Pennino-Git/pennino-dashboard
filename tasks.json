@@ -2894,9 +2894,9 @@
       ]
     },
     "11764688": {
-      "total": 4,
+      "total": 3,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2925,15 +2925,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205887044,
-          "title": "Ask DP. Call Plan SA Desk",
-          "due_date": "2026-07-06",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5116,17 +5107,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205887044,
-      "title": "Ask DP. Call Plan SA Desk",
-      "due_date": "2026-07-06",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2"
-    },
-    {
       "task_id": 205911695,
       "title": "Open Space invoice paid",
       "due_date": "2026-07-06",
@@ -5658,10 +5638,10 @@
     }
   ],
   "summary": {
-    "total_open": 489,
+    "total_open": 488,
     "total_overdue": 44,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-06T21:31:12.353330+09:30"
+  "last_updated": "2026-07-06T21:45:07.333889+09:30"
 }
