@@ -1219,10 +1219,10 @@
       ]
     },
     "15978707": {
-      "total": 7,
+      "total": 8,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1286,6 +1286,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206207687,
+          "title": "Did DP respond to my question about SA Water?",
+          "due_date": "2026-07-07",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5689,10 +5698,10 @@
     }
   ],
   "summary": {
-    "total_open": 490,
+    "total_open": 491,
     "total_overdue": 45,
     "total_due_today": 6,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-06T15:31:09.576493+09:30"
+  "last_updated": "2026-07-06T15:45:30.922116+09:30"
 }
