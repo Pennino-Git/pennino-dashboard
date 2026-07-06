@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "SA Water",
+      "timestamp": "2026-07-06T22:45:40.959402+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3",
       "tier": "T2",
@@ -1369,5 +1378,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-06T22:31:10.591726+09:30"
+  "last_updated": "2026-07-06T22:45:40.959402+09:30"
 }
