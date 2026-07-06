@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-06T22:15:34.861280+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18021299,
       "project_name": "Z1060 Collison St IDENT & CONTOUR",
       "tier": "T2",
@@ -1360,5 +1369,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-06T22:01:13.902320+09:30"
+  "last_updated": "2026-07-06T22:15:34.861280+09:30"
 }
