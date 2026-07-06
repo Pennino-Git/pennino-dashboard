@@ -2,6 +2,60 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 16477307,
+      "project_name": "Z1049 The Esplanade CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17303279,
+      "project_name": "A1310 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17847395,
+      "project_name": "S1134 Wynn Vale Dr TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18184868,
+      "project_name": "T1319 Grange Rd TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18212535,
+      "project_name": "D1069 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-07T06:15:32.523675+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17632301,
       "project_name": "F1102 Copernicus Rd TD1-4",
       "tier": "T2",
@@ -1378,5 +1432,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-07T06:01:08.717716+09:30"
+  "last_updated": "2026-07-07T06:15:32.523675+09:30"
 }
