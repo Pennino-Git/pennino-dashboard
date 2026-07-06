@@ -1185,7 +1185,7 @@
       "address": "20-26 Lipson Street, Port Adelaide SA 5015",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351328",
-      "responsibility": "Council/Authority",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 25,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0161246",
@@ -2130,6 +2130,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-06T21:15:32.490384+09:30",
+  "last_updated": "2026-07-06T21:31:12.353330+09:30",
   "total": 104
 }
