@@ -892,8 +892,8 @@
     "17782437": {
       "total": 19,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1063,8 +1063,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1221,8 +1221,8 @@
     "15978707": {
       "total": 8,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1293,8 +1293,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2041,8 +2041,8 @@
     "18078768": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204756189,
@@ -2050,8 +2050,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205381369,
@@ -2896,8 +2896,8 @@
     "11764688": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205388023,
@@ -2932,8 +2932,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3593,8 +3593,8 @@
     "17928270": {
       "total": 8,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -3665,8 +3665,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3689,8 +3689,8 @@
     },
     "18273554": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3734,8 +3734,8 @@
           "title": "Issue regarding description on Plan SA website",
           "due_date": "2026-07-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3909,8 +3909,8 @@
     },
     "18076465": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3963,8 +3963,8 @@
           "title": "Responded to SA Water feedback? Did DP respond to my email?",
           "due_date": "2026-07-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4278,8 +4278,8 @@
     },
     "17923064": {
       "total": 10,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4350,8 +4350,8 @@
           "title": "Open Space invoice paid",
           "due_date": "2026-07-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4421,8 +4421,8 @@
     "18039448": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205843116,
@@ -4475,8 +4475,8 @@
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5107,37 +5107,70 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205911695,
-      "title": "Open Space invoice paid",
-      "due_date": "2026-07-06",
+      "task_id": 204756189,
+      "title": "Touch base with client, per last email to resume on July",
+      "due_date": "2026-07-07",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
+      "project_id": 18078768,
+      "project_name": "N1028 Lyndoch Rd TD1-2"
     },
     {
-      "task_id": 206006075,
-      "title": "Issue regarding description on Plan SA website",
-      "due_date": "2026-07-06",
+      "task_id": 206203869,
+      "title": "Check if field work is good with DP/TR",
+      "due_date": "2026-07-07",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
     },
     {
-      "task_id": 206178962,
-      "title": "Responded to SA Water feedback? Did DP respond to my email?",
-      "due_date": "2026-07-06",
+      "task_id": 206204270,
+      "title": "1st INV good for sending?",
+      "due_date": "2026-07-07",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 206207563,
+      "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 206207687,
+      "title": "Did DP respond to my question about SA Water?",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 206212646,
+      "title": "Call Plan SA Desk",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5582,6 +5615,17 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
+      "task_id": 205911695,
+      "title": "Open Space invoice paid",
+      "due_date": "2026-07-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
       "task_id": 205942747,
       "title": "Check Plan SA if we can lodge Cert",
       "due_date": "2026-06-29",
@@ -5593,6 +5637,17 @@
       "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
+      "task_id": 206006075,
+      "title": "Issue regarding description on Plan SA website",
+      "due_date": "2026-07-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
       "task_id": 206178695,
       "title": "Draft Plan/Brief Sent to Drafter",
       "due_date": "2026-07-04",
@@ -5602,6 +5657,17 @@
       "due_soon": false,
       "project_id": 18377245,
       "project_name": "F1146 Oakridge Rise TD1-4"
+    },
+    {
+      "task_id": 206178962,
+      "title": "Responded to SA Water feedback? Did DP respond to my email?",
+      "due_date": "2026-07-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
       "task_id": 206182121,
@@ -5617,9 +5683,9 @@
   ],
   "summary": {
     "total_open": 488,
-    "total_overdue": 43,
-    "total_due_today": 3,
+    "total_overdue": 46,
+    "total_due_today": 6,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-06T23:45:44.508867+09:30"
+  "last_updated": "2026-07-07T00:01:11.325186+09:30"
 }
