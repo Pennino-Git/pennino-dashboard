@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-07T18:45:33.266999+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18353608,
       "project_name": "A1350 Sturt St IDENT",
@@ -1468,5 +1477,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-07T18:31:14.013094+09:30"
+  "last_updated": "2026-07-07T18:45:33.266999+09:30"
 }
