@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-07-07T18:31:14.013094+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-07T18:31:14.013094+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18333168,
       "project_name": "S1152 Tarton Rd TD1-3",
@@ -1450,5 +1468,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-07T18:15:31.976927+09:30"
+  "last_updated": "2026-07-07T18:31:14.013094+09:30"
 }
