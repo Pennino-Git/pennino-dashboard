@@ -3138,10 +3138,10 @@
       ]
     },
     "16351328": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3178,6 +3178,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206233740,
+          "title": "Did SA Water respond about installation inquiry",
+          "due_date": "2026-07-08",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5642,10 +5651,10 @@
     }
   ],
   "summary": {
-    "total_open": 486,
+    "total_open": 487,
     "total_overdue": 46,
     "total_due_today": 4,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-07T12:45:31.806312+09:30"
+  "last_updated": "2026-07-07T13:01:01.272863+09:30"
 }
