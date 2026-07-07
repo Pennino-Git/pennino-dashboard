@@ -3582,9 +3582,9 @@
       ]
     },
     "17928270": {
-      "total": 8,
+      "total": 7,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3649,15 +3649,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206203869,
-          "title": "Check if field work is good with DP/TR",
-          "due_date": "2026-07-07",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5098,17 +5089,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206203869,
-      "title": "Check if field work is good with DP/TR",
-      "due_date": "2026-07-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4"
-    },
-    {
       "task_id": 206207563,
       "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
       "due_date": "2026-07-07",
@@ -5651,10 +5631,10 @@
     }
   ],
   "summary": {
-    "total_open": 487,
+    "total_open": 486,
     "total_overdue": 46,
-    "total_due_today": 4,
+    "total_due_today": 3,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-07T13:15:30.842901+09:30"
+  "last_updated": "2026-07-07T13:31:10.746183+09:30"
 }
