@@ -891,8 +891,8 @@
     },
     "17782437": {
       "total": 19,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1062,8 +1062,8 @@
           "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1220,8 +1220,8 @@
     },
     "15978707": {
       "total": 8,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1292,8 +1292,8 @@
           "title": "Did DP respond to my question about SA Water?",
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2633,8 +2633,8 @@
     "17847316": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205289296,
@@ -2678,8 +2678,8 @@
           "due_date": "2026-07-08",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2886,8 +2886,8 @@
     },
     "11764688": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2922,8 +2922,8 @@
           "title": "Call Plan SA Desk",
           "due_date": "2026-07-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3140,8 +3140,8 @@
     "16351328": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3185,8 +3185,8 @@
           "due_date": "2026-07-08",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4466,7 +4466,7 @@
       "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205863215,
@@ -4493,7 +4493,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -4544,8 +4544,8 @@
     "18250076": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205942077,
@@ -4562,8 +4562,8 @@
           "due_date": "2026-07-08",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5098,37 +5098,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206207563,
-      "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
-      "due_date": "2026-07-07",
+      "task_id": 206176308,
+      "title": "Plan SA INV paid? ",
+      "due_date": "2026-07-08",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3"
     },
     {
-      "task_id": 206207687,
-      "title": "Did DP respond to my question about SA Water?",
-      "due_date": "2026-07-07",
+      "task_id": 206204090,
+      "title": "Check for SCAP Approval",
+      "due_date": "2026-07-08",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
     },
     {
-      "task_id": 206212646,
-      "title": "Call Plan SA Desk",
-      "due_date": "2026-07-07",
+      "task_id": 206233740,
+      "title": "Did SA Water respond about installation inquiry",
+      "due_date": "2026-07-08",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2"
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     }
   ],
   "tasks_overdue": [
@@ -5626,13 +5626,46 @@
       "due_soon": false,
       "project_id": 18369356,
       "project_name": "T1328 FMG Pelican Point TIER3"
+    },
+    {
+      "task_id": 206207563,
+      "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 206207687,
+      "title": "Did DP respond to my question about SA Water?",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 206212646,
+      "title": "Call Plan SA Desk",
+      "due_date": "2026-07-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
     }
   ],
   "summary": {
     "total_open": 487,
-    "total_overdue": 45,
+    "total_overdue": 48,
     "total_due_today": 3,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-07T23:45:34.565295+09:30"
+  "last_updated": "2026-07-08T00:01:15.828372+09:30"
 }
