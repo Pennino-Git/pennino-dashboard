@@ -3150,16 +3150,16 @@
       "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205431266,
           "title": "SCAP certificate received",
-          "due_date": null,
+          "due_date": "2026-07-10",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 205431267,
@@ -5678,5 +5678,5 @@
     "total_due_today": 6,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-07T10:45:30.477950+09:30"
+  "last_updated": "2026-07-07T11:01:01.689624+09:30"
 }
