@@ -2615,8 +2615,8 @@
     "17847316": {
       "total": 5,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205289296,
@@ -2657,11 +2657,11 @@
         {
           "task_id": 206204090,
           "title": "Check for SCAP Approval",
-          "due_date": "2026-07-08",
+          "due_date": "2026-07-10",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3058,9 +3058,9 @@
       ]
     },
     "16351328": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -3098,15 +3098,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206233740,
-          "title": "Did SA Water respond about installation inquiry",
-          "due_date": "2026-07-08",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4435,28 +4426,19 @@
       ]
     },
     "18250076": {
-      "total": 2,
+      "total": 1,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205942077,
           "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206176308,
-          "title": "Plan SA INV paid? ",
-          "due_date": "2026-07-08",
+          "due_date": "2026-07-09",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4989,41 +4971,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206176308,
-      "title": "Plan SA INV paid? ",
-      "due_date": "2026-07-08",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3"
-    },
-    {
-      "task_id": 206204090,
-      "title": "Check for SCAP Approval",
-      "due_date": "2026-07-08",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2"
-    },
-    {
-      "task_id": 206233740,
-      "title": "Did SA Water respond about installation inquiry",
-      "due_date": "2026-07-08",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5544,10 +5492,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 474,
     "total_overdue": 47,
-    "total_due_today": 3,
+    "total_due_today": 0,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-08T18:01:04.402621+09:30"
+  "last_updated": "2026-07-08T18:15:32.373572+09:30"
 }
