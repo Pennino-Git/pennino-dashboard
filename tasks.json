@@ -4098,86 +4098,6 @@
         }
       ]
     },
-    "17845187": {
-      "total": 8,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205771140,
-          "title": "Variation form Kate Recieved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888537,
-          "title": "Client Variation Drafted - (With Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888550,
-          "title": "Ciculate Latest Variation to Client prior to relodging",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888555,
-          "title": "Client Approval and Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888556,
-          "title": "NEW Varied Application completed on PlanSA portal",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888558,
-          "title": "Lodgement invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888559,
-          "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205888560,
-          "title": "Client Advised of Lodgement in Plan SA",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17923064": {
       "total": 10,
       "overdue": 1,
@@ -4414,6 +4334,59 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
+        }
+      ]
+    },
+    "17845187": {
+      "total": 5,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205888555,
+          "title": "Client Approval and Lodgement",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888556,
+          "title": "NEW Varied Application completed on PlanSA portal",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888558,
+          "title": "Lodgement invoice received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888559,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205888560,
+          "title": "Client Advised of Lodgement in Plan SA",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5571,10 +5544,10 @@
     }
   ],
   "summary": {
-    "total_open": 479,
+    "total_open": 476,
     "total_overdue": 47,
     "total_due_today": 3,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-08T16:45:34.125517+09:30"
+  "last_updated": "2026-07-08T17:01:09.638656+09:30"
 }
