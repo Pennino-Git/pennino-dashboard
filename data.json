@@ -994,7 +994,7 @@
       "id": 18252749,
       "name": "F1113 Amundsen Dr TD1-4",
       "tier": "T2",
-      "status": "IN PROGRESS",
+      "status": "DEFERRED",
       "address": "47 Amundsen Drive, Ingle Farm SA 5098",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
@@ -2130,6 +2130,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-08T11:31:09.628858+09:30",
+  "last_updated": "2026-07-08T11:45:32.407950+09:30",
   "total": 104
 }
