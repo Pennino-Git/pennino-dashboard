@@ -1789,26 +1789,6 @@
       "is_premium": false
     },
     {
-      "id": 18287874,
-      "name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Cnr Frisby & Currtis 470 Curtis Road, Angle Vale SA 5117",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18287874",
-      "responsibility": "Client",
-      "days_in_stage": 9,
-      "stage_name": "Further Work Required",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "tier3",
-        "Angle_Vale"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17847395,
       "name": "S1134 Wynn Vale Dr TIER3",
       "tier": "T3",
@@ -2130,6 +2110,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-08T13:31:10.891812+09:30",
-  "total": 104
+  "last_updated": "2026-07-08T13:45:31.587543+09:30",
+  "total": 103
 }
