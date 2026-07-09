@@ -728,7 +728,7 @@
       "address": "64-66 Deeds Road, North Plympton SA 5037",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0190294",
@@ -1557,7 +1557,7 @@
       "address": "495 Salisbury Highway, Parafield Gardens SA 5107",
       "client": "Priyanka Choudhary",
       "link": "https://crm.na1.insightly.com/details/project/18384520",
-      "responsibility": "Kate (Drafting)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -2131,6 +2131,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-10T06:01:02.502106+09:30",
+  "last_updated": "2026-07-10T06:15:33.485939+09:30",
   "total": 104
 }
