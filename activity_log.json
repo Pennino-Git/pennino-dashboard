@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-07-10T04:01:01.240325+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18384520,
       "project_name": "S1153 Salisbury Hwy TD1-2",
@@ -1549,5 +1558,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-10T03:47:22.903389+09:30"
+  "last_updated": "2026-07-10T04:01:01.240325+09:30"
 }
