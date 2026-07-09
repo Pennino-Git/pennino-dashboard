@@ -1603,32 +1603,14 @@
       ]
     },
     "18046019": {
-      "total": 11,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
           "title": "Invoice Payment \u2014 F1111 (26006160) | City of Onkaparinga | $877.00",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205432350,
-          "title": "SA Water inspection requested and completed",
-          "due_date": "2026-07-15",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
-        },
-        {
-          "task_id": 205432351,
-          "title": "SA Water inspection requested",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -1665,33 +1647,6 @@
         {
           "task_id": 205432366,
           "title": "SCAP certificate application submitted",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205432367,
-          "title": "Open Space invoice received & Sent to Client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205432368,
-          "title": "Open Space invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205432369,
-          "title": "LDC/SCAP clearance fee paid",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5573,10 +5528,10 @@
     }
   ],
   "summary": {
-    "total_open": 483,
+    "total_open": 478,
     "total_overdue": 47,
     "total_due_today": 0,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-09T15:01:05.174902+09:30"
+  "last_updated": "2026-07-09T15:15:31.824913+09:30"
 }
