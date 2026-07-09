@@ -2821,15 +2821,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 206292070,
-          "title": "SCAP certificate application submitted",
-          "due_date": "2026-07-10",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
-        },
-        {
           "task_id": 206292071,
           "title": "Open Space invoice received & Sent to Client",
           "due_date": null,
@@ -2864,6 +2855,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206292214,
+          "title": "Check for Open Space/Council/SA Water requirements",
+          "due_date": "2026-07-14",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5578,5 +5578,5 @@
     "total_due_today": 0,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-09T12:45:32.126552+09:30"
+  "last_updated": "2026-07-09T12:56:05.580897+09:30"
 }
