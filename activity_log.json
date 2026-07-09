@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-07-09T12:15:31.192233+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18250076,
       "project_name": "B1140 Garden Tce TD2-3",
@@ -1504,5 +1513,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-09T12:01:10.393602+09:30"
+  "last_updated": "2026-07-09T12:15:31.192233+09:30"
 }

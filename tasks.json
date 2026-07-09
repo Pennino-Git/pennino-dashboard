@@ -3803,8 +3803,8 @@
     "18076465": {
       "total": 6,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205588473,
@@ -3854,11 +3854,11 @@
         {
           "task_id": 206234419,
           "title": "Did Mimi responded with SA Water form?",
-          "due_date": "2026-07-09",
+          "due_date": "2026-07-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5016,19 +5016,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206234419,
-      "title": "Did Mimi responded with SA Water form?",
-      "due_date": "2026-07-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5551,8 +5539,8 @@
   "summary": {
     "total_open": 479,
     "total_overdue": 47,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-09T12:01:10.393602+09:30"
+  "last_updated": "2026-07-09T12:15:31.192233+09:30"
 }
