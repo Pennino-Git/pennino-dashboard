@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-07-09T09:45:30.977824+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-09T09:45:30.977824+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
@@ -1486,5 +1504,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-09T09:31:14.463512+09:30"
+  "last_updated": "2026-07-09T09:45:30.977824+09:30"
 }

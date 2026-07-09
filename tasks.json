@@ -4425,23 +4425,6 @@
         }
       ]
     },
-    "18250076": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205942077,
-          "title": "Lodgement invoice paid",
-          "due_date": "2026-07-09",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        }
-      ]
-    },
     "18350144": {
       "total": 3,
       "overdue": 0,
@@ -4969,20 +4952,71 @@
           "due_soon": ""
         }
       ]
+    },
+    "18250076": {
+      "total": 6,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206290846,
+          "title": "Council assessment in progress",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206290847,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206290848,
+          "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206290849,
+          "title": "All RFIs received and responded to",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206290850,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206290851,
+          "title": "All authority approvals received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
-    {
-      "task_id": 205942077,
-      "title": "Lodgement invoice paid",
-      "due_date": "2026-07-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3"
-    },
     {
       "task_id": 206234419,
       "title": "Did Mimi responded with SA Water form?",
@@ -5515,10 +5549,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 479,
     "total_overdue": 47,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 88
   },
-  "last_updated": "2026-07-09T09:31:14.463512+09:30"
+  "last_updated": "2026-07-09T09:45:30.977824+09:30"
 }
