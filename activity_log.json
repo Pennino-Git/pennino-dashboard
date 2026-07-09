@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18384520,
+      "project_name": "S1153 Salisbury Hwy TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-10T03:45:31.662659+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17552256,
       "project_name": "Z1054 Johns Rd TD1-2",
       "tier": "T2",
@@ -1540,5 +1549,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-10T03:31:13.777926+09:30"
+  "last_updated": "2026-07-10T03:45:31.662659+09:30"
 }
