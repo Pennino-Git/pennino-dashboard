@@ -2614,8 +2614,8 @@
     },
     "17847316": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2659,8 +2659,8 @@
           "title": "Check for SCAP Approval",
           "due_date": "2026-07-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3095,8 +3095,8 @@
     },
     "16351328": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3104,8 +3104,8 @@
           "title": "SCAP certificate received",
           "due_date": "2026-07-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3926,8 +3926,8 @@
     },
     "16853856": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3962,8 +3962,8 @@
           "title": "Check if TR sent Pegging Plan",
           "due_date": "2026-07-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4006,8 +4006,8 @@
     "18021299": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205770321,
@@ -4024,8 +4024,8 @@
           "due_date": "2026-07-11",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4225,8 +4225,8 @@
     },
     "18039448": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4279,8 +4279,8 @@
           "title": "Sent 1st INV?",
           "due_date": "2026-07-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5071,48 +5071,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205431266,
-      "title": "SCAP certificate received",
-      "due_date": "2026-07-10",
+      "task_id": 206205855,
+      "title": "Check if INV is sent out",
+      "due_date": "2026-07-11",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
-      "task_id": 206204090,
-      "title": "Check for SCAP Approval",
-      "due_date": "2026-07-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2"
-    },
-    {
-      "task_id": 206233629,
-      "title": "Sent 1st INV?",
-      "due_date": "2026-07-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
-      "task_id": 206293995,
-      "title": "Check if TR sent Pegging Plan",
-      "due_date": "2026-07-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16853856,
-      "project_name": "F1094 Galloway Rd TD1-3"
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR"
     }
   ],
   "tasks_overdue": [
@@ -5458,6 +5425,17 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
+      "task_id": 205431266,
+      "title": "SCAP certificate received",
+      "due_date": "2026-07-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
       "task_id": 205462982,
       "title": "Schedule SA Water pegging/cert",
       "due_date": "2026-06-08",
@@ -5601,6 +5579,17 @@
       "project_name": "T1328 FMG Pelican Point TIER3"
     },
     {
+      "task_id": 206204090,
+      "title": "Check for SCAP Approval",
+      "due_date": "2026-07-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
+    },
+    {
       "task_id": 206207563,
       "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
       "due_date": "2026-07-07",
@@ -5632,13 +5621,35 @@
       "due_soon": false,
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2"
+    },
+    {
+      "task_id": 206233629,
+      "title": "Sent 1st INV?",
+      "due_date": "2026-07-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 206293995,
+      "title": "Check if TR sent Pegging Plan",
+      "due_date": "2026-07-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16853856,
+      "project_name": "F1094 Galloway Rd TD1-3"
     }
   ],
   "summary": {
     "total_open": 484,
-    "total_overdue": 47,
-    "total_due_today": 4,
+    "total_overdue": 51,
+    "total_due_today": 1,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-10T23:45:32.877629+09:30"
+  "last_updated": "2026-07-11T00:01:07.633073+09:30"
 }
