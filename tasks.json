@@ -4005,8 +4005,8 @@
     },
     "18021299": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4023,8 +4023,8 @@
           "title": "Check if INV is sent out",
           "due_date": "2026-07-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5069,19 +5069,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206205855,
-      "title": "Check if INV is sent out",
-      "due_date": "2026-07-11",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5590,6 +5578,17 @@
       "project_name": "B1136 Laura St TD1-2"
     },
     {
+      "task_id": 206205855,
+      "title": "Check if INV is sent out",
+      "due_date": "2026-07-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR"
+    },
+    {
       "task_id": 206207563,
       "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
       "due_date": "2026-07-07",
@@ -5647,9 +5646,9 @@
   ],
   "summary": {
     "total_open": 484,
-    "total_overdue": 51,
-    "total_due_today": 1,
+    "total_overdue": 52,
+    "total_due_today": 0,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-11T23:45:30.171127+09:30"
+  "last_updated": "2026-07-12T00:01:05.086316+09:30"
 }
