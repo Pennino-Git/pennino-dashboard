@@ -5085,6 +5085,59 @@
           "due_soon": ""
         }
       ]
+    },
+    "18386748": {
+      "total": 5,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 206346024,
+          "title": "Draft Plan/Brief Sent to Drafter",
+          "due_date": "2026-07-16",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 206346025,
+          "title": "Concept plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206346026,
+          "title": "Concept plan sent to client for approval",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206346027,
+          "title": "Client approval received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206346028,
+          "title": "Physical Docket Created",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5664,10 +5717,10 @@
     }
   ],
   "summary": {
-    "total_open": 486,
+    "total_open": 491,
     "total_overdue": 51,
     "total_due_today": 1,
-    "projects_with_tasks": 89
+    "projects_with_tasks": 90
   },
-  "last_updated": "2026-07-13T01:15:30.559373+09:30"
+  "last_updated": "2026-07-13T01:31:10.213492+09:30"
 }
