@@ -3217,10 +3217,10 @@
       ]
     },
     "18252749": {
-      "total": 18,
+      "total": 19,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205464397,
@@ -3383,6 +3383,15 @@
           "overdue": false,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 206345696,
+          "title": "Check if there's any update (in regards to Council email)",
+          "due_date": "2026-07-15",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5643,10 +5652,10 @@
     }
   ],
   "summary": {
-    "total_open": 485,
+    "total_open": 486,
     "total_overdue": 51,
     "total_due_today": 0,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-12T23:31:12.658850+09:30"
+  "last_updated": "2026-07-12T23:45:05.222735+09:30"
 }
