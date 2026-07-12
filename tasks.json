@@ -2614,9 +2614,9 @@
     },
     "17847316": {
       "total": 5,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205289296,
@@ -2657,11 +2657,11 @@
         {
           "task_id": 206204090,
           "title": "Check for SCAP Approval",
-          "due_date": "2026-07-10",
+          "due_date": "2026-07-15",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -4126,10 +4126,10 @@
       ]
     },
     "17923064": {
-      "total": 10,
+      "total": 11,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205771233,
@@ -4220,6 +4220,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206345387,
+          "title": "Remind Jake that SA Water INV expires on 22 July",
+          "due_date": "2026-07-15",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5567,17 +5576,6 @@
       "project_name": "T1328 FMG Pelican Point TIER3"
     },
     {
-      "task_id": 206204090,
-      "title": "Check for SCAP Approval",
-      "due_date": "2026-07-10",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2"
-    },
-    {
       "task_id": 206205855,
       "title": "Check if INV is sent out",
       "due_date": "2026-07-11",
@@ -5645,10 +5643,10 @@
     }
   ],
   "summary": {
-    "total_open": 484,
-    "total_overdue": 52,
+    "total_open": 485,
+    "total_overdue": 51,
     "total_due_today": 0,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-07-12T22:15:31.896224+09:30"
+  "last_updated": "2026-07-12T22:31:09.859030+09:30"
 }
