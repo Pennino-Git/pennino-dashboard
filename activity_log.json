@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-07-13T16:08:02.465396+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17847316,
       "project_name": "B1136 Laura St TD1-2",
       "tier": "T2",
@@ -1612,5 +1621,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-13T16:01:06.179792+09:30"
+  "last_updated": "2026-07-13T16:08:02.465396+09:30"
 }
