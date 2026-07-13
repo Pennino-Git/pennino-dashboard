@@ -69,7 +69,7 @@
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "11 & 21 Clarence Street, Munno Para West SA 5115",
-      "client": "",
+      "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18386906",
       "responsibility": "AR (Alex)",
       "days_in_stage": 0,
@@ -2172,6 +2172,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-13T14:31:13.546080+09:30",
+  "last_updated": "2026-07-13T14:45:31.107499+09:30",
   "total": 106
 }
