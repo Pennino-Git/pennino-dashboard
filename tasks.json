@@ -2806,10 +2806,10 @@
       ]
     },
     "17552256": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2859,7 +2859,16 @@
         {
           "task_id": 206292214,
           "title": "Check for Open Space/Council/SA Water requirements",
-          "due_date": "2026-07-14",
+          "due_date": "2026-07-15",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 206349207,
+          "title": "Check if Land Div Reg INV is issued",
+          "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -5688,10 +5697,10 @@
     }
   ],
   "summary": {
-    "total_open": 489,
+    "total_open": 490,
     "total_overdue": 50,
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-07-13T13:01:02.273279+09:30"
+  "last_updated": "2026-07-13T13:15:32.922216+09:30"
 }
