@@ -4717,7 +4717,7 @@
       ]
     },
     "18091731": {
-      "total": 12,
+      "total": 8,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4732,26 +4732,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 206175450,
-          "title": "Tree assessment/removal actioned (if required)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 206175452,
           "title": "Allotment clearance confirmed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175453,
-          "title": "All pre-survey conditions met",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4779,24 +4761,6 @@
         {
           "task_id": 206175466,
           "title": "Field survey date scheduled",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175467,
-          "title": "Field survey completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175468,
-          "title": "Pegging and Final Plan to Drafter",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5717,10 +5681,10 @@
     }
   ],
   "summary": {
-    "total_open": 491,
+    "total_open": 487,
     "total_overdue": 51,
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-07-13T10:31:22.669070+09:30"
+  "last_updated": "2026-07-13T10:45:31.690158+09:30"
 }
