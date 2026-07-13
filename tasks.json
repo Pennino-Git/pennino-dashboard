@@ -4279,9 +4279,9 @@
     },
     "18039448": {
       "total": 6,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205843116,
@@ -4331,11 +4331,11 @@
         {
           "task_id": 206233629,
           "title": "Sent 1st INV?",
-          "due_date": "2026-07-10",
+          "due_date": "2026-07-17",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5734,17 +5734,6 @@
       "project_name": "H1015 Barkey St TD1-2"
     },
     {
-      "task_id": 206233629,
-      "title": "Sent 1st INV?",
-      "due_date": "2026-07-10",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
       "task_id": 206293995,
       "title": "Check if TR sent Pegging Plan",
       "due_date": "2026-07-10",
@@ -5758,9 +5747,9 @@
   ],
   "summary": {
     "total_open": 497,
-    "total_overdue": 49,
+    "total_overdue": 48,
     "total_due_today": 1,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-13T20:01:09.091162+09:30"
+  "last_updated": "2026-07-13T20:15:31.248213+09:30"
 }
