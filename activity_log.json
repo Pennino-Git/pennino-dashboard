@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-13T15:31:12.169407+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18091731,
       "project_name": "F1112 Isabella Rd TD1-3",
@@ -1603,5 +1612,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-13T15:15:30.974123+09:30"
+  "last_updated": "2026-07-13T15:31:12.169407+09:30"
 }
