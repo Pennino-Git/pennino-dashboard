@@ -2440,8 +2440,8 @@
     "18187249": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068678,
@@ -2449,8 +2449,8 @@
           "due_date": "2026-07-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205068679,
@@ -2571,8 +2571,8 @@
     "17632301": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205215029,
@@ -2616,8 +2616,8 @@
           "due_date": "2026-07-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206349667,
@@ -2625,8 +2625,8 @@
           "due_date": "2026-07-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3883,8 +3883,8 @@
     },
     "18076465": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3937,8 +3937,8 @@
           "title": "Did Mimi responded with SA Water form?",
           "due_date": "2026-07-13",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4755,8 +4755,8 @@
     "18091731": {
       "total": 10,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206175449,
@@ -4791,8 +4791,8 @@
           "due_date": "2026-07-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206175466,
@@ -5204,15 +5204,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206234419,
-      "title": "Did Mimi responded with SA Water form?",
-      "due_date": "2026-07-13",
+      "task_id": 205068678,
+      "title": "Concept plan drafted (Kate)",
+      "due_date": "2026-07-14",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
+    },
+    {
+      "task_id": 206175465,
+      "title": "Surveyor assigned (Tristan / Harry / Grantley / Damiano)",
+      "due_date": "2026-07-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3"
+    },
+    {
+      "task_id": 206349651,
+      "title": "Check update on Amended Certified Plan",
+      "due_date": "2026-07-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4"
+    },
+    {
+      "task_id": 206349667,
+      "title": "Did Plan SA respond?",
+      "due_date": "2026-07-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5734,6 +5767,17 @@
       "project_name": "H1015 Barkey St TD1-2"
     },
     {
+      "task_id": 206234419,
+      "title": "Did Mimi responded with SA Water form?",
+      "due_date": "2026-07-13",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
       "task_id": 206293995,
       "title": "Check if TR sent Pegging Plan",
       "due_date": "2026-07-10",
@@ -5747,9 +5791,9 @@
   ],
   "summary": {
     "total_open": 497,
-    "total_overdue": 48,
-    "total_due_today": 1,
+    "total_overdue": 49,
+    "total_due_today": 4,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-13T23:45:39.893151+09:30"
+  "last_updated": "2026-07-14T00:01:09.434757+09:30"
 }
