@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-07-14T14:15:31.288850+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18289825,
       "project_name": "S1149 Kensington Park TIER3",
       "tier": "T3",
@@ -1666,5 +1675,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-14T14:01:06.860141+09:30"
+  "last_updated": "2026-07-14T14:15:31.288850+09:30"
 }
