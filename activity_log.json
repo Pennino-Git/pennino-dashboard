@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18358533,
+      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
+      "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-07-14T16:04:27.236605+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18358533,
+      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-14T16:04:27.236605+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
@@ -1675,5 +1693,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-14T16:01:08.922056+09:30"
+  "last_updated": "2026-07-14T16:04:27.236605+09:30"
 }
