@@ -1667,8 +1667,8 @@
     "18225672": {
       "total": 10,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1757,8 +1757,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2570,8 +2570,8 @@
     "17847316": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205289296,
@@ -2615,8 +2615,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2754,8 +2754,8 @@
     "17552256": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2808,8 +2808,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206349207,
@@ -2817,8 +2817,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3183,7 +3183,7 @@
     "18252749": {
       "total": 19,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 1,
       "tasks": [
         {
@@ -3346,7 +3346,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 206345696,
@@ -3354,8 +3354,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4101,8 +4101,8 @@
     "17923064": {
       "total": 11,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205771233,
@@ -4200,8 +4200,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4270,8 +4270,8 @@
     "18269218": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205863215,
@@ -4297,8 +4297,8 @@
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5139,7 +5139,85 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205896883,
+      "title": "Client will pay cash. If he didn't, check with DP.",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18269218,
+      "project_name": "W1021 Gully View Ct IDENT"
+    },
+    {
+      "task_id": 206204090,
+      "title": "Check for SCAP Approval",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
+    },
+    {
+      "task_id": 206292214,
+      "title": "Check for Open Space/Council/SA Water requirements",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206345387,
+      "title": "Remind Jake that SA Water INV expires on 22 July",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
+      "task_id": 206345696,
+      "title": "Check if there's any update (in regards to Council email)",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
+      "task_id": 206349207,
+      "title": "Check if Land Div Reg INV is issued",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206377488,
+      "title": "SA Water responded?",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5673,8 +5751,8 @@
   "summary": {
     "total_open": 490,
     "total_overdue": 48,
-    "total_due_today": 0,
+    "total_due_today": 7,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-14T23:46:17.717102+09:30"
+  "last_updated": "2026-07-15T00:01:11.046106+09:30"
 }
