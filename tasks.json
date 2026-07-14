@@ -2762,7 +2762,7 @@
       ]
     },
     "17863628": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2779,15 +2779,6 @@
         {
           "task_id": 205384051,
           "title": "DWG in DPL and SCAP Certificate Applied For",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206028922,
-          "title": "Open Space invoice received & Sent to Client",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5790,10 +5781,10 @@
     }
   ],
   "summary": {
-    "total_open": 497,
+    "total_open": 496,
     "total_overdue": 49,
     "total_due_today": 4,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-14T13:01:07.723905+09:30"
+  "last_updated": "2026-07-14T13:15:30.068697+09:30"
 }
