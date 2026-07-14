@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-14T13:45:29.671156+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18358533,
       "project_name": "T1327 Davoren Park- 4 Sites TIER3",
@@ -1657,5 +1666,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-14T13:31:09.874587+09:30"
+  "last_updated": "2026-07-14T13:45:29.671156+09:30"
 }
