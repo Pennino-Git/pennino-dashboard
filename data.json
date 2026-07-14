@@ -1079,7 +1079,7 @@
       "address": "1 Barkey Street, Para Hills SA 5096",
       "client": "Rick Hurst",
       "link": "https://crm.na1.insightly.com/details/project/11764688",
-      "responsibility": "AR (Alex)",
+      "responsibility": "SA Water",
       "days_in_stage": 33,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0108995",
@@ -2172,6 +2172,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-14T18:01:08.466237+09:30",
+  "last_updated": "2026-07-14T18:15:32.036438+09:30",
   "total": 106
 }
