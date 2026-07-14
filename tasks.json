@@ -2395,17 +2395,17 @@
     "18187249": {
       "total": 4,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205068678,
           "title": "Concept plan drafted (Kate)",
-          "due_date": "2026-07-14",
+          "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         },
         {
           "task_id": 205068679,
@@ -5139,19 +5139,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 205068678,
-      "title": "Concept plan drafted (Kate)",
-      "due_date": "2026-07-14",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5685,8 +5673,8 @@
   "summary": {
     "total_open": 490,
     "total_overdue": 48,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-14T19:45:35.092196+09:30"
+  "last_updated": "2026-07-14T20:01:09.897028+09:30"
 }
