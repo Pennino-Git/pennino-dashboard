@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-15T06:15:31.650542+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17863628,
       "project_name": "S1135 Kerry Rd TD1-2",
       "tier": "T2",
@@ -1738,5 +1747,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-15T06:01:09.980234+09:30"
+  "last_updated": "2026-07-15T06:15:31.650542+09:30"
 }
