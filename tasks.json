@@ -2524,9 +2524,9 @@
       ]
     },
     "17632301": {
-      "total": 6,
+      "total": 4,
       "overdue": 0,
-      "due_today": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2564,24 +2564,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206349651,
-          "title": "Check update on Amended Certified Plan",
-          "due_date": "2026-07-14",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 206349667,
-          "title": "Did Plan SA respond?",
-          "due_date": "2026-07-14",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5179,28 +5161,6 @@
       "due_soon": false,
       "project_id": 18091731,
       "project_name": "F1112 Isabella Rd TD1-3"
-    },
-    {
-      "task_id": 206349651,
-      "title": "Check update on Amended Certified Plan",
-      "due_date": "2026-07-14",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
-    },
-    {
-      "task_id": 206349667,
-      "title": "Did Plan SA respond?",
-      "due_date": "2026-07-14",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5745,10 +5705,10 @@
     }
   ],
   "summary": {
-    "total_open": 492,
+    "total_open": 490,
     "total_overdue": 49,
-    "total_due_today": 4,
+    "total_due_today": 2,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-07-14T16:15:37.704702+09:30"
+  "last_updated": "2026-07-14T16:31:15.194458+09:30"
 }
