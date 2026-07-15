@@ -2736,8 +2736,8 @@
     "17552256": {
       "total": 7,
       "overdue": 0,
-      "due_today": 2,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2787,20 +2787,20 @@
         {
           "task_id": 206292214,
           "title": "Check for Open Space/Council/SA Water requirements",
-          "due_date": "2026-07-15",
+          "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         },
         {
           "task_id": 206349207,
           "title": "Check if Land Div Reg INV is issued",
-          "due_date": "2026-07-15",
+          "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3165,8 +3165,8 @@
     "18252749": {
       "total": 19,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 1,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205464397,
@@ -3331,13 +3331,13 @@
           "due_soon": true
         },
         {
-          "task_id": 206345696,
-          "title": "Check if there's any update (in regards to Council email)",
-          "due_date": "2026-07-15",
+          "task_id": 206404037,
+          "title": "When SA Water pegging- ask DP",
+          "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5178,17 +5178,6 @@
       "project_name": "B1136 Laura St TD1-2"
     },
     {
-      "task_id": 206292214,
-      "title": "Check for Open Space/Council/SA Water requirements",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2"
-    },
-    {
       "task_id": 206345387,
       "title": "Remind Jake that SA Water INV expires on 22 July",
       "due_date": "2026-07-15",
@@ -5198,28 +5187,6 @@
       "due_soon": false,
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
-      "task_id": 206345696,
-      "title": "Check if there's any update (in regards to Council email)",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4"
-    },
-    {
-      "task_id": 206349207,
-      "title": "Check if Land Div Reg INV is issued",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2"
     },
     {
       "task_id": 206377488,
@@ -5766,8 +5733,8 @@
   "summary": {
     "total_open": 492,
     "total_overdue": 48,
-    "total_due_today": 6,
+    "total_due_today": 3,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-15T11:31:09.142330+09:30"
+  "last_updated": "2026-07-15T11:45:30.393858+09:30"
 }
