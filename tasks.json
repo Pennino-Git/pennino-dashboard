@@ -4224,9 +4224,9 @@
       ]
     },
     "18269218": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4246,15 +4246,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205896883,
-          "title": "Client will pay cash. If he didn't, check with DP.",
-          "due_date": "2026-07-15",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5176,17 +5167,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205896883,
-      "title": "Client will pay cash. If he didn't, check with DP.",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT"
-    },
-    {
       "task_id": 206204090,
       "title": "Check for SCAP Approval",
       "due_date": "2026-07-15",
@@ -5784,10 +5764,10 @@
     }
   ],
   "summary": {
-    "total_open": 493,
+    "total_open": 492,
     "total_overdue": 48,
-    "total_due_today": 7,
+    "total_due_today": 6,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-15T11:15:31.821543+09:30"
+  "last_updated": "2026-07-15T11:31:09.142330+09:30"
 }
