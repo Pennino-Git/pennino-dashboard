@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-16T06:15:32.263164+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18294425,
       "project_name": "C1065 Lookout Dr CONTOUR",
@@ -1765,5 +1774,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-16T06:01:07.704710+09:30"
+  "last_updated": "2026-07-16T06:15:32.263164+09:30"
 }
