@@ -1648,8 +1648,8 @@
     },
     "18225672": {
       "total": 10,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1738,8 +1738,8 @@
           "title": "SA Water responded?",
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2377,8 +2377,8 @@
     "18187249": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068678,
@@ -2386,8 +2386,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205068679,
@@ -2718,8 +2718,8 @@
     "17552256": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2772,8 +2772,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206349207,
@@ -2781,8 +2781,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2824,8 +2824,8 @@
     "11764688": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205388023,
@@ -2860,8 +2860,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4038,8 +4038,8 @@
     },
     "17923064": {
       "total": 11,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4137,8 +4137,8 @@
           "title": "Remind Jake that SA Water INV expires on 22 July",
           "due_date": "2026-07-15",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4612,8 +4612,8 @@
     "18091731": {
       "total": 10,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206175449,
@@ -4648,8 +4648,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206175466,
@@ -4947,8 +4947,8 @@
     "18386748": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206346024,
@@ -4956,8 +4956,8 @@
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206346025,
@@ -5158,26 +5158,70 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206345387,
-      "title": "Remind Jake that SA Water INV expires on 22 July",
-      "due_date": "2026-07-15",
+      "task_id": 205068678,
+      "title": "Concept plan drafted (Kate)",
+      "due_date": "2026-07-16",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
     },
     {
-      "task_id": 206377488,
-      "title": "SA Water responded?",
-      "due_date": "2026-07-15",
+      "task_id": 206175465,
+      "title": "Surveyor assigned (Tristan / Harry / Grantley / Damiano)",
+      "due_date": "2026-07-16",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3"
+    },
+    {
+      "task_id": 206292214,
+      "title": "Check for Open Space/Council/SA Water requirements",
+      "due_date": "2026-07-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206346024,
+      "title": "Draft Plan/Brief Sent to Drafter",
+      "due_date": "2026-07-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18386748,
+      "project_name": "S1154 Port Rd REALIGNMENT"
+    },
+    {
+      "task_id": 206349207,
+      "title": "Check if Land Div Reg INV is issued",
+      "due_date": "2026-07-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206379329,
+      "title": "SA Water cleared?",
+      "due_date": "2026-07-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5708,13 +5752,35 @@
       "due_soon": false,
       "project_id": 16853856,
       "project_name": "F1094 Galloway Rd TD1-3"
+    },
+    {
+      "task_id": 206345387,
+      "title": "Remind Jake that SA Water INV expires on 22 July",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
+      "task_id": 206377488,
+      "title": "SA Water responded?",
+      "due_date": "2026-07-15",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "summary": {
     "total_open": 491,
-    "total_overdue": 48,
-    "total_due_today": 2,
+    "total_overdue": 50,
+    "total_due_today": 6,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-15T23:45:32.911253+09:30"
+  "last_updated": "2026-07-16T00:01:08.766854+09:30"
 }
