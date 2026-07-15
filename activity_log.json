@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18294425,
+      "project_name": "C1065 Lookout Dr CONTOUR",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-07-15T10:31:14.652151+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18294425,
+      "project_name": "C1065 Lookout Dr CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-15T10:31:14.652151+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18390050,
       "project_name": "B1141 Diment Rd TD1-4",
@@ -1747,5 +1765,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-15T10:15:30.518258+09:30"
+  "last_updated": "2026-07-15T10:31:14.652151+09:30"
 }

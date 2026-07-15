@@ -91,11 +91,11 @@
       "address": "52 Lookout Drive, Murray Bridge East SA 5253",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18294425",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 34,
-      "stage_name": "Prepare Plan",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 5,
       "tags": [
         "contour",
         "tier1"
@@ -2193,6 +2193,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-15T10:15:30.518258+09:30",
+  "last_updated": "2026-07-15T10:31:14.652151+09:30",
   "total": 107
 }
