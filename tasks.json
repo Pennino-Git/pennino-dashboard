@@ -366,7 +366,7 @@
       ]
     },
     "15599174": {
-      "total": 10,
+      "total": 8,
       "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
@@ -399,15 +399,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205472344,
-          "title": "Council assessment in progress",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205472345,
           "title": "SA Water connection request submitted (May Require Pegging)",
           "due_date": null,
@@ -419,15 +410,6 @@
         {
           "task_id": 205472346,
           "title": "Other authority referrals tracked (DIT, EPA, Heritage)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472347,
-          "title": "All RFIs received and responded to",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5729,10 +5711,10 @@
     }
   ],
   "summary": {
-    "total_open": 493,
+    "total_open": 491,
     "total_overdue": 48,
     "total_due_today": 2,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-15T12:45:30.249833+09:30"
+  "last_updated": "2026-07-15T13:01:06.059491+09:30"
 }
