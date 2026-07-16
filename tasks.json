@@ -2376,8 +2376,8 @@
     },
     "18187249": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2385,8 +2385,8 @@
           "title": "Concept plan drafted (Kate)",
           "due_date": "2026-07-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -2842,8 +2842,8 @@
     "11764688": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205388023,
@@ -2878,8 +2878,8 @@
           "due_date": "2026-07-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3033,8 +3033,8 @@
     "16351328": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205431266,
@@ -3078,8 +3078,8 @@
           "due_date": "2026-07-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3935,8 +3935,8 @@
     "18021299": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205770321,
@@ -3953,8 +3953,8 @@
           "due_date": "2026-07-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4164,8 +4164,8 @@
     "18039448": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205843116,
@@ -4218,8 +4218,8 @@
           "due_date": "2026-07-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5176,15 +5176,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205068678,
-      "title": "Concept plan drafted (Kate)",
-      "due_date": "2026-07-16",
+      "task_id": 206205855,
+      "title": "Check if INV is sent out",
+      "due_date": "2026-07-17",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR"
+    },
+    {
+      "task_id": 206233629,
+      "title": "Sent 1st INV?",
+      "due_date": "2026-07-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 206349916,
+      "title": "Open Space paid by client?",
+      "due_date": "2026-07-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
+      "task_id": 206379329,
+      "title": "SA Water cleared?",
+      "due_date": "2026-07-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5519,6 +5552,17 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
+      "task_id": 205068678,
+      "title": "Concept plan drafted (Kate)",
+      "due_date": "2026-07-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
+    },
+    {
       "task_id": 205171395,
       "title": "Prep 1st INV",
       "due_date": "2026-05-22",
@@ -5730,9 +5774,9 @@
   ],
   "summary": {
     "total_open": 493,
-    "total_overdue": 49,
-    "total_due_today": 1,
+    "total_overdue": 50,
+    "total_due_today": 4,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-16T23:53:18.840194+09:30"
+  "last_updated": "2026-07-17T00:01:07.418707+09:30"
 }
