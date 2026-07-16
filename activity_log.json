@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "8. Final Authority Approvals",
+      "timestamp": "2026-07-16T10:31:10.901906+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18390050,
       "project_name": "B1141 Diment Rd TD1-4",
@@ -1774,5 +1783,5 @@
       "timestamp": "2026-06-11T14:15:23.730963+09:30"
     }
   ],
-  "last_updated": "2026-07-16T10:15:29.281835+09:30"
+  "last_updated": "2026-07-16T10:31:10.901906+09:30"
 }

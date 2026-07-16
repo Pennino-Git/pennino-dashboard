@@ -2497,7 +2497,7 @@
       ]
     },
     "17632301": {
-      "total": 4,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2512,26 +2512,44 @@
           "due_soon": false
         },
         {
-          "task_id": 205843274,
-          "title": "Open Space invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205843275,
-          "title": "LDC/SCAP clearance fee paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205843276,
           "title": "Issue Final PAA Invoice",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206434644,
+          "title": "Final council sign-off obtained",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206434645,
+          "title": "All remaining conditions cleared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206434647,
+          "title": "SA Water Conditions Met",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206434648,
+          "title": "SCAP Certificate Recieved",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5777,10 +5795,10 @@
     }
   ],
   "summary": {
-    "total_open": 491,
+    "total_open": 493,
     "total_overdue": 50,
     "total_due_today": 6,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-16T10:15:29.281835+09:30"
+  "last_updated": "2026-07-16T10:31:10.901906+09:30"
 }
