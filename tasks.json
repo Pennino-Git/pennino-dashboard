@@ -4056,9 +4056,9 @@
     },
     "17923064": {
       "total": 11,
-      "overdue": 2,
+      "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205771233,
@@ -4153,11 +4153,11 @@
         {
           "task_id": 206345387,
           "title": "Remind Jake that SA Water INV expires on 22 July",
-          "due_date": "2026-07-15",
+          "due_date": "2026-07-20",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5717,17 +5717,6 @@
       "project_name": "F1094 Galloway Rd TD1-3"
     },
     {
-      "task_id": 206345387,
-      "title": "Remind Jake that SA Water INV expires on 22 July",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
       "task_id": 206377488,
       "title": "SA Water responded?",
       "due_date": "2026-07-15",
@@ -5741,9 +5730,9 @@
   ],
   "summary": {
     "total_open": 493,
-    "total_overdue": 50,
+    "total_overdue": 49,
     "total_due_today": 1,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-16T16:31:11.650954+09:30"
+  "last_updated": "2026-07-16T16:45:36.696327+09:30"
 }
