@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17704260,
+      "project_name": "A1325 Wood St TD1-2",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-07-17T14:30:54.214426+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17704260,
+      "project_name": "A1325 Wood St TD1-2",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-17T14:30:54.214426+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-15T06:15:49.050265+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16853856,
-      "project_name": "F1094 Galloway Rd TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-13T11:00:37.901217+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Plan to Client",
-      "timestamp": "2026-06-12T16:30:43.283851+09:30"
     }
   ],
-  "last_updated": "2026-07-17T14:15:31.219898+09:30"
+  "last_updated": "2026-07-17T14:30:54.214426+09:30"
 }
