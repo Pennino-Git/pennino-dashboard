@@ -2376,18 +2376,18 @@
     },
     "18187249": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068678,
           "title": "Concept plan drafted (Kate)",
-          "due_date": "2026-07-16",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
           "task_id": 205068679,
@@ -5519,17 +5519,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 205068678,
-      "title": "Concept plan drafted (Kate)",
-      "due_date": "2026-07-16",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
-    },
-    {
       "task_id": 205171395,
       "title": "Prep 1st INV",
       "due_date": "2026-05-22",
@@ -5741,9 +5730,9 @@
   ],
   "summary": {
     "total_open": 493,
-    "total_overdue": 50,
+    "total_overdue": 49,
     "total_due_today": 1,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-17T14:00:46.517649+09:30"
+  "last_updated": "2026-07-17T14:15:31.219898+09:30"
 }
