@@ -2155,8 +2155,8 @@
     },
     "17700505": {
       "total": 9,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2236,8 +2236,8 @@
           "title": "Ask DP what's required by SA Water",
           "due_date": "2026-07-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3934,8 +3934,8 @@
     },
     "18021299": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3952,8 +3952,8 @@
           "title": "Check if INV is sent out",
           "due_date": "2026-07-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4964,8 +4964,8 @@
     },
     "18386748": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4973,8 +4973,8 @@
           "title": "Draft Plan/Brief Sent to Drafter",
           "due_date": "2026-07-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5236,41 +5236,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206205855,
-      "title": "Check if INV is sent out",
-      "due_date": "2026-07-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR"
-    },
-    {
-      "task_id": 206346024,
-      "title": "Draft Plan/Brief Sent to Drafter",
-      "due_date": "2026-07-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18386748,
-      "project_name": "S1154 Port Rd REALIGNMENT"
-    },
-    {
-      "task_id": 206461716,
-      "title": "Ask DP what's required by SA Water",
-      "due_date": "2026-07-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5757,6 +5723,17 @@
       "project_name": "T1328 FMG Pelican Point TIER3"
     },
     {
+      "task_id": 206205855,
+      "title": "Check if INV is sent out",
+      "due_date": "2026-07-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR"
+    },
+    {
       "task_id": 206207563,
       "title": "Check if DP reviewed email forwarded (about SA Water proposal)",
       "due_date": "2026-07-07",
@@ -5812,6 +5789,17 @@
       "project_name": "F1094 Galloway Rd TD1-3"
     },
     {
+      "task_id": 206346024,
+      "title": "Draft Plan/Brief Sent to Drafter",
+      "due_date": "2026-07-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18386748,
+      "project_name": "S1154 Port Rd REALIGNMENT"
+    },
+    {
       "task_id": 206377488,
       "title": "SA Water responded?",
       "due_date": "2026-07-15",
@@ -5821,13 +5809,24 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
+      "task_id": 206461716,
+      "title": "Ask DP what's required by SA Water",
+      "due_date": "2026-07-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7"
     }
   ],
   "summary": {
     "total_open": 499,
-    "total_overdue": 50,
-    "total_due_today": 3,
+    "total_overdue": 53,
+    "total_due_today": 0,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-18T23:45:29.133544+09:30"
+  "last_updated": "2026-07-19T00:00:41.562434+09:30"
 }
