@@ -1,75 +1,38 @@
 {
-  "last_updated": "2026-06-29T06:00:00+09:30",
-  "open_rfis": [
+  "rfis": [
     {
-      "app_id": "25032987",
-      "location": "49 WOOD ST SOUTH PLYMPTON SA 5038",
-      "due": "29/05/2026",
-      "status": "pending",
-      "authority": "City of Marion"
+      "app_id": "26020820",
+      "location": "4 BLACKHAM CR SMITHFIELD PLAINS SA 5114",
+      "action": "Provide mandatory documentation for Planning and Land Division Consent",
+      "date_requested": "30/06/2026",
+      "days_remaining": "-",
+      "authority": "City of Playford"
     },
     {
-      "app_id": "25032971",
-      "location": "49 WOOD ST SOUTH PLYMPTON SA 5038",
-      "due": "05/06/2026",
-      "status": "pending",
-      "authority": "City of Marion"
-    },
-    {
-      "app_id": "26004646",
-      "location": "LOT 300 EUSTON AV HIGHGATE SA 5063",
-      "due": null,
-      "status": "pending",
-      "authority": "City of Unley"
-    },
-    {
-      "app_id": "25040193",
-      "location": "7 MITCHELL DR PARA HILLS SA 5096",
-      "due": null,
-      "status": "pending",
+      "app_id": "26020506",
+      "location": "47 AMUNDSEN DR INGLE FARM SA 5098",
+      "action": "Provide mandatory documentation for Planning and Land Division Consent",
+      "date_requested": "30/06/2026",
+      "days_remaining": "-",
       "authority": "City of Salisbury"
     },
     {
-      "app_id": "25032522",
-      "location": "60 GLENLOTH DR HAPPY VALLEY SA 5159",
-      "due": "01/07/2026",
-      "status": "pending",
+      "app_id": "26020269",
+      "location": "12 PINE AV EUDUNDA SA 5374",
+      "action": "Provide information - Requested by Relevant Authority (by 24 Sept 2026)",
+      "date_requested": "02/07/2026",
+      "days_remaining": "(48 Days)",
+      "authority": "Mid North Regional Assessment Panel"
+    },
+    {
+      "app_id": "26018796",
+      "location": "66 ELIZABETH RD CHRISTIE DOWNS SA 5164",
+      "action": "Provide mandatory documentation for Planning and Land Division Consent",
+      "date_requested": "13/07/2026",
+      "days_remaining": "-",
       "authority": "City of Onkaparinga"
-    },
-    {
-      "app_id": "25031176",
-      "location": "LOT 301 EUSTON AV HIGHGATE SA 5063",
-      "due": null,
-      "status": "pending",
-      "authority": "City of Unley"
-    },
-    {
-      "app_id": "25029522",
-      "location": "66 AURICCHIO AV ST MARYS SA 5042",
-      "due": "17/06/2026",
-      "status": "pending",
-      "authority": "City of Mitcham"
-    },
-    {
-      "app_id": "25008390",
-      "location": "371-387 DIMENT RD DIREK SA 5110",
-      "due": null,
-      "status": "pending",
-      "authority": "City of Salisbury"
-    },
-    {
-      "app_id": "25005003",
-      "location": "LOT 157 HENRI ST COOBER PEDY SA 5723",
-      "due": "29/06/2026",
-      "status": "pending",
-      "authority": "State Planning Commission"
-    },
-    {
-      "app_id": "22040576",
-      "location": "77-101 HINDMARSH RD MURRAY BRIDGE SA 5253",
-      "due": "22/06/2026",
-      "status": "pending",
-      "authority": "Rural City of Murray Bridge"
     }
-  ]
+  ],
+  "last_updated": "2026-07-20 06:14:41",
+  "count": 4
 }
