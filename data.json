@@ -438,7 +438,7 @@
       "address": "49 Wood Street, South Plympton SA 5038",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17704260",
-      "responsibility": "AR (Alex)",
+      "responsibility": "LTO",
       "days_in_stage": 3,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "CD H0182403; TD H0182399",
@@ -2214,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-20T06:02:06.748472+09:30",
+  "last_updated": "2026-07-20T06:15:29.672300+09:30",
   "total": 108
 }
