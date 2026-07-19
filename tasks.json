@@ -2745,8 +2745,8 @@
     "17552256": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2799,8 +2799,8 @@
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206349207,
@@ -2808,8 +2808,8 @@
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3165,8 +3165,8 @@
     "18252749": {
       "total": 19,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205464397,
@@ -3336,8 +3336,8 @@
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4057,8 +4057,8 @@
     "17923064": {
       "total": 11,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205771233,
@@ -4156,8 +4156,8 @@
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5062,8 +5062,8 @@
     "18358533": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206377927,
@@ -5089,8 +5089,8 @@
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5236,7 +5236,63 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 206292214,
+      "title": "Check for Open Space/Council/SA Water requirements",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206345387,
+      "title": "Remind Jake that SA Water INV expires on 22 July",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
+    },
+    {
+      "task_id": 206349207,
+      "title": "Check if Land Div Reg INV is issued",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206404037,
+      "title": "When SA Water pegging- ask DP",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
+      "task_id": 206404122,
+      "title": "Prep INV",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18358533,
+      "project_name": "T1327 Davoren Park- 4 Sites TIER3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5825,8 +5881,8 @@
   "summary": {
     "total_open": 499,
     "total_overdue": 53,
-    "total_due_today": 0,
+    "total_due_today": 5,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-19T23:45:29.541886+09:30"
+  "last_updated": "2026-07-20T00:00:38.485600+09:30"
 }
