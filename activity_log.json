@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-20T16:15:31.516029+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17847316,
       "project_name": "B1136 Laura St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "SA Water",
       "timestamp": "2026-06-17T17:15:31.782825+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-06-17T10:45:37.393283+09:30"
     }
   ],
-  "last_updated": "2026-07-20T16:00:40.388911+09:30"
+  "last_updated": "2026-07-20T16:15:31.516029+09:30"
 }
