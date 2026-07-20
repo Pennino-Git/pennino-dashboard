@@ -769,7 +769,7 @@
       "address": "64-66 Deeds Road, North Plympton SA 5037",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
-      "responsibility": "SA Water",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 10,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0190294",
@@ -2214,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-20T13:00:38.854079+09:30",
+  "last_updated": "2026-07-20T13:15:31.589063+09:30",
   "total": 108
 }

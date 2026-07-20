@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-20T13:15:31.589063+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17704260,
       "project_name": "A1325 Wood St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-06-17T06:15:34.230526+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-06-16T15:15:31.139370+09:30"
     }
   ],
-  "last_updated": "2026-07-20T13:00:38.854079+09:30"
+  "last_updated": "2026-07-20T13:15:31.589063+09:30"
 }

@@ -1648,9 +1648,9 @@
     },
     "18225672": {
       "total": 10,
-      "overdue": 5,
+      "overdue": 4,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1734,13 +1734,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 206377488,
-          "title": "SA Water responded?",
-          "due_date": "2026-07-15",
+          "task_id": 206492535,
+          "title": "Did DP respond to my email on 20.07",
+          "due_date": "2026-07-21",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5856,17 +5856,6 @@
       "project_name": "S1154 Port Rd REALIGNMENT"
     },
     {
-      "task_id": 206377488,
-      "title": "SA Water responded?",
-      "due_date": "2026-07-15",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
-    },
-    {
       "task_id": 206461716,
       "title": "Ask DP what's required by SA Water",
       "due_date": "2026-07-18",
@@ -5880,9 +5869,9 @@
   ],
   "summary": {
     "total_open": 499,
-    "total_overdue": 53,
+    "total_overdue": 52,
     "total_due_today": 5,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-20T13:00:38.854079+09:30"
+  "last_updated": "2026-07-20T13:15:31.589063+09:30"
 }
