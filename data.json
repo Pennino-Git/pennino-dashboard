@@ -431,28 +431,6 @@
       "is_premium": false
     },
     {
-      "id": 17704260,
-      "name": "A1325 Wood St TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "49 Wood Street, South Plympton SA 5038",
-      "client": "Teegan  Bowley",
-      "link": "https://crm.na1.insightly.com/details/project/17704260",
-      "responsibility": "LTO",
-      "days_in_stage": 0,
-      "stage_name": "11. Complete",
-      "sa_water_ref": "CD H0182403; TD H0182399",
-      "stage_order": 11,
-      "tags": [
-        "alete_homes",
-        "tier2",
-        "community_division",
-        "torrens_division"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17900271,
       "name": "A1335 Mitchel Dr TD1-3",
       "tier": "T2",
@@ -2214,6 +2192,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-20T21:30:54.024194+09:30",
-  "total": 108
+  "last_updated": "2026-07-20T21:45:32.071562+09:30",
+  "total": 107
 }
