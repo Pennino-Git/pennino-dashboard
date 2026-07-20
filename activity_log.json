@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Contractor",
+      "timestamp": "2026-07-20T20:15:31.194038+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "3. Authority Assessment",
       "to": "4. Conditions & Compliance",
       "timestamp": "2026-06-17T19:00:40.328887+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-17T19:00:40.328887+09:30"
     }
   ],
-  "last_updated": "2026-07-20T20:00:41.087264+09:30"
+  "last_updated": "2026-07-20T20:15:31.194038+09:30"
 }
