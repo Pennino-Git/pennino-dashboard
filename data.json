@@ -583,10 +583,10 @@
       "client": "Shannon Bow",
       "link": "https://crm.na1.insightly.com/details/project/17847316",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 32,
-      "stage_name": "7. SCAP Application",
+      "days_in_stage": 0,
+      "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0183854",
-      "stage_order": 7,
+      "stage_order": 9,
       "tags": [
         "tier2",
         "torrens_division"
@@ -2214,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-20T15:00:41.811562+09:30",
+  "last_updated": "2026-07-20T15:15:32.120352+09:30",
   "total": 108
 }

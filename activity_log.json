@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-20T15:15:32.120352+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17847316,
       "project_name": "B1136 Laura St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "2. PlanSA Lodgement",
       "timestamp": "2026-06-17T10:45:37.393283+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-17T10:45:37.393283+09:30"
     }
   ],
-  "last_updated": "2026-07-20T15:00:41.811562+09:30"
+  "last_updated": "2026-07-20T15:15:32.120352+09:30"
 }
