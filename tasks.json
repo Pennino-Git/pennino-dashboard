@@ -1649,8 +1649,8 @@
     "18225672": {
       "total": 10,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1739,8 +1739,8 @@
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2639,8 +2639,8 @@
     "17552256": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205384146,
@@ -2693,8 +2693,8 @@
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3811,8 +3811,8 @@
     "17847316": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205748626,
@@ -3820,8 +3820,8 @@
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206493060,
@@ -3838,8 +3838,8 @@
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206493062,
@@ -4945,8 +4945,8 @@
     },
     "18358533": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4972,8 +4972,8 @@
           "title": "Prep INV",
           "due_date": "2026-07-20",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5122,15 +5122,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206404122,
-      "title": "Prep INV",
-      "due_date": "2026-07-20",
+      "task_id": 205748626,
+      "title": "Issue Final PAA Invoice",
+      "due_date": "2026-07-21",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3"
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
+    },
+    {
+      "task_id": 206349207,
+      "title": "Check if Land Div Reg INV is issued- CALL Plan SA",
+      "due_date": "2026-07-21",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
+      "task_id": 206492535,
+      "title": "Did DP respond to my email on 20.07",
+      "due_date": "2026-07-21",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
+      "task_id": 206493061,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-07-21",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5641,6 +5674,17 @@
       "project_name": "S1154 Port Rd REALIGNMENT"
     },
     {
+      "task_id": 206404122,
+      "title": "Prep INV",
+      "due_date": "2026-07-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18358533,
+      "project_name": "T1327 Davoren Park- 4 Sites TIER3"
+    },
+    {
       "task_id": 206461716,
       "title": "Ask DP what's required by SA Water",
       "due_date": "2026-07-18",
@@ -5654,9 +5698,9 @@
   ],
   "summary": {
     "total_open": 487,
-    "total_overdue": 47,
-    "total_due_today": 1,
+    "total_overdue": 48,
+    "total_due_today": 4,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-20T23:45:33.002316+09:30"
+  "last_updated": "2026-07-21T00:00:42.920829+09:30"
 }
