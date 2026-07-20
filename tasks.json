@@ -4690,20 +4690,11 @@
       ]
     },
     "18377245": {
-      "total": 5,
-      "overdue": 1,
+      "total": 4,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 206178695,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": "2026-07-04",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
         {
           "task_id": 206178696,
           "title": "Concept plan drafted (Kate)",
@@ -5688,17 +5679,6 @@
       "project_name": "S1148 Elizabeth Rd TD1-3"
     },
     {
-      "task_id": 206178695,
-      "title": "Draft Plan/Brief Sent to Drafter",
-      "due_date": "2026-07-04",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    },
-    {
       "task_id": 206182121,
       "title": "Prep INV. Tristan sent plan on 03/07",
       "due_date": "2026-07-04",
@@ -5788,10 +5768,10 @@
     }
   ],
   "summary": {
-    "total_open": 495,
-    "total_overdue": 50,
+    "total_open": 494,
+    "total_overdue": 49,
     "total_due_today": 3,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-20T19:00:42.469646+09:30"
+  "last_updated": "2026-07-20T19:15:30.707174+09:30"
 }
