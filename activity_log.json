@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-20T18:45:32.302426+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-17T19:00:40.328887+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "SA Water",
-      "timestamp": "2026-06-17T17:15:31.782825+09:30"
     }
   ],
-  "last_updated": "2026-07-20T18:30:48.934969+09:30"
+  "last_updated": "2026-07-20T18:45:32.302426+09:30"
 }

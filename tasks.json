@@ -1860,68 +1860,6 @@
         }
       ]
     },
-    "18133721": {
-      "total": 6,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 204666626,
-          "title": "Follow up on Chris regarding CAD",
-          "due_date": "2026-04-25",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205068663,
-          "title": "Client Brief Received and Info Prepped",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068664,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068665,
-          "title": "Concept plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068666,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068667,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17704260": {
       "total": 5,
       "overdue": 2,
@@ -2380,6 +2318,68 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        }
+      ]
+    },
+    "18133721": {
+      "total": 6,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 205068663,
+          "title": "Client Brief Received and Info Prepped",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068664,
+          "title": "Draft Plan/Brief Sent to Drafter",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068665,
+          "title": "Concept plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068666,
+          "title": "Concept plan sent to client for approval",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068667,
+          "title": "Client approval received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206494801,
+          "title": "Did Tesseract provide CAD?",
+          "due_date": "2026-07-22",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5501,17 +5501,6 @@
       "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
-      "task_id": 204666626,
-      "title": "Follow up on Chris regarding CAD",
-      "due_date": "2026-04-25",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5"
-    },
-    {
       "task_id": 204743388,
       "title": "Review Approval Conditions \u2014 A1325 Wood St (25032987 + 25032971)",
       "due_date": "2026-05-04",
@@ -5800,9 +5789,9 @@
   ],
   "summary": {
     "total_open": 495,
-    "total_overdue": 51,
+    "total_overdue": 50,
     "total_due_today": 3,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-20T18:30:48.934969+09:30"
+  "last_updated": "2026-07-20T18:45:32.302426+09:30"
 }
