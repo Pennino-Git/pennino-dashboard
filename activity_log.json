@@ -1,6 +1,303 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16416720,
+      "project_name": "B1120 Peachey Rd CD2-12",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16435772,
+      "project_name": "B1122 Holbrooks Rd TD1-2",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16853856,
+      "project_name": "F1094 Galloway Rd TD1-3",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "LTO",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17876195,
+      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18051614,
+      "project_name": "S1138 Frank St IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18078768,
+      "project_name": "N1028 Lyndoch Rd TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT",
+      "tier": "T1",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18214852,
+      "project_name": "L1041 Kensington Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "Contractor",
+      "to": "Client",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18227807,
+      "project_name": "S1144 Angle Vale Rd IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T06:10:35.021582+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17704260,
       "project_name": "A1325 Wood St TD1-2",
@@ -1502,304 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-22T15:00:42.067406+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 16508321,
-      "project_name": "B1123 Barnett Ave REALIGNMENT",
-      "tier": "T2",
-      "from": "10. LTO Approval",
-      "to": "11. Complete",
-      "timestamp": "2026-06-22T12:15:30.615451+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18313304,
-      "project_name": "A1349 Cecilia Rd IDENT",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Invoice",
-      "timestamp": "2026-06-22T11:45:31.680438+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18313304,
-      "project_name": "A1349 Cecilia Rd IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-22T11:45:31.680438+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-22T10:15:29.903117+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Council/Authority",
-      "timestamp": "2026-06-22T06:15:29.961813+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-22T06:15:29.961813+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-06-22T06:15:29.961813+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-22T06:15:29.961813+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-06-21T14:45:30.982723+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-19T16:30:45.350554+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-06-19T16:00:40.035196+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "4. Conditions & Compliance",
-      "to": "5. Certified Survey",
-      "timestamp": "2026-06-19T15:15:30.698152+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-06-19T15:15:30.698152+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-19T15:15:30.698152+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "5. Certified Survey",
-      "to": "6 Land Division Certificate Lodged with PlanSA",
-      "timestamp": "2026-06-19T15:00:40.654127+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18217316,
-      "project_name": "Z1068 Angas St IDENT",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18313304,
-      "project_name": "A1349 Cecilia Rd IDENT",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-06-19T14:15:31.321077+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "9. LTO Lodgement",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-06-19T11:00:38.470797+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-06-19T10:45:32.167700+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-06-19T09:15:29.610641+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-06-19T06:15:29.964692+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "3. Authority Assessment",
-      "timestamp": "2026-06-18T16:45:37.680106+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-06-18T14:45:30.526698+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-06-18T14:15:30.662494+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2",
-      "tier": "T2",
-      "from": "6 Land Division Certificate Lodged with PlanSA",
-      "to": "7. SCAP Application",
-      "timestamp": "2026-06-18T14:00:39.926391+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-18T14:00:39.926391+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-06-18T10:00:38.201551+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-06-18T06:15:36.763337+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-06-18T06:15:36.763337+09:30"
     }
   ],
-  "last_updated": "2026-07-21T06:00:41.724758+09:30"
+  "last_updated": "2026-07-21T06:10:35.021582+09:30"
 }
