@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "LTO",
+      "timestamp": "2026-07-22T06:15:29.831516+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18269218,
+      "project_name": "W1021 Gully View Ct IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-22T06:15:29.831516+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18397859,
+      "project_name": "A1355 Camilla Ave IDENT-PEG",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-22T06:15:29.831516+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18397836,
       "project_name": "A1354 Verdello Dr IDENT-PEG",
@@ -1772,34 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-30T09:00:48.233805+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-06-30T06:15:30.143099+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-06-30T06:15:30.143099+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "7. SCAP Application",
-      "to": "8. Final Authority Approvals",
-      "timestamp": "2026-06-29T23:15:33.462945+09:30"
     }
   ],
-  "last_updated": "2026-07-22T06:00:40.333923+09:30"
+  "last_updated": "2026-07-22T06:15:29.831516+09:30"
 }

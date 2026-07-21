@@ -112,7 +112,7 @@
       "address": "8 Camilla Avenue, Osborne SA 5017",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18397859",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 0,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -275,7 +275,7 @@
       "address": "7 Gully View Court, Salisbury Heights SA 5109",
       "client": "Luke  Williams",
       "link": "https://crm.na1.insightly.com/details/project/18269218",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 1,
       "stage_name": "Invoice",
       "sa_water_ref": "",
@@ -1516,7 +1516,7 @@
       "address": "8 Kerry Street, Salisbury Downs SA 5108",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17863628",
-      "responsibility": "Council/Authority",
+      "responsibility": "LTO",
       "days_in_stage": 0,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0183925",
@@ -2256,6 +2256,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-22T06:00:40.333923+09:30",
+  "last_updated": "2026-07-22T06:15:29.831516+09:30",
   "total": 110
 }
