@@ -2,6 +2,51 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-07-21T16:15:32.984221+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18214852,
+      "project_name": "L1041 Kensington Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-21T16:15:32.984221+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18363697,
+      "project_name": "Z1071 Ann St LEASE",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T16:15:32.984221+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-07-21T16:15:32.984221+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18386906,
+      "project_name": "A1353 Clarence St IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Invoice",
+      "timestamp": "2026-07-21T16:15:32.984221+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17956195,
       "project_name": "A1336 The Parade TD1-2",
       "tier": "T2",
@@ -1754,52 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-26T12:30:45.043875+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-06-26T12:15:28.709830+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-26T10:30:45.623504+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-26T10:30:45.623504+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "LTO",
-      "timestamp": "2026-06-26T06:15:29.858621+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046054,
-      "project_name": "T1317 Horrocks Hwy TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-26T06:15:29.858621+09:30"
     }
   ],
-  "last_updated": "2026-07-21T16:00:42.574152+09:30"
+  "last_updated": "2026-07-21T16:15:32.984221+09:30"
 }

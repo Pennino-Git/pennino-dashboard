@@ -72,10 +72,10 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18386906",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 8,
-      "stage_name": "Prepare Project",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 5,
       "tags": [
         "tier1",
         "ident"
@@ -337,7 +337,7 @@
       "address": "33 Ann Street, Salisbury SA 5108",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18363697",
-      "responsibility": "AR (Alex)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 26,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
@@ -479,7 +479,7 @@
       "address": "43 Gulf Parade, Maslin Beach SA 5170",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18372992",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 20,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1266,7 +1266,7 @@
       "address": "160-168 Beach Road, Noarlunga Centre SA 5168",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18203158",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 40,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1287,7 +1287,7 @@
       "address": "137, 139, 141 Kensington Road, Norwood SA 5067",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18214852",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 40,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -2214,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-21T16:00:42.574152+09:30",
+  "last_updated": "2026-07-21T16:15:32.984221+09:30",
   "total": 108
 }
