@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:00:40.829981+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:00:40.829981+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18156649,
       "project_name": "R1036 Maple Ave IDENT",
@@ -1781,25 +1799,7 @@
       "from": "Prepare Plan",
       "to": "Send Plan to Client",
       "timestamp": "2026-06-23T22:00:45.753289+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-06-23T15:45:31.236386+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-23T15:15:31.105787+09:30"
     }
   ],
-  "last_updated": "2026-07-21T14:45:30.364376+09:30"
+  "last_updated": "2026-07-21T15:00:40.829981+09:30"
 }
