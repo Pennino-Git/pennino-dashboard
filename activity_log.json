@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18397836,
+      "project_name": "A1354 Verdello Dr IDENT-PEG",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-22T05:30:47.977005+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18397836,
+      "project_name": "A1354 Verdello Dr IDENT-PEG",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-22T05:30:47.977005+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18384520,
       "project_name": "S1153 Salisbury Hwy TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "7. SCAP Application",
       "to": "8. Final Authority Approvals",
       "timestamp": "2026-06-29T23:15:33.462945+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "Plan to Client",
-      "to": "Further Work Required",
-      "timestamp": "2026-06-29T15:30:49.774864+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-29T15:30:49.774864+09:30"
     }
   ],
-  "last_updated": "2026-07-22T05:20:45.257823+09:30"
+  "last_updated": "2026-07-22T05:30:47.977005+09:30"
 }

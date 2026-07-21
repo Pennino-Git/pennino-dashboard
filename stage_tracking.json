@@ -540,8 +540,13 @@
     "stage_name": "1. Concept Planning"
   },
   "18397836": {
-    "stage_id": 3823936,
+    "stage_id": 3823937,
     "entered": "2026-07-22",
-    "stage_name": "Prepare Project"
+    "stage_name": "Field Work Scheduled"
+  },
+  "18397859": {
+    "stage_id": 3823937,
+    "entered": "2026-07-22",
+    "stage_name": "Field Work Scheduled"
   }
 }
