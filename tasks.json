@@ -1657,8 +1657,8 @@
     },
     "18225672": {
       "total": 10,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1747,8 +1747,8 @@
           "title": "Did DP respond to my email on 20.07",
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2253,8 +2253,8 @@
     "18133721": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068663,
@@ -2307,8 +2307,8 @@
           "due_date": "2026-07-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2611,8 +2611,8 @@
     },
     "17552256": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2665,8 +2665,8 @@
           "title": "Check if Land Div Reg INV is issued- CALL Plan SA",
           "due_date": "2026-07-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2997,8 +2997,8 @@
     "18252749": {
       "total": 18,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205464397,
@@ -3159,8 +3159,8 @@
           "due_date": "2026-07-22",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5085,26 +5085,26 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206349207,
-      "title": "Check if Land Div Reg INV is issued- CALL Plan SA",
-      "due_date": "2026-07-21",
+      "task_id": 205863308,
+      "title": "Check back with Jake if demo is done",
+      "due_date": "2026-07-22",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2"
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
     },
     {
-      "task_id": 206492535,
-      "title": "Did DP respond to my email on 20.07",
-      "due_date": "2026-07-21",
+      "task_id": 206494801,
+      "title": "Did Tesseract provide CAD?",
+      "due_date": "2026-07-22",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5"
     }
   ],
   "tasks_overdue": [
@@ -5604,6 +5604,17 @@
       "project_name": "S1154 Port Rd REALIGNMENT"
     },
     {
+      "task_id": 206349207,
+      "title": "Check if Land Div Reg INV is issued- CALL Plan SA",
+      "due_date": "2026-07-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    },
+    {
       "task_id": 206404122,
       "title": "Prep INV",
       "due_date": "2026-07-20",
@@ -5624,13 +5635,24 @@
       "due_soon": false,
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7"
+    },
+    {
+      "task_id": 206492535,
+      "title": "Did DP respond to my email on 20.07",
+      "due_date": "2026-07-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "summary": {
     "total_open": 482,
-    "total_overdue": 47,
+    "total_overdue": 49,
     "total_due_today": 2,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-21T23:45:33.342976+09:30"
+  "last_updated": "2026-07-22T00:00:43.657297+09:30"
 }
