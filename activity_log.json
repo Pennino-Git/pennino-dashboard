@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:58:54.274770+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:58:54.274770+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:58:54.274770+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17303279,
       "project_name": "A1310 Railway Tce TIER3",
       "tier": "T3",
@@ -1772,34 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-06-26T06:15:29.858621+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333017,
-      "project_name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-06-26T06:15:29.858621+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "9. LTO Lodgement",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-06-25T16:30:48.831202+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-25T16:30:48.831202+09:30"
     }
   ],
-  "last_updated": "2026-07-21T15:45:32.407925+09:30"
+  "last_updated": "2026-07-21T15:58:54.274770+09:30"
 }

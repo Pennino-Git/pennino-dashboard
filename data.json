@@ -459,7 +459,7 @@
       "address": "42 The Parade, Holden Hill SA 5088",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17956195",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 40,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -580,7 +580,7 @@
       "address": "2 Karri Street, Munno Para SA 5115",
       "client": "Beau  Brug",
       "link": "https://crm.na1.insightly.com/details/project/18223472",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 40,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -665,7 +665,7 @@
       "address": "6 Orchestra Place, Salisbury Heights",
       "client": "Raff Caruso",
       "link": "https://crm.na1.insightly.com/details/project/18046089",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 40,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -2214,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-21T15:45:32.407925+09:30",
+  "last_updated": "2026-07-21T15:58:54.274770+09:30",
   "total": 108
 }
