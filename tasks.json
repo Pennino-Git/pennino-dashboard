@@ -3808,50 +3808,6 @@
         }
       ]
     },
-    "17847316": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 2,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205748626,
-          "title": "Issue Final PAA Invoice",
-          "due_date": "2026-07-21",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 206493060,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206493061,
-          "title": "Plan Lodged Via DPL",
-          "due_date": "2026-07-21",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 206493062,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18021299": {
       "total": 2,
       "overdue": 0,
@@ -5118,20 +5074,35 @@
           "due_soon": ""
         }
       ]
+    },
+    "17847316": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206518455,
+          "title": "LTO Examined and Approved",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518456,
+          "title": "Confirmation of Approval Sent to All Parties",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
-    {
-      "task_id": 205748626,
-      "title": "Issue Final PAA Invoice",
-      "due_date": "2026-07-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2"
-    },
     {
       "task_id": 206349207,
       "title": "Check if Land Div Reg INV is issued- CALL Plan SA",
@@ -5153,17 +5124,6 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
-    },
-    {
-      "task_id": 206493061,
-      "title": "Plan Lodged Via DPL",
-      "due_date": "2026-07-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5697,10 +5657,10 @@
     }
   ],
   "summary": {
-    "total_open": 487,
+    "total_open": 485,
     "total_overdue": 48,
-    "total_due_today": 4,
+    "total_due_today": 2,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-21T10:00:44.227269+09:30"
+  "last_updated": "2026-07-21T10:15:30.722520+09:30"
 }

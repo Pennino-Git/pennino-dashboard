@@ -561,10 +561,10 @@
       "client": "Shannon Bow",
       "link": "https://crm.na1.insightly.com/details/project/17847316",
       "responsibility": "LTO",
-      "days_in_stage": 1,
-      "stage_name": "9. LTO Lodgement",
+      "days_in_stage": 0,
+      "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0183854",
-      "stage_order": 9,
+      "stage_order": 10,
       "tags": [
         "tier2",
         "torrens_division"
@@ -2192,6 +2192,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-21T10:00:44.227269+09:30",
+  "last_updated": "2026-07-21T10:15:30.722520+09:30",
   "total": 107
 }

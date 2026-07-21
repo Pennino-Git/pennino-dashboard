@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17847316,
+      "project_name": "B1136 Laura St TD1-2",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-07-21T10:15:30.722520+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-06-22T16:15:34.471695+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-22T15:00:42.067406+09:30"
     }
   ],
-  "last_updated": "2026-07-21T10:00:44.227269+09:30"
+  "last_updated": "2026-07-21T10:15:30.722520+09:30"
 }
