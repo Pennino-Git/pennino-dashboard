@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-22T04:00:43.956593+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-22T04:00:43.956593+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18203158,
       "project_name": "L1038 Beach Rd TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-06-29T06:15:29.815762+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-06-27T12:30:50.435741+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-26T12:30:45.043875+09:30"
     }
   ],
-  "last_updated": "2026-07-22T03:45:38.071041+09:30"
+  "last_updated": "2026-07-22T04:00:43.956593+09:30"
 }
