@@ -285,9 +285,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18156649": {
-    "stage_id": 3823938,
-    "entered": "2026-06-11",
-    "stage_name": "Prepare Plan"
+    "stage_id": 3823940,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice"
   },
   "18184868": {
     "stage_id": 3134305,
@@ -385,9 +385,9 @@
     "stage_name": "Further Work Required"
   },
   "18269218": {
-    "stage_id": 3823939,
-    "entered": "2026-06-23",
-    "stage_name": "Send Plan to Client"
+    "stage_id": 3823940,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice"
   },
   "18273273": {
     "stage_id": 4845734,

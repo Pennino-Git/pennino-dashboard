@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18156649,
+      "project_name": "R1036 Maple Ave IDENT",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-07-21T11:15:32.049138+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18156649,
+      "project_name": "R1036 Maple Ave IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T11:15:32.049138+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18269218,
+      "project_name": "W1021 Gully View Ct IDENT",
+      "tier": "T1",
+      "from": "Send Plan to Client",
+      "to": "Invoice",
+      "timestamp": "2026-07-21T11:15:32.049138+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1772,34 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-06-23T15:15:31.105787+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-06-23T13:15:34.760973+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-23T12:00:39.329241+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-06-23T12:00:39.329241+09:30"
     }
   ],
-  "last_updated": "2026-07-21T11:00:42.776719+09:30"
+  "last_updated": "2026-07-21T11:15:32.049138+09:30"
 }

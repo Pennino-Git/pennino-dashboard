@@ -2784,32 +2784,6 @@
         }
       ]
     },
-    "18156649": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205407721,
-          "title": "Survey data processed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205407722,
-          "title": "Final plan signed off",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18184868": {
       "total": 3,
       "overdue": 0,
@@ -5047,6 +5021,112 @@
           "due_soon": ""
         }
       ]
+    },
+    "18269218": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206518748,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518749,
+          "title": "Payment received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518750,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18156649": {
+      "total": 7,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206518754,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518755,
+          "title": "Payment received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518756,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518758,
+          "title": "Plan sent to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518790,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518791,
+          "title": "Payment received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206518792,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5604,10 +5684,10 @@
     }
   ],
   "summary": {
-    "total_open": 480,
+    "total_open": 488,
     "total_overdue": 48,
     "total_due_today": 2,
-    "projects_with_tasks": 91
+    "projects_with_tasks": 92
   },
-  "last_updated": "2026-07-21T11:00:42.776719+09:30"
+  "last_updated": "2026-07-21T11:15:32.049138+09:30"
 }
