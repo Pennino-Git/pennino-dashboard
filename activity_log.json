@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17303279,
+      "project_name": "A1310 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-21T15:30:52.415452+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18212535,
+      "project_name": "D1069 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-21T15:30:52.415452+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18287874,
       "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
@@ -1781,25 +1799,7 @@
       "from": "LTO",
       "to": "AR (Alex)",
       "timestamp": "2026-06-25T16:30:48.831202+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "LTO",
-      "timestamp": "2026-06-25T13:30:47.693919+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17894399,
-      "project_name": "P1085 Churchill Rd CD1-14",
-      "tier": "T2",
-      "from": "8. Final Authority Approvals",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-06-25T12:00:42.705623+09:30"
     }
   ],
-  "last_updated": "2026-07-21T15:24:05.725195+09:30"
+  "last_updated": "2026-07-21T15:30:52.415452+09:30"
 }

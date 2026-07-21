@@ -1741,14 +1741,15 @@
       "address": "Railway Tce",
       "client": "Joe Campbell",
       "link": "https://crm.na1.insightly.com/details/project/17303279",
-      "responsibility": "Client",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 40,
       "stage_name": "Further Work Required",
       "sa_water_ref": "",
       "stage_order": 5,
       "tags": [
         "tier3",
-        "apa"
+        "apa",
+        "Field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -1818,14 +1819,15 @@
       "address": "Railway Terrace, Mile End South Australia",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18212535",
-      "responsibility": "Client",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 40,
       "stage_name": "Further Work Required",
       "sa_water_ref": "",
       "stage_order": 5,
       "tags": [
         "downer",
-        "tier3"
+        "tier3",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -2212,6 +2214,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-21T15:24:05.725195+09:30",
+  "last_updated": "2026-07-21T15:30:52.415452+09:30",
   "total": 108
 }
