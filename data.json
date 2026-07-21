@@ -30,10 +30,10 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18353608",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 14,
-      "stage_name": "Prepare Plan",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 5,
       "tags": [
         "tier1",
         "alete_homes",
@@ -131,7 +131,7 @@
       "address": "KFC Womma Road",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18325237",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 32,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -1880,9 +1880,9 @@
       "link": "https://crm.na1.insightly.com/details/project/18287874",
       "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Plan to Client",
+      "stage_name": "Further Work Required",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 5,
       "tags": [
         "tier3",
         "Angle_Vale"
@@ -2160,10 +2160,10 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18369356",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 21,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [
         "tpc",
         "tier3"
@@ -2180,10 +2180,10 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18374500",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 19,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "tpc"
@@ -2200,10 +2200,10 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18378158",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 15,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "tpc"
@@ -2212,6 +2212,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-21T15:15:29.887410+09:30",
+  "last_updated": "2026-07-21T15:24:05.725195+09:30",
   "total": 108
 }

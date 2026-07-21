@@ -1,6 +1,60 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "Plan to Client",
+      "to": "Further Work Required",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18325237,
+      "project_name": "L1043 KFC Womma Road LEASE",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18369356,
+      "project_name": "T1328 FMG Pelican Point TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18374500,
+      "project_name": "T1329 Springs Rd Mt Barker TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18378158,
+      "project_name": "T1330 Simpson Pde TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-07-21T15:24:05.725195+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 16477307,
       "project_name": "Z1049 The Esplanade CONTOUR",
@@ -1745,61 +1799,7 @@
       "from": "8. Final Authority Approvals",
       "to": "10. LTO Approval",
       "timestamp": "2026-06-25T12:00:42.705623+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-06-25T11:00:41.456757+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "7. SCAP Application",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-06-25T09:30:49.549790+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17830522,
-      "project_name": "S1133 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-25T09:30:49.549790+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18333017,
-      "project_name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Plan Drawing & Check",
-      "timestamp": "2026-06-25T09:30:49.549790+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333017,
-      "project_name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-25T09:30:49.549790+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave TD1-4",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Council/Authority",
-      "timestamp": "2026-06-25T06:15:32.940286+09:30"
     }
   ],
-  "last_updated": "2026-07-21T15:15:29.887410+09:30"
+  "last_updated": "2026-07-21T15:24:05.725195+09:30"
 }

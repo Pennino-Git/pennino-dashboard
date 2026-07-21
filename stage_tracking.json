@@ -400,9 +400,9 @@
     "stage_name": "2. PlanSA Lodgement"
   },
   "18287874": {
-    "stage_id": 3134303,
+    "stage_id": 3134304,
     "entered": "2026-07-21",
-    "stage_name": "Plan to Client"
+    "stage_name": "Further Work Required"
   },
   "18289825": {
     "stage_id": 3134302,
@@ -470,9 +470,9 @@
     "stage_name": "Invoice & Close"
   },
   "18353608": {
-    "stage_id": 3823938,
-    "entered": "2026-07-07",
-    "stage_name": "Prepare Plan"
+    "stage_id": 3823940,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice"
   },
   "18356989": {
     "stage_id": 3823937,
@@ -490,9 +490,9 @@
     "stage_name": "Prepare Project"
   },
   "18369356": {
-    "stage_id": 3134301,
-    "entered": "2026-06-30",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134305,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice & Close"
   },
   "18372992": {
     "stage_id": 4845733,
@@ -500,9 +500,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18374500": {
-    "stage_id": 3134301,
-    "entered": "2026-07-02",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134305,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice & Close"
   },
   "18377245": {
     "stage_id": 4845733,
@@ -510,9 +510,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18378158": {
-    "stage_id": 3134301,
-    "entered": "2026-07-06",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134305,
+    "entered": "2026-07-21",
+    "stage_name": "Invoice & Close"
   },
   "18384520": {
     "stage_id": 4845733,
