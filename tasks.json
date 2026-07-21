@@ -3492,29 +3492,11 @@
       ]
     },
     "18333096": {
-      "total": 3,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 205505524,
-          "title": "Field work date scheduled",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205505525,
-          "title": "Third Parties Booked",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 205505526,
           "title": "Field work completed",
@@ -5728,10 +5710,10 @@
     }
   ],
   "summary": {
-    "total_open": 492,
+    "total_open": 490,
     "total_overdue": 48,
     "total_due_today": 2,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-07-21T15:00:40.829981+09:30"
+  "last_updated": "2026-07-21T15:15:29.887410+09:30"
 }

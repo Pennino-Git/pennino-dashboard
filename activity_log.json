@@ -2,6 +2,105 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 16477307,
+      "project_name": "Z1049 The Esplanade CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17810905,
+      "project_name": "F1107 Edinburgh- Geotech Investigation",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17876195,
+      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18323822,
+      "project_name": "T1322 Nazar Reserve Pots TIER 3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18325237,
+      "project_name": "L1043 KFC Womma Road LEASE",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18353608,
+      "project_name": "A1350 Sturt St IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18369356,
+      "project_name": "T1328 FMG Pelican Point TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18374500,
+      "project_name": "T1329 Springs Rd Mt Barker TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18378158,
+      "project_name": "T1330 Simpson Pde TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-21T15:15:29.887410+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
       "tier": "T2",
@@ -1700,106 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "Council/Authority",
       "timestamp": "2026-06-25T06:15:32.940286+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-06-25T06:15:32.940286+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "6 Land Division Certificate Lodged with PlanSA",
-      "to": "7. SCAP Application",
-      "timestamp": "2026-06-25T05:00:43.416262+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-06-25T05:00:43.416262+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave TD1-4",
-      "tier": "T2",
-      "from": "3. Authority Assessment",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-06-24T14:45:31.086602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-06-24T14:45:31.086602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-06-24T14:15:31.866890+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18249652,
-      "project_name": "S1146 Symond St REALIGNMENT",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-06-24T10:45:31.471383+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-06-24T10:15:31.167499+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Council/Authority",
-      "timestamp": "2026-06-24T06:15:36.109756+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-24T06:15:36.109756+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Send Plan to Client",
-      "timestamp": "2026-06-23T22:00:45.753289+09:30"
     }
   ],
-  "last_updated": "2026-07-21T15:00:40.829981+09:30"
+  "last_updated": "2026-07-21T15:15:29.887410+09:30"
 }
