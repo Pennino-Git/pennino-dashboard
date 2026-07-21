@@ -5072,6 +5072,50 @@
           "due_soon": ""
         }
       ]
+    },
+    "18397836": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206541097,
+          "title": "Job folder created in Dropbox/Clockify",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206541098,
+          "title": "Title search completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206541099,
+          "title": "Existing plan / survey research done",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206541100,
+          "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5640,10 +5684,10 @@
     }
   ],
   "summary": {
-    "total_open": 481,
+    "total_open": 485,
     "total_overdue": 49,
     "total_due_today": 2,
-    "projects_with_tasks": 93
+    "projects_with_tasks": 94
   },
-  "last_updated": "2026-07-22T05:00:41.319359+09:30"
+  "last_updated": "2026-07-22T05:15:31.638527+09:30"
 }
