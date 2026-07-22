@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18363697,
+      "project_name": "Z1071 Ann St LEASE",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-22T11:30:49.176137+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18317513,
       "project_name": "F1145 South Para Rd IDENT",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-06-30T12:30:55.208006+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18333017,
-      "project_name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "from": "Plan Drawing & Check",
-      "to": "Invoice & Close",
-      "timestamp": "2026-06-30T12:00:47.450412+09:30"
     }
   ],
-  "last_updated": "2026-07-22T11:15:29.948099+09:30"
+  "last_updated": "2026-07-22T11:30:49.176137+09:30"
 }
