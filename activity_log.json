@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18398255,
+      "project_name": "D1072 Broxmore St IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Project",
+      "timestamp": "2026-07-22T15:15:29.635910+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18227807,
       "project_name": "S1144 Angle Vale Rd IDENT",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-06-30T20:45:30.855996+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18369356,
-      "project_name": "T1328 FMG Pelican Point TIER3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-06-30T20:30:54.766111+09:30"
     }
   ],
-  "last_updated": "2026-07-22T15:00:39.586412+09:30"
+  "last_updated": "2026-07-22T15:15:29.635910+09:30"
 }
