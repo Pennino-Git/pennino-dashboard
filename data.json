@@ -99,7 +99,8 @@
       "tags": [
         "ident-peg",
         "tier1",
-        "alete_homes"
+        "alete_homes",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -120,7 +121,8 @@
       "tags": [
         "alete_homes",
         "ident-peg",
-        "tier1"
+        "tier1",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -650,7 +652,8 @@
       "tags": [
         "bargain_steel",
         "tier2",
-        "torrens_divison"
+        "torrens_divison",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -1100,14 +1103,15 @@
       "address": "57 Oakridge Rise, Huntfield Heights SA 5163",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18377245",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 19,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
       "stage_order": 1,
       "tags": [
         "tier2",
-        "torrens_division"
+        "torrens_division",
+        "Field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -1922,11 +1926,11 @@
       "address": "470 Curtis Road, Angle Vale SA 5117",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18287874",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 1,
-      "stage_name": "Further Work Required",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "Angle_Vale"
@@ -2256,6 +2260,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-22T10:00:39.123566+09:30",
+  "last_updated": "2026-07-22T10:15:30.463434+09:30",
   "total": 110
 }

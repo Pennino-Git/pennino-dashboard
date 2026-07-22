@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-07-22T10:15:30.463434+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-22T10:15:30.463434+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-22T10:15:30.463434+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17863628,
       "project_name": "S1135 Kerry Rd TD1-2",
@@ -1772,34 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-06-30T10:30:54.169661+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046054,
-      "project_name": "T1317 Horrocks Hwy TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-30T09:00:48.233805+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18350144,
-      "project_name": "T1326 Garnet Ave TIER3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Plan Drawing & Check",
-      "timestamp": "2026-06-30T09:00:48.233805+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18350144,
-      "project_name": "T1326 Garnet Ave TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-06-30T09:00:48.233805+09:30"
     }
   ],
-  "last_updated": "2026-07-22T10:00:39.123566+09:30"
+  "last_updated": "2026-07-22T10:15:30.463434+09:30"
 }
