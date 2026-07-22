@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-22T11:15:29.948099+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17552256,
       "project_name": "Z1054 Johns Rd TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Plan Drawing & Check",
       "to": "Invoice & Close",
       "timestamp": "2026-06-30T12:00:47.450412+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333017,
-      "project_name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-06-30T12:00:47.450412+09:30"
     }
   ],
-  "last_updated": "2026-07-22T11:00:39.206484+09:30"
+  "last_updated": "2026-07-22T11:15:29.948099+09:30"
 }

@@ -155,14 +155,15 @@
       "address": "1498 South Para Road, Kersbrook SA 5231",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18317513",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 41,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1,
       "tags": [
         "ident",
-        "tier1"
+        "tier1",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -2240,6 +2241,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-22T11:00:39.206484+09:30",
+  "last_updated": "2026-07-22T11:15:29.948099+09:30",
   "total": 109
 }
