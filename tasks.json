@@ -4520,32 +4520,6 @@
         }
       ]
     },
-    "18384520": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206311221,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206311222,
-          "title": "Physical Docket Created",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18386748": {
       "total": 5,
       "overdue": 1,
@@ -5029,32 +5003,6 @@
         }
       ]
     },
-    "18397836": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206541100,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206541797,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18397859": {
       "total": 2,
       "overdue": 0,
@@ -5072,6 +5020,23 @@
         },
         {
           "task_id": 206541727,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18397836": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206541797,
           "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5714,10 +5679,10 @@
     }
   ],
   "summary": {
-    "total_open": 486,
+    "total_open": 483,
     "total_overdue": 48,
     "total_due_today": 2,
-    "projects_with_tasks": 98
+    "projects_with_tasks": 97
   },
-  "last_updated": "2026-07-22T14:45:31.975815+09:30"
+  "last_updated": "2026-07-22T15:00:39.586412+09:30"
 }
