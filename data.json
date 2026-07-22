@@ -155,7 +155,7 @@
       "address": "2a Broxmore Street, Elizabeth North SA 5113",
       "client": "Evanthe Dunn",
       "link": "https://crm.na1.insightly.com/details/project/18398255",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 1,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
@@ -238,7 +238,7 @@
       "address": "151 Angle Vale Road, Angle Vale SA 5117",
       "client": "Dave Stockbridge",
       "link": "https://crm.na1.insightly.com/details/project/18227807",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -405,7 +405,7 @@
       "address": "1-3 Frederick Street, Cavan SA 5094",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18398274",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2268,6 +2268,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-23T06:00:40.841096+09:30",
+  "last_updated": "2026-07-23T06:15:30.974485+09:30",
   "total": 110
 }
