@@ -153,7 +153,7 @@
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "2a Broxmore Street, Elizabeth North SA 5113",
-      "client": "",
+      "client": "Evanthe Dunn",
       "link": "https://crm.na1.insightly.com/details/project/18398255",
       "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
@@ -2267,6 +2267,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-22T12:45:30.225665+09:30",
+  "last_updated": "2026-07-22T13:00:40.014630+09:30",
   "total": 110
 }
