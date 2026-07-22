@@ -335,9 +335,9 @@
     "stage_name": "4. Conditions & Compliance"
   },
   "18227807": {
-    "stage_id": 3823936,
-    "entered": "2026-06-11",
-    "stage_name": "Prepare Project"
+    "stage_id": 3823937,
+    "entered": "2026-07-22",
+    "stage_name": "Field Work Scheduled"
   },
   "18230693": {
     "stage_id": 3134302,
@@ -545,6 +545,11 @@
     "stage_name": "Field Work Scheduled"
   },
   "18398255": {
+    "stage_id": 3823937,
+    "entered": "2026-07-22",
+    "stage_name": "Field Work Scheduled"
+  },
+  "18398274": {
     "stage_id": 3823937,
     "entered": "2026-07-22",
     "stage_name": "Field Work Scheduled"

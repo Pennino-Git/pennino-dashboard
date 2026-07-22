@@ -239,10 +239,10 @@
       "client": "Dave Stockbridge",
       "link": "https://crm.na1.insightly.com/details/project/18227807",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 41,
-      "stage_name": "Prepare Project",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "ident",
         "tier1",
@@ -392,6 +392,28 @@
       "tags": [
         "ident",
         "tier1",
+        "field"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
+      "id": 18398274,
+      "name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "1-3 Frederick Street, Cavan SA 5094",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18398274",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2,
+      "tags": [
+        "tier1",
+        "ident",
+        "zummo_design",
         "field"
       ],
       "needs_fieldwork": false,
@@ -2267,6 +2289,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-22T13:16:36.083485+09:30",
-  "total": 110
+  "last_updated": "2026-07-22T13:30:48.366577+09:30",
+  "total": 111
 }
