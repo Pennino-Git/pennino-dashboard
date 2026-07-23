@@ -113,7 +113,7 @@
       "address": "8 Camilla Avenue, Osborne SA 5017",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18397859",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2268,6 +2268,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-23T11:00:40.833553+09:30",
+  "last_updated": "2026-07-23T11:15:29.892274+09:30",
   "total": 110
 }

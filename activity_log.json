@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18397859,
+      "project_name": "A1355 Camilla Ave IDENT-PEG",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-23T11:15:29.892274+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18227807,
       "project_name": "S1144 Angle Vale Rd IDENT",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-01T06:15:31.387226+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333168,
-      "project_name": "S1152 Tarton Rd TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-06-30T22:45:31.133877+09:30"
     }
   ],
-  "last_updated": "2026-07-23T11:00:40.833553+09:30"
+  "last_updated": "2026-07-23T11:15:29.892274+09:30"
 }

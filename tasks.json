@@ -2890,7 +2890,7 @@
     },
     "18252749": {
       "total": 18,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3050,9 +3050,9 @@
         {
           "task_id": 205863308,
           "title": "Check back with Jake if demo is done",
-          "due_date": "2026-07-22",
+          "due_date": "2026-08-05",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
           "due_soon": false
         }
@@ -5537,17 +5537,6 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
-      "task_id": 205863308,
-      "title": "Check back with Jake if demo is done",
-      "due_date": "2026-07-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4"
-    },
-    {
       "task_id": 205911695,
       "title": "Open Space invoice paid",
       "due_date": "2026-07-06",
@@ -5693,9 +5682,9 @@
   ],
   "summary": {
     "total_open": 482,
-    "total_overdue": 50,
+    "total_overdue": 49,
     "total_due_today": 2,
     "projects_with_tasks": 97
   },
-  "last_updated": "2026-07-23T11:00:40.833553+09:30"
+  "last_updated": "2026-07-23T11:15:29.892274+09:30"
 }
