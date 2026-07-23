@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-23T12:00:39.471015+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18397859,
       "project_name": "A1355 Camilla Ave IDENT-PEG",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-01T09:30:56.437058+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-01T06:15:31.387226+09:30"
     }
   ],
-  "last_updated": "2026-07-23T11:45:29.853608+09:30"
+  "last_updated": "2026-07-23T12:00:39.471015+09:30"
 }

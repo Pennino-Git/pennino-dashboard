@@ -2889,7 +2889,7 @@
       ]
     },
     "18252749": {
-      "total": 18,
+      "total": 15,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2940,24 +2940,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205472631,
-          "title": "Client Brief Received and Info Prepped",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472632,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205472633,
           "title": "Concept plan drafted (Kate)",
           "due_date": null,
@@ -2978,15 +2960,6 @@
         {
           "task_id": 205472635,
           "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472636,
-          "title": "Physical Docket Created",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5681,10 +5654,10 @@
     }
   ],
   "summary": {
-    "total_open": 482,
+    "total_open": 479,
     "total_overdue": 49,
     "total_due_today": 2,
     "projects_with_tasks": 97
   },
-  "last_updated": "2026-07-23T11:45:29.853608+09:30"
+  "last_updated": "2026-07-23T12:00:39.471015+09:30"
 }
