@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-07-23T15:15:30.199045+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "AR (Alex)",
       "timestamp": "2026-07-01T09:45:29.775852+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-01T09:30:56.437058+09:30"
     }
   ],
-  "last_updated": "2026-07-23T15:00:38.561017+09:30"
+  "last_updated": "2026-07-23T15:15:30.199045+09:30"
 }
