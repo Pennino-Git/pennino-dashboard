@@ -128,6 +128,27 @@
       "is_premium": false
     },
     {
+      "id": 18400559,
+      "name": "B1142 Knoll Crescent IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "2 Knoll Crescent, Teringie SA 5072",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18400559",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "ident",
+        "tier1",
+        "field"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 18294425,
       "name": "C1065 Lookout Dr CONTOUR",
       "tier": "T1",
@@ -2268,6 +2289,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-23T23:30:51.968724+09:30",
-  "total": 110
+  "last_updated": "2026-07-23T23:43:32.010508+09:30",
+  "total": 111
 }
