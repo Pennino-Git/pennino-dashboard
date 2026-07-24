@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Plan to Client",
+      "timestamp": "2026-07-24T17:30:57.002315+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-24T17:30:57.002315+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave TD1-4",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-02T07:34:14.736350+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-02T07:34:14.736350+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "SA Water",
-      "timestamp": "2026-07-01T21:13:41.310967+09:30"
     }
   ],
-  "last_updated": "2026-07-24T17:15:31.157371+09:30"
+  "last_updated": "2026-07-24T17:30:57.002315+09:30"
 }
