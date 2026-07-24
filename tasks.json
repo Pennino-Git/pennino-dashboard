@@ -4951,6 +4951,23 @@
           "due_soon": ""
         }
       ]
+    },
+    "18316698": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206600846,
+          "title": "Client feedback received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [],
@@ -5496,10 +5513,10 @@
     }
   ],
   "summary": {
-    "total_open": 464,
+    "total_open": 465,
     "total_overdue": 49,
     "total_due_today": 0,
-    "projects_with_tasks": 97
+    "projects_with_tasks": 98
   },
-  "last_updated": "2026-07-24T14:00:40.241379+09:30"
+  "last_updated": "2026-07-24T14:02:47.624502+09:30"
 }

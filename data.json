@@ -2036,10 +2036,10 @@
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18316698",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 43,
-      "stage_name": "Plan Drawing & Check",
+      "days_in_stage": 0,
+      "stage_name": "Plan to Client",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "seychell",
         "tier3"
@@ -2269,6 +2269,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-24T14:00:40.241379+09:30",
+  "last_updated": "2026-07-24T14:02:47.624502+09:30",
   "total": 110
 }
