@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-24T10:00:42.070723+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18400559,
       "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "5. Certified Survey",
       "to": "7. SCAP Application",
       "timestamp": "2026-07-01T12:45:32.055510+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "SA Water",
-      "timestamp": "2026-07-01T12:45:32.055510+09:30"
     }
   ],
-  "last_updated": "2026-07-24T09:45:29.933362+09:30"
+  "last_updated": "2026-07-24T10:00:42.070723+09:30"
 }
