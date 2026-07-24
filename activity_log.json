@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Client",
+      "timestamp": "2026-07-24T13:00:43.149953+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18400559,
       "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-07-01T14:00:51.942696+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18353608,
-      "project_name": "A1350 Sturt St IDENT",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-01T14:00:51.942696+09:30"
     }
   ],
-  "last_updated": "2026-07-24T12:45:30.333869+09:30"
+  "last_updated": "2026-07-24T13:00:43.149953+09:30"
 }

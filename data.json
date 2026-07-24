@@ -1112,7 +1112,7 @@
       "address": "47 Amundsen Drive, Ingle Farm SA 5098",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "Client",
       "days_in_stage": 35,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -1908,26 +1908,6 @@
       "is_premium": false
     },
     {
-      "id": 18230693,
-      "name": "D1070 Moorook River Crossing TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "2033 Kingston Road New Residence",
-      "client": "Kevin Dougan",
-      "link": "https://crm.na1.insightly.com/details/project/18230693",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 43,
-      "stage_name": "Plan Drawing & Check",
-      "sa_water_ref": "",
-      "stage_order": 3,
-      "tags": [
-        "tier3",
-        "Downer_Group"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17810905,
       "name": "F1107 Edinburgh- Geotech Investigation",
       "tier": "T3",
@@ -2289,6 +2269,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-24T12:45:30.333869+09:30",
-  "total": 111
+  "last_updated": "2026-07-24T13:00:43.149953+09:30",
+  "total": 110
 }
