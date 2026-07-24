@@ -129,21 +129,21 @@
     },
     {
       "id": 18400559,
-      "name": "B1142 Knoll Crescent IDENT",
+      "name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "2 Knoll Crescent, Teringie SA 5072",
-      "client": "",
+      "client": "David Block",
       "link": "https://crm.na1.insightly.com/details/project/18400559",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 1,
-      "stage_name": "Prepare Project",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
-        "ident",
         "tier1",
-        "field"
+        "field",
+        "ident_and_contour"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -2289,6 +2289,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-24T09:30:50.648253+09:30",
+  "last_updated": "2026-07-24T09:45:29.933362+09:30",
   "total": 111
 }

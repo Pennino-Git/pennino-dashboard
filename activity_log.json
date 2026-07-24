@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18400559,
+      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-24T09:45:29.933362+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17552256,
       "project_name": "Z1054 Johns Rd TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "SA Water",
       "timestamp": "2026-07-01T12:45:32.055510+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "8. Final Authority Approvals",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-07-01T09:45:29.775852+09:30"
     }
   ],
-  "last_updated": "2026-07-24T09:30:50.648253+09:30"
+  "last_updated": "2026-07-24T09:45:29.933362+09:30"
 }
