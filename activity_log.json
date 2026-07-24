@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18316698,
+      "project_name": "S1151 Morphett Rd TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-24T14:15:30.165375+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18316698,
       "project_name": "S1151 Morphett Rd TIER3",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-07-01T15:15:29.701927+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-01T15:15:29.701927+09:30"
     }
   ],
-  "last_updated": "2026-07-24T14:02:47.624502+09:30"
+  "last_updated": "2026-07-24T14:15:30.165375+09:30"
 }
