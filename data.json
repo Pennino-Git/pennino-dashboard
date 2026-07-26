@@ -135,7 +135,7 @@
       "address": "2 Knoll Crescent, Teringie SA 5072",
       "client": "David Block",
       "link": "https://crm.na1.insightly.com/details/project/18400559",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 3,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -1321,7 +1321,7 @@
       "address": "20-26 Lipson Street, Port Adelaide SA 5015",
       "client": "Jeannine  Donato",
       "link": "https://crm.na1.insightly.com/details/project/16351328",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "LTO",
       "days_in_stage": 3,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0161246",
@@ -2015,7 +2015,7 @@
       "address": "21 Park Road, Kensington Park SA 5068",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18289825",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 3,
       "stage_name": "Plan to Client",
       "sa_water_ref": "",
@@ -2035,7 +2035,7 @@
       "address": "476 Anzac Hwy, Camden Park SA 5038",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18316698",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 3,
       "stage_name": "Plan to Client",
       "sa_water_ref": "",
@@ -2269,6 +2269,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-27T06:00:58.844514+09:30",
+  "last_updated": "2026-07-27T06:15:31.470081+09:30",
   "total": 110
 }

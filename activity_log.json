@@ -1,6 +1,42 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "LTO",
+      "timestamp": "2026-07-27T06:15:31.470081+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-27T06:15:31.470081+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18316698,
+      "project_name": "S1151 Morphett Rd TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-27T06:15:31.470081+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18400559,
+      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-27T06:15:31.470081+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18289825,
       "project_name": "S1149 Kensington Park TIER3",
@@ -1763,43 +1799,7 @@
       "from": "6 Land Division Certificate Lodged with PlanSA",
       "to": "9. LTO Lodgement",
       "timestamp": "2026-07-02T11:20:56.776537+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-02T07:34:14.736350+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-02T07:34:14.736350+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "LTO",
-      "timestamp": "2026-07-02T07:34:14.736350+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18353608,
-      "project_name": "A1350 Sturt St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-02T07:34:14.736350+09:30"
     }
   ],
-  "last_updated": "2026-07-27T06:00:58.844514+09:30"
+  "last_updated": "2026-07-27T06:15:31.470081+09:30"
 }
