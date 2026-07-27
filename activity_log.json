@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-07-27T13:45:32.013550+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 16351328,
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-07-02T11:20:56.776537+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17704260,
-      "project_name": "A1325 Wood St TD1-2",
-      "tier": "T2",
-      "from": "6 Land Division Certificate Lodged with PlanSA",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-07-02T11:20:56.776537+09:30"
     }
   ],
-  "last_updated": "2026-07-27T13:37:26.531636+09:30"
+  "last_updated": "2026-07-27T13:45:32.013550+09:30"
 }
