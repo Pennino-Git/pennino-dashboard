@@ -822,10 +822,10 @@
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187753",
       "responsibility": "Client",
-      "days_in_stage": 38,
-      "stage_name": "5. Certified Survey",
+      "days_in_stage": 0,
+      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "H0189352",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "dominion_homes",
         "tier2",
@@ -2269,6 +2269,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-27T13:45:32.013550+09:30",
+  "last_updated": "2026-07-27T14:00:40.188548+09:30",
   "total": 110
 }

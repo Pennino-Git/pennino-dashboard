@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "6 Land Division Certificate Lodged with PlanSA",
+      "timestamp": "2026-07-27T14:00:40.188548+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-02T14:08:25.108657+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-07-02T11:20:56.776537+09:30"
     }
   ],
-  "last_updated": "2026-07-27T13:45:32.013550+09:30"
+  "last_updated": "2026-07-27T14:00:40.188548+09:30"
 }
