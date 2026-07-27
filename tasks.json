@@ -1053,8 +1053,8 @@
     "18046089": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202965655,
@@ -1116,8 +1116,8 @@
           "due_date": "2026-07-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1872,8 +1872,8 @@
     "18187753": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204967981,
@@ -1935,8 +1935,8 @@
           "due_date": "2026-07-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2155,8 +2155,8 @@
     },
     "18223472": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2164,8 +2164,8 @@
           "title": "Client approval received",
           "due_date": "2026-07-27",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2234,8 +2234,8 @@
     },
     "18133721": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2243,8 +2243,8 @@
           "title": "Concept plan drafted (Kate)",
           "due_date": "2026-07-27",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4971,26 +4971,26 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205068599,
-      "title": "Client approval received",
-      "due_date": "2026-07-27",
+      "task_id": 206520446,
+      "title": "Update on CAD files?",
+      "due_date": "2026-07-28",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2"
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2"
     },
     {
-      "task_id": 205068665,
-      "title": "Concept plan drafted (Kate)",
-      "due_date": "2026-07-27",
+      "task_id": 206632060,
+      "title": "Ask DP about the Certified Survey and inform him SA Water INV was sent",
+      "due_date": "2026-07-28",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5"
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5292,6 +5292,28 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
+      "task_id": 205068599,
+      "title": "Client approval received",
+      "due_date": "2026-07-27",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2"
+    },
+    {
+      "task_id": 205068665,
+      "title": "Concept plan drafted (Kate)",
+      "due_date": "2026-07-27",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5"
+    },
+    {
       "task_id": 205171395,
       "title": "Prep 1st INV",
       "due_date": "2026-05-22",
@@ -5525,9 +5547,9 @@
   ],
   "summary": {
     "total_open": 464,
-    "total_overdue": 48,
+    "total_overdue": 50,
     "total_due_today": 2,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-07-27T23:45:33.196224+09:30"
+  "last_updated": "2026-07-28T00:00:45.661807+09:30"
 }
