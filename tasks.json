@@ -3778,10 +3778,10 @@
       ]
     },
     "17732479": {
-      "total": 7,
+      "total": 8,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3845,6 +3845,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206672567,
+          "title": "Ask DP for schedule of field",
+          "due_date": "2026-07-29",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3875,50 +3884,6 @@
         {
           "task_id": 206207331,
           "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
-    "17863628": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206028925,
-          "title": "Issue Final PAA Invoice",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206537400,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206537401,
-          "title": "Plan Lodged Via DPL",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206537402,
-          "title": "Advised all Parties of Lodgement",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4725,6 +4690,59 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        }
+      ]
+    },
+    "17863628": {
+      "total": 5,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 206537400,
+          "title": "LTO fees paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206537401,
+          "title": "Plan Lodged Via DPL",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206537402,
+          "title": "Advised all Parties of Lodgement",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206672530,
+          "title": "Confirmation of Approval Sent to All Parties",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206672531,
+          "title": "Lodged DPL?",
+          "due_date": "2026-07-29",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5535,10 +5553,10 @@
     }
   ],
   "summary": {
-    "total_open": 464,
+    "total_open": 466,
     "total_overdue": 50,
     "total_due_today": 1,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-07-28T14:45:29.104894+09:30"
+  "last_updated": "2026-07-28T15:01:07.414884+09:30"
 }
