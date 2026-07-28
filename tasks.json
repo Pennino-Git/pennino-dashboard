@@ -1870,9 +1870,9 @@
       ]
     },
     "18187753": {
-      "total": 7,
+      "total": 6,
       "overdue": 1,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1928,15 +1928,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206632060,
-          "title": "Ask DP about the Certified Survey and inform him SA Water INV was sent",
-          "due_date": "2026-07-28",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4980,17 +4971,6 @@
       "due_soon": false,
       "project_id": 18046089,
       "project_name": "C1060 Orchestra Pl TD1-2"
-    },
-    {
-      "task_id": 206632060,
-      "title": "Ask DP about the Certified Survey and inform him SA Water INV was sent",
-      "due_date": "2026-07-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5546,10 +5526,10 @@
     }
   ],
   "summary": {
-    "total_open": 464,
+    "total_open": 463,
     "total_overdue": 50,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-07-28T09:45:29.685860+09:30"
+  "last_updated": "2026-07-28T10:00:37.886638+09:30"
 }
