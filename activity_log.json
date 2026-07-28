@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "LTO",
+      "timestamp": "2026-07-29T06:14:56.269474+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18323822,
       "project_name": "T1322 Nazar Reserve Pots TIER 3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "LTO",
       "timestamp": "2026-07-06T06:15:29.864520+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18091731,
-      "project_name": "F1112 Isabella Rd TD1-3",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-06T06:15:29.864520+09:30"
     }
   ],
-  "last_updated": "2026-07-29T06:00:48.034210+09:30"
+  "last_updated": "2026-07-29T06:14:56.269474+09:30"
 }
