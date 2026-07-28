@@ -1052,8 +1052,8 @@
     },
     "18046089": {
       "total": 8,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1115,8 +1115,8 @@
           "title": "Update on CAD files?",
           "due_date": "2026-07-28",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -2804,7 +2804,7 @@
       "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205464397,
@@ -2849,7 +2849,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -3780,8 +3780,8 @@
     "17732479": {
       "total": 8,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3852,8 +3852,8 @@
           "due_date": "2026-07-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4160,8 +4160,8 @@
     "17552256": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206292074,
@@ -4214,8 +4214,8 @@
           "due_date": "2026-07-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4705,8 +4705,8 @@
     "17863628": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206537400,
@@ -4750,8 +4750,8 @@
           "due_date": "2026-07-29",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5024,15 +5024,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206520446,
-      "title": "Update on CAD files?",
-      "due_date": "2026-07-28",
+      "task_id": 206672531,
+      "title": "Lodged DPL?",
+      "due_date": "2026-07-29",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2"
+    },
+    {
+      "task_id": 206672567,
+      "title": "Ask DP for schedule of field",
+      "due_date": "2026-07-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 206672879,
+      "title": "DPL lodged?",
+      "due_date": "2026-07-29",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5576,6 +5598,17 @@
       "project_name": "D1071 Deeds Rd CD1-10"
     },
     {
+      "task_id": 206520446,
+      "title": "Update on CAD files?",
+      "due_date": "2026-07-28",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2"
+    },
+    {
       "task_id": 206520515,
       "title": "Invoice issued",
       "due_date": "2026-07-23",
@@ -5589,9 +5622,9 @@
   ],
   "summary": {
     "total_open": 469,
-    "total_overdue": 50,
-    "total_due_today": 1,
+    "total_overdue": 51,
+    "total_due_today": 3,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-07-28T23:45:40.467859+09:30"
+  "last_updated": "2026-07-29T00:00:38.348039+09:30"
 }
