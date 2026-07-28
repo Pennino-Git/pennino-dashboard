@@ -1051,7 +1051,7 @@
       ]
     },
     "18046089": {
-      "total": 7,
+      "total": 8,
       "overdue": 1,
       "due_today": 1,
       "due_soon": 0,
@@ -1117,6 +1117,15 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": true,
+          "due_soon": false
+        },
+        {
+          "task_id": 206672462,
+          "title": "per DP's instruction, set a reminder and ask him again",
+          "due_date": "2026-08-17",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5526,10 +5535,10 @@
     }
   ],
   "summary": {
-    "total_open": 463,
+    "total_open": 464,
     "total_overdue": 50,
     "total_due_today": 1,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-07-28T14:30:44.400470+09:30"
+  "last_updated": "2026-07-28T14:45:29.104894+09:30"
 }

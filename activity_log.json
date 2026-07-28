@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-28T14:45:29.104894+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "SA Water",
       "to": "Client",
       "timestamp": "2026-07-03T13:30:55.150878+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18250076,
-      "project_name": "B1140 Garden Tce TD2-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-07-03T11:01:01.965619+09:30"
     }
   ],
-  "last_updated": "2026-07-28T14:30:44.400470+09:30"
+  "last_updated": "2026-07-28T14:45:29.104894+09:30"
 }
