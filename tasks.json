@@ -4721,20 +4721,11 @@
       ]
     },
     "17863628": {
-      "total": 4,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 206537401,
-          "title": "Plan Lodged Via DPL",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 206537402,
           "title": "Advised all Parties of Lodgement",
@@ -4752,15 +4743,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206672531,
-          "title": "Lodged DPL?",
-          "due_date": "2026-07-29",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5031,19 +5013,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206672531,
-      "title": "Lodged DPL?",
-      "due_date": "2026-07-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5608,10 +5578,10 @@
     }
   ],
   "summary": {
-    "total_open": 470,
+    "total_open": 468,
     "total_overdue": 51,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-07-29T11:00:45.231821+09:30"
+  "last_updated": "2026-07-29T11:15:38.685224+09:30"
 }
