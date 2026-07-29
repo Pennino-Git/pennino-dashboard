@@ -595,11 +595,11 @@
       "address": "43 Gulf Parade, Maslin Beach SA 5170",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18372992",
-      "responsibility": "Client",
-      "days_in_stage": 28,
-      "stage_name": "1. Concept Planning",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "alete_homes",
         "torrens_division"
@@ -1592,7 +1592,7 @@
       "address": "8 Kerry Street, Salisbury Downs SA 5108",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17863628",
-      "responsibility": "LTO",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 1,
       "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0183925",
@@ -2291,6 +2291,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-07-29T10:45:35.154440+09:30",
+  "last_updated": "2026-07-29T11:00:45.231821+09:30",
   "total": 111
 }

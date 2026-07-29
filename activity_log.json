@@ -5,6 +5,33 @@
       "project_id": 17863628,
       "project_name": "S1135 Kerry Rd TD1-2",
       "tier": "T2",
+      "from": "LTO",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-29T11:00:45.231821+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-07-29T11:00:45.231821+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-29T11:00:45.231821+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
       "from": "DP (Damiano)",
       "to": "LTO",
       "timestamp": "2026-07-29T06:14:56.269474+09:30"
@@ -1772,34 +1799,7 @@
       "from": "LTO",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-06T22:01:13.902320+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-06T21:31:12.353330+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18009966,
-      "project_name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "from": "9. LTO Lodgement",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-07-06T14:15:31.043979+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17704260,
-      "project_name": "A1325 Wood St TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "LTO",
-      "timestamp": "2026-07-06T06:15:29.864520+09:30"
     }
   ],
-  "last_updated": "2026-07-29T10:45:35.154440+09:30"
+  "last_updated": "2026-07-29T11:00:45.231821+09:30"
 }

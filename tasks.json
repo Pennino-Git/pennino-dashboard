@@ -3778,9 +3778,9 @@
       ]
     },
     "17732479": {
-      "total": 8,
+      "total": 7,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3845,15 +3845,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206672567,
-          "title": "Ask DP for schedule of field",
-          "due_date": "2026-07-29",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -3893,14 +3884,14 @@
       ]
     },
     "18372992": {
-      "total": 2,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 206091564,
-          "title": "Client approval received",
+          "task_id": 206091565,
+          "title": "Physical Docket Created",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3908,8 +3899,35 @@
           "due_soon": ""
         },
         {
-          "task_id": 206091565,
-          "title": "Physical Docket Created",
+          "task_id": 206701147,
+          "title": "Application form completed on PlanSA portal",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206701148,
+          "title": "Lodgement invoice received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206701149,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206701150,
+          "title": "Client Advised of Lodgement in Plan SA",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4160,8 +4178,8 @@
     "17552256": {
       "total": 6,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206292074,
@@ -4211,11 +4229,11 @@
         {
           "task_id": 206672879,
           "title": "DPL lodged?",
-          "due_date": "2026-07-29",
+          "due_date": "2026-07-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4703,20 +4721,11 @@
       ]
     },
     "17863628": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
       "due_today": 1,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 206537400,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 206537401,
           "title": "Plan Lodged Via DPL",
@@ -5033,28 +5042,6 @@
       "due_soon": false,
       "project_id": 17863628,
       "project_name": "S1135 Kerry Rd TD1-2"
-    },
-    {
-      "task_id": 206672567,
-      "title": "Ask DP for schedule of field",
-      "due_date": "2026-07-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
-      "task_id": 206672879,
-      "title": "DPL lodged?",
-      "due_date": "2026-07-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -5621,10 +5608,10 @@
     }
   ],
   "summary": {
-    "total_open": 469,
+    "total_open": 470,
     "total_overdue": 51,
-    "total_due_today": 3,
+    "total_due_today": 1,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-07-29T10:45:35.154440+09:30"
+  "last_updated": "2026-07-29T11:00:45.231821+09:30"
 }
