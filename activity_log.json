@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-07-29T15:30:46.555198+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-07T06:15:32.523675+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18212535,
-      "project_name": "D1069 Railway Tce TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-07-07T06:15:32.523675+09:30"
     }
   ],
-  "last_updated": "2026-07-29T15:15:29.232957+09:30"
+  "last_updated": "2026-07-29T15:30:46.555198+09:30"
 }

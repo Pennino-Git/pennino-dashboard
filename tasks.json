@@ -3867,7 +3867,7 @@
       ]
     },
     "18372992": {
-      "total": 5,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3875,15 +3875,6 @@
         {
           "task_id": 206091565,
           "title": "Physical Docket Created",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206701147,
-          "title": "Application form completed on PlanSA portal",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3902,15 +3893,6 @@
         {
           "task_id": 206701149,
           "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206701150,
-          "title": "Client Advised of Lodgement in Plan SA",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5605,10 +5587,10 @@
     }
   ],
   "summary": {
-    "total_open": 471,
+    "total_open": 469,
     "total_overdue": 51,
     "total_due_today": 0,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-07-29T15:15:29.232957+09:30"
+  "last_updated": "2026-07-29T15:30:46.555198+09:30"
 }
