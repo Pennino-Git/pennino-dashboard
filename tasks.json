@@ -2671,8 +2671,8 @@
     "16351328": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205431266,
@@ -2680,8 +2680,8 @@
           "due_date": "2026-07-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205431267,
@@ -4143,8 +4143,8 @@
     "17552256": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206292074,
@@ -4197,8 +4197,8 @@
           "due_date": "2026-07-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5022,7 +5022,30 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205431266,
+      "title": "SCAP certificate received",
+      "due_date": "2026-07-30",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
+      "task_id": 206672879,
+      "title": "DPL lodged?",
+      "due_date": "2026-07-30",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17552256,
+      "project_name": "Z1054 Johns Rd TD1-2"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5589,8 +5612,8 @@
   "summary": {
     "total_open": 469,
     "total_overdue": 51,
-    "total_due_today": 0,
+    "total_due_today": 2,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-07-29T23:45:35.895151+09:30"
+  "last_updated": "2026-07-30T00:00:48.084159+09:30"
 }
