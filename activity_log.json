@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17863628,
+      "project_name": "S1135 Kerry Rd TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "LTO",
+      "timestamp": "2026-07-29T14:00:43.292926+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-07T06:15:32.523675+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "SA Water",
-      "timestamp": "2026-07-06T22:45:40.959402+09:30"
     }
   ],
-  "last_updated": "2026-07-29T13:45:37.649705+09:30"
+  "last_updated": "2026-07-29T14:00:43.292926+09:30"
 }
