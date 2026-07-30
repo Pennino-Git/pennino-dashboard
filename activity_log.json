@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-07-31T04:16:10.434732+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-14T13:45:29.671156+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Plan Drawing & Check",
-      "timestamp": "2026-07-14T13:31:09.874587+09:30"
     }
   ],
-  "last_updated": "2026-07-31T04:15:35.440624+09:30"
+  "last_updated": "2026-07-31T04:16:10.434732+09:30"
 }
