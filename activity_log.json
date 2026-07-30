@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-31T06:15:29.647396+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "SA Water",
       "timestamp": "2026-07-14T14:15:31.288850+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-14T13:45:29.671156+09:30"
     }
   ],
-  "last_updated": "2026-07-31T06:00:40.983654+09:30"
+  "last_updated": "2026-07-31T06:15:29.647396+09:30"
 }
