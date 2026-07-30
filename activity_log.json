@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-07-30T10:45:29.549232+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18317513,
       "project_name": "F1145 South Para Rd IDENT",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Plan Drawing & Check",
       "timestamp": "2026-07-14T13:31:09.874587+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-14T13:31:09.874587+09:30"
     }
   ],
-  "last_updated": "2026-07-30T10:33:48.948682+09:30"
+  "last_updated": "2026-07-30T10:45:29.549232+09:30"
 }
