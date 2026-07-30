@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-07-30T09:45:29.411602+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-14T13:31:09.874587+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-07-14T13:15:30.068697+09:30"
     }
   ],
-  "last_updated": "2026-07-30T09:30:54.753730+09:30"
+  "last_updated": "2026-07-30T09:45:29.411602+09:30"
 }
