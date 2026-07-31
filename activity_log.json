@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-07-31T10:30:52.638312+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18317513,
       "project_name": "F1145 South Para Rd IDENT",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-14T16:04:27.236605+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-07-14T14:15:31.288850+09:30"
     }
   ],
-  "last_updated": "2026-07-31T10:15:29.741110+09:30"
+  "last_updated": "2026-07-31T10:30:52.638312+09:30"
 }
