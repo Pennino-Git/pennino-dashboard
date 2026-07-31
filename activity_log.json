@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-07-31T10:45:30.792329+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15599174,
       "project_name": "J1015 Eudunda Land TD1-50",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Plan Drawing & Check",
       "to": "Invoice & Close",
       "timestamp": "2026-07-14T16:04:27.236605+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-14T16:04:27.236605+09:30"
     }
   ],
-  "last_updated": "2026-07-31T10:30:52.638312+09:30"
+  "last_updated": "2026-07-31T10:45:30.792329+09:30"
 }
