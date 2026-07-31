@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18397859,
+      "project_name": "A1355 Camilla Ave IDENT-PEG",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Invoice",
+      "timestamp": "2026-07-31T15:30:52.663538+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18397859,
+      "project_name": "A1355 Camilla Ave IDENT-PEG",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-07-31T15:30:52.663538+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18372992,
       "project_name": "A1352 Gulf Pde TD1-3",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "SA Water",
       "timestamp": "2026-07-14T18:15:32.036438+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-14T16:31:15.194458+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3",
-      "tier": "T3",
-      "from": "Plan Drawing & Check",
-      "to": "Invoice & Close",
-      "timestamp": "2026-07-14T16:04:27.236605+09:30"
     }
   ],
-  "last_updated": "2026-07-31T15:15:29.835997+09:30"
+  "last_updated": "2026-07-31T15:30:52.663538+09:30"
 }
