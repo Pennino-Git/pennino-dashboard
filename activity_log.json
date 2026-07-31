@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-07-31T16:14:37.210723+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-07-31T16:14:37.210723+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18397859,
       "project_name": "A1355 Camilla Ave IDENT-PEG",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "Kate (Drafting)",
       "timestamp": "2026-07-14T20:01:09.897028+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-07-14T18:45:30.922942+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "SA Water",
-      "timestamp": "2026-07-14T18:15:32.036438+09:30"
     }
   ],
-  "last_updated": "2026-07-31T16:00:39.204527+09:30"
+  "last_updated": "2026-07-31T16:14:37.210723+09:30"
 }
