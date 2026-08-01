@@ -1326,8 +1326,8 @@
     },
     "17539782": {
       "total": 25,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1497,8 +1497,8 @@
           "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
           "due_date": "2026-08-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4995,19 +4995,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 205536899,
-      "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
-      "due_date": "2026-08-01",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5362,6 +5350,17 @@
       "project_name": "A1324 Euston Ave CD1-7"
     },
     {
+      "task_id": 205536899,
+      "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
+      "due_date": "2026-08-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
       "task_id": 205540532,
       "title": "Ask client for demo status",
       "due_date": "2026-06-12",
@@ -5595,9 +5594,9 @@
   ],
   "summary": {
     "total_open": 466,
-    "total_overdue": 53,
-    "total_due_today": 1,
+    "total_overdue": 54,
+    "total_due_today": 0,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-01T23:45:29.001247+09:30"
+  "last_updated": "2026-08-02T00:00:38.748503+09:30"
 }
