@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18078768,
+      "project_name": "N1028 Lyndoch Rd TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-03T02:45:29.552803+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-03T02:45:29.552803+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-07-15T06:15:31.650542+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-14T20:15:32.791347+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-14T20:01:09.897028+09:30"
     }
   ],
-  "last_updated": "2026-08-03T02:30:47.640385+09:30"
+  "last_updated": "2026-08-03T02:45:29.552803+09:30"
 }
