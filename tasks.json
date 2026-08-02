@@ -2345,10 +2345,10 @@
       ]
     },
     "17632301": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205215029,
@@ -2403,6 +2403,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206789111,
+          "title": "Check if SCAP Certificate is issued",
+          "due_date": "2026-08-05",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5623,10 +5632,10 @@
     }
   ],
   "summary": {
-    "total_open": 468,
+    "total_open": 469,
     "total_overdue": 52,
     "total_due_today": 3,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-03T08:00:46.722418+09:30"
+  "last_updated": "2026-08-03T08:15:30.734769+09:30"
 }
