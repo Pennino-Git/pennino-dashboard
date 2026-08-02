@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-03T03:00:40.146758+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18078768,
       "project_name": "N1028 Lyndoch Rd TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-15T10:31:14.652151+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-15T06:15:31.650542+09:30"
     }
   ],
-  "last_updated": "2026-08-03T02:45:29.552803+09:30"
+  "last_updated": "2026-08-03T03:00:40.146758+09:30"
 }
