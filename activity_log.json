@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-03T03:45:36.043410+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-16T06:15:32.263164+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18294425,
-      "project_name": "C1065 Lookout Dr CONTOUR",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Invoice",
-      "timestamp": "2026-07-15T10:31:14.652151+09:30"
     }
   ],
-  "last_updated": "2026-08-03T03:30:47.612675+09:30"
+  "last_updated": "2026-08-03T03:45:36.043410+09:30"
 }
