@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-08-03T20:15:38.228769+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17956195,
       "project_name": "A1336 The Parade TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-07-17T06:15:33.951922+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-17T06:15:33.951922+09:30"
     }
   ],
-  "last_updated": "2026-08-03T20:00:50.853270+09:30"
+  "last_updated": "2026-08-03T20:15:38.228769+09:30"
 }
