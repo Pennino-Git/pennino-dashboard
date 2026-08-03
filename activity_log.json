@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-08-03T14:00:42.155849+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "SCAP/DAC",
       "timestamp": "2026-07-16T11:45:29.510687+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "7. SCAP Application",
-      "to": "8. Final Authority Approvals",
-      "timestamp": "2026-07-16T10:31:10.901906+09:30"
     }
   ],
-  "last_updated": "2026-08-03T13:45:30.962681+09:30"
+  "last_updated": "2026-08-03T14:00:42.155849+09:30"
 }
