@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-04T11:45:32.829946+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-04T11:45:32.829946+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-04T11:45:32.829946+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "SA Water",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-17T10:30:54.409896+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17810905,
-      "project_name": "F1107 Edinburgh- Geotech Investigation",
-      "tier": "T3",
-      "from": "Contractor",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-17T06:15:33.951922+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "LTO",
-      "timestamp": "2026-07-17T06:15:33.951922+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-17T06:15:33.951922+09:30"
     }
   ],
-  "last_updated": "2026-08-04T11:30:45.746559+09:30"
+  "last_updated": "2026-08-04T11:45:32.829946+09:30"
 }
