@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18184868,
+      "project_name": "T1319 Grange Rd TIER3",
+      "tier": "T3",
+      "from": "Invoice & Close",
+      "to": "Further Work Required",
+      "timestamp": "2026-08-05T05:00:46.411752+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18184868,
+      "project_name": "T1319 Grange Rd TIER3",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-05T05:00:46.411752+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17632301,
       "project_name": "F1102 Copernicus Rd TD1-4",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "9. LTO Lodgement",
       "to": "10. LTO Approval",
       "timestamp": "2026-07-17T14:30:54.214426+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17704260,
-      "project_name": "A1325 Wood St TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-17T14:30:54.214426+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "SA Water",
-      "timestamp": "2026-07-17T13:30:53.797403+09:30"
     }
   ],
-  "last_updated": "2026-08-05T04:45:41.338864+09:30"
+  "last_updated": "2026-08-05T05:00:46.411752+09:30"
 }

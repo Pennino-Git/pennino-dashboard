@@ -2058,14 +2058,15 @@
       "address": "Grange Road, Colonel Light Gardens",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18184868",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 55,
-      "stage_name": "Invoice & Close",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
       "sa_water_ref": "",
-      "stage_order": 6,
+      "stage_order": 5,
       "tags": [
         "tier3",
-        "tpc"
+        "tpc",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -2252,6 +2253,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-05T04:45:41.338864+09:30",
+  "last_updated": "2026-08-05T05:00:46.411752+09:30",
   "total": 109
 }
