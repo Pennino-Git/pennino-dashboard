@@ -2310,10 +2310,10 @@
       ]
     },
     "17632301": {
-      "total": 7,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205215029,
@@ -2334,8 +2334,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 206434644,
-          "title": "Final council sign-off obtained",
+          "task_id": 206820133,
+          "title": "LTO fees paid",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -2343,8 +2343,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 206434645,
-          "title": "All remaining conditions cleared",
+          "task_id": 206820134,
+          "title": "Plan Lodged Via DPL",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -2352,31 +2352,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 206434647,
-          "title": "SA Water Conditions Met",
+          "task_id": 206820135,
+          "title": "Advised all Parties of Lodgement",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206434648,
-          "title": "SCAP Certificate Recieved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206789111,
-          "title": "Check if SCAP Certificate is issued",
-          "due_date": "2026-08-07",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
         }
       ]
     },
@@ -5565,10 +5547,10 @@
     }
   ],
   "summary": {
-    "total_open": 465,
+    "total_open": 463,
     "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-08-04T18:00:47.587488+09:30"
+  "last_updated": "2026-08-04T18:15:33.209089+09:30"
 }

@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-08-04T18:15:33.209089+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "SA Water",
       "timestamp": "2026-07-17T13:30:53.797403+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-17T10:30:54.409896+09:30"
     }
   ],
-  "last_updated": "2026-08-04T18:00:47.587488+09:30"
+  "last_updated": "2026-08-04T18:15:33.209089+09:30"
 }
