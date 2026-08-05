@@ -1175,8 +1175,8 @@
     },
     "15978707": {
       "total": 8,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1247,8 +1247,8 @@
           "title": "Ask DP again about SA Water RFI. Forwarded to client but got no answer to question",
           "due_date": "2026-08-05",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1327,8 +1327,8 @@
     "17539782": {
       "total": 26,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1561,8 +1561,8 @@
           "due_date": "2026-08-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1836,8 +1836,8 @@
     "18187753": {
       "total": 6,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204967981,
@@ -1863,8 +1863,8 @@
           "due_date": "2026-08-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205771861,
@@ -2697,8 +2697,8 @@
     },
     "18252749": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2742,8 +2742,8 @@
           "title": "Check back with Jake if demo is done",
           "due_date": "2026-08-05",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3430,8 +3430,8 @@
     },
     "18039448": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3493,8 +3493,8 @@
           "title": "Check if SA Water is our actionable",
           "due_date": "2026-08-05",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3863,8 +3863,8 @@
     "18377245": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206178696,
@@ -3908,8 +3908,8 @@
           "due_date": "2026-08-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4859,8 +4859,8 @@
     "18187249": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206791317,
@@ -4868,8 +4868,8 @@
           "due_date": "2026-08-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206791318,
@@ -5104,37 +5104,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205863308,
-      "title": "Check back with Jake if demo is done",
-      "due_date": "2026-08-05",
+      "task_id": 205771860,
+      "title": "Certified plan drafted (Kate) - waiting on DP",
+      "due_date": "2026-08-06",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4"
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2"
     },
     {
-      "task_id": 206787779,
-      "title": "Ask DP again about SA Water RFI. Forwarded to client but got no answer to question",
-      "due_date": "2026-08-05",
+      "task_id": 206787468,
+      "title": "Ask DP if we need to check with Kate on Concept Plan",
+      "due_date": "2026-08-06",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
     },
     {
-      "task_id": 206787873,
-      "title": "Check if SA Water is our actionable",
-      "due_date": "2026-08-05",
+      "task_id": 206791317,
+      "title": "Lodgement invoice paid",
+      "due_date": "2026-08-06",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
+    },
+    {
+      "task_id": 206817423,
+      "title": "Check if DP responded to my email about RFI evidence",
+      "due_date": "2026-08-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5579,6 +5590,17 @@
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
     {
+      "task_id": 205863308,
+      "title": "Check back with Jake if demo is done",
+      "due_date": "2026-08-05",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
       "task_id": 205911695,
       "title": "Open Space invoice paid",
       "due_date": "2026-07-06",
@@ -5687,13 +5709,35 @@
       "due_soon": false,
       "project_id": 17847316,
       "project_name": "B1136 Laura St TD1-2"
+    },
+    {
+      "task_id": 206787779,
+      "title": "Ask DP again about SA Water RFI. Forwarded to client but got no answer to question",
+      "due_date": "2026-08-05",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 206787873,
+      "title": "Check if SA Water is our actionable",
+      "due_date": "2026-08-05",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
     }
   ],
   "summary": {
     "total_open": 477,
-    "total_overdue": 50,
-    "total_due_today": 3,
+    "total_overdue": 53,
+    "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-05T23:45:33.492422+09:30"
+  "last_updated": "2026-08-06T00:00:47.247364+09:30"
 }
