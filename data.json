@@ -879,6 +879,26 @@
       "is_premium": false
     },
     {
+      "id": 18415275,
+      "name": "E1037 Eastern Pde CD1-7",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "Lot 227-233 Eastern Parade, Port Adelaide SA",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18415275",
+      "responsibility": "Kate (Drafting)",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier2",
+        "community_division"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 13466164,
       "name": "F1063 Araluen St TD1-2",
       "tier": "T2",
@@ -2231,6 +2251,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-05T14:30:49.613804+09:30",
-  "total": 108
+  "last_updated": "2026-08-05T14:45:38.209037+09:30",
+  "total": 109
 }
