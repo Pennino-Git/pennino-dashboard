@@ -2582,18 +2582,18 @@
     },
     "16351328": {
       "total": 6,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205431266,
           "title": "SCAP certificate received",
-          "due_date": "2026-07-30",
+          "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205431267,
@@ -5502,17 +5502,6 @@
       "project_name": "L1038 Beach Rd TD1-2"
     },
     {
-      "task_id": 205431266,
-      "title": "SCAP certificate received",
-      "due_date": "2026-07-30",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
       "task_id": 205462982,
       "title": "Schedule SA Water pegging/cert",
       "due_date": "2026-06-08",
@@ -5735,9 +5724,9 @@
   ],
   "summary": {
     "total_open": 477,
-    "total_overdue": 53,
+    "total_overdue": 52,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T09:00:44.163875+09:30"
+  "last_updated": "2026-08-06T09:15:29.699788+09:30"
 }
