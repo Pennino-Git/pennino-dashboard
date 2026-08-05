@@ -2,6 +2,51 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-05T11:00:44.154394+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Invoice",
+      "timestamp": "2026-08-05T11:00:44.154394+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-05T11:00:44.154394+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18397836,
+      "project_name": "A1354 Verdello Dr IDENT-PEG",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Invoice",
+      "timestamp": "2026-08-05T11:00:44.154394+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18397836,
+      "project_name": "A1354 Verdello Dr IDENT-PEG",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-05T11:00:44.154394+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18372992,
       "project_name": "A1352 Gulf Pde TD1-3",
       "tier": "T2",
@@ -1754,52 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18196569,
-      "project_name": "A1343 Lower North East Rd EASEMENT",
-      "tier": "T1",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10",
-      "tier": "T2",
-      "from": "Contractor",
-      "to": "Client",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-05T10:45:32.404750+09:30"
+  "last_updated": "2026-08-05T11:00:44.154394+09:30"
 }
