@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-05T10:15:38.563244+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15599174,
       "project_name": "J1015 Eudunda Land TD1-50",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Contractor",
       "to": "Client",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18227807,
-      "project_name": "S1144 Angle Vale Rd IDENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-05T10:00:45.328863+09:30"
+  "last_updated": "2026-08-05T10:15:38.563244+09:30"
 }
