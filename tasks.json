@@ -2635,10 +2635,10 @@
       ]
     },
     "18059610": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205457068,
@@ -2684,6 +2684,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206871362,
+          "title": "Ask DP for what's next",
+          "due_date": "2026-08-12",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -3782,9 +3791,9 @@
       ]
     },
     "18377245": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3822,15 +3831,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206787468,
-          "title": "Ask DP if we need to check with Kate on Concept Plan",
-          "due_date": "2026-08-06",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5133,17 +5133,6 @@
       "project_name": "D1068 Crossley Ave TD1-2"
     },
     {
-      "task_id": 206787468,
-      "title": "Ask DP if we need to check with Kate on Concept Plan",
-      "due_date": "2026-08-06",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    },
-    {
       "task_id": 206791317,
       "title": "Lodgement invoice paid",
       "due_date": "2026-08-06",
@@ -5688,8 +5677,8 @@
   "summary": {
     "total_open": 479,
     "total_overdue": 47,
-    "total_due_today": 4,
+    "total_due_today": 3,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T14:45:31.301905+09:30"
+  "last_updated": "2026-08-06T15:00:44.642736+09:30"
 }
