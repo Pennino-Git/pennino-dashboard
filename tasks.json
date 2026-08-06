@@ -2189,18 +2189,18 @@
     },
     "18133721": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068665,
           "title": "Concept plan drafted (Kate)",
-          "due_date": "2026-07-27",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
           "task_id": 205068666,
@@ -2416,18 +2416,18 @@
     },
     "18203158": {
       "total": 1,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205381503,
           "title": "Client approval received",
-          "due_date": "2026-08-03",
+          "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -3219,9 +3219,9 @@
     },
     "16853856": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205593684,
@@ -3244,11 +3244,11 @@
         {
           "task_id": 205634739,
           "title": "Extra Invoice for Re peg",
-          "due_date": "2026-07-23",
+          "due_date": "2026-08-07",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5476,17 +5476,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 205068665,
-      "title": "Concept plan drafted (Kate)",
-      "due_date": "2026-07-27",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5"
-    },
-    {
       "task_id": 205171395,
       "title": "Prep 1st INV",
       "due_date": "2026-05-22",
@@ -5496,17 +5485,6 @@
       "due_soon": false,
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
-      "task_id": 205381503,
-      "title": "Client approval received",
-      "due_date": "2026-08-03",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
     },
     {
       "task_id": 205462982,
@@ -5562,17 +5540,6 @@
       "due_soon": false,
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10"
-    },
-    {
-      "task_id": 205634739,
-      "title": "Extra Invoice for Re peg",
-      "due_date": "2026-07-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 16853856,
-      "project_name": "F1094 Galloway Rd TD1-3"
     },
     {
       "task_id": 205648195,
@@ -5720,9 +5687,9 @@
   ],
   "summary": {
     "total_open": 479,
-    "total_overdue": 50,
+    "total_overdue": 47,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T14:15:31.661710+09:30"
+  "last_updated": "2026-08-06T14:30:47.656226+09:30"
 }
