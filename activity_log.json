@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-06T15:15:35.692089+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-06T15:15:35.692089+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18333168,
       "project_name": "S1152 Tarton Rd TD1-3",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17278348,
-      "project_name": "A1309 Fife St CD1-8",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T15:00:44.642736+09:30"
+  "last_updated": "2026-08-06T15:15:35.692089+09:30"
 }
