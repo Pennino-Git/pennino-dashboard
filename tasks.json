@@ -2110,18 +2110,18 @@
     },
     "18223472": {
       "total": 1,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068599,
           "title": "Client approval received",
-          "due_date": "2026-07-27",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         }
       ]
     },
@@ -5476,17 +5476,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 205068599,
-      "title": "Client approval received",
-      "due_date": "2026-07-27",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2"
-    },
-    {
       "task_id": 205068665,
       "title": "Concept plan drafted (Kate)",
       "due_date": "2026-07-27",
@@ -5731,9 +5720,9 @@
   ],
   "summary": {
     "total_open": 479,
-    "total_overdue": 51,
+    "total_overdue": 50,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T14:00:46.585944+09:30"
+  "last_updated": "2026-08-06T14:15:31.661710+09:30"
 }

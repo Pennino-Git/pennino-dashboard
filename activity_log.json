@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-06T14:15:31.661710+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-06T14:15:31.661710+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-06T14:15:31.661710+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "SA Water",
       "to": "SCAP/DAC",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18051614,
-      "project_name": "S1138 Frank St IDENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T14:00:46.585944+09:30"
+  "last_updated": "2026-08-06T14:15:31.661710+09:30"
 }
