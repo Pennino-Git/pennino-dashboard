@@ -1562,6 +1562,26 @@
       "is_premium": false
     },
     {
+      "id": 18417055,
+      "name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "75 Penong Avenue, Camden Park SA 5038",
+      "client": "David Schneider",
+      "link": "https://crm.na1.insightly.com/details/project/18417055",
+      "responsibility": "Kate (Drafting)",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier2",
+        "community_division"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 17732479,
       "name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -2271,6 +2291,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-06T10:30:46.969552+09:30",
-  "total": 110
+  "last_updated": "2026-08-06T10:45:34.132573+09:30",
+  "total": 111
 }
