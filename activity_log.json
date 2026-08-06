@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-08-06T21:00:44.757365+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18415320,
       "project_name": "C1066 Haig St IDENT & CONTOUR",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "SCAP/DAC",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16416720,
-      "project_name": "B1120 Peachey Rd CD2-12",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T20:45:36.985350+09:30"
+  "last_updated": "2026-08-06T21:00:44.757365+09:30"
 }
