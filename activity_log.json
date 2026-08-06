@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-08-06T15:30:47.466569+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-06T15:30:47.466569+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "SCAP/DAC",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16435772,
-      "project_name": "B1122 Holbrooks Rd TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16853856,
-      "project_name": "F1094 Galloway Rd TD1-3",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T15:15:35.692089+09:30"
+  "last_updated": "2026-08-06T15:30:47.466569+09:30"
 }
