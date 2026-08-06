@@ -1592,10 +1592,10 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
       "responsibility": "Council/Authority",
-      "days_in_stage": 44,
-      "stage_name": "3. Authority Assessment",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0190333",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "tier2",
         "torrens_division"
@@ -2271,6 +2271,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-06T09:37:01.928799+09:30",
+  "last_updated": "2026-08-06T09:45:34.589215+09:30",
   "total": 110
 }

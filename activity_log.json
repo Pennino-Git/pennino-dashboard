@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-08-06T09:45:34.589215+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18415275,
       "project_name": "E1037 Eastern Pde CD1-7",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T09:37:01.928799+09:30"
+  "last_updated": "2026-08-06T09:45:34.589215+09:30"
 }
