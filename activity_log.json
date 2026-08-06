@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-06T10:15:30.613516+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
@@ -1790,16 +1799,7 @@
       "from": "SA Water",
       "to": "SCAP/DAC",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18078768,
-      "project_name": "N1028 Lyndoch Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-06T10:00:42.348141+09:30"
+  "last_updated": "2026-08-06T10:15:30.613516+09:30"
 }

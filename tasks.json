@@ -3887,10 +3887,10 @@
       ]
     },
     "18039448": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206233629,
@@ -3936,6 +3936,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206869711,
+          "title": "Did client respond about demo?",
+          "due_date": "2026-08-10",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5703,10 +5712,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 477,
     "total_overdue": 51,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T10:00:42.348141+09:30"
+  "last_updated": "2026-08-06T10:15:30.613516+09:30"
 }
