@@ -3887,7 +3887,7 @@
       ]
     },
     "18039448": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
@@ -3895,15 +3895,6 @@
         {
           "task_id": 206233629,
           "title": "Sent 1st INV?",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206869476,
-          "title": "DNF sent to Client",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5739,10 +5730,10 @@
     }
   ],
   "summary": {
-    "total_open": 480,
+    "total_open": 479,
     "total_overdue": 51,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-06T13:15:28.580923+09:30"
+  "last_updated": "2026-08-06T13:30:47.408459+09:30"
 }
