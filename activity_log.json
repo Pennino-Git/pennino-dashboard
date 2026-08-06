@@ -5,6 +5,15 @@
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
+      "from": "SA Water",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-07T05:30:49.144238+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
       "from": "Client",
       "to": "SA Water",
       "timestamp": "2026-08-06T21:00:44.757365+09:30"
@@ -1790,16 +1799,7 @@
       "from": "SA Water",
       "to": "Council/Authority",
       "timestamp": "2026-07-21T06:10:35.021582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-21T06:10:35.021582+09:30"
     }
   ],
-  "last_updated": "2026-08-07T05:00:40.363721+09:30"
+  "last_updated": "2026-08-07T05:30:49.144238+09:30"
 }
