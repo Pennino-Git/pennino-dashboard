@@ -3209,41 +3209,6 @@
         }
       ]
     },
-    "16853856": {
-      "total": 3,
-      "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205593684,
-          "title": "Check Final Invoice was Issued and Paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205593686,
-          "title": "Project file closed and archived - Including Clockify",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205634739,
-          "title": "Extra Invoice for Re peg",
-          "due_date": "2026-08-07",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        }
-      ]
-    },
     "18256019": {
       "total": 3,
       "overdue": 0,
@@ -5095,17 +5060,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205634739,
-      "title": "Extra Invoice for Re peg",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16853856,
-      "project_name": "F1094 Galloway Rd TD1-3"
-    },
-    {
       "task_id": 206844652,
       "title": "Check if the project has chargeables",
       "due_date": "2026-08-07",
@@ -5703,10 +5657,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 473,
     "total_overdue": 49,
-    "total_due_today": 6,
-    "projects_with_tasks": 101
+    "total_due_today": 5,
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-07T09:45:32.376142+09:30"
+  "last_updated": "2026-08-07T10:00:40.062058+09:30"
 }
