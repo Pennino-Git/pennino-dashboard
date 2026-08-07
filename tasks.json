@@ -1326,9 +1326,9 @@
     },
     "17539782": {
       "total": 26,
-      "overdue": 6,
+      "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1556,13 +1556,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 206817423,
-          "title": "Check if DP responded to my email about RFI evidence",
-          "due_date": "2026-08-06",
+          "task_id": 206894601,
+          "title": "Ask DP to confirm status and responsible party",
+          "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -4760,32 +4760,6 @@
         }
       ]
     },
-    "18187249": {
-      "total": 2,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206791317,
-          "title": "Lodgement invoice paid",
-          "due_date": "2026-08-06",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 206791318,
-          "title": "Client Advised of Lodgement in Plan SA",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17845187": {
       "total": 2,
       "overdue": 0,
@@ -5054,6 +5028,32 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
+        }
+      ]
+    },
+    "18187249": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206894581,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206894582,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     }
@@ -5610,35 +5610,13 @@
       "due_soon": false,
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3"
-    },
-    {
-      "task_id": 206791317,
-      "title": "Lodgement invoice paid",
-      "due_date": "2026-08-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
-    },
-    {
-      "task_id": 206817423,
-      "title": "Check if DP responded to my email about RFI evidence",
-      "due_date": "2026-08-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 48,
+    "total_overdue": 46,
     "total_due_today": 4,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-07T14:53:37.514702+09:30"
+  "last_updated": "2026-08-07T15:00:53.882761+09:30"
 }
