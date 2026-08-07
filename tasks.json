@@ -2556,8 +2556,8 @@
     },
     "16351328": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -2619,8 +2619,8 @@
           "title": "Plan SA status updated?",
           "due_date": "2026-08-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4416,8 +4416,8 @@
     },
     "18287874": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4443,8 +4443,8 @@
           "title": "Per DP's email 05.08, we need to invoice 2 traffic",
           "due_date": "2026-08-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4788,8 +4788,8 @@
     },
     "17328458": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4797,8 +4797,8 @@
           "title": "Check if the project has chargeables",
           "due_date": "2026-08-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4823,8 +4823,8 @@
     },
     "18356989": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4859,8 +4859,8 @@
           "title": "Prep INV (Plan sent 5th Aug)",
           "due_date": "2026-08-07",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5058,52 +5058,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206844652,
-      "title": "Check if the project has chargeables",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5"
-    },
-    {
-      "task_id": 206845265,
-      "title": "Prep INV (Plan sent 5th Aug)",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18356989,
-      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
-    },
-    {
-      "task_id": 206845276,
-      "title": "Per DP's email 05.08, we need to invoice 2 traffic",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
-    },
-    {
-      "task_id": 206869076,
-      "title": "Plan SA status updated?",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5610,13 +5565,57 @@
       "due_soon": false,
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 206844652,
+      "title": "Check if the project has chargeables",
+      "due_date": "2026-08-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 206845265,
+      "title": "Prep INV (Plan sent 5th Aug)",
+      "due_date": "2026-08-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18356989,
+      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
+    },
+    {
+      "task_id": 206845276,
+      "title": "Per DP's email 05.08, we need to invoice 2 traffic",
+      "due_date": "2026-08-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
+    },
+    {
+      "task_id": 206869076,
+      "title": "Plan SA status updated?",
+      "due_date": "2026-08-07",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     }
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 46,
-    "total_due_today": 4,
+    "total_overdue": 50,
+    "total_due_today": 0,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-07T23:45:35.438805+09:30"
+  "last_updated": "2026-08-08T00:00:43.133478+09:30"
 }
