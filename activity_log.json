@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-07T10:10:18.475271+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18415320,
       "project_name": "C1066 Haig St IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17847316,
-      "project_name": "B1136 Laura St TD1-2",
-      "tier": "T2",
-      "from": "9. LTO Lodgement",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-07-21T10:15:30.722520+09:30"
     }
   ],
-  "last_updated": "2026-08-07T10:00:40.062058+09:30"
+  "last_updated": "2026-08-07T10:10:18.475271+09:30"
 }
