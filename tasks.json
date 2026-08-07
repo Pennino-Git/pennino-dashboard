@@ -1834,8 +1834,8 @@
       ]
     },
     "18187753": {
-      "total": 6,
-      "overdue": 2,
+      "total": 5,
+      "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -1856,15 +1856,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205771860,
-          "title": "Certified plan drafted (Kate) - waiting on DP",
-          "due_date": "2026-08-06",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         },
         {
           "task_id": 205771861,
@@ -5500,17 +5491,6 @@
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
     {
-      "task_id": 205771860,
-      "title": "Certified plan drafted (Kate) - waiting on DP",
-      "due_date": "2026-08-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2"
-    },
-    {
       "task_id": 205863308,
       "title": "Check back with Jake if demo is done",
       "due_date": "2026-08-05",
@@ -5655,10 +5635,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
-    "total_overdue": 49,
+    "total_open": 473,
+    "total_overdue": 48,
     "total_due_today": 4,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-07T14:00:40.396810+09:30"
+  "last_updated": "2026-08-07T14:15:31.779643+09:30"
 }
