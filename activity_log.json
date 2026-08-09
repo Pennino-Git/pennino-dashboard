@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-10T06:12:58.861137+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-10T06:12:58.861137+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-10T06:12:58.861137+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
@@ -1772,34 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18156649,
-      "project_name": "R1036 Maple Ave IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18217316,
-      "project_name": "Z1068 Angas St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
     }
   ],
-  "last_updated": "2026-08-10T06:00:40.396760+09:30"
+  "last_updated": "2026-08-10T06:12:58.861137+09:30"
 }
