@@ -114,7 +114,7 @@
       "address": "1113-1117 Port Wakefield Road, Bolivar SA 5110",
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/18056682",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2280,7 +2280,7 @@
       "address": "590 Main North Road, Gepps Cross",
       "client": "Harry Tsakalos",
       "link": "https://crm.na1.insightly.com/details/project/18420550",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 1,
       "stage_name": "Search & DBYD",
       "sa_water_ref": "",
@@ -2293,6 +2293,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-11T06:00:46.659943+09:30",
+  "last_updated": "2026-08-11T06:15:35.981616+09:30",
   "total": 111
 }

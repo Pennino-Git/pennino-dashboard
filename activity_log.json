@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18056682,
+      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-11T06:15:35.981616+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18420550,
+      "project_name": "W1022 Main North Rd TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-11T06:15:35.981616+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "Client",
       "timestamp": "2026-07-21T15:00:40.829981+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18156649,
-      "project_name": "R1036 Maple Ave IDENT",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Invoice",
-      "timestamp": "2026-07-21T11:15:32.049138+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18156649,
-      "project_name": "R1036 Maple Ave IDENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-21T11:15:32.049138+09:30"
     }
   ],
-  "last_updated": "2026-08-11T06:00:46.659943+09:30"
+  "last_updated": "2026-08-11T06:15:35.981616+09:30"
 }
