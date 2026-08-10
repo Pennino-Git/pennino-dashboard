@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "11. Complete",
+      "to": "8. Final Authority Approvals",
+      "timestamp": "2026-08-10T14:45:33.158533+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-10T14:45:33.158533+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18333096,
       "project_name": "T1325 Edwards Davies St TIER3",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-21T11:15:32.049138+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT",
-      "tier": "T1",
-      "from": "Send Plan to Client",
-      "to": "Invoice",
-      "timestamp": "2026-07-21T11:15:32.049138+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
     }
   ],
-  "last_updated": "2026-08-10T14:30:50.015892+09:30"
+  "last_updated": "2026-08-10T14:45:33.158533+09:30"
 }
