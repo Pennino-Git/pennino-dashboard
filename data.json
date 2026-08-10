@@ -321,7 +321,7 @@
       "address": "48 The Esplanade, Clinton SA 5570",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/16477307",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 61,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -341,7 +341,7 @@
       "address": "Lot 22 Old Port Wakefield Road, Virginia SA 5120",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17876195",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 61,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -2293,6 +2293,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-11T08:15:31.476832+09:30",
+  "last_updated": "2026-08-11T08:19:57.549195+09:30",
   "total": 111
 }
