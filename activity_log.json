@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18333096,
+      "project_name": "T1325 Edwards Davies St TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-10T12:15:33.256691+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333096,
+      "project_name": "T1325 Edwards Davies St TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-10T12:15:33.256691+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18398255,
       "project_name": "D1072 Broxmore St IDENT",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "Council/Authority",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7",
-      "tier": "T2",
-      "from": "Client",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T11:00:42.776719+09:30"
     }
   ],
-  "last_updated": "2026-08-10T12:00:44.554132+09:30"
+  "last_updated": "2026-08-10T12:15:33.256691+09:30"
 }

@@ -2160,11 +2160,11 @@
       "address": "Edwards Davies St",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18333096",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 60,
-      "stage_name": "Field Work Scheduled",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "tpc"
@@ -2293,6 +2293,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-10T12:00:44.554132+09:30",
+  "last_updated": "2026-08-10T12:15:33.256691+09:30",
   "total": 111
 }
