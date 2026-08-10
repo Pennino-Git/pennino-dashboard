@@ -2407,8 +2407,8 @@
     },
     "18203158": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2416,8 +2416,8 @@
           "title": "Client approval received",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2556,8 +2556,8 @@
     },
     "16351328": {
       "total": 7,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2610,8 +2610,8 @@
           "title": "SCAP Certificate?",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3615,8 +3615,8 @@
     },
     "18372992": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3651,8 +3651,8 @@
           "title": "Update client on Council feedback",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3836,8 +3836,8 @@
     },
     "18039448": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3881,8 +3881,8 @@
           "title": "Did client respond about demo?",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3977,8 +3977,8 @@
     },
     "18386748": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4031,8 +4031,8 @@
           "title": "Ask DP what do to next",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4701,8 +4701,8 @@
     },
     "11764688": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4737,8 +4737,8 @@
           "title": "DWG FIle sent by DP",
           "due_date": "2026-08-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5182,74 +5182,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 205381503,
-      "title": "Client approval received",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    },
-    {
-      "task_id": 206869074,
-      "title": "SCAP Certificate?",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
-      "task_id": 206869711,
-      "title": "Did client respond about demo?",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
-      "task_id": 206871440,
-      "title": "Ask DP what do to next",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18386748,
-      "project_name": "S1154 Port Rd REALIGNMENT"
-    },
-    {
-      "task_id": 206893267,
-      "title": "DWG FIle sent by DP",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2"
-    },
-    {
-      "task_id": 206893797,
-      "title": "Update client on Council feedback",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5571,6 +5504,17 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
+      "task_id": 205381503,
+      "title": "Client approval received",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
+    },
+    {
       "task_id": 205462982,
       "title": "Schedule SA Water pegging/cert",
       "due_date": "2026-06-08",
@@ -5791,6 +5735,17 @@
       "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
     },
     {
+      "task_id": 206869074,
+      "title": "SCAP Certificate?",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
       "task_id": 206869076,
       "title": "Plan SA status updated?",
       "due_date": "2026-08-07",
@@ -5800,13 +5755,57 @@
       "due_soon": false,
       "project_id": 16351328,
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
+      "task_id": 206869711,
+      "title": "Did client respond about demo?",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 206871440,
+      "title": "Ask DP what do to next",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18386748,
+      "project_name": "S1154 Port Rd REALIGNMENT"
+    },
+    {
+      "task_id": 206893267,
+      "title": "DWG FIle sent by DP",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2"
+    },
+    {
+      "task_id": 206893797,
+      "title": "Update client on Council feedback",
+      "due_date": "2026-08-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3"
     }
   ],
   "summary": {
     "total_open": 485,
-    "total_overdue": 50,
-    "total_due_today": 6,
+    "total_overdue": 56,
+    "total_due_today": 0,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-10T23:45:34.299968+09:30"
+  "last_updated": "2026-08-11T00:00:44.098261+09:30"
 }
