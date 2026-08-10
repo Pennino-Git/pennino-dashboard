@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18403480,
+      "project_name": "Z1073 Hawker Rd CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-11T09:00:43.624808+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17810905,
       "project_name": "F1107 Edinburgh- Geotech Investigation",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-07-21T15:15:29.887410+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-21T15:15:29.887410+09:30"
     }
   ],
-  "last_updated": "2026-08-11T08:45:32.387767+09:30"
+  "last_updated": "2026-08-11T09:00:43.624808+09:30"
 }
