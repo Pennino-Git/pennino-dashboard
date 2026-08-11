@@ -2117,7 +2117,7 @@
       ]
     },
     "11236872": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2175,6 +2175,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206953255,
+          "title": "Ask DP for actionables. Per email on 11th Aug- to set a reminder after three months",
+          "due_date": "2026-11-09",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5674,10 +5683,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 475,
     "total_overdue": 53,
     "total_due_today": 1,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-11T18:00:41.509572+09:30"
+  "last_updated": "2026-08-11T18:15:32.908294+09:30"
 }

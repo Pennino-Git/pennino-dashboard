@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 11236872,
+      "project_name": "C1031 Diment Rd TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-11T18:15:32.908294+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17632301,
       "project_name": "F1102 Copernicus Rd TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-21T15:30:52.415452+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "Plan to Client",
-      "to": "Further Work Required",
-      "timestamp": "2026-07-21T15:24:05.725195+09:30"
     }
   ],
-  "last_updated": "2026-08-11T18:00:41.509572+09:30"
+  "last_updated": "2026-08-11T18:15:32.908294+09:30"
 }
