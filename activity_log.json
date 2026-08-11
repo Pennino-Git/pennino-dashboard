@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "LTO",
+      "timestamp": "2026-08-11T17:00:42.636978+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-08-11T17:00:42.636978+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "Plan to Client",
       "to": "Further Work Required",
       "timestamp": "2026-07-21T15:24:05.725195+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-21T15:24:05.725195+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18353608,
-      "project_name": "A1350 Sturt St IDENT",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Invoice",
-      "timestamp": "2026-07-21T15:24:05.725195+09:30"
     }
   ],
-  "last_updated": "2026-08-11T16:45:32.179475+09:30"
+  "last_updated": "2026-08-11T17:00:42.636978+09:30"
 }
