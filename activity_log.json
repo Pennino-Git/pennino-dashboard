@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18056682,
+      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-11T22:30:51.594605+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-11T22:30:51.594605+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18398274,
+      "project_name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-11T22:30:51.594605+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 11236872,
       "project_name": "C1031 Diment Rd TD1-3",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-07-21T15:58:54.274770+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-21T15:58:54.274770+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17303279,
-      "project_name": "A1310 Railway Tce TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-21T15:30:52.415452+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18212535,
-      "project_name": "D1069 Railway Tce TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-21T15:30:52.415452+09:30"
     }
   ],
-  "last_updated": "2026-08-11T22:15:34.258270+09:30"
+  "last_updated": "2026-08-11T22:30:51.594605+09:30"
 }
