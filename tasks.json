@@ -1327,8 +1327,8 @@
     "17539782": {
       "total": 26,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1561,8 +1561,8 @@
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2312,8 +2312,8 @@
     "17632301": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205215029,
@@ -2348,8 +2348,8 @@
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206820135,
@@ -2637,8 +2637,8 @@
     "18059610": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205457068,
@@ -2691,8 +2691,8 @@
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3087,8 +3087,8 @@
     },
     "18076465": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3141,8 +3141,8 @@
           "title": "Submit a variation to plan",
           "due_date": "2026-08-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4799,8 +4799,8 @@
     "18333096": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206846216,
@@ -4808,8 +4808,8 @@
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206923554,
@@ -4913,8 +4913,8 @@
     "18308881": {
       "total": 1,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206871297,
@@ -4922,8 +4922,8 @@
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5130,15 +5130,59 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206951994,
-      "title": "Submit a variation to plan",
-      "due_date": "2026-08-11",
+      "task_id": 206820134,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-08-12",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4"
+    },
+    {
+      "task_id": 206846216,
+      "title": "Prep INV",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18333096,
+      "project_name": "T1325 Edwards Davies St TIER3"
+    },
+    {
+      "task_id": 206871297,
+      "title": "Check if this needs to be lodged Plan SA",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT"
+    },
+    {
+      "task_id": 206871362,
+      "title": "Ask DP for what's next",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18059610,
+      "project_name": "Z1062 Leon St TD1-2"
+    },
+    {
+      "task_id": 206894601,
+      "title": "Ask DP to confirm status and responsible party",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5724,13 +5768,24 @@
       "due_soon": false,
       "project_id": 18372992,
       "project_name": "A1352 Gulf Pde TD1-3"
+    },
+    {
+      "task_id": 206951994,
+      "title": "Submit a variation to plan",
+      "due_date": "2026-08-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
     }
   ],
   "summary": {
     "total_open": 479,
-    "total_overdue": 53,
-    "total_due_today": 1,
+    "total_overdue": 54,
+    "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-11T23:45:33.863529+09:30"
+  "last_updated": "2026-08-12T00:00:50.310552+09:30"
 }
