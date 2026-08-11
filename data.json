@@ -341,7 +341,7 @@
       "address": "87 Stanbel Road, Salisbury Plain SA 5109",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17902817",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Client",
       "days_in_stage": 61,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2253,6 +2253,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-11T22:30:51.594605+09:30",
+  "last_updated": "2026-08-11T22:45:32.462984+09:30",
   "total": 109
 }

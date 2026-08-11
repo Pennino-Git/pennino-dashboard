@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17902817,
+      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-11T22:45:32.462984+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18056682,
       "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-07-21T15:58:54.274770+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-21T15:58:54.274770+09:30"
     }
   ],
-  "last_updated": "2026-08-11T22:30:51.594605+09:30"
+  "last_updated": "2026-08-11T22:45:32.462984+09:30"
 }
