@@ -4498,7 +4498,7 @@
       ]
     },
     "18317513": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4529,6 +4529,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 206957252,
+          "title": "Check status with client.",
+          "due_date": "2026-10-01",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5718,10 +5727,10 @@
     }
   ],
   "summary": {
-    "total_open": 478,
+    "total_open": 479,
     "total_overdue": 53,
     "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-11T22:47:07.974526+09:30"
+  "last_updated": "2026-08-11T23:00:44.336135+09:30"
 }
