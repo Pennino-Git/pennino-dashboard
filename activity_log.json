@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17632301,
+      "project_name": "F1102 Copernicus Rd TD1-4",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-11T09:45:32.538591+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18403480,
       "project_name": "Z1073 Hawker Rd CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-21T15:15:29.887410+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18196569,
-      "project_name": "A1343 Lower North East Rd EASEMENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-07-21T15:15:29.887410+09:30"
     }
   ],
-  "last_updated": "2026-08-11T09:30:59.515930+09:30"
+  "last_updated": "2026-08-11T09:45:32.538591+09:30"
 }
