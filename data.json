@@ -1323,15 +1323,16 @@
       "address": "20-26 Lipson Street, Port Adelaide SA 5015",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351320",
-      "responsibility": "Council/Authority",
-      "days_in_stage": 61,
-      "stage_name": "2. PlanSA Lodgement",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0161247",
-      "stage_order": 2,
+      "stage_order": 7,
       "tags": [
         "tier2",
         "community_division",
-        "staged"
+        "staged",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false
@@ -1779,7 +1780,7 @@
       "address": "57 Johns Road, Lewiston SA 5501",
       "client": "Leigh Zouroudis",
       "link": "https://crm.na1.insightly.com/details/project/17552256",
-      "responsibility": "Harry",
+      "responsibility": "LTO",
       "days_in_stage": 20,
       "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "",
@@ -2293,6 +2294,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-11T13:00:45.044042+09:30",
+  "last_updated": "2026-08-11T13:15:33.460230+09:30",
   "total": 111
 }
