@@ -2304,7 +2304,7 @@
       "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205215029,
@@ -2336,11 +2336,11 @@
         {
           "task_id": 206820134,
           "title": "Plan Lodged Via DPL",
-          "due_date": null,
+          "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 206820135,
@@ -3659,7 +3659,7 @@
       ]
     },
     "18377245": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3676,15 +3676,6 @@
         {
           "task_id": 206178698,
           "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206178699,
-          "title": "Physical Docket Created",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5726,10 +5717,10 @@
     }
   ],
   "summary": {
-    "total_open": 479,
+    "total_open": 478,
     "total_overdue": 54,
     "total_due_today": 0,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-11T14:15:32.364964+09:30"
+  "last_updated": "2026-08-11T14:30:50.198778+09:30"
 }
