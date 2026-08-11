@@ -273,27 +273,6 @@
       "is_premium": false
     },
     {
-      "id": 17522792,
-      "name": "T1301 Brickyard Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "18 Brickyard Road, Port Eliot SA 5212",
-      "client": "Ben Easom",
-      "link": "https://crm.na1.insightly.com/details/project/17522792",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 61,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1",
-        "contour"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 18269218,
       "name": "W1021 Gully View Ct IDENT",
       "tier": "T1",
@@ -2274,6 +2253,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-11T17:45:32.176143+09:30",
-  "total": 110
+  "last_updated": "2026-08-11T18:00:41.509572+09:30",
+  "total": 109
 }
