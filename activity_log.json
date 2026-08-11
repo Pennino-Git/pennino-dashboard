@@ -2,6 +2,294 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 11236872,
+      "project_name": "C1031 Diment Rd TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "LTO",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 16477307,
+      "project_name": "Z1049 The Esplanade CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17810905,
+      "project_name": "F1107 Edinburgh- Geotech Investigation",
+      "tier": "T3",
+      "from": "Contractor",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17876195,
+      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17902817,
+      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18056682,
+      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18059610,
+      "project_name": "Z1062 Leon St TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18078768,
+      "project_name": "N1028 Lyndoch Rd TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT",
+      "tier": "T1",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18214852,
+      "project_name": "L1041 Kensington Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18249652,
+      "project_name": "S1146 Symond St REALIGNMENT",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333168,
+      "project_name": "S1152 Tarton Rd TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18372992,
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18398274,
+      "project_name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18400559,
+      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18403480,
+      "project_name": "Z1073 Hawker Rd CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-12T06:15:22.012597+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18046019,
       "project_name": "F1111 Bonnin St TD1-3",
       "tier": "T2",
@@ -1511,295 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "Client",
       "timestamp": "2026-07-24T13:00:43.149953+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-24T11:15:30.684204+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2",
-      "tier": "T2",
-      "from": "8. Final Authority Approvals",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-07-24T10:00:42.070723+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-07-24T09:45:29.933362+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "LTO",
-      "timestamp": "2026-07-24T06:05:55.387206+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18356989,
-      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-23T15:15:30.199045+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-23T12:00:39.471015+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18397859,
-      "project_name": "A1355 Camilla Ave IDENT-PEG",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-23T11:15:29.892274+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18227807,
-      "project_name": "S1144 Angle Vale Rd IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-23T06:15:30.974485+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18398255,
-      "project_name": "D1072 Broxmore St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-23T06:15:30.974485+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18398274,
-      "project_name": "Z1072 Frederick St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-23T06:15:30.974485+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18398255,
-      "project_name": "D1072 Broxmore St IDENT",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Project",
-      "timestamp": "2026-07-22T15:15:29.635910+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18227807,
-      "project_name": "S1144 Angle Vale Rd IDENT",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-07-22T13:30:48.366577+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18230693,
-      "project_name": "D1070 Moorook River Crossing TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-22T12:30:45.876139+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-07-22T12:30:45.876139+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18227807,
-      "project_name": "S1144 Angle Vale Rd IDENT",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-22T11:45:31.321562+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18363697,
-      "project_name": "Z1071 Ann St LEASE",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-07-22T11:30:49.176137+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18317513,
-      "project_name": "F1145 South Para Rd IDENT",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-22T11:15:29.948099+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17552256,
-      "project_name": "Z1054 Johns Rd TD1-2",
-      "tier": "T2",
-      "from": "7. SCAP Application",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-07-22T10:30:47.636971+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18397836,
-      "project_name": "A1354 Verdello Dr IDENT-PEG",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-22T10:30:47.636971+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "Further Work Required",
-      "to": "Invoice & Close",
-      "timestamp": "2026-07-22T10:15:30.463434+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-22T10:15:30.463434+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-22T10:15:30.463434+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "LTO",
-      "timestamp": "2026-07-22T06:15:29.831516+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18269218,
-      "project_name": "W1021 Gully View Ct IDENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-22T06:15:29.831516+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18397859,
-      "project_name": "A1355 Camilla Ave IDENT-PEG",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-22T06:15:29.831516+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18397836,
-      "project_name": "A1354 Verdello Dr IDENT-PEG",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-07-22T05:30:47.977005+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18397836,
-      "project_name": "A1354 Verdello Dr IDENT-PEG",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-22T05:30:47.977005+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18384520,
-      "project_name": "S1153 Salisbury Hwy TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-22T04:30:49.996762+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "7. SCAP Application",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-07-22T04:00:43.956593+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-22T04:00:43.956593+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-21T16:15:32.984221+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-07-21T16:15:32.984221+09:30"
     }
   ],
-  "last_updated": "2026-08-12T06:00:42.961714+09:30"
+  "last_updated": "2026-08-12T06:15:22.012597+09:30"
 }
