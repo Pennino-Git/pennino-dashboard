@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-11T22:47:07.974526+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-11T22:47:07.974526+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18400559,
+      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-11T22:47:07.974526+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17902817,
       "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -1772,34 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-21T16:15:32.984221+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-21T16:15:32.984221+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18386906,
-      "project_name": "A1353 Clarence St IDENT",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Invoice",
-      "timestamp": "2026-07-21T16:15:32.984221+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17956195,
-      "project_name": "A1336 The Parade TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-07-21T15:58:54.274770+09:30"
     }
   ],
-  "last_updated": "2026-08-11T22:45:32.462984+09:30"
+  "last_updated": "2026-08-11T22:47:07.974526+09:30"
 }
