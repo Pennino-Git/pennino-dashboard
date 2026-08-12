@@ -1593,7 +1593,7 @@
       "address": "2 & 4 Ellis Avenue, Morphettville SA 5043",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18039448",
-      "responsibility": "Client",
+      "responsibility": "SA Water",
       "days_in_stage": 6,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0190333",
@@ -2253,6 +2253,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-12T12:30:48.912525+09:30",
+  "last_updated": "2026-08-12T12:45:31.412669+09:30",
   "total": 109
 }
