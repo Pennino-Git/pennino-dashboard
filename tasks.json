@@ -2501,77 +2501,6 @@
         }
       ]
     },
-    "16351328": {
-      "total": 7,
-      "overdue": 2,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205431267,
-          "title": "Final council sign-off obtained",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205431268,
-          "title": "All remaining conditions cleared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206599106,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206599107,
-          "title": "Plan Lodged Via DPL",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206599108,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206869074,
-          "title": "SCAP Certificate?",
-          "due_date": "2026-08-10",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 206869076,
-          "title": "Plan SA status updated?",
-          "due_date": "2026-08-07",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18059610": {
       "total": 6,
       "overdue": 0,
@@ -4307,6 +4236,59 @@
         }
       ]
     },
+    "16351328": {
+      "total": 5,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 206599106,
+          "title": "LTO fees paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206599107,
+          "title": "Plan Lodged Via DPL",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206599108,
+          "title": "Advised all Parties of Lodgement",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 206869074,
+          "title": "SCAP Certificate?",
+          "due_date": "2026-08-10",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 206869076,
+          "title": "Plan SA status updated?",
+          "due_date": "2026-08-14",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        }
+      ]
+    },
     "18316698": {
       "total": 1,
       "overdue": 0,
@@ -5700,17 +5682,6 @@
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     },
     {
-      "task_id": 206869076,
-      "title": "Plan SA status updated?",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5734,10 +5705,10 @@
     }
   ],
   "summary": {
-    "total_open": 477,
-    "total_overdue": 53,
+    "total_open": 475,
+    "total_overdue": 52,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-12T15:45:31.393471+09:30"
+  "last_updated": "2026-08-12T16:00:43.177497+09:30"
 }
