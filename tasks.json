@@ -3668,28 +3668,19 @@
       ]
     },
     "18377245": {
-      "total": 2,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 206178697,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 206178698,
           "title": "Client approval received",
-          "due_date": null,
+          "due_date": "2026-08-14",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         }
       ]
     },
@@ -5773,10 +5764,10 @@
     }
   ],
   "summary": {
-    "total_open": 478,
+    "total_open": 477,
     "total_overdue": 54,
     "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-12T09:30:55.879289+09:30"
+  "last_updated": "2026-08-12T09:36:37.189840+09:30"
 }
