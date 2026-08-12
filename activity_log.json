@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "4. Conditions & Compliance",
+      "to": "6 Land Division Certificate Lodged with PlanSA",
+      "timestamp": "2026-08-12T14:15:30.281904+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-27T06:15:31.470081+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "Plan Drawing & Check",
-      "to": "Plan to Client",
-      "timestamp": "2026-07-24T17:30:57.002315+09:30"
     }
   ],
-  "last_updated": "2026-08-12T14:00:43.516948+09:30"
+  "last_updated": "2026-08-12T14:15:30.281904+09:30"
 }
