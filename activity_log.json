@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-13T06:15:44.835698+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-13T06:15:44.835698+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-13T06:15:44.835698+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "Plan to Client",
       "to": "Invoice & Close",
       "timestamp": "2026-07-27T17:00:42.458969+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18238164,
-      "project_name": "A1345 Graham St, Mount Gambier TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-27T17:00:42.458969+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Send Plan to Client",
-      "timestamp": "2026-07-27T14:30:47.722989+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-07-27T14:30:47.722989+09:30"
     }
   ],
-  "last_updated": "2026-08-13T06:00:44.346262+09:30"
+  "last_updated": "2026-08-13T06:15:44.835698+09:30"
 }
