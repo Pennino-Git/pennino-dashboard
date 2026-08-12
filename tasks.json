@@ -1326,8 +1326,8 @@
     },
     "17539782": {
       "total": 26,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1560,8 +1560,8 @@
           "title": "Ask DP to confirm status and responsible party",
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2503,8 +2503,8 @@
     },
     "18059610": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2557,8 +2557,8 @@
           "title": "Ask DP for what's next",
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4710,8 +4710,8 @@
     },
     "18333096": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4719,8 +4719,8 @@
           "title": "Prep INV",
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4824,8 +4824,8 @@
     },
     "18308881": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4833,8 +4833,8 @@
           "title": "Check if this needs to be lodged Plan SA",
           "due_date": "2026-08-12",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5084,52 +5084,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 206846216,
-      "title": "Prep INV",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18333096,
-      "project_name": "T1325 Edwards Davies St TIER3"
-    },
-    {
-      "task_id": 206871297,
-      "title": "Check if this needs to be lodged Plan SA",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT"
-    },
-    {
-      "task_id": 206871362,
-      "title": "Ask DP for what's next",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2"
-    },
-    {
-      "task_id": 206894601,
-      "title": "Ask DP to confirm status and responsible party",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5671,6 +5626,17 @@
       "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
     },
     {
+      "task_id": 206846216,
+      "title": "Prep INV",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18333096,
+      "project_name": "T1325 Edwards Davies St TIER3"
+    },
+    {
       "task_id": 206869074,
       "title": "SCAP Certificate?",
       "due_date": "2026-08-10",
@@ -5680,6 +5646,28 @@
       "due_soon": false,
       "project_id": 16351328,
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
+      "task_id": 206871297,
+      "title": "Check if this needs to be lodged Plan SA",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT"
+    },
+    {
+      "task_id": 206871362,
+      "title": "Ask DP for what's next",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18059610,
+      "project_name": "Z1062 Leon St TD1-2"
     },
     {
       "task_id": 206871440,
@@ -5702,13 +5690,24 @@
       "due_soon": false,
       "project_id": 18372992,
       "project_name": "A1352 Gulf Pde TD1-3"
+    },
+    {
+      "task_id": 206894601,
+      "title": "Ask DP to confirm status and responsible party",
+      "due_date": "2026-08-12",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "summary": {
     "total_open": 475,
-    "total_overdue": 52,
-    "total_due_today": 4,
+    "total_overdue": 56,
+    "total_due_today": 0,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-12T23:45:31.303070+09:30"
+  "last_updated": "2026-08-13T00:00:42.538320+09:30"
 }
