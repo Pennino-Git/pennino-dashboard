@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-13T04:30:49.511984+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "5. Certified Survey",
       "to": "6 Land Division Certificate Lodged with PlanSA",
       "timestamp": "2026-07-27T14:00:40.188548+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-07-27T13:45:32.013550+09:30"
     }
   ],
-  "last_updated": "2026-08-13T04:15:33.235736+09:30"
+  "last_updated": "2026-08-13T04:30:49.511984+09:30"
 }
