@@ -2502,8 +2502,8 @@
       ]
     },
     "18059610": {
-      "total": 6,
-      "overdue": 1,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2551,15 +2551,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206871362,
-          "title": "Ask DP for what's next",
-          "due_date": "2026-08-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4804,23 +4795,6 @@
         }
       ]
     },
-    "18308881": {
-      "total": 1,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206871297,
-          "title": "Check if this needs to be lodged Plan SA",
-          "due_date": "2026-08-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18187249": {
       "total": 2,
       "overdue": 0,
@@ -5630,28 +5604,6 @@
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     },
     {
-      "task_id": 206871297,
-      "title": "Check if this needs to be lodged Plan SA",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT"
-    },
-    {
-      "task_id": 206871362,
-      "title": "Ask DP for what's next",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2"
-    },
-    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5686,10 +5638,10 @@
     }
   ],
   "summary": {
-    "total_open": 473,
-    "total_overdue": 56,
+    "total_open": 471,
+    "total_overdue": 54,
     "total_due_today": 0,
-    "projects_with_tasks": 101
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-13T04:51:13.398414+09:30"
+  "last_updated": "2026-08-13T05:01:55.971938+09:30"
 }
