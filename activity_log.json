@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-08-12T15:15:31.210669+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "LTO",
       "timestamp": "2026-07-27T06:15:31.470081+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-27T06:15:31.470081+09:30"
     }
   ],
-  "last_updated": "2026-08-12T15:00:40.936918+09:30"
+  "last_updated": "2026-08-12T15:15:31.210669+09:30"
 }
