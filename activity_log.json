@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SA Water",
+      "timestamp": "2026-08-12T10:15:32.629313+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-08-12T10:15:32.629313+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-12T10:15:32.629313+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 11236872,
       "project_name": "C1031 Diment Rd TD1-3",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-07-24T14:30:46.435412+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18316698,
-      "project_name": "S1151 Morphett Rd TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-07-24T14:15:30.165375+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18316698,
-      "project_name": "S1151 Morphett Rd TIER3",
-      "tier": "T3",
-      "from": "Plan Drawing & Check",
-      "to": "Plan to Client",
-      "timestamp": "2026-07-24T14:02:47.624502+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-07-24T13:00:43.149953+09:30"
     }
   ],
-  "last_updated": "2026-08-12T10:00:50.572022+09:30"
+  "last_updated": "2026-08-12T10:15:32.629313+09:30"
 }
