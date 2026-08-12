@@ -5022,46 +5022,19 @@
       ]
     },
     "18039448": {
-      "total": 7,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
-          "task_id": 206977009,
-          "title": "SA Water Inspection",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206977010,
-          "title": "SA Water INV",
+          "task_id": 206977011,
+          "title": "SA Water invoice paid",
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
           "due_soon": true
-        },
-        {
-          "task_id": 206977011,
-          "title": "SA Water invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206977012,
-          "title": "SCAP certificate application submitted",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
         },
         {
           "task_id": 206977013,
@@ -5736,10 +5709,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 473,
     "total_overdue": 54,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-12T14:15:30.281904+09:30"
+  "last_updated": "2026-08-12T14:30:48.201256+09:30"
 }

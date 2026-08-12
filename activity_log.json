@@ -5,6 +5,24 @@
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
+      "from": "6 Land Division Certificate Lodged with PlanSA",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-08-12T14:30:48.201256+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-12T14:30:48.201256+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
       "from": "4. Conditions & Compliance",
       "to": "6 Land Division Certificate Lodged with PlanSA",
       "timestamp": "2026-08-12T14:15:30.281904+09:30"
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-27T06:15:31.470081+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18316698,
-      "project_name": "S1151 Morphett Rd TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-27T06:15:31.470081+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-27T06:15:31.470081+09:30"
     }
   ],
-  "last_updated": "2026-08-12T14:15:30.281904+09:30"
+  "last_updated": "2026-08-12T14:30:48.201256+09:30"
 }
