@@ -1569,8 +1569,8 @@
     "18046019": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1587,8 +1587,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205432355,
@@ -2663,8 +2663,8 @@
     "17928270": {
       "total": 8,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2735,8 +2735,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2928,8 +2928,8 @@
     "18076465": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205588473,
@@ -2982,8 +2982,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3501,8 +3501,8 @@
     "18377245": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206178698,
@@ -3510,8 +3510,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206975454,
@@ -3748,8 +3748,8 @@
     "18390050": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206399419,
@@ -3766,8 +3766,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206977480,
@@ -4203,8 +4203,8 @@
     "16351328": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206599106,
@@ -4239,8 +4239,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4980,8 +4980,8 @@
     "18039448": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206977011,
@@ -4989,8 +4989,8 @@
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206977013,
@@ -5075,7 +5075,85 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205432354,
+      "title": "SA Water invoice paid",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
+      "task_id": 206178698,
+      "title": "Client approval received",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
+    },
+    {
+      "task_id": 206817431,
+      "title": "Remind DP of the RFI as a reminder. But project is not yet urgent as of yet",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 206869074,
+      "title": "SCAP Certificate?",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
+      "task_id": 206977011,
+      "title": "SA Water invoice paid",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 206977479,
+      "title": "Application form completed on PlanSA portal",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4"
+    },
+    {
+      "task_id": 207001850,
+      "title": "Variation Fee paid?",
+      "due_date": "2026-08-14",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5631,8 +5709,8 @@
   "summary": {
     "total_open": 474,
     "total_overdue": 50,
-    "total_due_today": 0,
+    "total_due_today": 7,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-13T23:45:34.950290+09:30"
+  "last_updated": "2026-08-14T00:00:46.258088+09:30"
 }
