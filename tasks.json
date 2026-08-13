@@ -4201,8 +4201,8 @@
       ]
     },
     "16351328": {
-      "total": 5,
-      "overdue": 1,
+      "total": 4,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
       "tasks": [
@@ -4236,15 +4236,6 @@
         {
           "task_id": 206869074,
           "title": "SCAP Certificate?",
-          "due_date": "2026-08-10",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 206869076,
-          "title": "Plan SA status updated?",
           "due_date": "2026-08-14",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5604,17 +5595,6 @@
       "project_name": "T1325 Edwards Davies St TIER3"
     },
     {
-      "task_id": 206869074,
-      "title": "SCAP Certificate?",
-      "due_date": "2026-08-10",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5649,10 +5629,10 @@
     }
   ],
   "summary": {
-    "total_open": 475,
-    "total_overdue": 51,
+    "total_open": 474,
+    "total_overdue": 50,
     "total_due_today": 0,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-13T16:15:34.287198+09:30"
+  "last_updated": "2026-08-13T16:30:53.127541+09:30"
 }
