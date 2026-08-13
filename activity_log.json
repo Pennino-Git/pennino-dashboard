@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-13T12:05:38.623572+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-28T06:15:30.042957+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18403480,
-      "project_name": "Z1073 Hawker Rd CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-28T06:15:30.042957+09:30"
     }
   ],
-  "last_updated": "2026-08-13T12:00:42.532403+09:30"
+  "last_updated": "2026-08-13T12:05:38.623572+09:30"
 }

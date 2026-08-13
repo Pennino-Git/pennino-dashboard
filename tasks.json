@@ -2760,9 +2760,9 @@
     },
     "18273554": {
       "total": 5,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205481670,
@@ -2801,13 +2801,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 206006075,
-          "title": "Issue regarding description on Plan SA website",
-          "due_date": "2026-07-06",
+          "task_id": 207001907,
+          "title": "Plan SA INV paid?",
+          "due_date": "2026-08-17",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5470,17 +5470,6 @@
       "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
-      "task_id": 206006075,
-      "title": "Issue regarding description on Plan SA website",
-      "due_date": "2026-07-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 206182121,
       "title": "Prep INV. Tristan sent plan on 03/07",
       "due_date": "2026-07-04",
@@ -5648,9 +5637,9 @@
   ],
   "summary": {
     "total_open": 472,
-    "total_overdue": 54,
+    "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-13T12:00:42.532403+09:30"
+  "last_updated": "2026-08-13T12:05:38.623572+09:30"
 }
