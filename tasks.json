@@ -1940,20 +1940,11 @@
       ]
     },
     "17700505": {
-      "total": 9,
-      "overdue": 2,
+      "total": 7,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 205068466,
-          "title": "SA Water connection request submitted - Waiting on client ok",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 205068468,
           "title": "All RFIs received and responded to",
@@ -2000,15 +1991,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205462982,
-          "title": "Schedule SA Water pegging/cert",
-          "due_date": "2026-06-08",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
           "task_id": 206139091,
           "title": "REPEG - SUPERSEDED DESIGN",
           "due_date": null,
@@ -2018,13 +2000,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 206461716,
-          "title": "Ask DP what's required by SA Water",
-          "due_date": "2026-07-18",
+          "task_id": 207003134,
+          "title": "SA Water INV?",
+          "due_date": "2026-08-17",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5435,17 +5417,6 @@
       "project_name": "L1038 Beach Rd TD1-2"
     },
     {
-      "task_id": 205462982,
-      "title": "Schedule SA Water pegging/cert",
-      "due_date": "2026-06-08",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
-    },
-    {
       "task_id": 205536899,
       "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
       "due_date": "2026-08-01",
@@ -5554,17 +5525,6 @@
       "due_soon": false,
       "project_id": 18358533,
       "project_name": "T1327 Davoren Park- 4 Sites TIER3"
-    },
-    {
-      "task_id": 206461716,
-      "title": "Ask DP what's required by SA Water",
-      "due_date": "2026-07-18",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
     },
     {
       "task_id": 206520446,
@@ -5689,10 +5649,10 @@
     }
   ],
   "summary": {
-    "total_open": 477,
-    "total_overdue": 53,
+    "total_open": 475,
+    "total_overdue": 51,
     "total_due_today": 0,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-13T15:00:44.049098+09:30"
+  "last_updated": "2026-08-13T15:15:32.047193+09:30"
 }

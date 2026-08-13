@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-08-13T15:15:32.047193+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-07-28T06:15:30.042957+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18325237,
-      "project_name": "L1043 KFC Womma Road LEASE",
-      "tier": "T1",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-28T06:15:30.042957+09:30"
     }
   ],
-  "last_updated": "2026-08-13T15:00:44.049098+09:30"
+  "last_updated": "2026-08-13T15:15:32.047193+09:30"
 }
