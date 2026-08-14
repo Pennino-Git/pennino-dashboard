@@ -2926,9 +2926,9 @@
       ]
     },
     "18076465": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2975,15 +2975,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207001850,
-          "title": "Variation Fee paid?",
-          "due_date": "2026-08-14",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5141,17 +5132,6 @@
       "due_soon": false,
       "project_id": 18390050,
       "project_name": "B1141 Diment Rd TD1-4"
-    },
-    {
-      "task_id": 207001850,
-      "title": "Variation Fee paid?",
-      "due_date": "2026-08-14",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5696,10 +5676,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 473,
     "total_overdue": 49,
-    "total_due_today": 7,
+    "total_due_today": 6,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-14T09:45:31.853621+09:30"
+  "last_updated": "2026-08-14T10:00:43.731062+09:30"
 }
