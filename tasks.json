@@ -830,7 +830,7 @@
       "total": 19,
       "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 202742751,
@@ -893,7 +893,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205428926,
@@ -902,7 +902,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205430706,
@@ -1009,7 +1009,7 @@
       "total": 8,
       "overdue": 2,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 202965655,
@@ -1081,7 +1081,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -1906,8 +1906,8 @@
     "17700505": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068468,
@@ -1969,8 +1969,8 @@
           "due_date": "2026-08-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2503,8 +2503,8 @@
     "18252749": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205464397,
@@ -2548,8 +2548,8 @@
           "due_date": "2026-08-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2707,8 +2707,8 @@
     "18273554": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205481670,
@@ -2752,8 +2752,8 @@
           "due_date": "2026-08-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5109,7 +5109,41 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205863308,
+      "title": "Check back with Jake if demo is done",
+      "due_date": "2026-08-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
+      "task_id": 207001907,
+      "title": "Plan SA INV paid?",
+      "due_date": "2026-08-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 207003134,
+      "title": "SA Water INV?",
+      "due_date": "2026-08-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5709,8 +5743,8 @@
   "summary": {
     "total_open": 476,
     "total_overdue": 54,
-    "total_due_today": 0,
+    "total_due_today": 3,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-16T23:53:13.536599+09:30"
+  "last_updated": "2026-08-17T00:00:32.676305+09:30"
 }
