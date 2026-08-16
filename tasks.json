@@ -4165,9 +4165,9 @@
       ]
     },
     "16351328": {
-      "total": 4,
-      "overdue": 1,
-      "due_today": 0,
+      "total": 3,
+      "overdue": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -4182,11 +4182,11 @@
         {
           "task_id": 206599107,
           "title": "Plan Lodged Via DPL",
-          "due_date": null,
+          "due_date": "2026-08-17",
           "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206599108,
@@ -4196,15 +4196,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206869074,
-          "title": "SCAP Certificate?",
-          "due_date": "2026-08-14",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5131,6 +5122,17 @@
       "project_name": "F1113 Amundsen Dr TD1-4"
     },
     {
+      "task_id": 206599107,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-08-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351328,
+      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
+    },
+    {
       "task_id": 207001907,
       "title": "Plan SA INV paid?",
       "due_date": "2026-08-17",
@@ -5683,17 +5685,6 @@
       "project_name": "T1325 Edwards Davies St TIER3"
     },
     {
-      "task_id": 206869074,
-      "title": "SCAP Certificate?",
-      "due_date": "2026-08-14",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5739,10 +5730,10 @@
     }
   ],
   "summary": {
-    "total_open": 477,
-    "total_overdue": 53,
-    "total_due_today": 3,
+    "total_open": 476,
+    "total_overdue": 52,
+    "total_due_today": 4,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T03:15:26.664339+09:30"
+  "last_updated": "2026-08-17T03:30:37.412431+09:30"
 }
