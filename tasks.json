@@ -2125,10 +2125,10 @@
       ]
     },
     "18133721": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205068665,
@@ -2156,6 +2156,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207051079,
+          "title": "Did DP sent Concept Plan? To be sent to client",
+          "due_date": "2026-08-18",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5730,10 +5739,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 477,
     "total_overdue": 53,
     "total_due_today": 3,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T02:00:32.738054+09:30"
+  "last_updated": "2026-08-17T02:15:25.677077+09:30"
 }
