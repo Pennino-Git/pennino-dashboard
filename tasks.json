@@ -4147,29 +4147,11 @@
       ]
     },
     "16351328": {
-      "total": 3,
+      "total": 1,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 206599106,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206599107,
-          "title": "Plan Lodged Via DPL",
-          "due_date": "2026-08-17",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
         {
           "task_id": 206599108,
           "title": "Advised all Parties of Lodgement",
@@ -5102,17 +5084,6 @@
       "due_soon": false,
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4"
-    },
-    {
-      "task_id": 206599107,
-      "title": "Plan Lodged Via DPL",
-      "due_date": "2026-08-17",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351328,
-      "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
     }
   ],
   "tasks_overdue": [
@@ -5690,10 +5661,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 472,
     "total_overdue": 52,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T11:15:25.108118+09:30"
+  "last_updated": "2026-08-17T11:30:40.622964+09:30"
 }
