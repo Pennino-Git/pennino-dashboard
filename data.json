@@ -1336,27 +1336,6 @@
       "is_premium": false
     },
     {
-      "id": 16351328,
-      "name": "L1026 Lipson 2 CD3-8 Stage 2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "20-26 Lipson Street, Port Adelaide SA 5015",
-      "client": "Jeannine  Donato",
-      "link": "https://crm.na1.insightly.com/details/project/16351328",
-      "responsibility": "LTO",
-      "days_in_stage": 24,
-      "stage_name": "9. LTO Lodgement",
-      "sa_water_ref": "H0161246",
-      "stage_order": 9,
-      "tags": [
-        "tier2",
-        "community_division",
-        "staged"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 17328458,
       "name": "L1031 Stebonheath Rd TD1-5",
       "tier": "T2",
@@ -2292,6 +2271,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-17T13:15:23.319779+09:30",
-  "total": 111
+  "last_updated": "2026-08-17T13:30:39.528089+09:30",
+  "total": 110
 }

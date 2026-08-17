@@ -4146,32 +4146,6 @@
         }
       ]
     },
-    "16351328": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
-      "tasks": [
-        {
-          "task_id": 206599108,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207053236,
-          "title": "LTO Approval?",
-          "due_date": "2026-08-20",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
-        }
-      ]
-    },
     "18316698": {
       "total": 1,
       "overdue": 0,
@@ -5670,10 +5644,10 @@
     }
   ],
   "summary": {
-    "total_open": 473,
+    "total_open": 471,
     "total_overdue": 52,
     "total_due_today": 1,
-    "projects_with_tasks": 103
+    "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-17T13:15:23.319779+09:30"
+  "last_updated": "2026-08-17T13:30:39.528089+09:30"
 }
