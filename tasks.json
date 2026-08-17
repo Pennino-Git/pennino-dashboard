@@ -2714,29 +2714,11 @@
       ]
     },
     "18273554": {
-      "total": 5,
+      "total": 3,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 205481670,
-          "title": "Lodgement invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205481671,
-          "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 205481673,
           "title": "Referrals issued (SA Water, Council, DIT, EPA)",
@@ -2758,11 +2740,11 @@
         {
           "task_id": 207001907,
           "title": "Plan SA INV paid?",
-          "due_date": "2026-08-17",
+          "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5131,17 +5113,6 @@
       "due_soon": false,
       "project_id": 16351328,
       "project_name": "L1026 Lipson 2 CD3-8 Stage 2"
-    },
-    {
-      "task_id": 207001907,
-      "title": "Plan SA INV paid?",
-      "due_date": "2026-08-17",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5719,10 +5690,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
+    "total_open": 474,
     "total_overdue": 52,
-    "total_due_today": 3,
+    "total_due_today": 2,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T09:30:40.867396+09:30"
+  "last_updated": "2026-08-17T09:45:25.114056+09:30"
 }
