@@ -1176,8 +1176,8 @@
     "15978707": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1221,8 +1221,8 @@
           "due_date": "2026-08-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207056197,
@@ -1310,7 +1310,7 @@
       "total": 26,
       "overdue": 6,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1472,7 +1472,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 205536899,
@@ -2145,8 +2145,8 @@
     "18133721": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068665,
@@ -2181,8 +2181,8 @@
           "due_date": "2026-08-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2529,8 +2529,8 @@
     },
     "18252749": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2574,8 +2574,8 @@
           "title": "Check back with Jake if demo is done",
           "due_date": "2026-08-17",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4847,8 +4847,8 @@
     "18377245": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206975454,
@@ -4892,8 +4892,8 @@
           "due_date": "2026-08-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5076,15 +5076,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205863308,
-      "title": "Check back with Jake if demo is done",
-      "due_date": "2026-08-17",
+      "task_id": 207051079,
+      "title": "Did DP sent Concept Plan? To be sent to client",
+      "due_date": "2026-08-18",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4"
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5"
+    },
+    {
+      "task_id": 207056177,
+      "title": "Ask if Council requirement is met",
+      "due_date": "2026-08-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207058091,
+      "title": "Plan SA lodged?",
+      "due_date": "2026-08-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5463,6 +5485,17 @@
       "project_name": "D1071 Deeds Rd CD1-10"
     },
     {
+      "task_id": 205863308,
+      "title": "Check back with Jake if demo is done",
+      "due_date": "2026-08-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
       "task_id": 205911695,
       "title": "Open Space invoice paid",
       "due_date": "2026-07-06",
@@ -5641,9 +5674,9 @@
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 50,
-    "total_due_today": 1,
+    "total_overdue": 51,
+    "total_due_today": 3,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-17T23:45:25.469689+09:30"
+  "last_updated": "2026-08-18T00:00:33.846609+09:30"
 }
