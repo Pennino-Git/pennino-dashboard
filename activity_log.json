@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "6 Land Division Certificate Lodged with PlanSA",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-08-17T14:38:48.630071+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-28T14:45:29.104894+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-28T06:15:30.042957+09:30"
     }
   ],
-  "last_updated": "2026-08-17T14:30:39.402076+09:30"
+  "last_updated": "2026-08-17T14:38:48.630071+09:30"
 }

@@ -470,10 +470,10 @@
       "client": "Patrick Nhim",
       "link": "https://crm.na1.insightly.com/details/project/15978707",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 67,
-      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
+      "days_in_stage": 0,
+      "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0162794",
-      "stage_order": 6,
+      "stage_order": 9,
       "tags": [
         "tier2",
         "community_div"
@@ -2271,6 +2271,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-17T14:30:39.402076+09:30",
+  "last_updated": "2026-08-17T14:38:48.630071+09:30",
   "total": 110
 }
