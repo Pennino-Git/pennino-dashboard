@@ -1906,8 +1906,8 @@
     "17700505": {
       "total": 7,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205068468,
@@ -1966,11 +1966,11 @@
         {
           "task_id": 207003134,
           "title": "SA Water INV?",
-          "due_date": "2026-08-17",
+          "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5142,17 +5142,6 @@
       "due_soon": false,
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
-      "task_id": 207003134,
-      "title": "SA Water INV?",
-      "due_date": "2026-08-17",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
     }
   ],
   "tasks_overdue": [
@@ -5732,8 +5721,8 @@
   "summary": {
     "total_open": 476,
     "total_overdue": 52,
-    "total_due_today": 4,
+    "total_due_today": 3,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T09:17:19.282353+09:30"
+  "last_updated": "2026-08-17T09:30:40.867396+09:30"
 }
