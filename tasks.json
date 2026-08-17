@@ -4147,10 +4147,10 @@
       ]
     },
     "16351328": {
-      "total": 1,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206599108,
@@ -4160,6 +4160,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207053236,
+          "title": "LTO Approval?",
+          "due_date": "2026-08-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5661,10 +5670,10 @@
     }
   ],
   "summary": {
-    "total_open": 472,
+    "total_open": 473,
     "total_overdue": 52,
     "total_due_today": 1,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-08-17T11:30:40.622964+09:30"
+  "last_updated": "2026-08-17T11:45:25.920723+09:30"
 }
