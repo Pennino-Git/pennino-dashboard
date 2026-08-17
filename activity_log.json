@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-17T15:15:28.528741+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
@@ -1790,16 +1799,7 @@
       "from": "LTO",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-28T15:01:07.414884+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-28T14:45:29.104894+09:30"
     }
   ],
-  "last_updated": "2026-08-17T15:00:32.434586+09:30"
+  "last_updated": "2026-08-17T15:15:28.528741+09:30"
 }
