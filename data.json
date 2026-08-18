@@ -669,26 +669,6 @@
       "is_premium": false
     },
     {
-      "id": 17847316,
-      "name": "B1136 Laura St TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "17-19 Laura Street, Murray Bridge SA 5253",
-      "client": "Shannon Bow",
-      "link": "https://crm.na1.insightly.com/details/project/17847316",
-      "responsibility": "LTO",
-      "days_in_stage": 29,
-      "stage_name": "10. LTO Approval",
-      "sa_water_ref": "H0183854",
-      "stage_order": 10,
-      "tags": [
-        "tier2",
-        "torrens_division"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 18223472,
       "name": "B1139 Karri St TD1-2",
       "tier": "T2",
@@ -2271,6 +2251,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-19T04:45:26.621656+09:30",
-  "total": 110
+  "last_updated": "2026-08-19T05:00:34.700696+09:30",
+  "total": 109
 }
