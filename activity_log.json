@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-08-19T05:27:37.575731+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-19T05:27:37.575731+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "LTO",
       "timestamp": "2026-07-29T14:00:43.292926+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-07-29T13:30:45.164397+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-29T11:45:32.912755+09:30"
     }
   ],
-  "last_updated": "2026-08-19T05:15:27.235093+09:30"
+  "last_updated": "2026-08-19T05:27:37.575731+09:30"
 }
