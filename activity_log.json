@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-18T15:00:24.144915+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "LTO",
       "timestamp": "2026-07-29T06:14:56.269474+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18323822,
-      "project_name": "T1322 Nazar Reserve Pots TIER 3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Invoice & Close",
-      "timestamp": "2026-07-28T18:30:57.542596+09:30"
     }
   ],
-  "last_updated": "2026-08-18T14:45:24.358572+09:30"
+  "last_updated": "2026-08-18T15:00:24.144915+09:30"
 }
