@@ -1176,8 +1176,8 @@
     "15978707": {
       "total": 6,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 1,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1217,12 +1217,12 @@
         },
         {
           "task_id": 207056177,
-          "title": "Ask if Council requirement is met",
-          "due_date": "2026-08-18",
+          "title": "Ask DP if Council requirement is met",
+          "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         },
         {
           "task_id": 207056197,
@@ -4847,8 +4847,8 @@
     "18377245": {
       "total": 5,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206975454,
@@ -4889,11 +4889,11 @@
         {
           "task_id": 207058091,
           "title": "Plan SA lodged?",
-          "due_date": "2026-08-18",
+          "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5085,28 +5085,6 @@
       "due_soon": false,
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5"
-    },
-    {
-      "task_id": 207056177,
-      "title": "Ask if Council requirement is met",
-      "due_date": "2026-08-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
-    },
-    {
-      "task_id": 207058091,
-      "title": "Plan SA lodged?",
-      "due_date": "2026-08-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5675,8 +5653,8 @@
   "summary": {
     "total_open": 473,
     "total_overdue": 51,
-    "total_due_today": 3,
+    "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-18T09:45:27.294659+09:30"
+  "last_updated": "2026-08-18T10:00:33.705912+09:30"
 }

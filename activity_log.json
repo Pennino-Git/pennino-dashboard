@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-18T10:00:33.705912+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18377245,
       "project_name": "F1146 Oakridge Rise TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "9. LTO Lodgement",
       "to": "10. LTO Approval",
       "timestamp": "2026-07-28T15:01:07.414884+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-28T15:01:07.414884+09:30"
     }
   ],
-  "last_updated": "2026-08-18T09:45:27.294659+09:30"
+  "last_updated": "2026-08-18T10:00:33.705912+09:30"
 }
