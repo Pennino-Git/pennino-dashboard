@@ -1922,10 +1922,10 @@
       ]
     },
     "17700505": {
-      "total": 7,
+      "total": 8,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 205068468,
@@ -1984,6 +1984,15 @@
         {
           "task_id": 207003134,
           "title": "SA Water INV?",
+          "due_date": "2026-08-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 207094513,
+          "title": "RFI sent to Teegan? Check with DP for his feedback",
           "due_date": "2026-08-20",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5611,10 +5620,10 @@
     }
   ],
   "summary": {
-    "total_open": 471,
+    "total_open": 472,
     "total_overdue": 49,
     "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-18T18:07:34.041755+09:30"
+  "last_updated": "2026-08-18T18:15:29.081982+09:30"
 }
