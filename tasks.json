@@ -1176,8 +1176,8 @@
     "15978707": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1221,8 +1221,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207056197,
@@ -1230,8 +1230,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2153,8 +2153,8 @@
     },
     "18133721": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2189,8 +2189,8 @@
           "title": "Did DP sent Concept Plan? To be sent to client",
           "due_date": "2026-08-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2743,8 +2743,8 @@
     "18273554": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205481673,
@@ -2770,8 +2770,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3677,8 +3677,8 @@
     "18390050": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206399419,
@@ -3722,8 +3722,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4891,8 +4891,8 @@
     "18039448": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206977011,
@@ -4909,8 +4909,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206977014,
@@ -5041,8 +5041,8 @@
     "18426556": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207027547,
@@ -5050,8 +5050,8 @@
           "due_date": "2026-08-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207027548,
@@ -5067,15 +5067,70 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207051079,
-      "title": "Did DP sent Concept Plan? To be sent to client",
-      "due_date": "2026-08-18",
+      "task_id": 206977013,
+      "title": "Open Space invoice received & Sent to Client",
+      "due_date": "2026-08-19",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5"
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 207001907,
+      "title": "Plan SA INV paid?",
+      "due_date": "2026-08-19",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 207027547,
+      "title": "Field work date scheduled",
+      "due_date": "2026-08-19",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18426556,
+      "project_name": "Z1074 Orion Way CONTOUR"
+    },
+    {
+      "task_id": 207056177,
+      "title": "Ask DP if Council requirement is met",
+      "due_date": "2026-08-19",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207056197,
+      "title": "Check if Plan SA responded about Open Space",
+      "due_date": "2026-08-19",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207093251,
+      "title": "Plan SA lodged? Ask DP",
+      "due_date": "2026-08-19",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5617,13 +5672,24 @@
       "due_soon": false,
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 207051079,
+      "title": "Did DP sent Concept Plan? To be sent to client",
+      "due_date": "2026-08-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5"
     }
   ],
   "summary": {
     "total_open": 472,
-    "total_overdue": 49,
-    "total_due_today": 1,
+    "total_overdue": 50,
+    "total_due_today": 6,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-18T23:45:25.550994+09:30"
+  "last_updated": "2026-08-19T00:00:34.254919+09:30"
 }
