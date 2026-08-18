@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-18T16:00:32.580880+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-18T16:00:32.580880+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "2. PlanSA Lodgement",
       "timestamp": "2026-07-29T11:00:45.231821+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-29T11:00:45.231821+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "LTO",
-      "timestamp": "2026-07-29T06:14:56.269474+09:30"
     }
   ],
-  "last_updated": "2026-08-18T15:45:24.509170+09:30"
+  "last_updated": "2026-08-18T16:00:32.580880+09:30"
 }
