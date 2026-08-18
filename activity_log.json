@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-08-19T02:34:27.341099+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-19T02:34:27.341099+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-29T11:45:32.912755+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17863628,
-      "project_name": "S1135 Kerry Rd TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-29T11:00:45.231821+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-07-29T11:00:45.231821+09:30"
     }
   ],
-  "last_updated": "2026-08-19T02:30:43.691735+09:30"
+  "last_updated": "2026-08-19T02:34:27.341099+09:30"
 }

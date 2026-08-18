@@ -2741,9 +2741,9 @@
       ]
     },
     "18273554": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2765,13 +2765,22 @@
           "due_soon": ""
         },
         {
-          "task_id": 207001907,
-          "title": "Plan SA INV paid?",
-          "due_date": "2026-08-19",
+          "task_id": 207107626,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207107627,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5078,17 +5087,6 @@
       "project_name": "S1137 Ellis Ave TD2-6"
     },
     {
-      "task_id": 207001907,
-      "title": "Plan SA INV paid?",
-      "due_date": "2026-08-19",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 207027547,
       "title": "Field work date scheduled",
       "due_date": "2026-08-19",
@@ -5686,10 +5684,10 @@
     }
   ],
   "summary": {
-    "total_open": 472,
+    "total_open": 473,
     "total_overdue": 50,
-    "total_due_today": 6,
+    "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-19T02:30:43.691735+09:30"
+  "last_updated": "2026-08-19T02:34:27.341099+09:30"
 }
