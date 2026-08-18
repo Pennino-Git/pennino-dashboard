@@ -1134,7 +1134,7 @@
       "address": "47 Amundsen Drive, Ingle Farm SA 5098",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 60,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2271,6 +2271,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-18T10:45:26.136491+09:30",
+  "last_updated": "2026-08-18T11:00:33.892148+09:30",
   "total": 110
 }
