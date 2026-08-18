@@ -3031,10 +3031,10 @@
       ]
     },
     "17923064": {
-      "total": 10,
-      "overdue": 1,
+      "total": 7,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205771233,
@@ -3046,31 +3046,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 205771271,
-          "title": "SA Water inspection requested and completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205771273,
-          "title": "SA Water inspection completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 205771274,
           "title": "SA Water quote/invoice received",
-          "due_date": null,
+          "due_date": "2026-08-21",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 205771275,
@@ -3098,15 +3080,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205911695,
-          "title": "Open Space invoice paid",
-          "due_date": "2026-07-06",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         },
         {
           "task_id": 205911696,
@@ -5518,17 +5491,6 @@
       "project_name": "F1113 Amundsen Dr TD1-4"
     },
     {
-      "task_id": 205911695,
-      "title": "Open Space invoice paid",
-      "due_date": "2026-07-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3"
-    },
-    {
       "task_id": 205942747,
       "title": "Check Plan SA if we can lodge Cert",
       "due_date": "2026-06-29",
@@ -5684,10 +5646,10 @@
     }
   ],
   "summary": {
-    "total_open": 473,
-    "total_overdue": 50,
+    "total_open": 470,
+    "total_overdue": 49,
     "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-19T03:15:24.461224+09:30"
+  "last_updated": "2026-08-19T03:30:40.435729+09:30"
 }
