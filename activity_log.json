@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17810905,
+      "project_name": "F1107 Edinburgh- Geotech Investigation",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "Contractor",
+      "timestamp": "2026-08-19T16:14:27.101192+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-19T16:00:34.520772+09:30"
+  "last_updated": "2026-08-19T16:14:27.101192+09:30"
 }
