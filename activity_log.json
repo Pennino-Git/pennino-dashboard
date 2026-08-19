@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-19T13:45:26.168860+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-29T15:30:46.555198+09:30"
     }
   ],
-  "last_updated": "2026-08-19T13:30:38.700561+09:30"
+  "last_updated": "2026-08-19T13:45:26.168860+09:30"
 }
