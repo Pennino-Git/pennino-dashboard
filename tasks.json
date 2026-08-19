@@ -4409,10 +4409,10 @@
       ]
     },
     "17328458": {
-      "total": 5,
+      "total": 6,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206844652,
@@ -4458,6 +4458,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207117445,
+          "title": "Prem Serv feedback actioned?",
+          "due_date": "2026-08-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5641,10 +5650,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 475,
     "total_overdue": 46,
     "total_due_today": 5,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-08-19T11:00:35.079391+09:30"
+  "last_updated": "2026-08-19T11:15:19.683313+09:30"
 }
