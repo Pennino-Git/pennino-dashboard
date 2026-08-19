@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-20T04:30:43.124896+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18317513,
-      "project_name": "F1145 South Para Rd IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-20T04:17:32.804706+09:30"
+  "last_updated": "2026-08-20T04:30:43.124896+09:30"
 }
