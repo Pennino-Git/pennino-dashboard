@@ -356,27 +356,6 @@
       "is_premium": false
     },
     {
-      "id": 18217316,
-      "name": "Z1068 Angas St IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "63-69 Angas Street, Adelaide SA 5000",
-      "client": "Andrew Zummo",
-      "link": "https://crm.na1.insightly.com/details/project/18217316",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 8,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1",
-        "zummo_design"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 18363697,
       "name": "Z1071 Ann St LEASE",
       "tier": "T1",
@@ -1323,7 +1302,7 @@
       "address": "17 Stebonheath Road, Edinburgh North (Womma Road)",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 9,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
@@ -2251,6 +2230,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-19T12:30:42.576241+09:30",
-  "total": 109
+  "last_updated": "2026-08-19T12:45:27.251402+09:30",
+  "total": 108
 }
