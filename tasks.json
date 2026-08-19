@@ -3287,10 +3287,10 @@
       ]
     },
     "17732479": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3341,6 +3341,15 @@
           "task_id": 207093169,
           "title": "Check for SA Water response- we sent pegging plan on 12.08",
           "due_date": "2026-08-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 207118657,
+          "title": "Did Council grant clearance?",
+          "due_date": "2026-08-21",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
@@ -5624,10 +5633,10 @@
     }
   ],
   "summary": {
-    "total_open": 473,
+    "total_open": 474,
     "total_overdue": 46,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-19T15:00:34.258721+09:30"
+  "last_updated": "2026-08-19T15:15:26.051819+09:30"
 }
