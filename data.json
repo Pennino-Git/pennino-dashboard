@@ -2093,7 +2093,7 @@
       "id": 18333096,
       "name": "T1325 Edwards Davies St TIER3",
       "tier": "T3",
-      "status": "IN PROGRESS",
+      "status": "NOT STARTED",
       "address": "Edwards Davies St",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18333096",
@@ -2230,6 +2230,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-19T13:15:29.649574+09:30",
+  "last_updated": "2026-08-19T13:22:14.087243+09:30",
   "total": 108
 }
