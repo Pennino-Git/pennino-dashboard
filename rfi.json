@@ -58,7 +58,7 @@
       "due_date_iso": null,
       "status": "action_required",
       "type": "Mandatory Docs",
-      "description": "City of Tea Tree Gully RFI (20 Jan 2026): 1) Show distance between proposed crossover and existing Council tree on plan. 2) Provide species and circumference details for any regulated/significant trees on/around site. 3) Allotment frontage <9m — provide indicative dwelling plans to justify frontage shortfall. Contact: Rani Dhruva 8397 7370 rani.dhruva@cttg.sa.gov.au"
+      "description": "City of Tea Tree Gully RFI (20 Jan 2026): 1) Show distance between proposed crossover and existing Council tree on plan. 2) Provide species and circumference details for any regulated/significant trees on/around site. 3) Allotment frontage <9m \u2014 provide indicative dwelling plans to justify frontage shortfall. Contact: Rani Dhruva 8397 7370 rani.dhruva@cttg.sa.gov.au"
     },
     {
       "app_id": "26004646",
@@ -73,6 +73,6 @@
       "description": "The City of Unley requires mandatory documentation to be submitted for application 26004646, a 1-into-4 Torrens title land division at Lot 300 Euston Ave Highgate. This was requested on 18 February 2026. The application is currently on hold pending receipt of this documentation. No specific due date is shown but this task is overdue since it was requested in February."
     }
   ],
-  "last_updated": "2026-08-12T08:00:00+09:30",
+  "last_updated": "2026-08-20T20:38:53.265848+00:00",
   "total": 6
 }
