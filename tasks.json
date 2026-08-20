@@ -5023,20 +5023,11 @@
       ]
     },
     "18426556": {
-      "total": 2,
-      "overdue": 1,
+      "total": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 207027547,
-          "title": "Field work date scheduled",
-          "due_date": "2026-08-19",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
         {
           "task_id": 207027548,
           "title": "Field work completed",
@@ -5592,17 +5583,6 @@
       "project_name": "S1137 Ellis Ave TD2-6"
     },
     {
-      "task_id": 207027547,
-      "title": "Field work date scheduled",
-      "due_date": "2026-08-19",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18426556,
-      "project_name": "Z1074 Orion Way CONTOUR"
-    },
-    {
       "task_id": 207051079,
       "title": "Did DP sent Concept Plan? To be sent to client",
       "due_date": "2026-08-18",
@@ -5626,10 +5606,10 @@
     }
   ],
   "summary": {
-    "total_open": 472,
-    "total_overdue": 47,
+    "total_open": 471,
+    "total_overdue": 46,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-20T11:30:39.747652+09:30"
+  "last_updated": "2026-08-20T11:45:25.629417+09:30"
 }
