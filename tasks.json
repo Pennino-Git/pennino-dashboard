@@ -4873,37 +4873,19 @@
       ]
     },
     "18039448": {
-      "total": 4,
-      "overdue": 1,
+      "total": 2,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206977011,
-          "title": "SA Water invoice paid",
-          "due_date": null,
+          "title": "SA Water invoice paid?",
+          "due_date": "2026-08-25",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206977013,
-          "title": "Open Space invoice received & Sent to Client",
-          "due_date": "2026-08-19",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 206977014,
-          "title": "Open Space invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 206977015,
@@ -5572,17 +5554,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 206977013,
-      "title": "Open Space invoice received & Sent to Client",
-      "due_date": "2026-08-19",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
       "task_id": 207051079,
       "title": "Did DP sent Concept Plan? To be sent to client",
       "due_date": "2026-08-18",
@@ -5606,10 +5577,10 @@
     }
   ],
   "summary": {
-    "total_open": 471,
-    "total_overdue": 46,
+    "total_open": 469,
+    "total_overdue": 45,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-20T11:45:25.629417+09:30"
+  "last_updated": "2026-08-20T12:00:33.432043+09:30"
 }
