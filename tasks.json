@@ -3712,9 +3712,9 @@
     },
     "18390050": {
       "total": 5,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206399419,
@@ -3753,13 +3753,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 207093251,
-          "title": "Plan SA lodged? Ask DP",
-          "due_date": "2026-08-19",
+          "task_id": 207143154,
+          "title": "Check if Plan SA lodged has progressed",
+          "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5563,24 +5563,13 @@
       "due_soon": false,
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5"
-    },
-    {
-      "task_id": 207093251,
-      "title": "Plan SA lodged? Ask DP",
-      "due_date": "2026-08-19",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4"
     }
   ],
   "summary": {
     "total_open": 469,
-    "total_overdue": 45,
+    "total_overdue": 44,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-08-20T12:45:25.303219+09:30"
+  "last_updated": "2026-08-20T12:59:38.326758+09:30"
 }
