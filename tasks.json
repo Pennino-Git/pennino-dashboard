@@ -891,8 +891,8 @@
     },
     "17782437": {
       "total": 18,
-      "overdue": 3,
-      "due_today": 1,
+      "overdue": 4,
+      "due_today": 0,
       "due_soon": 2,
       "tasks": [
         {
@@ -1053,8 +1053,8 @@
           "title": "Check with client. Consent needs met so we can lodge certificate",
           "due_date": "2026-08-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1229,8 +1229,8 @@
     },
     "15978707": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1274,8 +1274,8 @@
           "title": "Check Council status",
           "due_date": "2026-08-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2381,8 +2381,8 @@
     },
     "18203158": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2390,8 +2390,8 @@
           "title": "Client approval received",
           "due_date": "2026-08-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2707,8 +2707,8 @@
     },
     "17928270": {
       "total": 8,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2779,8 +2779,8 @@
           "title": "Remind DP of the RFI as a reminder. But project is not yet urgent as of yet",
           "due_date": "2026-08-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5092,52 +5092,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 205381503,
-      "title": "Client approval received",
-      "due_date": "2026-08-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    },
-    {
-      "task_id": 206817431,
-      "title": "Remind DP of the RFI as a reminder. But project is not yet urgent as of yet",
-      "due_date": "2026-08-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4"
-    },
-    {
-      "task_id": 207135648,
-      "title": "Check Council status",
-      "due_date": "2026-08-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
-    },
-    {
-      "task_id": 207142572,
-      "title": "Check with client. Consent needs met so we can lodge certificate",
-      "due_date": "2026-08-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5437,6 +5392,17 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
+      "task_id": 205381503,
+      "title": "Client approval received",
+      "due_date": "2026-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
+    },
+    {
       "task_id": 205432354,
       "title": "SA Water invoice paid",
       "due_date": "2026-08-14",
@@ -5534,6 +5500,17 @@
       "due_soon": false,
       "project_id": 18046089,
       "project_name": "C1060 Orchestra Pl TD1-2"
+    },
+    {
+      "task_id": 206817431,
+      "title": "Remind DP of the RFI as a reminder. But project is not yet urgent as of yet",
+      "due_date": "2026-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
     },
     {
       "task_id": 206844652,
@@ -5666,13 +5643,35 @@
       "due_soon": false,
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 207135648,
+      "title": "Check Council status",
+      "due_date": "2026-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207142572,
+      "title": "Check with client. Consent needs met so we can lodge certificate",
+      "due_date": "2026-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
     }
   ],
   "summary": {
     "total_open": 475,
-    "total_overdue": 48,
-    "total_due_today": 4,
+    "total_overdue": 52,
+    "total_due_today": 0,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-21T23:45:24.768860+09:30"
+  "last_updated": "2026-08-22T00:00:34.348865+09:30"
 }
