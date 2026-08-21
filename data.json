@@ -211,6 +211,26 @@
       "is_premium": false
     },
     {
+      "id": 18433922,
+      "name": "F1148 Stately Way IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "83 Stately Way, Wallaroo SA 5556",
+      "client": "Kristian Piantadosi",
+      "link": "https://crm.na1.insightly.com/details/project/18433922",
+      "responsibility": "DP (Damiano)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2,
+      "tags": [
+        "tier1",
+        "ident"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 18325237,
       "name": "L1043 KFC Womma Road LEASE",
       "tier": "T1",
@@ -2230,6 +2250,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-21T10:15:25.796894+09:30",
-  "total": 108
+  "last_updated": "2026-08-21T10:30:40.333258+09:30",
+  "total": 109
 }
