@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-08-24T01:17:59.906474+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18377245,
       "project_name": "F1146 Oakridge Rise TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18212535,
-      "project_name": "D1069 Railway Tce TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-24T01:15:24.868088+09:30"
+  "last_updated": "2026-08-24T01:17:59.906474+09:30"
 }
