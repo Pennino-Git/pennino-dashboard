@@ -64,28 +64,6 @@
       "is_premium": false
     },
     {
-      "id": 18397859,
-      "name": "A1355 Camilla Ave IDENT-PEG",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "8 Camilla Avenue, Osborne SA 5017",
-      "client": "Teegan  Bowley",
-      "link": "https://crm.na1.insightly.com/details/project/18397859",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 24,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "alete_homes",
-        "ident-peg",
-        "tier1",
-        "field"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false
-    },
-    {
       "id": 18400559,
       "name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -2267,6 +2245,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-24T01:30:38.960989+09:30",
-  "total": 110
+  "last_updated": "2026-08-24T01:45:24.427369+09:30",
+  "total": 109
 }
