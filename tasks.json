@@ -4356,9 +4356,9 @@
       ]
     },
     "17845187": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -4378,6 +4378,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207190393,
+          "title": "Did DP respond to my email about sending to client?",
+          "due_date": "2026-08-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5169,6 +5178,17 @@
       "due_soon": false,
       "project_id": 18390050,
       "project_name": "B1141 Diment Rd TD1-4"
+    },
+    {
+      "task_id": 207190393,
+      "title": "Did DP respond to my email about sending to client?",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
     }
   ],
   "tasks_overdue": [
@@ -5746,10 +5766,10 @@
     }
   ],
   "summary": {
-    "total_open": 475,
+    "total_open": 476,
     "total_overdue": 52,
-    "total_due_today": 7,
+    "total_due_today": 8,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-24T01:00:31.960769+09:30"
+  "last_updated": "2026-08-24T01:15:24.868088+09:30"
 }
