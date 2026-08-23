@@ -1352,8 +1352,8 @@
       ]
     },
     "17539782": {
-      "total": 27,
-      "overdue": 6,
+      "total": 25,
+      "overdue": 4,
       "due_today": 0,
       "due_soon": 2,
       "tasks": [
@@ -1502,15 +1502,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 205171395,
-          "title": "Prep 1st INV",
-          "due_date": "2026-05-22",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
           "task_id": 205428927,
           "title": "RFI \u2014 A1324 Euston Ave Highgate (due 25 Aug 2026)",
           "due_date": "2026-08-25",
@@ -1581,15 +1572,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206894601,
-          "title": "Ask DP to confirm status and responsible party",
-          "due_date": "2026-08-12",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         },
         {
           "task_id": 207190641,
@@ -5497,17 +5479,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 205171395,
-      "title": "Prep 1st INV",
-      "due_date": "2026-05-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
       "task_id": 205381503,
       "title": "Client approval received",
       "due_date": "2026-08-21",
@@ -5695,17 +5666,6 @@
       "project_name": "A1352 Gulf Pde TD1-3"
     },
     {
-      "task_id": 206894601,
-      "title": "Ask DP to confirm status and responsible party",
-      "due_date": "2026-08-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
       "task_id": 207003134,
       "title": "SA Water INV?",
       "due_date": "2026-08-20",
@@ -5784,10 +5744,10 @@
     }
   ],
   "summary": {
-    "total_open": 478,
-    "total_overdue": 52,
+    "total_open": 476,
+    "total_overdue": 50,
     "total_due_today": 8,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-24T02:23:11.841171+09:30"
+  "last_updated": "2026-08-24T02:30:39.115498+09:30"
 }
