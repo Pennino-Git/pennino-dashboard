@@ -3242,9 +3242,9 @@
       ]
     },
     "17732479": {
-      "total": 6,
+      "total": 7,
       "overdue": 0,
-      "due_today": 2,
+      "due_today": 3,
       "due_soon": 1,
       "tasks": [
         {
@@ -3300,6 +3300,15 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
+        },
+        {
+          "task_id": 207192959,
+          "title": "Cert REV0 good for lodging? Ask DP.",
+          "due_date": "2026-08-24",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5180,6 +5189,17 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
+      "task_id": 207192959,
+      "title": "Cert REV0 good for lodging? Ask DP.",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "tasks_overdue": [
@@ -5724,10 +5744,10 @@
     }
   ],
   "summary": {
-    "total_open": 475,
+    "total_open": 476,
     "total_overdue": 49,
-    "total_due_today": 8,
+    "total_due_today": 9,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-24T10:15:26.344718+09:30"
+  "last_updated": "2026-08-24T10:30:38.555308+09:30"
 }
