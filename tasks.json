@@ -367,8 +367,8 @@
     },
     "15599174": {
       "total": 10,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -457,8 +457,8 @@
           "title": "Ask DP what's next",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -891,8 +891,8 @@
     },
     "17782437": {
       "total": 17,
-      "overdue": 3,
-      "due_today": 2,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -954,8 +954,8 @@
           "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -963,8 +963,8 @@
           "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -1052,8 +1052,8 @@
     },
     "18046089": {
       "total": 8,
-      "overdue": 2,
-      "due_today": 1,
+      "overdue": 3,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1124,8 +1124,8 @@
           "title": "per DP's instruction, set a reminder and ask him again",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1221,8 +1221,8 @@
     "15978707": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1266,8 +1266,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1345,8 +1345,8 @@
     "17539782": {
       "total": 25,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1498,8 +1498,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205536899,
@@ -3051,8 +3051,8 @@
     "17923064": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205771233,
@@ -3069,8 +3069,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205771276,
@@ -3234,9 +3234,9 @@
     },
     "17732479": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 2,
-      "due_soon": 2,
+      "overdue": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3252,8 +3252,8 @@
           "title": "Certified plan drafted (Kate)",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3280,8 +3280,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207118657,
@@ -3297,8 +3297,8 @@
           "title": "Cert REV0 good for lodging? Ask DP.",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3676,8 +3676,8 @@
     },
     "18390050": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3721,8 +3721,8 @@
           "title": "Check if Plan SA lodged has progressed",
           "due_date": "2026-08-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4305,8 +4305,8 @@
     "17845187": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206794850,
@@ -4332,8 +4332,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4831,8 +4831,8 @@
     "18039448": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206977011,
@@ -4840,8 +4840,8 @@
           "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206977015,
@@ -5094,31 +5094,42 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 205373343,
-      "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
-      "due_date": "2026-08-24",
+      "task_id": 205428927,
+      "title": "RFI \u2014 A1324 Euston Ave Highgate (due 25 Aug 2026)",
+      "due_date": "2026-08-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 205428926,
-      "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
-      "due_date": "2026-08-24",
+      "task_id": 205771275,
+      "title": "SA Water invoice paid",
+      "due_date": "2026-08-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
-      "task_id": 206006234,
-      "title": "Certified plan drafted (Kate)",
-      "due_date": "2026-08-24",
+      "task_id": 206977011,
+      "title": "SA Water invoice paid?",
+      "due_date": "2026-08-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 207093169,
+      "title": "Check for SA Water response- we sent pegging plan on 12.08",
+      "due_date": "2026-08-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
@@ -5127,48 +5138,26 @@
       "project_name": "S1130 Strawson Rd TD1-2 "
     },
     {
-      "task_id": 206672462,
-      "title": "per DP's instruction, set a reminder and ask him again",
-      "due_date": "2026-08-24",
+      "task_id": 207190393,
+      "title": "Did DP respond to my email about sending to client?",
+      "due_date": "2026-08-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
     },
     {
-      "task_id": 207112382,
-      "title": "Ask DP what's next",
-      "due_date": "2026-08-24",
+      "task_id": 207194193,
+      "title": "Should we send photos to council for clearance?",
+      "due_date": "2026-08-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 15599174,
-      "project_name": "J1015 Eudunda Land TD1-50"
-    },
-    {
-      "task_id": 207143154,
-      "title": "Check if Plan SA lodged has progressed",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4"
-    },
-    {
-      "task_id": 207192959,
-      "title": "Cert REV0 good for lodging? Ask DP.",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5459,6 +5448,17 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
+      "task_id": 205373343,
+      "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
       "task_id": 205381503,
       "title": "Client approval received",
       "due_date": "2026-08-21",
@@ -5468,6 +5468,17 @@
       "due_soon": false,
       "project_id": 18203158,
       "project_name": "L1038 Beach Rd TD1-2"
+    },
+    {
+      "task_id": 205428926,
+      "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
       "task_id": 205432354,
@@ -5536,6 +5547,17 @@
       "project_name": "F1113 Amundsen Dr TD1-4"
     },
     {
+      "task_id": 206006234,
+      "title": "Certified plan drafted (Kate)",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
       "task_id": 206182121,
       "title": "Prep INV. Tristan sent plan on 03/07",
       "due_date": "2026-07-04",
@@ -5561,6 +5583,17 @@
       "task_id": 206520446,
       "title": "Update on CAD files?",
       "due_date": "2026-07-28",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2"
+    },
+    {
+      "task_id": 206672462,
+      "title": "per DP's instruction, set a reminder and ask him again",
+      "due_date": "2026-08-24",
       "status": "NOT STARTED",
       "overdue": true,
       "due_today": false,
@@ -5668,6 +5701,17 @@
       "project_name": "A1324 Euston Ave CD1-7"
     },
     {
+      "task_id": 207112382,
+      "title": "Ask DP what's next",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50"
+    },
+    {
       "task_id": 207117445,
       "title": "Prem Serv feedback actioned?",
       "due_date": "2026-08-20",
@@ -5688,13 +5732,35 @@
       "due_soon": false,
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 207143154,
+      "title": "Check if Plan SA lodged has progressed",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18390050,
+      "project_name": "B1141 Diment Rd TD1-4"
+    },
+    {
+      "task_id": 207192959,
+      "title": "Cert REV0 good for lodging? Ask DP.",
+      "due_date": "2026-08-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "summary": {
     "total_open": 475,
-    "total_overdue": 47,
-    "total_due_today": 7,
+    "total_overdue": 54,
+    "total_due_today": 6,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-24T23:45:27.925796+09:30"
+  "last_updated": "2026-08-25T00:00:36.897837+09:30"
 }
