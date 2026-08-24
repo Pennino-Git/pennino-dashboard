@@ -335,7 +335,7 @@
       "address": "Lot 22 Old Port Wakefield Road, Virginia SA 5120",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17876195",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 74,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -2265,6 +2265,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-24T22:15:25.904487+09:30",
+  "last_updated": "2026-08-24T22:30:46.761666+09:30",
   "total": 110
 }

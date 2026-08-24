@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17876195,
+      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-24T22:30:46.761666+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18196569,
-      "project_name": "A1343 Lower North East Rd EASEMENT",
-      "tier": "T1",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-24T22:15:25.904487+09:30"
+  "last_updated": "2026-08-24T22:30:46.761666+09:30"
 }
