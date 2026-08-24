@@ -147,6 +147,26 @@
       "is_premium": false
     },
     {
+      "id": 18436280,
+      "name": "C1067 Edward St IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "12-14 Edward Street, Glynde SA 5070",
+      "client": "",
+      "link": "https://crm.na1.insightly.com/details/project/18436280",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "ident",
+        "tier1"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false
+    },
+    {
       "id": 18398255,
       "name": "D1072 Broxmore St IDENT",
       "tier": "T1",
@@ -2265,6 +2285,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-25T04:45:28.923215+09:30",
-  "total": 110
+  "last_updated": "2026-08-25T05:00:13.897786+09:30",
+  "total": 111
 }
