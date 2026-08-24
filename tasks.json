@@ -1940,8 +1940,8 @@
       ]
     },
     "17700505": {
-      "total": 8,
-      "overdue": 2,
+      "total": 7,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2002,20 +2002,11 @@
         {
           "task_id": 207003134,
           "title": "SA Water INV?",
-          "due_date": "2026-08-20",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207094513,
-          "title": "RFI sent to Teegan? Check with DP for his feedback",
-          "due_date": "2026-08-20",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         }
       ]
     },
@@ -5648,17 +5639,6 @@
       "project_name": "A1352 Gulf Pde TD1-3"
     },
     {
-      "task_id": 207003134,
-      "title": "SA Water INV?",
-      "due_date": "2026-08-20",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
-    },
-    {
       "task_id": 207051079,
       "title": "Did DP sent Concept Plan? To be sent to client",
       "due_date": "2026-08-18",
@@ -5668,17 +5648,6 @@
       "due_soon": false,
       "project_id": 18133721,
       "project_name": "C1063 Innovation Dr CD1-5"
-    },
-    {
-      "task_id": 207094513,
-      "title": "RFI sent to Teegan? Check with DP for his feedback",
-      "due_date": "2026-08-20",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7"
     },
     {
       "task_id": 207112382,
@@ -5737,10 +5706,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
-    "total_overdue": 54,
+    "total_open": 473,
+    "total_overdue": 52,
     "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-25T04:15:24.964480+09:30"
+  "last_updated": "2026-08-25T04:21:21.969496+09:30"
 }
