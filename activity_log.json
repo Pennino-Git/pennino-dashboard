@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18436280,
+      "project_name": "C1067 Edward St IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-08-25T05:15:29.389309+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18436280,
+      "project_name": "C1067 Edward St IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-25T05:15:29.389309+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17876195,
       "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-25T05:00:13.897786+09:30"
+  "last_updated": "2026-08-25T05:15:29.389309+09:30"
 }

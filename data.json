@@ -152,13 +152,13 @@
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "12-14 Edward Street, Glynde SA 5070",
-      "client": "",
+      "client": "Nick De Cicco",
       "link": "https://crm.na1.insightly.com/details/project/18436280",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "ident",
         "tier1"
@@ -2285,6 +2285,6 @@
       "is_premium": false
     }
   ],
-  "last_updated": "2026-08-25T05:00:13.897786+09:30",
+  "last_updated": "2026-08-25T05:15:29.389309+09:30",
   "total": 111
 }
