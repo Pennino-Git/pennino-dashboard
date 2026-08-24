@@ -3235,8 +3235,8 @@
     "17732479": {
       "total": 7,
       "overdue": 0,
-      "due_today": 3,
-      "due_soon": 1,
+      "due_today": 2,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3277,11 +3277,11 @@
         {
           "task_id": 207093169,
           "title": "Check for SA Water response- we sent pegging plan on 12.08",
-          "due_date": "2026-08-24",
+          "due_date": "2026-08-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         },
         {
           "task_id": 207118657,
@@ -5138,17 +5138,6 @@
       "project_name": "C1060 Orchestra Pl TD1-2"
     },
     {
-      "task_id": 207093169,
-      "title": "Check for SA Water response- we sent pegging plan on 12.08",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
       "task_id": 207112382,
       "title": "Ask DP what's next",
       "due_date": "2026-08-24",
@@ -5704,8 +5693,8 @@
   "summary": {
     "total_open": 475,
     "total_overdue": 47,
-    "total_due_today": 8,
+    "total_due_today": 7,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-24T15:30:42.909219+09:30"
+  "last_updated": "2026-08-24T15:45:25.731208+09:30"
 }
