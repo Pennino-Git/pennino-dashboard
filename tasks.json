@@ -1219,9 +1219,9 @@
       ]
     },
     "15978707": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1259,15 +1259,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207194193,
-          "title": "Should we send photos to council for clearance?",
-          "due_date": "2026-08-25",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5147,17 +5138,6 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207194193,
-      "title": "Should we send photos to council for clearance?",
-      "due_date": "2026-08-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5757,10 +5737,10 @@
     }
   ],
   "summary": {
-    "total_open": 475,
+    "total_open": 474,
     "total_overdue": 54,
-    "total_due_today": 6,
+    "total_due_today": 5,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-08-25T03:45:26.527391+09:30"
+  "last_updated": "2026-08-25T04:00:35.615221+09:30"
 }
