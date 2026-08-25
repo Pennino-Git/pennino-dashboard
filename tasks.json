@@ -3675,23 +3675,14 @@
       ]
     },
     "18390050": {
-      "total": 5,
-      "overdue": 1,
+      "total": 3,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 206399419,
           "title": "Physical Docket Created",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206977480,
-          "title": "Lodgement invoice received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3715,15 +3706,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207143154,
-          "title": "Check if Plan SA lodged has progressed",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4766,50 +4748,6 @@
         }
       ]
     },
-    "18377245": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206975455,
-          "title": "Lodgement invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206975456,
-          "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207143843,
-          "title": "SA Water connection request submitted (May Require Pegging)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207143844,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18039448": {
       "total": 2,
       "overdue": 0,
@@ -4951,6 +4889,32 @@
         {
           "task_id": 207027548,
           "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18377245": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207143843,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207143844,
+          "title": "Council Decision Notification Form received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5715,17 +5679,6 @@
       "project_name": "L1031 Stebonheath Rd TD1-5"
     },
     {
-      "task_id": 207143154,
-      "title": "Check if Plan SA lodged has progressed",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4"
-    },
-    {
       "task_id": 207192959,
       "title": "Cert REV0 good for lodging? Ask DP.",
       "due_date": "2026-08-24",
@@ -5738,10 +5691,10 @@
     }
   ],
   "summary": {
-    "total_open": 476,
-    "total_overdue": 53,
+    "total_open": 472,
+    "total_overdue": 52,
     "total_due_today": 3,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-26T05:25:30.002271+09:30"
+  "last_updated": "2026-08-26T05:30:43.155188+09:30"
 }
