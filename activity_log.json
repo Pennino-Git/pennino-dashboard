@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-08-25T11:00:32.672753+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-25T11:00:32.672753+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18436280,
       "project_name": "C1067 Edward St IDENT",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18021299,
-      "project_name": "Z1060 Collison St IDENT & CONTOUR",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "LTO",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-25T10:45:23.596603+09:30"
+  "last_updated": "2026-08-25T11:00:32.672753+09:30"
 }
