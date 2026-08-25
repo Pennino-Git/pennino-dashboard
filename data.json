@@ -19,7 +19,9 @@
         "agig"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8783672,
+      "lng": 138.664237
     },
     {
       "id": 18353608,
@@ -40,7 +42,9 @@
         "ident"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1266815,
+      "lng": 139.2747209
     },
     {
       "id": 18356989,
@@ -61,7 +65,9 @@
         "arc_lending_network"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7938692,
+      "lng": 138.7368337
     },
     {
       "id": 18400559,
@@ -82,7 +88,9 @@
         "ident_and_contour"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.911276,
+      "lng": 138.6979856
     },
     {
       "id": 18056682,
@@ -103,7 +111,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7450251,
+      "lng": 138.585005
     },
     {
       "id": 18294425,
@@ -123,7 +133,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1042685,
+      "lng": 139.28694
     },
     {
       "id": 18415320,
@@ -144,7 +156,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8752434,
+      "lng": 138.6150635
     },
     {
       "id": 18436280,
@@ -164,7 +178,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8937788,
+      "lng": 138.6487735
     },
     {
       "id": 18398255,
@@ -185,7 +201,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7038795,
+      "lng": 138.6753621
     },
     {
       "id": 18317513,
@@ -206,7 +224,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.787853,
+      "lng": 138.8493891
     },
     {
       "id": 18433922,
@@ -226,7 +246,9 @@
         "ident"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -33.9194656,
+      "lng": 137.6357337
     },
     {
       "id": 18325237,
@@ -247,7 +269,9 @@
         "leyton_property"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6945557,
+      "lng": 138.6493493
     },
     {
       "id": 18156649,
@@ -267,7 +291,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8955451,
+      "lng": 138.6813289
     },
     {
       "id": 18227807,
@@ -288,7 +314,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6394149,
+      "lng": 138.6541258
     },
     {
       "id": 18434007,
@@ -305,7 +333,9 @@
       "stage_order": 1,
       "tags": [],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0849326,
+      "lng": 138.5735223
     },
     {
       "id": 18436641,
@@ -324,7 +354,9 @@
         "FIELD"
       ],
       "needs_fieldwork": true,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9228367,
+      "lng": 138.6057926
     },
     {
       "id": 18269218,
@@ -344,7 +376,9 @@
         "tier1"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7636683,
+      "lng": 138.6855528
     },
     {
       "id": 16477307,
@@ -364,7 +398,9 @@
         "Zummo_design"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.2327008,
+      "lng": 138.010641
     },
     {
       "id": 17876195,
@@ -385,7 +421,9 @@
         "zummo_design"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6672894,
+      "lng": 138.5610177
     },
     {
       "id": 17902817,
@@ -407,7 +445,9 @@
         "zummo_design"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7721687,
+      "lng": 138.6626321
     },
     {
       "id": 18363697,
@@ -428,7 +468,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.765423,
+      "lng": 138.647997
     },
     {
       "id": 18398274,
@@ -450,7 +492,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8309923,
+      "lng": 138.6018763
     },
     {
       "id": 18403480,
@@ -472,7 +516,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7316237,
+      "lng": 138.6003679
     },
     {
       "id": 18426556,
@@ -492,7 +538,9 @@
         "zummo_designs"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7040843,
+      "lng": 138.6635471
     },
     {
       "id": 15978707,
@@ -512,7 +560,9 @@
         "community_div"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7372565,
+      "lng": 138.6639964
     },
     {
       "id": 17278348,
@@ -533,7 +583,9 @@
         "1into8"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8810316,
+      "lng": 138.6292872
     },
     {
       "id": 17539782,
@@ -554,7 +606,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9634248,
+      "lng": 138.6250584
     },
     {
       "id": 17700505,
@@ -576,7 +630,9 @@
         "Field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9634248,
+      "lng": 138.6250584
     },
     {
       "id": 17900271,
@@ -597,7 +653,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8066343,
+      "lng": 138.6582786
     },
     {
       "id": 17956195,
@@ -617,7 +675,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8537455,
+      "lng": 138.6766439
     },
     {
       "id": 18372992,
@@ -638,7 +698,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.2264388,
+      "lng": 138.4763705
     },
     {
       "id": 15187921,
@@ -658,7 +720,9 @@
         "Torrens_Division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7447755,
+      "lng": 138.5974987
     },
     {
       "id": 16416720,
@@ -678,7 +742,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6906218,
+      "lng": 138.6685255
     },
     {
       "id": 16435772,
@@ -699,7 +765,9 @@
         "bargain_steel"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9150076,
+      "lng": 138.5485638
     },
     {
       "id": 18223472,
@@ -719,7 +787,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6678793,
+      "lng": 138.7018784
     },
     {
       "id": 18250076,
@@ -741,7 +811,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9201446,
+      "lng": 138.5441535
     },
     {
       "id": 18390050,
@@ -762,7 +834,9 @@
         "bargain_steel"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7290093,
+      "lng": 138.6068152
     },
     {
       "id": 18426479,
@@ -782,7 +856,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0971622,
+      "lng": 138.8804305
     },
     {
       "id": 11236872,
@@ -805,7 +881,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7249691,
+      "lng": 138.6024353
     },
     {
       "id": 18046089,
@@ -825,7 +903,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7640724,
+      "lng": 138.6920473
     },
     {
       "id": 18133721,
@@ -845,7 +925,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0576315,
+      "lng": 138.8409137
     },
     {
       "id": 18187249,
@@ -866,7 +948,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8373021,
+      "lng": 138.5178598
     },
     {
       "id": 18187753,
@@ -887,7 +971,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8810601,
+      "lng": 138.5693199
     },
     {
       "id": 18225672,
@@ -908,7 +994,9 @@
         "inherited"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9562868,
+      "lng": 138.5401099
     },
     {
       "id": 12121769,
@@ -930,7 +1018,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.86412130000001,
+      "lng": 138.6697925
     },
     {
       "id": 16772033,
@@ -950,7 +1040,9 @@
         "1893_Property"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -29.0010462,
+      "lng": 134.7552894
     },
     {
       "id": 18415275,
@@ -970,7 +1062,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8370942,
+      "lng": 138.5172611
     },
     {
       "id": 13466164,
@@ -992,7 +1086,9 @@
         "ridgehaven"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8258696,
+      "lng": 138.7051294
     },
     {
       "id": 13910424,
@@ -1014,7 +1110,9 @@
         "City_of_Unley"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9600032,
+      "lng": 138.6330468
     },
     {
       "id": 15769844,
@@ -1034,7 +1132,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.5150956,
+      "lng": 138.9758487
     },
     {
       "id": 17708499,
@@ -1054,7 +1154,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0091304,
+      "lng": 138.5844318
     },
     {
       "id": 17782437,
@@ -1074,7 +1176,9 @@
         "torrens_divison"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0849326,
+      "lng": 138.5735223
     },
     {
       "id": 17923064,
@@ -1095,7 +1199,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0257965,
+      "lng": 138.5475075
     },
     {
       "id": 18046019,
@@ -1116,7 +1222,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.095578,
+      "lng": 138.5288623
     },
     {
       "id": 18091731,
@@ -1137,7 +1245,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.128573,
+      "lng": 138.5071558
     },
     {
       "id": 18252749,
@@ -1158,7 +1268,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8223945,
+      "lng": 138.6567167
     },
     {
       "id": 18273273,
@@ -1178,7 +1290,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6791532,
+      "lng": 138.6833317
     },
     {
       "id": 18377245,
@@ -1198,7 +1312,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1480937,
+      "lng": 138.5202273
     },
     {
       "id": 18393529,
@@ -1219,7 +1335,9 @@
         "ferraro_project"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1222485,
+      "lng": 138.4837116
     },
     {
       "id": 11764688,
@@ -1241,7 +1359,9 @@
         "Tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8065353,
+      "lng": 138.6570766
     },
     {
       "id": 13746454,
@@ -1263,7 +1383,9 @@
         "torrens_div"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8143229,
+      "lng": 138.7141077
     },
     {
       "id": 15599174,
@@ -1283,7 +1405,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.1665217,
+      "lng": 139.0839197
     },
     {
       "id": 17928270,
@@ -1304,7 +1428,9 @@
         "Field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.1581067,
+      "lng": 139.0826321
     },
     {
       "id": 17385935,
@@ -1324,7 +1450,9 @@
         "community_div"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8872317,
+      "lng": 138.6206993
     },
     {
       "id": 16351320,
@@ -1346,7 +1474,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8509076,
+      "lng": 138.5118599
     },
     {
       "id": 17328458,
@@ -1366,7 +1496,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7013805,
+      "lng": 138.6521998
     },
     {
       "id": 18203158,
@@ -1387,7 +1519,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1389384,
+      "lng": 138.4902905
     },
     {
       "id": 18214852,
@@ -1408,7 +1542,9 @@
         "leyton_property"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9262824,
+      "lng": 138.6410612
     },
     {
       "id": 18308881,
@@ -1429,7 +1565,9 @@
         "realignment"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.845826,
+      "lng": 138.660152
     },
     {
       "id": 16823916,
@@ -1450,7 +1588,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6052166,
+      "lng": 138.7461363
     },
     {
       "id": 18009966,
@@ -1471,7 +1611,9 @@
         "inherited"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9590429,
+      "lng": 138.590484
     },
     {
       "id": 18425013,
@@ -1491,7 +1633,9 @@
         "Community_Division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6161909,
+      "lng": 138.5931338
     },
     {
       "id": 17845187,
@@ -1511,7 +1655,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9405122,
+      "lng": 138.5667367
     },
     {
       "id": 18078768,
@@ -1531,7 +1677,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.5951778,
+      "lng": 138.7629085
     },
     {
       "id": 14754903,
@@ -1550,7 +1698,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9058302,
+      "lng": 138.570272
     },
     {
       "id": 13213940,
@@ -1572,7 +1722,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9890874,
+      "lng": 138.5367704
     },
     {
       "id": 18417055,
@@ -1592,7 +1744,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9636516,
+      "lng": 138.5387078
     },
     {
       "id": 17732479,
@@ -1614,7 +1768,9 @@
         "sf_prestige"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.84351729999999,
+      "lng": 138.6262262
     },
     {
       "id": 18039448,
@@ -1634,7 +1790,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9814046,
+      "lng": 138.5397923
     },
     {
       "id": 18254196,
@@ -1654,7 +1812,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1396086,
+      "lng": 138.5087415
     },
     {
       "id": 18249652,
@@ -1675,7 +1835,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.866711,
+      "lng": 138.5065327
     },
     {
       "id": 18273554,
@@ -1696,7 +1858,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.1344244,
+      "lng": 138.496923
     },
     {
       "id": 18333168,
@@ -1717,7 +1881,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8555729,
+      "lng": 138.6656954
     },
     {
       "id": 18386748,
@@ -1738,7 +1904,9 @@
         "tier2"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8631411,
+      "lng": 138.514294
     },
     {
       "id": 18076465,
@@ -1758,7 +1926,9 @@
         "community_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0579036,
+      "lng": 138.8395403
     },
     {
       "id": 14617925,
@@ -1780,7 +1950,9 @@
         "pooraka"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.82477799999999,
+      "lng": 138.6272992
     },
     {
       "id": 18021299,
@@ -1800,7 +1972,9 @@
         "zummo_design"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8360827,
+      "lng": 138.5897208
     },
     {
       "id": 18059610,
@@ -1820,7 +1994,9 @@
         "torrens_division"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7472237,
+      "lng": 138.6331067
     },
     {
       "id": 17303279,
@@ -1841,7 +2017,9 @@
         "Field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9327293,
+      "lng": 138.576547
     },
     {
       "id": 18256019,
@@ -1861,7 +2039,9 @@
         "agig"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0857412,
+      "lng": 138.5018424
     },
     {
       "id": 18313305,
@@ -1878,7 +2058,9 @@
       "stage_order": 5,
       "tags": [],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0437996,
+      "lng": 138.5162674
     },
     {
       "id": 18212535,
@@ -1899,7 +2081,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.086986,
+      "lng": 138.5455327
     },
     {
       "id": 17810905,
@@ -1919,7 +2103,9 @@
         "tier3"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.738053,
+      "lng": 138.6332525
     },
     {
       "id": 18287874,
@@ -1939,7 +2125,9 @@
         "Angle_Vale"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6588733,
+      "lng": 138.651545
     },
     {
       "id": 17847395,
@@ -1959,7 +2147,9 @@
         "seychell"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7972971,
+      "lng": 138.673632
     },
     {
       "id": 18103170,
@@ -1979,7 +2169,9 @@
         "seychell_constructions"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8040382,
+      "lng": 138.6518003
     },
     {
       "id": 18264763,
@@ -1999,7 +2191,9 @@
         "seychell_construction"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.7963959,
+      "lng": 138.7016306
     },
     {
       "id": 18289825,
@@ -2019,7 +2213,9 @@
         "seychell_construction"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9231035,
+      "lng": 138.6531115
     },
     {
       "id": 18316698,
@@ -2039,7 +2235,9 @@
         "tier3"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9752423,
+      "lng": 138.5381049
     },
     {
       "id": 18046054,
@@ -2059,7 +2257,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -33.485059,
+      "lng": 138.4374772
     },
     {
       "id": 18184868,
@@ -2080,7 +2280,9 @@
         "field"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9771389,
+      "lng": 138.5928341
     },
     {
       "id": 18323822,
@@ -2101,7 +2303,9 @@
         "tier3"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8483885,
+      "lng": 138.4858136
     },
     {
       "id": 18327811,
@@ -2121,7 +2325,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0282857,
+      "lng": 138.5263743
     },
     {
       "id": 18333017,
@@ -2141,7 +2347,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6519063,
+      "lng": 138.6836943
     },
     {
       "id": 18333096,
@@ -2161,7 +2369,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9540807,
+      "lng": 138.556489
     },
     {
       "id": 18350144,
@@ -2181,7 +2391,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0298326,
+      "lng": 138.6153823
     },
     {
       "id": 18358533,
@@ -2201,7 +2413,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.6917383,
+      "lng": 138.6682126
     },
     {
       "id": 18369356,
@@ -2221,7 +2435,9 @@
         "tier3"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -37.9279117,
+      "lng": 140.4238252
     },
     {
       "id": 18374500,
@@ -2241,7 +2457,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -35.0690041,
+      "lng": 138.8846944
     },
     {
       "id": 18378158,
@@ -2261,7 +2479,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.9477991,
+      "lng": 138.5968162
     },
     {
       "id": 18435136,
@@ -2281,7 +2501,9 @@
         "tpc"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8088886,
+      "lng": 138.6152567
     },
     {
       "id": 18420550,
@@ -2301,9 +2523,11 @@
         "wingfield_construction"
       ],
       "needs_fieldwork": false,
-      "is_premium": false
+      "is_premium": false,
+      "lat": -34.8433787,
+      "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-26T08:15:13.038407+09:30",
+  "last_updated": "2026-08-26T08:20:51.865939+09:30",
   "total": 112
 }
