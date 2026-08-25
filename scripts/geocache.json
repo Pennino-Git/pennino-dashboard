@@ -1,0 +1,7274 @@
+{
+  "(corner of) waymouth st and gray st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9262892,
+    "lng": 138.5896345,
+    "source": "map.html-seed"
+  },
+  "(glenelg oval) williams ave, glenelg east sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9840108,
+    "lng": 138.5210051,
+    "source": "map.html-seed"
+  },
+  "(lot 1375) 8 grand rd, munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6722085,
+    "lng": 138.6833098,
+    "source": "map.html-seed"
+  },
+  "(lot 315) frisby road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6588733,
+    "lng": 138.651545,
+    "source": "map.html-seed"
+  },
+  "(lot 36-38) 8 murray st, thebarton sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.913301,
+    "lng": 138.5699441,
+    "source": "map.html-seed"
+  },
+  "(lot 5) 2 playford crescent, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7501949,
+    "lng": 138.6417449,
+    "source": "map.html-seed"
+  },
+  "(lot 8) 3 christopher court, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7505151,
+    "lng": 138.6427797,
+    "source": "map.html-seed"
+  },
+  "(lot 9) 17 priority court, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7002124,
+    "lng": 138.6560508,
+    "source": "map.html-seed"
+  },
+  "(multiple lots) amblemead drive, mt. barker": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.085679,
+    "lng": 138.874862,
+    "source": "map.html-seed"
+  },
+  "(near braes cl) kenihans rd happy valley sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0828417,
+    "lng": 138.5493602,
+    "source": "map.html-seed"
+  },
+  "1 11 addison road, black forest sa 5035": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9618813,
+    "lng": 138.5786859,
+    "source": "map.html-seed"
+  },
+  "1 barkey street, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8065353,
+    "lng": 138.6570766,
+    "source": "map.html-seed"
+  },
+  "1 brendan court, campbelltown sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8857373,
+    "lng": 138.6602096,
+    "source": "map.html-seed"
+  },
+  "1 byard tce, mitchell park sa 5043": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0016809,
+    "lng": 138.5581624,
+    "source": "map.html-seed"
+  },
+  "1 erin street, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8762823,
+    "lng": 138.6133447,
+    "source": "map.html-seed"
+  },
+  "1 fatchen street, elizabeth grove sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7372565,
+    "lng": 138.6639964,
+    "source": "map.html-seed"
+  },
+  "1 flinders drive, bedford park sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0241249,
+    "lng": 138.5689475,
+    "source": "map.html-seed"
+  },
+  "1 iliad grove, modbury north 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.826968,
+    "lng": 138.6910519,
+    "source": "map.html-seed"
+  },
+  "1 industrial court, two wells sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5834237,
+    "lng": 138.4929791,
+    "source": "map.html-seed"
+  },
+  "1 jobson road, bolivar sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.750813,
+    "lng": 138.5866384,
+    "source": "map.html-seed"
+  },
+  "1 kentwood drive, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7553554,
+    "lng": 138.6121966,
+    "source": "map.html-seed"
+  },
+  "1 latitude road, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7466179,
+    "lng": 138.6300653,
+    "source": "map.html-seed"
+  },
+  "1 lomman avenue, newton sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8872634,
+    "lng": 138.6812707,
+    "source": "map.html-seed"
+  },
+  "1 lonsdale street, woodville north sa 5012": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8735356,
+    "lng": 138.5468057,
+    "source": "map.html-seed"
+  },
+  "1 lonsdale street, woodville north sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8735356,
+    "lng": 138.5468057,
+    "source": "map.html-seed"
+  },
+  "1 main north road, gawler sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5932073,
+    "lng": 138.7484348,
+    "source": "map.html-seed"
+  },
+  "1 north terrace, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9226532,
+    "lng": 138.5878047,
+    "source": "map.html-seed"
+  },
+  "1 olympia st, kidman park sa 5025": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9105971,
+    "lng": 138.5281405,
+    "source": "map.html-seed"
+  },
+  "1 panorama drive, panorama sa 5041": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0016182,
+    "lng": 138.5938758,
+    "source": "map.html-seed"
+  },
+  "1 pegasus court, yatala vale sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7938692,
+    "lng": 138.7368337,
+    "source": "map.html-seed"
+  },
+  "1 reservoir road, paradise sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8719589,
+    "lng": 138.6893624,
+    "source": "map.html-seed"
+  },
+  "1 riverbank parade, gulfview heights sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7988621,
+    "lng": 138.6686491,
+    "source": "map.html-seed"
+  },
+  "1 saints road, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.759882,
+    "lng": 138.657905,
+    "source": "map.html-seed"
+  },
+  "1 second avenue, mawson lakes sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8154943,
+    "lng": 138.6216018,
+    "source": "map.html-seed"
+  },
+  "1 spencer street, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7860101,
+    "lng": 138.6244681,
+    "source": "map.html-seed"
+  },
+  "1 summer road, bolivar sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7482436,
+    "lng": 138.5849583,
+    "source": "map.html-seed"
+  },
+  "1 susan street, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.669641,
+    "lng": 138.563236,
+    "source": "map.html-seed"
+  },
+  "1 taylor avenue, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7656496,
+    "lng": 138.6796231,
+    "source": "map.html-seed"
+  },
+  "1 tonsley boulevard, tonsley sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0082558,
+    "lng": 138.5740173,
+    "source": "map.html-seed"
+  },
+  "1 torquay street, christies beach sa 5165": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1409773,
+    "lng": 138.4749151,
+    "source": "map.html-seed"
+  },
+  "1 wyatt rd, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7290651,
+    "lng": 138.6201576,
+    "source": "map.html-seed"
+  },
+  "1-2 101 wilkins road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.83832659999999,
+    "lng": 138.5433294,
+    "source": "map.html-seed"
+  },
+  "1-3 20 ellemsea circuit, lonsdale sa 5160": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1042124,
+    "lng": 138.4977782,
+    "source": "map.html-seed"
+  },
+  "1-3 frederick street, cavan sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8309923,
+    "lng": 138.6018763,
+    "source": "map.html-seed"
+  },
+  "10 barnett avenue, glynde sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8917696,
+    "lng": 138.6535726,
+    "source": "map.html-seed"
+  },
+  "10 cedar avenue, campbelltown sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8839679,
+    "lng": 138.6668374,
+    "source": "map.html-seed"
+  },
+  "10 jago street salisbury": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7703905,
+    "lng": 138.64429,
+    "source": "map.html-seed"
+  },
+  "10 lutana grove, dernancourt sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8640467,
+    "lng": 138.67501,
+    "source": "map.html-seed"
+  },
+  "10 proctor street flagstaff hill, sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0445741,
+    "lng": 138.5817954,
+    "source": "map.html-seed"
+  },
+  "10 rundle st, kent town sa 5000, australia": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9228367,
+    "lng": 138.6057926,
+    "source": "google"
+  },
+  "10 taylor street, modbury heights sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.813098,
+    "lng": 138.6783541,
+    "source": "map.html-seed"
+  },
+  "10 virginia rd, newton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8783287,
+    "lng": 138.6848167,
+    "source": "map.html-seed"
+  },
+  "10-12 taylor avenue, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7652384,
+    "lng": 138.6806902,
+    "source": "map.html-seed"
+  },
+  "100 north terrace, adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9220801,
+    "lng": 138.59491,
+    "source": "map.html-seed"
+  },
+  "101 prospect rd, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8865407,
+    "lng": 138.5940967,
+    "source": "map.html-seed"
+  },
+  "103 & 105 murray street, nuriootpa sa 5355": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4649541,
+    "lng": 138.9988553,
+    "source": "map.html-seed"
+  },
+  "108 crittenden road, findon": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8991041,
+    "lng": 138.5383219,
+    "source": "map.html-seed"
+  },
+  "108 goodman road, elizabeth south sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7312151,
+    "lng": 138.659569,
+    "source": "map.html-seed"
+  },
+  "1085 lower north east road, highbury sa 5089": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.852162,
+    "lng": 138.7085789,
+    "source": "map.html-seed"
+  },
+  "10a edith street, gawler east sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5947885,
+    "lng": 138.7509757,
+    "source": "map.html-seed"
+  },
+  "10th seventh street, gawler south sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6076572,
+    "lng": 138.7483088,
+    "source": "map.html-seed"
+  },
+  "11 & 21 clarence street, munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6610715,
+    "lng": 138.6714633,
+    "source": "map.html-seed"
+  },
+  "11 addison road, black forest sa 5035": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9618744,
+    "lng": 138.5786884,
+    "source": "map.html-seed"
+  },
+  "11 bowey avenue, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7692408,
+    "lng": 138.6878218,
+    "source": "map.html-seed"
+  },
+  "11 branson road, greenock sa 5360": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.459826,
+    "lng": 138.9194903,
+    "source": "map.html-seed"
+  },
+  "11 cross keys road, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.769154,
+    "lng": 138.6506398,
+    "source": "map.html-seed"
+  },
+  "11 gulf view road, napperby sa 5540": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.1598841,
+    "lng": 138.1108628,
+    "source": "map.html-seed"
+  },
+  "11 hoggs road, mitcham sa 5062": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9812641,
+    "lng": 138.624792,
+    "source": "map.html-seed"
+  },
+  "11 main south road, reynella sa 5161": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1037001,
+    "lng": 138.5280864,
+    "source": "map.html-seed"
+  },
+  "11 meadow lane, gulfview heights sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.783119,
+    "lng": 138.6708245,
+    "source": "map.html-seed"
+  },
+  "11 melanto avenue, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.965421,
+    "lng": 138.544256,
+    "source": "map.html-seed"
+  },
+  "11 milbourne court, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6207704,
+    "lng": 138.5763474,
+    "source": "map.html-seed"
+  },
+  "11 northcote terrace, medindie": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9005872,
+    "lng": 138.6089341,
+    "source": "map.html-seed"
+  },
+  "11 somerset avenue, redwood park sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8156127,
+    "lng": 138.7136274,
+    "source": "map.html-seed"
+  },
+  "11 wharfe street, woodville south sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8927644,
+    "lng": 138.5358153,
+    "source": "map.html-seed"
+  },
+  "110 helps road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7304982,
+    "lng": 138.60746,
+    "source": "map.html-seed"
+  },
+  "111 wingfield road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8374338,
+    "lng": 138.5498868,
+    "source": "map.html-seed"
+  },
+  "1110 andrews rd munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6552798,
+    "lng": 138.6681247,
+    "source": "map.html-seed"
+  },
+  "1113-1117 port wakefield road, bolivar sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7450251,
+    "lng": 138.585005,
+    "source": "map.html-seed"
+  },
+  "1113-1119 lower north east road, highbury sa 5089": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8511909,
+    "lng": 138.7112105,
+    "source": "map.html-seed"
+  },
+  "118 main north road, blakeview sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6674554,
+    "lng": 138.703246,
+    "source": "map.html-seed"
+  },
+  "118 marina way, mannum sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9371835,
+    "lng": 139.2921409,
+    "source": "map.html-seed"
+  },
+  "119 bedford street, gillman sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8380606,
+    "lng": 138.5256516,
+    "source": "map.html-seed"
+  },
+  "119 holbrooks road, underdale sa 5032": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9150076,
+    "lng": 138.5485638,
+    "source": "map.html-seed"
+  },
+  "119 springbank road, clapham": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.989812,
+    "lng": 138.6079386,
+    "source": "map.html-seed"
+  },
+  "11a grevillea avenue, dry creek sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8392708,
+    "lng": 138.5896127,
+    "source": "map.html-seed"
+  },
+  "12 acacia avenue, dernancourt sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8652029,
+    "lng": 138.6698542,
+    "source": "map.html-seed"
+  },
+  "12 araluen street, ridgehaven sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8258696,
+    "lng": 138.7051294,
+    "source": "map.html-seed"
+  },
+  "12 claret avenue, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6740837,
+    "lng": 138.5593156,
+    "source": "map.html-seed"
+  },
+  "12 colac street, greenacres sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8683481,
+    "lng": 138.6208655,
+    "source": "map.html-seed"
+  },
+  "12 crossley avenue, croydon park 5008": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8810601,
+    "lng": 138.5693199,
+    "source": "map.html-seed"
+  },
+  "12 garlick road, elizabeth park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7066021,
+    "lng": 138.6806529,
+    "source": "map.html-seed"
+  },
+  "12 hector street, west beach sa 5024": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9366135,
+    "lng": 138.5081969,
+    "source": "map.html-seed"
+  },
+  "12 kentia drive, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7986625,
+    "lng": 138.6487652,
+    "source": "map.html-seed"
+  },
+  "12 levi street, woodville west sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8791713,
+    "lng": 138.5266912,
+    "source": "map.html-seed"
+  },
+  "12 livingstone street, glengowrie sa 5044": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9890874,
+    "lng": 138.5367704,
+    "source": "map.html-seed"
+  },
+  "12 paramount road, salisbury downs sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7690121,
+    "lng": 138.6271983,
+    "source": "map.html-seed"
+  },
+  "12 pine avenue, eudunda": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1581067,
+    "lng": 139.0826321,
+    "source": "map.html-seed"
+  },
+  "12 pine avenue, eudunda sa 5374": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1581067,
+    "lng": 139.0826321,
+    "source": "map.html-seed"
+  },
+  "12 reisling road, wynn vale sa 5157": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8014959,
+    "lng": 138.7026761,
+    "source": "map.html-seed"
+  },
+  "12 stanley avenue, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.761155,
+    "lng": 138.6555921,
+    "source": "map.html-seed"
+  },
+  "12 sudholz court windsor gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8585219,
+    "lng": 138.6586077,
+    "source": "map.html-seed"
+  },
+  "12 yarcowie avenue, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.830104,
+    "lng": 138.6329713,
+    "source": "map.html-seed"
+  },
+  "12-14 edward street, glynde sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8937788,
+    "lng": 138.6487735,
+    "source": "google"
+  },
+  "1201 mannum road, caloote sa 5254": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9862416,
+    "lng": 139.2330828,
+    "source": "map.html-seed"
+  },
+  "122, 124, & 126 windebanks road, happy valley sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0839451,
+    "lng": 138.6046198,
+    "source": "map.html-seed"
+  },
+  "1220 south road, clovelly park sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0005533,
+    "lng": 138.5752041,
+    "source": "map.html-seed"
+  },
+  "124 dawkins road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6129154,
+    "lng": 138.5807081,
+    "source": "map.html-seed"
+  },
+  "124 days road, ferryden park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8731568,
+    "lng": 138.5652138,
+    "source": "map.html-seed"
+  },
+  "125 tapleys hill road, seaton sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.878732,
+    "lng": 138.5132138,
+    "source": "map.html-seed"
+  },
+  "126 marble hill road, ashton sa 5137": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9332214,
+    "lng": 138.7447722,
+    "source": "map.html-seed"
+  },
+  "126b blewitt springs road, mclaren flat sa 5171": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.197496,
+    "lng": 138.5840799,
+    "source": "map.html-seed"
+  },
+  "128-136 target hill road, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7648393,
+    "lng": 138.6903786,
+    "source": "map.html-seed"
+  },
+  "1284 south road, tonsley sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0080058,
+    "lng": 138.5747049,
+    "source": "map.html-seed"
+  },
+  "13 belmore terrace, woodville sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8790188,
+    "lng": 138.5410274,
+    "source": "map.html-seed"
+  },
+  "13 bracken avenue, andrews farm sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6647395,
+    "lng": 138.658968,
+    "source": "map.html-seed"
+  },
+  "13 frank street, st. morris sa 5068": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9129192,
+    "lng": 138.6506383,
+    "source": "map.html-seed"
+  },
+  "13 gainsborough street, salisbury downs 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7673402,
+    "lng": 138.6166813,
+    "source": "map.html-seed"
+  },
+  "13 graham street, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8487012,
+    "lng": 138.5580319,
+    "source": "map.html-seed"
+  },
+  "13 hillview road, victor harbor sa 5211": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5469746,
+    "lng": 138.6179486,
+    "source": "map.html-seed"
+  },
+  "13 murray street, ridgehaven sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8250004,
+    "lng": 138.7027744,
+    "source": "map.html-seed"
+  },
+  "13 simpson place, evanston park sa 5116": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6337978,
+    "lng": 138.7388032,
+    "source": "map.html-seed"
+  },
+  "13 topaz crescent, salisbury east 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7803656,
+    "lng": 138.667383,
+    "source": "map.html-seed"
+  },
+  "13-21 coglin street, brompton sa 5007": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.901188,
+    "lng": 138.5710299,
+    "source": "map.html-seed"
+  },
+  "131 gorge road, paradise sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8757023,
+    "lng": 138.6809178,
+    "source": "map.html-seed"
+  },
+  "1342 stebonheath road, munno para downs sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6431568,
+    "lng": 138.6886327,
+    "source": "map.html-seed"
+  },
+  "136 penfield road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6740436,
+    "lng": 138.5741996,
+    "source": "map.html-seed"
+  },
+  "137, 139, 141 kensington road, norwood sa 5067": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9262824,
+    "lng": 138.6410612,
+    "source": "map.html-seed"
+  },
+  "138 yorktown road, elizabeth park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7075354,
+    "lng": 138.6880438,
+    "source": "map.html-seed"
+  },
+  "1387 angle vale road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.648977,
+    "lng": 138.5824708,
+    "source": "map.html-seed"
+  },
+  "14 barndioota road, salisbury plains sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7688521,
+    "lng": 138.6607079,
+    "source": "map.html-seed"
+  },
+  "14 bonnin street, reynella sa 5161": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.095578,
+    "lng": 138.5288623,
+    "source": "map.html-seed"
+  },
+  "14 cordoba avenue, gulfview heights sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7989683,
+    "lng": 138.6622893,
+    "source": "map.html-seed"
+  },
+  "14 fifth street, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8469965,
+    "lng": 138.5480793,
+    "source": "map.html-seed"
+  },
+  "14 hill road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8486823,
+    "lng": 138.55634,
+    "source": "map.html-seed"
+  },
+  "14 hillsea avenue, clearview sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8650281,
+    "lng": 138.61088,
+    "source": "map.html-seed"
+  },
+  "14 jacaranda road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6876544,
+    "lng": 138.6650293,
+    "source": "map.html-seed"
+  },
+  "14 keevil street, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7124915,
+    "lng": 138.6738775,
+    "source": "map.html-seed"
+  },
+  "14 miller crescent, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7951056,
+    "lng": 138.6181724,
+    "source": "map.html-seed"
+  },
+  "14 oldham road, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7458357,
+    "lng": 138.6634428,
+    "source": "map.html-seed"
+  },
+  "14 palina ct, smithfield sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6783566,
+    "lng": 138.6899831,
+    "source": "map.html-seed"
+  },
+  "14 primrose court, davoren park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6869366,
+    "lng": 138.6636693,
+    "source": "map.html-seed"
+  },
+  "14 strathfield tce., larges north sa 5016": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8127529,
+    "lng": 138.4927614,
+    "source": "map.html-seed"
+  },
+  "1413 main north road, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7964218,
+    "lng": 138.6448748,
+    "source": "map.html-seed"
+  },
+  "143 robert road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6552865,
+    "lng": 138.58581,
+    "source": "map.html-seed"
+  },
+  "144 old mount barker road, aldgate sa 5154": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0024148,
+    "lng": 138.737316,
+    "source": "map.html-seed"
+  },
+  "1454 & 1446 lower north east rd houghton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8246071,
+    "lng": 138.7641526,
+    "source": "map.html-seed"
+  },
+  "145a & 145b commercial road, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7544315,
+    "lng": 138.6496869,
+    "source": "map.html-seed"
+  },
+  "146 angle vale rd to riverbanks (northern school)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6401054,
+    "lng": 138.6543054,
+    "source": "map.html-seed"
+  },
+  "1498 south para road, kersbrook sa 5231": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.787853,
+    "lng": 138.8493891,
+    "source": "map.html-seed"
+  },
+  "15 birralee road, regency park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8570799,
+    "lng": 138.5693075,
+    "source": "map.html-seed"
+  },
+  "15 chester avenue, clearview sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.85279240000001,
+    "lng": 138.6137231,
+    "source": "map.html-seed"
+  },
+  "15 dukas drive, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8233997,
+    "lng": 138.6409506,
+    "source": "map.html-seed"
+  },
+  "15 enford street, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7256713,
+    "lng": 138.6722462,
+    "source": "map.html-seed"
+  },
+  "15 farrell road, north beach sa 5556": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.89365950000001,
+    "lng": 137.6289029,
+    "source": "map.html-seed"
+  },
+  "15 field street, reynella sa 5161": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0925743,
+    "lng": 138.5265084,
+    "source": "map.html-seed"
+  },
+  "15 prominent rise, hillbank sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7529731,
+    "lng": 138.6842523,
+    "source": "map.html-seed"
+  },
+  "15 sabre avenue, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8204449,
+    "lng": 138.645847,
+    "source": "map.html-seed"
+  },
+  "15 sunnyview crescent, ridgehaven sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8210501,
+    "lng": 138.7094647,
+    "source": "map.html-seed"
+  },
+  "15 upton street, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7495891,
+    "lng": 138.6770218,
+    "source": "map.html-seed"
+  },
+  "1505 main north road, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7886164,
+    "lng": 138.650443,
+    "source": "map.html-seed"
+  },
+  "151 angle vale road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6394149,
+    "lng": 138.6541258,
+    "source": "map.html-seed"
+  },
+  "152 woodford road, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7025727,
+    "lng": 138.6762749,
+    "source": "map.html-seed"
+  },
+  "159 peachey road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6839672,
+    "lng": 138.6709718,
+    "source": "map.html-seed"
+  },
+  "15a playford crescent, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7489564,
+    "lng": 138.6392437,
+    "source": "map.html-seed"
+  },
+  "16 & 18 siddall road, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7453441,
+    "lng": 138.66355,
+    "source": "map.html-seed"
+  },
+  "16 arcoona avenue, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.89424899999999,
+    "lng": 138.6945212,
+    "source": "map.html-seed"
+  },
+  "16 bayvue crescent, ridgehaven sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8194542,
+    "lng": 138.7027944,
+    "source": "map.html-seed"
+  },
+  "16 coral avenue, semaphore park sa 5019": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8539397,
+    "lng": 138.4816564,
+    "source": "map.html-seed"
+  },
+  "16 frederick road, west lakes sa 5021": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8666336,
+    "lng": 138.5020019,
+    "source": "map.html-seed"
+  },
+  "16 galleon drive, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7540532,
+    "lng": 138.6148141,
+    "source": "map.html-seed"
+  },
+  "16 hooper street & 17 otoma st, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7542983,
+    "lng": 138.6257406,
+    "source": "map.html-seed"
+  },
+  "16 nari drive, sheidow park sa 5158": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0708506,
+    "lng": 138.5273698,
+    "source": "map.html-seed"
+  },
+  "16 neill road, cowandilla sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9307006,
+    "lng": 138.5576888,
+    "source": "map.html-seed"
+  },
+  "16 paramount rd, salisbury downs sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7693248,
+    "lng": 138.6267853,
+    "source": "map.html-seed"
+  },
+  "16 reisling road, wynn vale sa 5127": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8015006,
+    "lng": 138.7031102,
+    "source": "map.html-seed"
+  },
+  "16 south terrace, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7616139,
+    "lng": 138.6516204,
+    "source": "map.html-seed"
+  },
+  "16 straun road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8327776,
+    "lng": 138.652117,
+    "source": "map.html-seed"
+  },
+  "16 summer road, bolivar sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.749521,
+    "lng": 138.5868221,
+    "source": "map.html-seed"
+  },
+  "16 terama court, greenwith sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7622149,
+    "lng": 138.6976975,
+    "source": "map.html-seed"
+  },
+  "16 tooma street, o'sullivan beach sa 5166": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1226043,
+    "lng": 138.4789399,
+    "source": "map.html-seed"
+  },
+  "16-22 quinlivan rd, pooraka sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8261382,
+    "lng": 138.6276535,
+    "source": "map.html-seed"
+  },
+  "16-26 lipson street, port adelaide sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.85085979999999,
+    "lng": 138.5118091,
+    "source": "map.html-seed"
+  },
+  "160-168 beach road, noarlunga centre sa 5168": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1389384,
+    "lng": 138.4902905,
+    "source": "map.html-seed"
+  },
+  "160b coventry road, smithfield plains sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6783089,
+    "lng": 138.6826273,
+    "source": "map.html-seed"
+  },
+  "1614 main north road, brahma lodge sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7798789,
+    "lng": 138.6566198,
+    "source": "map.html-seed"
+  },
+  "163 wattle street, malvern sa 5061": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9546869,
+    "lng": 138.614184,
+    "source": "map.html-seed"
+  },
+  "165 mackinnon parade, north adelaide sa 5006": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9109739,
+    "lng": 138.6028683,
+    "source": "map.html-seed"
+  },
+  "169 daws road, st. mary's sa 5042 (donald & cashel street)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9929162,
+    "lng": 138.5799751,
+    "source": "map.html-seed"
+  },
+  "16a straun road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.832724,
+    "lng": 138.6521035,
+    "source": "map.html-seed"
+  },
+  "17 acrylon road, salisbury south sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7823555,
+    "lng": 138.6427488,
+    "source": "map.html-seed"
+  },
+  "17 benjamin street, newton sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8803601,
+    "lng": 138.6889746,
+    "source": "map.html-seed"
+  },
+  "17 casuarina drive, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7841066,
+    "lng": 138.6154134,
+    "source": "map.html-seed"
+  },
+  "17 daly crescent, west lakes shore sa 5020": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8600191,
+    "lng": 138.4863207,
+    "source": "map.html-seed"
+  },
+  "17 first avenue, seaton sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8832412,
+    "lng": 138.515788,
+    "source": "map.html-seed"
+  },
+  "17 goldthorn road, salisbury park sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7627538,
+    "lng": 138.6717843,
+    "source": "map.html-seed"
+  },
+  "17 katrina avenue, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8817354,
+    "lng": 138.6435207,
+    "source": "map.html-seed"
+  },
+  "17 poulshot crescent, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7542221,
+    "lng": 138.6571595,
+    "source": "map.html-seed"
+  },
+  "17 shearer crescent, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7440319,
+    "lng": 138.621169,
+    "source": "map.html-seed"
+  },
+  "17 stebonheath road, edinburgh north (womma road)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7013805,
+    "lng": 138.6521998,
+    "source": "map.html-seed"
+  },
+  "17 vine street, surrey downs sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8001013,
+    "lng": 138.7146132,
+    "source": "map.html-seed"
+  },
+  "17 whites road, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7399584,
+    "lng": 138.6289905,
+    "source": "map.html-seed"
+  },
+  "17-19 laura street, murray bridge sa 5253": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1370344,
+    "lng": 139.2812428,
+    "source": "map.html-seed"
+  },
+  "170 springs road, mount barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0689894,
+    "lng": 138.8850281,
+    "source": "map.html-seed"
+  },
+  "174 murray street, nuriootpa sa 5355": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4570571,
+    "lng": 139.0031101,
+    "source": "map.html-seed"
+  },
+  "1758 main north road, salisbury plain sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7691781,
+    "lng": 138.6659017,
+    "source": "map.html-seed"
+  },
+  "177-179 south terrace, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8386098,
+    "lng": 138.5625431,
+    "source": "map.html-seed"
+  },
+  "1772 main north road, salisbury plain sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7684419,
+    "lng": 138.6667533,
+    "source": "map.html-seed"
+  },
+  "178 railway tce, mile end south 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9384772,
+    "lng": 138.5770719,
+    "source": "map.html-seed"
+  },
+  "18 bentham st adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9273837,
+    "lng": 138.598055,
+    "source": "map.html-seed"
+  },
+  "18 bogan road, hillbank sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7402515,
+    "lng": 138.6812051,
+    "source": "map.html-seed"
+  },
+  "18 bounty road, hallett cove sa 5158": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0756731,
+    "lng": 138.5063402,
+    "source": "map.html-seed"
+  },
+  "18 brickyard road, port eliot sa 5212": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5311521,
+    "lng": 138.6640706,
+    "source": "map.html-seed"
+  },
+  "18 carty avenue, modbury 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8284956,
+    "lng": 138.6993245,
+    "source": "map.html-seed"
+  },
+  "18 carty avenue, modbury sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8284956,
+    "lng": 138.6993245,
+    "source": "map.html-seed"
+  },
+  "18 christina crescent, wynn vale sa 5127": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7996704,
+    "lng": 138.686525,
+    "source": "map.html-seed"
+  },
+  "18 coach street salisbury east": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7858299,
+    "lng": 138.6539363,
+    "source": "map.html-seed"
+  },
+  "18 etuna street, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7964776,
+    "lng": 138.6511675,
+    "source": "map.html-seed"
+  },
+  "18 gosling court, williamston sa 5351": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6721958,
+    "lng": 138.8814376,
+    "source": "map.html-seed"
+  },
+  "18 petunia avenue, pooraka sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8276101,
+    "lng": 138.6196134,
+    "source": "map.html-seed"
+  },
+  "18 rockingham street, west beach sa 5024": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9434821,
+    "lng": 138.5030865,
+    "source": "map.html-seed"
+  },
+  "1816 melton south road, clinton centre sa 5570": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2508902,
+    "lng": 137.9546743,
+    "source": "map.html-seed"
+  },
+  "183 philip highway, elizabeth south sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7434625,
+    "lng": 138.6585955,
+    "source": "map.html-seed"
+  },
+  "186 hayman road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6032005,
+    "lng": 138.5848546,
+    "source": "map.html-seed"
+  },
+  "1861 main north road, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7631902,
+    "lng": 138.6731543,
+    "source": "map.html-seed"
+  },
+  "19 angus avenue, edwardstown sa 5039": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9751086,
+    "lng": 138.5706013,
+    "source": "map.html-seed"
+  },
+  "19 fleming avenue, ridgehaven sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8267802,
+    "lng": 138.6970917,
+    "source": "map.html-seed"
+  },
+  "19 hannan st, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7334079,
+    "lng": 138.665455,
+    "source": "map.html-seed"
+  },
+  "19 hannan street, elizabeth south sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7334079,
+    "lng": 138.665455,
+    "source": "map.html-seed"
+  },
+  "19 hartfoot crescent, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7063712,
+    "lng": 138.6532994,
+    "source": "map.html-seed"
+  },
+  "19 magill road, stepney sa 5069": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9153972,
+    "lng": 138.6246092,
+    "source": "map.html-seed"
+  },
+  "19 wyndham road, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7537926,
+    "lng": 138.6299515,
+    "source": "map.html-seed"
+  },
+  "190, 192, 194, 196 churchill road, prospect sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.88196990000001,
+    "lng": 138.5843574,
+    "source": "map.html-seed"
+  },
+  "191 mcevoy road, waterloo corner sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6884594,
+    "lng": 138.5347472,
+    "source": "map.html-seed"
+  },
+  "191 temora way, pallamana sa 5254": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0454835,
+    "lng": 139.2456711,
+    "source": "map.html-seed"
+  },
+  "1913": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "192-196 churchill rod, prospect sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8822434,
+    "lng": 138.5843452,
+    "source": "map.html-seed"
+  },
+  "193-199 greenwith road, golden grove sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7874187,
+    "lng": 138.7287672,
+    "source": "map.html-seed"
+  },
+  "198 muellers road, birdwood sa 5234": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8277212,
+    "lng": 138.9421828,
+    "source": "map.html-seed"
+  },
+  "1a burchett avenue, magill sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9144107,
+    "lng": 138.6801479,
+    "source": "map.html-seed"
+  },
+  "1a leilete road, two wells sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6169822,
+    "lng": 138.5516048,
+    "source": "map.html-seed"
+  },
+  "1a mines road, campbelltown sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8832837,
+    "lng": 138.659717,
+    "source": "map.html-seed"
+  },
+  "1a parcoola avenue, hope valley sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8428465,
+    "lng": 138.6963232,
+    "source": "map.html-seed"
+  },
+  "1a richardson street, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7937435,
+    "lng": 138.6137307,
+    "source": "map.html-seed"
+  },
+  "2 & 4 ellis avenue, morphettville sa 5043": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9814046,
+    "lng": 138.5397923,
+    "source": "map.html-seed"
+  },
+  "2 armstrong street, blanchetown sa 5357": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.358891,
+    "lng": 139.6209963,
+    "source": "map.html-seed"
+  },
+  "2 aruma street, regency park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8638257,
+    "lng": 138.5712471,
+    "source": "map.html-seed"
+  },
+  "2 burdett street, elizabeth grove sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7330978,
+    "lng": 138.6688423,
+    "source": "map.html-seed"
+  },
+  "2 calypso circuit, munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6548218,
+    "lng": 138.687447,
+    "source": "map.html-seed"
+  },
+  "2 coolabah street, modbury north sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8214551,
+    "lng": 138.6928227,
+    "source": "map.html-seed"
+  },
+  "2 copernicus road, christie downs sa 5164": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1248718,
+    "lng": 138.4876136,
+    "source": "map.html-seed"
+  },
+  "2 dewey street, elizabeth east sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7309689,
+    "lng": 138.6778838,
+    "source": "map.html-seed"
+  },
+  "2 durant avenue, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9000021,
+    "lng": 138.6807603,
+    "source": "map.html-seed"
+  },
+  "2 east terrace, ardrossan sa 5571": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4228336,
+    "lng": 137.9198705,
+    "source": "map.html-seed"
+  },
+  "2 first street, blanchetown sa 5357": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3567343,
+    "lng": 139.6187932,
+    "source": "map.html-seed"
+  },
+  "2 harrison court, magill sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8990398,
+    "lng": 138.6735751,
+    "source": "map.html-seed"
+  },
+  "2 jenkins street, modbury sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8293499,
+    "lng": 138.6943914,
+    "source": "map.html-seed"
+  },
+  "2 karri street, munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6678793,
+    "lng": 138.7018784,
+    "source": "map.html-seed"
+  },
+  "2 knoll crescent, teringie sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.911276,
+    "lng": 138.6979856,
+    "source": "map.html-seed"
+  },
+  "2 mailey crescent, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7929675,
+    "lng": 138.6181563,
+    "source": "map.html-seed"
+  },
+  "2 mero street, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7411059,
+    "lng": 138.629843,
+    "source": "map.html-seed"
+  },
+  "2 moyes court, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8093112,
+    "lng": 138.6395094,
+    "source": "map.html-seed"
+  },
+  "2 piccadilly circus, colonel light gardens sa 5041": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9838969,
+    "lng": 138.5928184,
+    "source": "map.html-seed"
+  },
+  "2 price weir avenue, allenby gardens sa 5009": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8938899,
+    "lng": 138.553354,
+    "source": "map.html-seed"
+  },
+  "2 sefton avenue, northfield sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8515304,
+    "lng": 138.6249531,
+    "source": "map.html-seed"
+  },
+  "2 shannon street, blair athol sa 5084": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8626138,
+    "lng": 138.5945822,
+    "source": "map.html-seed"
+  },
+  "2 sturt street, murray bridge sa 5253": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1266815,
+    "lng": 139.2747209,
+    "source": "map.html-seed"
+  },
+  "2 tabora crescent, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7398054,
+    "lng": 138.6210931,
+    "source": "map.html-seed"
+  },
+  "20 adam street, 2 & 2a nile street, hindmarsh": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9097984,
+    "lng": 138.5689366,
+    "source": "map.html-seed"
+  },
+  "20 adelaide road, gawler south sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6052166,
+    "lng": 138.7461363,
+    "source": "map.html-seed"
+  },
+  "20 alderbury avenue, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7533033,
+    "lng": 138.6389477,
+    "source": "map.html-seed"
+  },
+  "20 aruma street, regency park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8636551,
+    "lng": 138.5729008,
+    "source": "map.html-seed"
+  },
+  "20 barnden road, penrice sa 5353": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4754756,
+    "lng": 139.0594633,
+    "source": "map.html-seed"
+  },
+  "20 bradfield lane, mount barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.09199,
+    "lng": 138.8774159,
+    "source": "map.html-seed"
+  },
+  "20 charles street, valley view sa 5093": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8352719,
+    "lng": 138.667666,
+    "source": "map.html-seed"
+  },
+  "20 dowland street, goolwa, south australia, 5214": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.4974364,
+    "lng": 138.7855255,
+    "source": "map.html-seed"
+  },
+  "20 hawker road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7310867,
+    "lng": 138.6008378,
+    "source": "map.html-seed"
+  },
+  "20 middleton street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7683667,
+    "lng": 138.6335936,
+    "source": "map.html-seed"
+  },
+  "20 norfolk avenue, brahma lodge sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7734896,
+    "lng": 138.6532477,
+    "source": "map.html-seed"
+  },
+  "20 parsard corut hillbank": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7279534,
+    "lng": 138.6902719,
+    "source": "map.html-seed"
+  },
+  "20 priority court, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6994953,
+    "lng": 138.656765,
+    "source": "map.html-seed"
+  },
+  "20 ridgeway road, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7077,
+    "lng": 138.6594603,
+    "source": "map.html-seed"
+  },
+  "20 south terrace, kapunda sa 5373": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3405119,
+    "lng": 138.9198499,
+    "source": "map.html-seed"
+  },
+  "20 st. leonard crescent, elizabeth downs sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6954142,
+    "lng": 138.6900939,
+    "source": "map.html-seed"
+  },
+  "20 wandana terrace, taperoo sa 5017": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8077628,
+    "lng": 138.4935316,
+    "source": "map.html-seed"
+  },
+  "20 wirra drive, newport sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8480684,
+    "lng": 138.4950307,
+    "source": "map.html-seed"
+  },
+  "20-26 lipson street, port adelaide sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8509076,
+    "lng": 138.5118599,
+    "source": "map.html-seed"
+  },
+  "203 greenwith road, golden grove sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7897057,
+    "lng": 138.7369616,
+    "source": "map.html-seed"
+  },
+  "2033 kingston road new residence": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2901347,
+    "lng": 140.3658914,
+    "source": "map.html-seed"
+  },
+  "207 & 219 o'connel street and unit 32 86 barton tce, north adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9022435,
+    "lng": 138.5940878,
+    "source": "map.html-seed"
+  },
+  "208 seaview road, henley beach south sa 5022": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9272533,
+    "lng": 138.4969905,
+    "source": "map.html-seed"
+  },
+  "209 allendale road, kalbeeba sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6270177,
+    "lng": 138.8009989,
+    "source": "map.html-seed"
+  },
+  "20a & 20b trowbridge circuit, gulfview heights sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8021979,
+    "lng": 138.6642258,
+    "source": "map.html-seed"
+  },
+  "20a school drive, banksia park sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8142944,
+    "lng": 138.7222488,
+    "source": "map.html-seed"
+  },
+  "21 bracken lane, lobethal sa 5241": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8947813,
+    "lng": 138.8931443,
+    "source": "map.html-seed"
+  },
+  "21 dowlish street davoren park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6917383,
+    "lng": 138.6682126,
+    "source": "map.html-seed"
+  },
+  "21 duncan road, dry creek sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8426914,
+    "lng": 138.5861085,
+    "source": "map.html-seed"
+  },
+  "21 goodall avenue, kilkenny sa 5009": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8776045,
+    "lng": 138.557104,
+    "source": "map.html-seed"
+  },
+  "21 kotara drive, greenwith sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7708833,
+    "lng": 138.6978089,
+    "source": "map.html-seed"
+  },
+  "21 magnolia crescent, craigmore sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6912864,
+    "lng": 138.7059031,
+    "source": "map.html-seed"
+  },
+  "21 malone street, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1266508,
+    "lng": 138.5390683,
+    "source": "map.html-seed"
+  },
+  "21 maslin road, macdonald park sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6761499,
+    "lng": 138.6385194,
+    "source": "map.html-seed"
+  },
+  "21 millicent street, athol park sa 5012": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8556143,
+    "lng": 138.5404136,
+    "source": "map.html-seed"
+  },
+  "21 moorong road, o'sullivan beach sa 5166": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1210855,
+    "lng": 138.4821398,
+    "source": "map.html-seed"
+  },
+  "21 park road, kensington park sa 5068": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9231035,
+    "lng": 138.6531115,
+    "source": "map.html-seed"
+  },
+  "21 stuckey ave, underdale sa 5032": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9200512,
+    "lng": 138.5514435,
+    "source": "map.html-seed"
+  },
+  "210 newton boulevard, munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6670858,
+    "lng": 138.689572,
+    "source": "map.html-seed"
+  },
+  "216-220 north east road, kelmzig sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8782966,
+    "lng": 138.6283577,
+    "source": "map.html-seed"
+  },
+  "216-220 north east road, klemzig sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8782966,
+    "lng": 138.6283577,
+    "source": "map.html-seed"
+  },
+  "22 acacia avenue, dernancourt sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.86412130000001,
+    "lng": 138.6697925,
+    "source": "map.html-seed"
+  },
+  "22 crafter street, davoren park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6872755,
+    "lng": 138.6661874,
+    "source": "map.html-seed"
+  },
+  "22 figsbury street, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.706506,
+    "lng": 138.6760274,
+    "source": "map.html-seed"
+  },
+  "22 graham street, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.81056,
+    "lng": 138.6576255,
+    "source": "map.html-seed"
+  },
+  "22 howard terrace, hazelwood park sa 5066": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9339347,
+    "lng": 138.6585163,
+    "source": "map.html-seed"
+  },
+  "22 linday street, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9713294,
+    "lng": 138.546136,
+    "source": "map.html-seed"
+  },
+  "22 lindsay street, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9713294,
+    "lng": 138.546136,
+    "source": "map.html-seed"
+  },
+  "22 malcolm street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7738652,
+    "lng": 138.6459645,
+    "source": "map.html-seed"
+  },
+  "22 marian street, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7876652,
+    "lng": 138.6580223,
+    "source": "map.html-seed"
+  },
+  "22 shipwright road, largs north sa 5016": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.82003880000001,
+    "lng": 138.5075348,
+    "source": "map.html-seed"
+  },
+  "22 ware street, thebarton sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9120964,
+    "lng": 138.5659056,
+    "source": "map.html-seed"
+  },
+  "22 west thebarton road, thebarton sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9137074,
+    "lng": 138.5695894,
+    "source": "map.html-seed"
+  },
+  "22-22a barndioota road, salisbury plain": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7680224,
+    "lng": 138.6610389,
+    "source": "map.html-seed"
+  },
+  "22-24 annette road, hillbank sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7491759,
+    "lng": 138.681113,
+    "source": "map.html-seed"
+  },
+  "223 eastern parade, port adelaide sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8373021,
+    "lng": 138.5178598,
+    "source": "map.html-seed"
+  },
+  "223-225 eastern parade, port adelaide sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8373021,
+    "lng": 138.5178598,
+    "source": "map.html-seed"
+  },
+  "226 esplanade, aldinga beach sa 5173": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.29065569999999,
+    "lng": 138.446466,
+    "source": "map.html-seed"
+  },
+  "226 womma west road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6662695,
+    "lng": 138.5825911,
+    "source": "map.html-seed"
+  },
+  "22a deakin avenue, hope valley sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8384645,
+    "lng": 138.7019177,
+    "source": "map.html-seed"
+  },
+  "23 12a angle vale road, evanston gardens sa 5116": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6228998,
+    "lng": 138.727736,
+    "source": "map.html-seed"
+  },
+  "23 barham avenue, morphettville sa 5043": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9868799,
+    "lng": 138.5460877,
+    "source": "map.html-seed"
+  },
+  "23 barkey street, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8083656,
+    "lng": 138.6558574,
+    "source": "map.html-seed"
+  },
+  "23 crosby road, virginia": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6516771,
+    "lng": 138.5597505,
+    "source": "map.html-seed"
+  },
+  "23 crosby road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6516771,
+    "lng": 138.5597505,
+    "source": "map.html-seed"
+  },
+  "23 destroyer street, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7586637,
+    "lng": 138.682222,
+    "source": "map.html-seed"
+  },
+  "23 kelly road, modbury sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8356287,
+    "lng": 138.6757803,
+    "source": "map.html-seed"
+  },
+  "23 liascos avenue, newton sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8788471,
+    "lng": 138.6783595,
+    "source": "map.html-seed"
+  },
+  "23 nimitz road, elizabeth east sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7258821,
+    "lng": 138.6755128,
+    "source": "map.html-seed"
+  },
+  "23 sprinkler drive, walker flat": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7531205,
+    "lng": 139.5643361,
+    "source": "map.html-seed"
+  },
+  "23 tarton road, holden hill sa 5088": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8555729,
+    "lng": 138.6656954,
+    "source": "map.html-seed"
+  },
+  "233-235 richmond road, richmond sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9424432,
+    "lng": 138.5587205,
+    "source": "map.html-seed"
+  },
+  "2362 old princes highway, kanmantoo sa 5252": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1012218,
+    "lng": 139.0337071,
+    "source": "map.html-seed"
+  },
+  "23b beltana avenue, modbury north sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8265109,
+    "lng": 138.6898749,
+    "source": "map.html-seed"
+  },
+  "24 & 24a farnham terrace, dernancourt sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8613551,
+    "lng": 138.6844477,
+    "source": "map.html-seed"
+  },
+  "24 acrylon road, salisbury south sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7823782,
+    "lng": 138.6439387,
+    "source": "map.html-seed"
+  },
+  "24 john rice avenue, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7472283,
+    "lng": 138.6712043,
+    "source": "map.html-seed"
+  },
+  "24 radar street, st. agnes sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8311764,
+    "lng": 138.7029261,
+    "source": "map.html-seed"
+  },
+  "24 tilshead road, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7076069,
+    "lng": 138.6730763,
+    "source": "map.html-seed"
+  },
+  "24 vanessa drive, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7433943,
+    "lng": 138.6042968,
+    "source": "map.html-seed"
+  },
+  "24-26 hawker road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7308021,
+    "lng": 138.6013916,
+    "source": "map.html-seed"
+  },
+  "240 & 250 penfield road munno para": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6789191,
+    "lng": 138.5839364,
+    "source": "map.html-seed"
+  },
+  "25 kinkaid road, elizabeth east sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7200066,
+    "lng": 138.6808606,
+    "source": "map.html-seed"
+  },
+  "25 ross street, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7567481,
+    "lng": 138.6302022,
+    "source": "map.html-seed"
+  },
+  "250 richmond road, marleston sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9429834,
+    "lng": 138.5574278,
+    "source": "map.html-seed"
+  },
+  "251 goodwood road, kings park sa 5034": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9590326,
+    "lng": 138.5904058,
+    "source": "map.html-seed"
+  },
+  "255 goodwood road, kings park sa 5034": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9590429,
+    "lng": 138.590484,
+    "source": "map.html-seed"
+  },
+  "257 pirie street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9255387,
+    "lng": 138.6092105,
+    "source": "map.html-seed"
+  },
+  "25a tangent avenue, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7456387,
+    "lng": 138.6270512,
+    "source": "map.html-seed"
+  },
+  "25b tangent avenue, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7455511,
+    "lng": 138.6268713,
+    "source": "map.html-seed"
+  },
+  "26 blackburn avenue, glenelg north sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9672825,
+    "lng": 138.5197427,
+    "source": "map.html-seed"
+  },
+  "26 cooroora crescent, lonsdale sa 5160": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1079112,
+    "lng": 138.4933947,
+    "source": "map.html-seed"
+  },
+  "26 devoncourt avenue, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8234191,
+    "lng": 138.6386921,
+    "source": "map.html-seed"
+  },
+  "26 greenhill road, wayville sa 5034": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9421656,
+    "lng": 138.5877928,
+    "source": "map.html-seed"
+  },
+  "26 hewittson road, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7036128,
+    "lng": 138.656077,
+    "source": "map.html-seed"
+  },
+  "26 murray street, angle park sa 5010": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8615341,
+    "lng": 138.5622662,
+    "source": "map.html-seed"
+  },
+  "26 norongo street, o'sullivan beach sa 5166": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1222485,
+    "lng": 138.4837116,
+    "source": "map.html-seed"
+  },
+  "26 pentland road salisbury south sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.783709,
+    "lng": 138.6443046,
+    "source": "map.html-seed"
+  },
+  "26 pilatus drive, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.717452,
+    "lng": 138.6063676,
+    "source": "map.html-seed"
+  },
+  "26 royal avenue pooraka": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8314967,
+    "lng": 138.6158918,
+    "source": "map.html-seed"
+  },
+  "26 townsend street, mount torrens sa 5244": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8728642,
+    "lng": 138.9596015,
+    "source": "map.html-seed"
+  },
+  "26 woodforde street, port augusta west sa 5700": {
+    "cachedAt": "2026-08-25",
+    "lat": -32.484145,
+    "lng": 137.7486745,
+    "source": "map.html-seed"
+  },
+  "26-28 cooroora crescent, lonsdale sa 5160": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1079112,
+    "lng": 138.4933947,
+    "source": "map.html-seed"
+  },
+  "26-30 townsend street, mount torrens sa 5244": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8728642,
+    "lng": 138.9596015,
+    "source": "map.html-seed"
+  },
+  "263 diment road, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7313805,
+    "lng": 138.6145299,
+    "source": "map.html-seed"
+  },
+  "265-271 cormack road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8404302,
+    "lng": 138.5773277,
+    "source": "map.html-seed"
+  },
+  "27 charlton drive, salisbury east": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7901551,
+    "lng": 138.6533441,
+    "source": "map.html-seed"
+  },
+  "27 church street, tea tree gully sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8178002,
+    "lng": 138.7235939,
+    "source": "map.html-seed"
+  },
+  "27 nildottie road, swan reach sa 5354": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.572774,
+    "lng": 139.599785,
+    "source": "map.html-seed"
+  },
+  "27 somerset avenue, redwood park sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8154863,
+    "lng": 138.7153603,
+    "source": "map.html-seed"
+  },
+  "27-28 cooroora crescent, lonsdale sa 5160": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.107364,
+    "lng": 138.4925364,
+    "source": "map.html-seed"
+  },
+  "27-29 twin street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9235702,
+    "lng": 138.6042008,
+    "source": "map.html-seed"
+  },
+  "274 north tce, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.92144010000001,
+    "lng": 138.6082778,
+    "source": "map.html-seed"
+  },
+  "277 churchill road, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.87409299999999,
+    "lng": 138.5844639,
+    "source": "map.html-seed"
+  },
+  "28 & 41 primrose court; 1 levidi court, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6875533,
+    "lng": 138.6633137,
+    "source": "map.html-seed"
+  },
+  "28 ballard road, smithfield plains sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6741603,
+    "lng": 138.6806661,
+    "source": "map.html-seed"
+  },
+  "28 beatty avenue, hillcrest sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8588341,
+    "lng": 138.6511876,
+    "source": "map.html-seed"
+  },
+  "28 bernard court, gawler belt sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5664981,
+    "lng": 138.7516389,
+    "source": "map.html-seed"
+  },
+  "28 christina road, christie downs sa 5164": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.132647,
+    "lng": 138.4863946,
+    "source": "map.html-seed"
+  },
+  "28 fife street, klemzig sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8810316,
+    "lng": 138.6292872,
+    "source": "map.html-seed"
+  },
+  "28 murray avenue, klemzig sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.880994,
+    "lng": 138.6377804,
+    "source": "map.html-seed"
+  },
+  "28 stebonheath rd. edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6988765,
+    "lng": 138.655925,
+    "source": "map.html-seed"
+  },
+  "28 taunton avenue, enfield sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.852516,
+    "lng": 138.607472,
+    "source": "map.html-seed"
+  },
+  "28 traminer way, auldana sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9207362,
+    "lng": 138.6863294,
+    "source": "map.html-seed"
+  },
+  "28-30 green valley drive, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7689712,
+    "lng": 138.6811842,
+    "source": "map.html-seed"
+  },
+  "287 pelican point road, morgan sa 5320": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1291984,
+    "lng": 139.6761773,
+    "source": "map.html-seed"
+  },
+  "28b calton road, gawler east sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6000286,
+    "lng": 138.7529166,
+    "source": "map.html-seed"
+  },
+  "29 ayfield road, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7965553,
+    "lng": 138.6476411,
+    "source": "map.html-seed"
+  },
+  "29 isabella road, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.128573,
+    "lng": 138.5071558,
+    "source": "map.html-seed"
+  },
+  "29 leon street, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7472237,
+    "lng": 138.6331067,
+    "source": "map.html-seed"
+  },
+  "29 minorca crescent, hackham west sa 5163": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1396086,
+    "lng": 138.5087415,
+    "source": "map.html-seed"
+  },
+  "29 seaview road, yatala vale sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7937826,
+    "lng": 138.7345603,
+    "source": "map.html-seed"
+  },
+  "292 symes road, waterloo corner sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7186268,
+    "lng": 138.5451112,
+    "source": "map.html-seed"
+  },
+  "2a broxmore street, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7038795,
+    "lng": 138.6753621,
+    "source": "map.html-seed"
+  },
+  "2a florence crescent, brompton sa 5007": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9015576,
+    "lng": 138.5748012,
+    "source": "map.html-seed"
+  },
+  "2a ramnet circuit, munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6624618,
+    "lng": 138.691383,
+    "source": "map.html-seed"
+  },
+  "3 & 5 crompton road, totness sa 5250": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0551341,
+    "lng": 138.8476827,
+    "source": "map.html-seed"
+  },
+  "3 cardiff street, woodville west sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8907954,
+    "lng": 138.5246058,
+    "source": "map.html-seed"
+  },
+  "3 cleland court, willaston sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5871088,
+    "lng": 138.7382182,
+    "source": "map.html-seed"
+  },
+  "3 collison street, dry creek sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8360827,
+    "lng": 138.5897208,
+    "source": "map.html-seed"
+  },
+  "3 cowper street, glenelg sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9810172,
+    "lng": 138.5166864,
+    "source": "map.html-seed"
+  },
+  "3 gordon road, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8801745,
+    "lng": 138.5943312,
+    "source": "map.html-seed"
+  },
+  "3 grenache avenue, modbury sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8373135,
+    "lng": 138.6805877,
+    "source": "map.html-seed"
+  },
+  "3 hanlin court, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7719438,
+    "lng": 138.603004,
+    "source": "map.html-seed"
+  },
+  "3 lysle street, brooklyn park sa 5032": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9256472,
+    "lng": 138.5475712,
+    "source": "map.html-seed"
+  },
+  "3 malcolm street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7725204,
+    "lng": 138.6466572,
+    "source": "map.html-seed"
+  },
+  "3 mengel court, salisbury south sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.787108,
+    "lng": 138.6455886,
+    "source": "map.html-seed"
+  },
+  "3 northview way, teringie sa 5072 (researched address is 106 norton summit road)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9124685,
+    "lng": 138.7048533,
+    "source": "map.html-seed"
+  },
+  "3 parker street, ferryden park sa 5010": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8631106,
+    "lng": 138.5574258,
+    "source": "map.html-seed"
+  },
+  "3 seaford road, seaford meadows sa 5169": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1795527,
+    "lng": 138.4947445,
+    "source": "map.html-seed"
+  },
+  "3 short street, woodville south sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8886179,
+    "lng": 138.5401315,
+    "source": "map.html-seed"
+  },
+  "3 todd place, west lakes shore sa 5373": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8611032,
+    "lng": 138.4866022,
+    "source": "map.html-seed"
+  },
+  "3 tokay court, wynn vale 5127": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8026832,
+    "lng": 138.7020255,
+    "source": "map.html-seed"
+  },
+  "3 wyatt street, glenelg east sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9832017,
+    "lng": 138.5264483,
+    "source": "map.html-seed"
+  },
+  "3, 9, 11, 16 marblewood way & 30 redwood drive, mount barker 2521": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0971622,
+    "lng": 138.8804305,
+    "source": "google"
+  },
+  "3-5 johm dallwitz avenue angaston": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5060099,
+    "lng": 139.0487408,
+    "source": "map.html-seed"
+  },
+  "30 falkirk avenue, findon sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9025389,
+    "lng": 138.5236056,
+    "source": "map.html-seed"
+  },
+  "30 haig street, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8752434,
+    "lng": 138.6150635,
+    "source": "google"
+  },
+  "30 lurline avenue, gilles plains sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.852618,
+    "lng": 138.6577833,
+    "source": "map.html-seed"
+  },
+  "30 spring street, north plympton sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9549319,
+    "lng": 138.546189,
+    "source": "map.html-seed"
+  },
+  "30 townsend street, mount torrens sa 5244": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8725315,
+    "lng": 138.9597201,
+    "source": "map.html-seed"
+  },
+  "30 wilsden street, walkerville sa 5081": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8872317,
+    "lng": 138.6206993,
+    "source": "map.html-seed"
+  },
+  "30-32 cawthorne street, thebarton sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9130184,
+    "lng": 138.5755808,
+    "source": "map.html-seed"
+  },
+  "300 milne road, modbury heights sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8175304,
+    "lng": 138.6857069,
+    "source": "map.html-seed"
+  },
+  "301 glynburn road, kensington": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9152674,
+    "lng": 138.6580261,
+    "source": "map.html-seed"
+  },
+  "303 grange road, findon sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9049847,
+    "lng": 138.5302118,
+    "source": "map.html-seed"
+  },
+  "303 hanson road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8430161,
+    "lng": 138.5450687,
+    "source": "map.html-seed"
+  },
+  "306-314 diment road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7290093,
+    "lng": 138.6068152,
+    "source": "map.html-seed"
+  },
+  "307 richmond road, west richmond sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9429098,
+    "lng": 138.550047,
+    "source": "map.html-seed"
+  },
+  "31 & 31a blaxland avenue, wynne vale sa 5127": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8036903,
+    "lng": 138.6969385,
+    "source": "map.html-seed"
+  },
+  "31 circuit drive, hendon sa 5014": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8796828,
+    "lng": 138.5187083,
+    "source": "map.html-seed"
+  },
+  "31 davies road, cockatoo valley sa 5351": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6099144,
+    "lng": 138.8273983,
+    "source": "map.html-seed"
+  },
+  "31 garden terrace, underdale sa 5032": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9201446,
+    "lng": 138.5441535,
+    "source": "map.html-seed"
+  },
+  "31 linger crescent, elizabeth downs sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6977782,
+    "lng": 138.7025191,
+    "source": "map.html-seed"
+  },
+  "31 ormsby road, kudla sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6463667,
+    "lng": 138.6992121,
+    "source": "map.html-seed"
+  },
+  "314 payneham road, payneham sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8977519,
+    "lng": 138.6386629,
+    "source": "map.html-seed"
+  },
+  "314 torrens road, croydon park sa 5008": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8822505,
+    "lng": 138.5608418,
+    "source": "map.html-seed"
+  },
+  "318 findon road & 1 adele avenue, kidman park sa 5025": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9077026,
+    "lng": 138.532753,
+    "source": "map.html-seed"
+  },
+  "318 findon road, kidman park sa 5025": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9077026,
+    "lng": 138.532753,
+    "source": "map.html-seed"
+  },
+  "32 austral terrace, morphettville sa 5043": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.98265689999999,
+    "lng": 138.542173,
+    "source": "map.html-seed"
+  },
+  "32 bevington road, glenuga sa 5064": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9518746,
+    "lng": 138.6385235,
+    "source": "map.html-seed"
+  },
+  "32 clift road, ardrossan sa 5571": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4331113,
+    "lng": 137.9088001,
+    "source": "map.html-seed"
+  },
+  "32 durant ave, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.89741660000001,
+    "lng": 138.6804977,
+    "source": "map.html-seed"
+  },
+  "32 gardner street, price sa 5570": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2872465,
+    "lng": 137.9960776,
+    "source": "map.html-seed"
+  },
+  "32 liza ave, happy valley sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0899874,
+    "lng": 138.561623,
+    "source": "map.html-seed"
+  },
+  "32 maple avenue, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8955451,
+    "lng": 138.6813289,
+    "source": "map.html-seed"
+  },
+  "32 owen st, morphettville sa 5043": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9943623,
+    "lng": 138.5463817,
+    "source": "map.html-seed"
+  },
+  "321 tozer road, waterloo corner sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.68939570000001,
+    "lng": 138.5416465,
+    "source": "map.html-seed"
+  },
+  "325 burton road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7489956,
+    "lng": 138.5988102,
+    "source": "map.html-seed"
+  },
+  "33 ann street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.765423,
+    "lng": 138.647997,
+    "source": "map.html-seed"
+  },
+  "33 correena avenue, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.755305,
+    "lng": 138.6218957,
+    "source": "map.html-seed"
+  },
+  "33 edward street, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.756898,
+    "lng": 138.6264008,
+    "source": "map.html-seed"
+  },
+  "33 eyre street, seaview downs sa 5049": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0332764,
+    "lng": 138.5364399,
+    "source": "map.html-seed"
+  },
+  "33 joanne tce, parafield gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7788202,
+    "lng": 138.6236362,
+    "source": "map.html-seed"
+  },
+  "33 lawrie avenue salisbury": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7604928,
+    "lng": 138.6386906,
+    "source": "map.html-seed"
+  },
+  "33 yeltana avenue, huntfield height": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1615975,
+    "lng": 138.5107976,
+    "source": "map.html-seed"
+  },
+  "330 hampstead road, clearview sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8521016,
+    "lng": 138.6172604,
+    "source": "map.html-seed"
+  },
+  "34 borodino court, greenwith sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7680976,
+    "lng": 138.7055893,
+    "source": "map.html-seed"
+  },
+  "34 dulkara road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8319994,
+    "lng": 138.6341747,
+    "source": "map.html-seed"
+  },
+  "34 gordon street, albert park sa 5014": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8722857,
+    "lng": 138.518419,
+    "source": "map.html-seed"
+  },
+  "34 jervois ave, magill sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9101225,
+    "lng": 138.6690465,
+    "source": "map.html-seed"
+  },
+  "34 perre drive, craigmore sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7057459,
+    "lng": 138.7155576,
+    "source": "map.html-seed"
+  },
+  "34 traverse avenue, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.74311,
+    "lng": 138.629319,
+    "source": "map.html-seed"
+  },
+  "34 ward street, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6864886,
+    "lng": 138.6750933,
+    "source": "map.html-seed"
+  },
+  "341 blackfellows creek road, blackfellows creek sa 5201": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2527739,
+    "lng": 138.7067846,
+    "source": "map.html-seed"
+  },
+  "343 bridge road, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8123847,
+    "lng": 138.6446709,
+    "source": "map.html-seed"
+  },
+  "346 hanson road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8434038,
+    "lng": 138.54664,
+    "source": "map.html-seed"
+  },
+  "35 barndioota road, salisbury sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7673137,
+    "lng": 138.6633911,
+    "source": "map.html-seed"
+  },
+  "35 donnington rd, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6935234,
+    "lng": 138.6765843,
+    "source": "map.html-seed"
+  },
+  "35 gilbert street, newton sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8841834,
+    "lng": 138.6865076,
+    "source": "map.html-seed"
+  },
+  "35 jane street, willaston sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.58146869999999,
+    "lng": 138.7441678,
+    "source": "map.html-seed"
+  },
+  "35 pool street, birdwood sa 5234": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8185065,
+    "lng": 138.9696105,
+    "source": "map.html-seed"
+  },
+  "35 ross road, hectorville sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8929199,
+    "lng": 138.6672823,
+    "source": "map.html-seed"
+  },
+  "352 richmond road, netley sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9439012,
+    "lng": 138.5464344,
+    "source": "map.html-seed"
+  },
+  "36 clement street, plympton park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9727194,
+    "lng": 138.5525587,
+    "source": "map.html-seed"
+  },
+  "36 griffiths road, kudla sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6430098,
+    "lng": 138.6968975,
+    "source": "map.html-seed"
+  },
+  "36 norrie avenue clovelly park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9964232,
+    "lng": 138.5712756,
+    "source": "map.html-seed"
+  },
+  "360 richmond road, netley sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9437781,
+    "lng": 138.5460965,
+    "source": "map.html-seed"
+  },
+  "364-370 shepherds hill road, blackwood sa 5051": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0214521,
+    "lng": 138.6161856,
+    "source": "map.html-seed"
+  },
+  "36a marcian avenue, elizabeth downs": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6926852,
+    "lng": 138.689053,
+    "source": "map.html-seed"
+  },
+  "36b ridgeland drive, teringie sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9132675,
+    "lng": 138.7031285,
+    "source": "map.html-seed"
+  },
+  "37 jago street salisbury": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7723851,
+    "lng": 138.6467418,
+    "source": "map.html-seed"
+  },
+  "37 londonderry avenue": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7713928,
+    "lng": 138.6278596,
+    "source": "map.html-seed"
+  },
+  "37-47 kaurna avenue, edinburgh sa 5111": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7323894,
+    "lng": 138.6284754,
+    "source": "map.html-seed"
+  },
+  "370 grenfell road, surrey downs sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8054548,
+    "lng": 138.7152169,
+    "source": "map.html-seed"
+  },
+  "371 & 389 diment road, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7256463,
+    "lng": 138.6036801,
+    "source": "map.html-seed"
+  },
+  "376 hancock road, surreys downs sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7990462,
+    "lng": 138.7167117,
+    "source": "map.html-seed"
+  },
+  "38 alpha road, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8832361,
+    "lng": 138.6000953,
+    "source": "map.html-seed"
+  },
+  "38 clacton road, dover gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0218311,
+    "lng": 138.5399627,
+    "source": "map.html-seed"
+  },
+  "386d one tree hill road, gould creek sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7632664,
+    "lng": 138.7542282,
+    "source": "map.html-seed"
+  },
+  "388 hancock road, surrey downs sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7977796,
+    "lng": 138.7166253,
+    "source": "map.html-seed"
+  },
+  "388 main north road, blair athol sa 5084": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8630748,
+    "lng": 138.600825,
+    "source": "map.html-seed"
+  },
+  "389 diment road, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7249691,
+    "lng": 138.6024353,
+    "source": "map.html-seed"
+  },
+  "39 & 41 angus avenue, edwardstown sa 5039": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.97522,
+    "lng": 138.5687144,
+    "source": "map.html-seed"
+  },
+  "39 anderson walk, smithfield sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6812803,
+    "lng": 138.6865446,
+    "source": "map.html-seed"
+  },
+  "39 helps road, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7261369,
+    "lng": 138.6078338,
+    "source": "map.html-seed"
+  },
+  "39 memorial avenue, keith sa 5267": {
+    "cachedAt": "2026-08-25",
+    "lat": -36.09325949999999,
+    "lng": 140.3494856,
+    "source": "map.html-seed"
+  },
+  "39 montague road, pooraka sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8248901,
+    "lng": 138.6210662,
+    "source": "map.html-seed"
+  },
+  "39 piccadilly road, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7796795,
+    "lng": 138.6711933,
+    "source": "map.html-seed"
+  },
+  "39 stanford road, salisbury heights": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7662571,
+    "lng": 138.6800614,
+    "source": "map.html-seed"
+  },
+  "39 washington drive, craigmore sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6857861,
+    "lng": 138.7100909,
+    "source": "map.html-seed"
+  },
+  "391 & 403 martins road, green fields sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7912262,
+    "lng": 138.5988511,
+    "source": "map.html-seed"
+  },
+  "39b anderson walk, smithfield sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6812104,
+    "lng": 138.685801,
+    "source": "map.html-seed"
+  },
+  "3a carlow avenue, athelstone sa 5076": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8665693,
+    "lng": 138.7029579,
+    "source": "map.html-seed"
+  },
+  "4 & 6 secombe street, elizabeth grove sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7360003,
+    "lng": 138.6655879,
+    "source": "map.html-seed"
+  },
+  "4 belfree drive, green fields sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7956097,
+    "lng": 138.6045759,
+    "source": "map.html-seed"
+  },
+  "4 bilney drive, athelstone sa 5076": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8623838,
+    "lng": 138.7110837,
+    "source": "map.html-seed"
+  },
+  "4 blackham crescent, smithfield plains sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6791532,
+    "lng": 138.6833317,
+    "source": "map.html-seed"
+  },
+  "4 boden court, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8670795,
+    "lng": 138.6483725,
+    "source": "map.html-seed"
+  },
+  "4 coleman parade, evanston park sa 5116": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6179782,
+    "lng": 138.745324,
+    "source": "map.html-seed"
+  },
+  "4 crafter street, fairview park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7985497,
+    "lng": 138.7187267,
+    "source": "map.html-seed"
+  },
+  "4 duberal avenue, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7883549,
+    "lng": 138.659617,
+    "source": "map.html-seed"
+  },
+  "4 falie avenue, wallaroo sa 5556": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.9213525,
+    "lng": 137.6426773,
+    "source": "map.html-seed"
+  },
+  "4 hughes avenue, moonta bay 5558": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.0561574,
+    "lng": 137.5617591,
+    "source": "map.html-seed"
+  },
+  "4 katrina avenue, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8803261,
+    "lng": 138.6433643,
+    "source": "map.html-seed"
+  },
+  "4 kay court, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7477465,
+    "lng": 138.6363316,
+    "source": "map.html-seed"
+  },
+  "4 la perouse avenue, flinders park sa 5025": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9052441,
+    "lng": 138.5519907,
+    "source": "map.html-seed"
+  },
+  "4 leigh street, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7657657,
+    "lng": 138.6902709,
+    "source": "map.html-seed"
+  },
+  "4 malbec avenue, hope valley sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.83907930000001,
+    "lng": 138.7173519,
+    "source": "map.html-seed"
+  },
+  "4 marina way, mannum sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9318778,
+    "lng": 139.2944428,
+    "source": "map.html-seed"
+  },
+  "4 mcnab place, seaton sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8997403,
+    "lng": 138.5221387,
+    "source": "map.html-seed"
+  },
+  "4 ponder pde., port vincent sa 5581": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7840654,
+    "lng": 137.8574185,
+    "source": "map.html-seed"
+  },
+  "4 tiver road, evanston south sa 5116": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6400366,
+    "lng": 138.7246841,
+    "source": "map.html-seed"
+  },
+  "4 trimmer road, elizabeth south sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7408241,
+    "lng": 138.6616124,
+    "source": "map.html-seed"
+  },
+  "4-6 light common, mawson lakes sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8088886,
+    "lng": 138.6152567,
+    "source": "google"
+  },
+  "40 bundey street, magill sa 5072": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9085172,
+    "lng": 138.671789,
+    "source": "map.html-seed"
+  },
+  "40 wake road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6228346,
+    "lng": 138.558312,
+    "source": "map.html-seed"
+  },
+  "40 york street, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8370239,
+    "lng": 138.5667698,
+    "source": "map.html-seed"
+  },
+  "40-42 merchant cres pooraka": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8321709,
+    "lng": 138.6108707,
+    "source": "map.html-seed"
+  },
+  "400 & 416 martins road, green fields sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7933499,
+    "lng": 138.5992735,
+    "source": "map.html-seed"
+  },
+  "400 diment road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7243516,
+    "lng": 138.5978039,
+    "source": "map.html-seed"
+  },
+  "405 craigmore road, uleybury sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6861251,
+    "lng": 138.732203,
+    "source": "map.html-seed"
+  },
+  "41 college drive, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8888097,
+    "lng": 138.6855759,
+    "source": "map.html-seed"
+  },
+  "41 eton street, malvern sa 5061": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.95690080000001,
+    "lng": 138.6114919,
+    "source": "map.html-seed"
+  },
+  "41 grange road, lower mitcham sa 5062": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9767114,
+    "lng": 138.6030543,
+    "source": "map.html-seed"
+  },
+  "41 seaford road, seaford meadows sa 5169": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1801901,
+    "lng": 138.485698,
+    "source": "map.html-seed"
+  },
+  "42 bowman street, elizabeth park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7111916,
+    "lng": 138.6867905,
+    "source": "map.html-seed"
+  },
+  "42 penong crescent, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.73557,
+    "lng": 138.6182949,
+    "source": "map.html-seed"
+  },
+  "42 the parade, holden hill sa 5088": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8537455,
+    "lng": 138.6766439,
+    "source": "map.html-seed"
+  },
+  "42- 46 kinkaid avenue, north plympton sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9575213,
+    "lng": 138.5398071,
+    "source": "map.html-seed"
+  },
+  "42/46 kinkaid ave. & 48-52 kinkaid ave. north plympton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9576955,
+    "lng": 138.5393128,
+    "source": "map.html-seed"
+  },
+  "425 anzac hwy, camden park 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9727149,
+    "lng": 138.5406521,
+    "source": "map.html-seed"
+  },
+  "43 gulf parade, maslin beach sa 5170": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2264388,
+    "lng": 138.4763705,
+    "source": "map.html-seed"
+  },
+  "43 roberts road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6266238,
+    "lng": 138.6122126,
+    "source": "map.html-seed"
+  },
+  "43 sturt valley road, stirling sa 5152": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0098627,
+    "lng": 138.7035143,
+    "source": "map.html-seed"
+  },
+  "44 ferguson avenue, myrtle bank sa 5064": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9600032,
+    "lng": 138.6330468,
+    "source": "map.html-seed"
+  },
+  "448 gilles street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.933204,
+    "lng": 138.6171803,
+    "source": "map.html-seed"
+  },
+  "45 antarlo road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8349341,
+    "lng": 138.6448583,
+    "source": "map.html-seed"
+  },
+  "45 cecilia road, christies downs sa 5164": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1297744,
+    "lng": 138.4878917,
+    "source": "map.html-seed"
+  },
+  "45 johnston road, elizabeth downs sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6963498,
+    "lng": 138.6876624,
+    "source": "map.html-seed"
+  },
+  "45 mayes road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6530124,
+    "lng": 138.5636036,
+    "source": "map.html-seed"
+  },
+  "45 sheedy road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6700452,
+    "lng": 138.554935,
+    "source": "map.html-seed"
+  },
+  "45 wodonga street, beverly sa 5009": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8941598,
+    "lng": 138.5428552,
+    "source": "map.html-seed"
+  },
+  "451 nettle hill road, hindmarsh valley sa 5211": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.4462884,
+    "lng": 138.5920142,
+    "source": "map.html-seed"
+  },
+  "451 south road, regency park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8619561,
+    "lng": 138.5683506,
+    "source": "map.html-seed"
+  },
+  "452-454 grange road, fuham gardens sa 5024": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9066689,
+    "lng": 138.5138434,
+    "source": "map.html-seed"
+  },
+  "453/455 salisbury highway, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7890808,
+    "lng": 138.6170415,
+    "source": "map.html-seed"
+  },
+  "456": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "456 magill road, kensington gardens sa 5068": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9138697,
+    "lng": 138.664048,
+    "source": "map.html-seed"
+  },
+  "46 baldock road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8262974,
+    "lng": 138.659551,
+    "source": "map.html-seed"
+  },
+  "46 swan terrace, ethelton sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8483885,
+    "lng": 138.4858136,
+    "source": "map.html-seed"
+  },
+  "461 south road, regency park 5010": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8724803,
+    "lng": 138.5731162,
+    "source": "map.html-seed"
+  },
+  "465 & 466 marina way, mannum sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9321739,
+    "lng": 139.2949616,
+    "source": "map.html-seed"
+  },
+  "47 albert st, gumeracha sa 5233": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8212388,
+    "lng": 138.8866046,
+    "source": "map.html-seed"
+  },
+  "47 amundsen drive, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8223945,
+    "lng": 138.6567167,
+    "source": "map.html-seed"
+  },
+  "47 fortrose avenue, seaton sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9007987,
+    "lng": 138.5181222,
+    "source": "map.html-seed"
+  },
+  "47 naweena road, regency park 5010": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8534785,
+    "lng": 138.5727209,
+    "source": "map.html-seed"
+  },
+  "47 sandpiper drive, thompson beach sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4851072,
+    "lng": 138.2826538,
+    "source": "map.html-seed"
+  },
+  "470 curtis road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6588733,
+    "lng": 138.651545,
+    "source": "map.html-seed"
+  },
+  "476 anzac hwy, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9752423,
+    "lng": 138.5381049,
+    "source": "map.html-seed"
+  },
+  "48 stanbel road, salisbury plain sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7683675,
+    "lng": 138.6586847,
+    "source": "map.html-seed"
+  },
+  "48 the esplanade, clinton sa 5570": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2327008,
+    "lng": 138.010641,
+    "source": "map.html-seed"
+  },
+  "48 tod street, glenelg north sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9693081,
+    "lng": 138.5157889,
+    "source": "map.html-seed"
+  },
+  "48-52 stanbel road, salisbury plains sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7686479,
+    "lng": 138.6586591,
+    "source": "map.html-seed"
+  },
+  "481 womma west road, penfield gardens 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6764273,
+    "lng": 138.6072462,
+    "source": "map.html-seed"
+  },
+  "481 womma west road, penfield gardens sa 5191": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6764273,
+    "lng": 138.6072462,
+    "source": "map.html-seed"
+  },
+  "487 salisbury highway, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7915299,
+    "lng": 138.6149476,
+    "source": "map.html-seed"
+  },
+  "49 alfred street, parkside sa 5063": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.943461,
+    "lng": 138.6171164,
+    "source": "map.html-seed"
+  },
+  "49 coomurra drive, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7570784,
+    "lng": 138.6871717,
+    "source": "map.html-seed"
+  },
+  "49 portrush road, payneham sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9005207,
+    "lng": 138.6391603,
+    "source": "map.html-seed"
+  },
+  "49 wood street, kurralta park sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9513472,
+    "lng": 138.5649105,
+    "source": "map.html-seed"
+  },
+  "49 wood street, south plympton sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9823136,
+    "lng": 138.5613144,
+    "source": "map.html-seed"
+  },
+  "4b & 4c grayling street, elizabeth east": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7204338,
+    "lng": 138.6797185,
+    "source": "map.html-seed"
+  },
+  "5 & 7 jackson street, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7922246,
+    "lng": 138.6156591,
+    "source": "map.html-seed"
+  },
+  "5 bruce avenue, marleston sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9433112,
+    "lng": 138.5659328,
+    "source": "map.html-seed"
+  },
+  "5 carr street, pooraka sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8285411,
+    "lng": 138.6307529,
+    "source": "map.html-seed"
+  },
+  "5 colline street, surrey downs sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8035937,
+    "lng": 138.7150222,
+    "source": "map.html-seed"
+  },
+  "5 down court, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.816011,
+    "lng": 138.6509874,
+    "source": "map.html-seed"
+  },
+  "5 hasse court, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7733719,
+    "lng": 138.6101035,
+    "source": "map.html-seed"
+  },
+  "5 high street, balgowan sa 5573": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3251517,
+    "lng": 137.4952338,
+    "source": "map.html-seed"
+  },
+  "5 hilltop avenue, ridgehaven sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8202795,
+    "lng": 138.7046271,
+    "source": "map.html-seed"
+  },
+  "5 holt ct, hope valley, sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8382378,
+    "lng": 138.70141,
+    "source": "map.html-seed"
+  },
+  "5 lister street, elizabeth vale sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7453682,
+    "lng": 138.6678404,
+    "source": "map.html-seed"
+  },
+  "5 mclean street, findon": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9036058,
+    "lng": 138.5485214,
+    "source": "map.html-seed"
+  },
+  "5 providence drive, bowhill sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8842808,
+    "lng": 139.6191024,
+    "source": "map.html-seed"
+  },
+  "5 terry street, blakeview sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6841072,
+    "lng": 138.7180692,
+    "source": "map.html-seed"
+  },
+  "5 weetunga street, fulham sa 5024": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9249219,
+    "lng": 138.5184283,
+    "source": "map.html-seed"
+  },
+  "5 whittington road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6861329,
+    "lng": 138.6764628,
+    "source": "map.html-seed"
+  },
+  "50 reservoir rd, hope valley sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8396802,
+    "lng": 138.6876601,
+    "source": "map.html-seed"
+  },
+  "504 port wakefield road, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7785997,
+    "lng": 138.5964708,
+    "source": "map.html-seed"
+  },
+  "506 yatala vale road, yatala vale sa 5126": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.79328750000001,
+    "lng": 138.7273235,
+    "source": "map.html-seed"
+  },
+  "509 torrens road, woodville sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8735065,
+    "lng": 138.5450514,
+    "source": "map.html-seed"
+  },
+  "51 fenden road, salisbury sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7650499,
+    "lng": 138.6551884,
+    "source": "map.html-seed"
+  },
+  "51 kings road, salisbury downs sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.77631119999999,
+    "lng": 138.6222484,
+    "source": "map.html-seed"
+  },
+  "51 pirie st, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9258598,
+    "lng": 138.601822,
+    "source": "map.html-seed"
+  },
+  "51 volare avenue, para vista": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8303983,
+    "lng": 138.6670443,
+    "source": "map.html-seed"
+  },
+  "519 womma road, penfield sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6857043,
+    "lng": 138.6285865,
+    "source": "map.html-seed"
+  },
+  "52 borrow street, freeling sa 5372": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4510583,
+    "lng": 138.8179203,
+    "source": "map.html-seed"
+  },
+  "52 carlisle street, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9670737,
+    "lng": 138.5381534,
+    "source": "map.html-seed"
+  },
+  "52 lookout drive, murray bridge east sa 5253": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1042685,
+    "lng": 139.28694,
+    "source": "map.html-seed"
+  },
+  "52 marquisite drive, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.783929,
+    "lng": 138.6680016,
+    "source": "map.html-seed"
+  },
+  "521 main north road, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7133098,
+    "lng": 138.6739746,
+    "source": "map.html-seed"
+  },
+  "53 & 91 short road, penfield gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6639031,
+    "lng": 138.6195941,
+    "source": "map.html-seed"
+  },
+  "53 harvest boulevard, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6320905,
+    "lng": 138.6549999,
+    "source": "map.html-seed"
+  },
+  "535 regency road, sefton park sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8736112,
+    "lng": 138.6080336,
+    "source": "map.html-seed"
+  },
+  "535 south road, ashford sa 5035": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.949427,
+    "lng": 138.572109,
+    "source": "map.html-seed"
+  },
+  "53a nimitz road, elizabeth east sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.727944,
+    "lng": 138.6760911,
+    "source": "map.html-seed"
+  },
+  "54 donnington road, elizabeth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6931585,
+    "lng": 138.6788625,
+    "source": "map.html-seed"
+  },
+  "55 & 57 coomurra drive, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7569777,
+    "lng": 138.6864321,
+    "source": "map.html-seed"
+  },
+  "55 janine drive, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7430356,
+    "lng": 138.6042095,
+    "source": "map.html-seed"
+  },
+  "55 kettering road, elizabeth south sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7467167,
+    "lng": 138.6469604,
+    "source": "map.html-seed"
+  },
+  "55 upper sturt rd, upper sturt, sa 5156": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0151736,
+    "lng": 138.6959768,
+    "source": "map.html-seed"
+  },
+  "56-60 hindmarsh road, mccracken sa 5211": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5412952,
+    "lng": 138.634766,
+    "source": "map.html-seed"
+  },
+  "561 grange road, grange sa 5022": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.906578,
+    "lng": 138.5047235,
+    "source": "map.html-seed"
+  },
+  "562 main north road, gepps cross sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8471441,
+    "lng": 138.6004842,
+    "source": "map.html-seed"
+  },
+  "563 coleman road, pinkerton plains sa 5400": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4378553,
+    "lng": 138.6122947,
+    "source": "map.html-seed"
+  },
+  "57 eight avenue, st. peters sa 5069": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9026231,
+    "lng": 138.6213665,
+    "source": "map.html-seed"
+  },
+  "57 johns road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6309339,
+    "lng": 138.5880893,
+    "source": "map.html-seed"
+  },
+  "57 oakridge rise, huntfield heights sa 5163": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1480937,
+    "lng": 138.5202273,
+    "source": "map.html-seed"
+  },
+  "575 womma road, penfield sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6836965,
+    "lng": 138.6225611,
+    "source": "map.html-seed"
+  },
+  "58 ashbrook avenue, payneham sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8997083,
+    "lng": 138.6457837,
+    "source": "map.html-seed"
+  },
+  "58 eliza street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7684268,
+    "lng": 138.6324598,
+    "source": "map.html-seed"
+  },
+  "58 gawler road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6533559,
+    "lng": 138.5681678,
+    "source": "map.html-seed"
+  },
+  "58 gregory street, brahma lodge sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7783042,
+    "lng": 138.6518986,
+    "source": "map.html-seed"
+  },
+  "58 main north road, prospect": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8936935,
+    "lng": 138.6023476,
+    "source": "map.html-seed"
+  },
+  "58 ruskin road, dublin sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4580744,
+    "lng": 138.3428203,
+    "source": "map.html-seed"
+  },
+  "58 yulinda tce, gulfview heights sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8062412,
+    "lng": 138.6609405,
+    "source": "map.html-seed"
+  },
+  "581 grand junction road, gepps cross sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.848054,
+    "lng": 138.5904319,
+    "source": "map.html-seed"
+  },
+  "585 south road, regency park sa 5010": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8542381,
+    "lng": 138.5658706,
+    "source": "map.html-seed"
+  },
+  "59 barilla avenue, munno para downs": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6488501,
+    "lng": 138.6790042,
+    "source": "map.html-seed"
+  },
+  "59-71 heaslip road burton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7278042,
+    "lng": 138.5968968,
+    "source": "map.html-seed"
+  },
+  "590 main north road, gepps cross": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8433787,
+    "lng": 138.6025314,
+    "source": "google"
+  },
+  "590a main north road, gepps cross sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8439302,
+    "lng": 138.6027304,
+    "source": "map.html-seed"
+  },
+  "59a valley road, hope valley sa 5090": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.847078,
+    "lng": 138.7022939,
+    "source": "map.html-seed"
+  },
+  "5a joseph street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7568642,
+    "lng": 138.6471728,
+    "source": "map.html-seed"
+  },
+  "6 & 12 bruce avenue, marleston sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9434054,
+    "lng": 138.5650714,
+    "source": "map.html-seed"
+  },
+  "6 & 7 winchester crescent, golden grove sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7779928,
+    "lng": 138.7136771,
+    "source": "map.html-seed"
+  },
+  "6 & 8a strawson road, northfield sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.84351729999999,
+    "lng": 138.6262262,
+    "source": "map.html-seed"
+  },
+  "6 armstrong street, blanchetown sa 5357": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3587052,
+    "lng": 139.6208046,
+    "source": "map.html-seed"
+  },
+  "6 barker avenue, tea tree gully sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.82403,
+    "lng": 138.7210125,
+    "source": "map.html-seed"
+  },
+  "6 bayview road, point turton sa 5575": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9519541,
+    "lng": 137.3588696,
+    "source": "map.html-seed"
+  },
+  "6 cavenagh street, elizabeth downs sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6971194,
+    "lng": 138.7002454,
+    "source": "map.html-seed"
+  },
+  "6 chapel street, burra sa 5417": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.6840914,
+    "lng": 138.9393758,
+    "source": "map.html-seed"
+  },
+  "6 denning avenue, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8237268,
+    "lng": 138.6471058,
+    "source": "map.html-seed"
+  },
+  "6 fourth avenue, warradale sa 5046": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0102895,
+    "lng": 138.5344318,
+    "source": "map.html-seed"
+  },
+  "6 heaslip road, waterloo corner sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7293978,
+    "lng": 138.5887859,
+    "source": "map.html-seed"
+  },
+  "6 helps road, direk sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7217006,
+    "lng": 138.6132687,
+    "source": "map.html-seed"
+  },
+  "6 highet street, modbury north sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.81883699999999,
+    "lng": 138.6689121,
+    "source": "map.html-seed"
+  },
+  "6 kelly road, valley view sa 5093": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8382474,
+    "lng": 138.6753007,
+    "source": "map.html-seed"
+  },
+  "6 kurrajong place, seacombe gardens sa 5047": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0257965,
+    "lng": 138.5475075,
+    "source": "map.html-seed"
+  },
+  "6 langford drive, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.720464,
+    "lng": 138.6648433,
+    "source": "map.html-seed"
+  },
+  "6 newman avenue, tea tree gully sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8224252,
+    "lng": 138.7206213,
+    "source": "map.html-seed"
+  },
+  "6 orchestra place, salisbury heights": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7640724,
+    "lng": 138.6920473,
+    "source": "map.html-seed"
+  },
+  "6 page drive, blanchetown sa 5357": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3589735,
+    "lng": 139.6221655,
+    "source": "map.html-seed"
+  },
+  "6 telford road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8320301,
+    "lng": 138.6514061,
+    "source": "map.html-seed"
+  },
+  "6 watson avenue, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8686902,
+    "lng": 138.617746,
+    "source": "map.html-seed"
+  },
+  "6 welland avenue, port noarlunga sa 5167": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.14839480000001,
+    "lng": 138.4691249,
+    "source": "map.html-seed"
+  },
+  "6 winchester crescent, golden grove sa 5125": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7779928,
+    "lng": 138.7136771,
+    "source": "map.html-seed"
+  },
+  "6/8 quinlivan road & 93/95 montague road, pooraka sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.82477799999999,
+    "lng": 138.6272992,
+    "source": "map.html-seed"
+  },
+  "60 glenloth dr, happy valley sa 5159, australia": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0849326,
+    "lng": 138.5735223,
+    "source": "google"
+  },
+  "60 glenloth drive, happy valley sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0849326,
+    "lng": 138.5735223,
+    "source": "map.html-seed"
+  },
+  "60 heathersett drive, salisbury park sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7585021,
+    "lng": 138.671642,
+    "source": "map.html-seed"
+  },
+  "60 king william street": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9234552,
+    "lng": 138.5998534,
+    "source": "map.html-seed"
+  },
+  "60 king william street imperial place, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9234552,
+    "lng": 138.5998534,
+    "source": "map.html-seed"
+  },
+  "601 main north road, elizabeth north sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7049157,
+    "lng": 138.6792525,
+    "source": "map.html-seed"
+  },
+  "61 germantown road, two wells": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.60409569999999,
+    "lng": 138.5544543,
+    "source": "map.html-seed"
+  },
+  "61 stanbel road, salisbury sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7699858,
+    "lng": 138.6594751,
+    "source": "map.html-seed"
+  },
+  "61-67 plymouth road, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8427932,
+    "lng": 138.5526356,
+    "source": "map.html-seed"
+  },
+  "610 regency road, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8726508,
+    "lng": 138.6152325,
+    "source": "map.html-seed"
+  },
+  "618 lower north east road, campbelltown sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8783672,
+    "lng": 138.664237,
+    "source": "map.html-seed"
+  },
+  "619 &amp; 621 portrush road, glen osmond sa 5064": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.95811260000001,
+    "lng": 138.6435305,
+    "source": "map.html-seed"
+  },
+  "62 glenloth drive, happy valley sa 5159": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0848008,
+    "lng": 138.5736895,
+    "source": "map.html-seed"
+  },
+  "625 angle vale road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6381064,
+    "lng": 138.6644282,
+    "source": "map.html-seed"
+  },
+  "63 edgecombe road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6851578,
+    "lng": 138.6647917,
+    "source": "map.html-seed"
+  },
+  "63 knightsbridge avenue, valley view sa 5093": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.835548,
+    "lng": 138.6737472,
+    "source": "map.html-seed"
+  },
+  "63 spains road, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.76957489999999,
+    "lng": 138.6324427,
+    "source": "map.html-seed"
+  },
+  "63-69 angas street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9302826,
+    "lng": 138.6033359,
+    "source": "map.html-seed"
+  },
+  "64-66 deeds road, north plympton sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9562868,
+    "lng": 138.5401099,
+    "source": "map.html-seed"
+  },
+  "66 auricchio avenue, st marys sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0091304,
+    "lng": 138.5844318,
+    "source": "map.html-seed"
+  },
+  "66 elizabeth road, christie downs sa 5164": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1344244,
+    "lng": 138.496923,
+    "source": "map.html-seed"
+  },
+  "66 gilbert street, lyndoch sa 5351": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6032917,
+    "lng": 138.8821478,
+    "source": "map.html-seed"
+  },
+  "66 highbury street, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8951221,
+    "lng": 138.5998938,
+    "source": "map.html-seed"
+  },
+  "67 camira way, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.73443080000001,
+    "lng": 138.6245599,
+    "source": "map.html-seed"
+  },
+  "67 coomurra drive, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7582241,
+    "lng": 138.6851998,
+    "source": "map.html-seed"
+  },
+  "67 page drive, blanchetown sa 5357": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3620047,
+    "lng": 139.6267946,
+    "source": "map.html-seed"
+  },
+  "67 pelican point road, morgan sa 5320": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1291534,
+    "lng": 139.6801272,
+    "source": "map.html-seed"
+  },
+  "671 port wakefield road, globe derby": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7883559,
+    "lng": 138.5950668,
+    "source": "map.html-seed"
+  },
+  "685 whites road, globe derby park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7913428,
+    "lng": 138.5829236,
+    "source": "map.html-seed"
+  },
+  "685 whites road, globe derby park sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7913428,
+    "lng": 138.5829236,
+    "source": "map.html-seed"
+  },
+  "68a&b wyatt road, parafield gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7933794,
+    "lng": 138.6122612,
+    "source": "map.html-seed"
+  },
+  "69 sansom road, west lakes shore sa 5020": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8569825,
+    "lng": 138.4839081,
+    "source": "map.html-seed"
+  },
+  "7 chat court, thompson beach sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4857818,
+    "lng": 138.2837677,
+    "source": "map.html-seed"
+  },
+  "7 chester street, largs bay sa 5016": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8221167,
+    "lng": 138.4892379,
+    "source": "map.html-seed"
+  },
+  "7 dakota drive, parafield airport sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7884008,
+    "lng": 138.6364357,
+    "source": "map.html-seed"
+  },
+  "7 doreen street, vale park sa 5081": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8824267,
+    "lng": 138.6243043,
+    "source": "map.html-seed"
+  },
+  "7 duldig avenue, gawler east sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5999106,
+    "lng": 138.754194,
+    "source": "map.html-seed"
+  },
+  "7 gully view court, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7636683,
+    "lng": 138.6855528,
+    "source": "map.html-seed"
+  },
+  "7 ireland street, wallaroo sa 5556": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.9281635,
+    "lng": 137.6341947,
+    "source": "map.html-seed"
+  },
+  "7 mitchell drive, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8066343,
+    "lng": 138.6582786,
+    "source": "map.html-seed"
+  },
+  "7 narambi avenue ingle farm": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8351941,
+    "lng": 138.6313041,
+    "source": "map.html-seed"
+  },
+  "7 paula avenue, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.863791,
+    "lng": 138.6496477,
+    "source": "map.html-seed"
+  },
+  "7 pix road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6827788,
+    "lng": 138.6705565,
+    "source": "map.html-seed"
+  },
+  "7 playford drive, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1290731,
+    "lng": 138.5408283,
+    "source": "map.html-seed"
+  },
+  "7 riggs court, one tree hill sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7179338,
+    "lng": 138.7688319,
+    "source": "map.html-seed"
+  },
+  "7 robert street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7618838,
+    "lng": 138.6393352,
+    "source": "map.html-seed"
+  },
+  "7 shelduck court, wynn vale sa 5127": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7994667,
+    "lng": 138.6984799,
+    "source": "map.html-seed"
+  },
+  "7 slight street, kapunda sa 5373": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3346909,
+    "lng": 138.9115696,
+    "source": "map.html-seed"
+  },
+  "7 teal crescent, thompson beach 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4775291,
+    "lng": 138.2694499,
+    "source": "map.html-seed"
+  },
+  "7 teal crescent, thompson beach sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4775291,
+    "lng": 138.2694499,
+    "source": "map.html-seed"
+  },
+  "7 todd road, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8044919,
+    "lng": 138.6529213,
+    "source": "map.html-seed"
+  },
+  "7 tralee avenue, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8717957,
+    "lng": 138.6163674,
+    "source": "map.html-seed"
+  },
+  "70 & 68 harriet st, west croydon sa 5008": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8895183,
+    "lng": 138.5624602,
+    "source": "map.html-seed"
+  },
+  "71 gawler road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5900601,
+    "lng": 138.5910228,
+    "source": "map.html-seed"
+  },
+  "71 main north road, willaston sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5829471,
+    "lng": 138.7463568,
+    "source": "map.html-seed"
+  },
+  "72 angle vale road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6415656,
+    "lng": 138.6438683,
+    "source": "map.html-seed"
+  },
+  "72a brandis road, munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6567897,
+    "lng": 138.6725334,
+    "source": "map.html-seed"
+  },
+  "73 galloway road, o'sullivan beach sa 5166": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1223488,
+    "lng": 138.4759834,
+    "source": "map.html-seed"
+  },
+  "73 graves street, newton sa 5074": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8807511,
+    "lng": 138.6858444,
+    "source": "map.html-seed"
+  },
+  "73 lovick road, clarendon sa 5157": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1170401,
+    "lng": 138.600285,
+    "source": "map.html-seed"
+  },
+  "739 & 745 port road, woodville sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8829612,
+    "lng": 138.5395302,
+    "source": "map.html-seed"
+  },
+  "74 beaumont road, verdun sa 5245": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.001424,
+    "lng": 138.7952866,
+    "source": "map.html-seed"
+  },
+  "74 corcoran avenue, goolwa beach sa 5214": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5170228,
+    "lng": 138.7651917,
+    "source": "map.html-seed"
+  },
+  "74-78 melbourne street, north adelaide sa 5006": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9062762,
+    "lng": 138.6083759,
+    "source": "map.html-seed"
+  },
+  "75 nelson road, valley view sa 5093": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8399301,
+    "lng": 138.6622672,
+    "source": "map.html-seed"
+  },
+  "75 penong avenue, camden park sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9636516,
+    "lng": 138.5387078,
+    "source": "google"
+  },
+  "75 the strand, reynella sa 5161": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0951554,
+    "lng": 138.5264076,
+    "source": "map.html-seed"
+  },
+  "753 old port wakefield road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.64821209999999,
+    "lng": 138.5542174,
+    "source": "map.html-seed"
+  },
+  "76 gordon road kudla": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.632631,
+    "lng": 138.7125324,
+    "source": "map.html-seed"
+  },
+  "76 gordon road, kudla sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.632631,
+    "lng": 138.7125324,
+    "source": "map.html-seed"
+  },
+  "78 auricchio avenue, pasadena sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0090976,
+    "lng": 138.5858364,
+    "source": "map.html-seed"
+  },
+  "78 brandis road, munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6566585,
+    "lng": 138.6716689,
+    "source": "map.html-seed"
+  },
+  "787 old port wakefield road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6512925,
+    "lng": 138.5556474,
+    "source": "map.html-seed"
+  },
+  "795 heaslip road, penfield gardens sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.669705,
+    "lng": 138.6302806,
+    "source": "map.html-seed"
+  },
+  "7c orietta court, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6458654,
+    "lng": 138.6359695,
+    "source": "map.html-seed"
+  },
+  "8 britten avenue, modbury sa 5092": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8297882,
+    "lng": 138.6993455,
+    "source": "map.html-seed"
+  },
+  "8 camilla avenue, osborne sa 5017": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.797476,
+    "lng": 138.5028335,
+    "source": "map.html-seed"
+  },
+  "8 christopher court, salisbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.751403,
+    "lng": 138.6422164,
+    "source": "map.html-seed"
+  },
+  "8 cork street, salisbury downs sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7761646,
+    "lng": 138.6242429,
+    "source": "map.html-seed"
+  },
+  "8 croydon avenue, west croydon sa 5008": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.891988,
+    "lng": 138.5616843,
+    "source": "map.html-seed"
+  },
+  "8 duke avenue, modbury heights": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8159352,
+    "lng": 138.6675684,
+    "source": "map.html-seed"
+  },
+  "8 ford street, maylands sa 5069": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9090092,
+    "lng": 138.6357215,
+    "source": "map.html-seed"
+  },
+  "8 gloucester avenue, redwood park sa 5097": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8143229,
+    "lng": 138.7141077,
+    "source": "map.html-seed"
+  },
+  "8 helena ave, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7809023,
+    "lng": 138.6214058,
+    "source": "map.html-seed"
+  },
+  "8 jansen court, torrens park sa 5062": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.99418259999999,
+    "lng": 138.6111522,
+    "source": "map.html-seed"
+  },
+  "8 kerry street, salisbury downs sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7765218,
+    "lng": 138.6277353,
+    "source": "map.html-seed"
+  },
+  "8 kilkenny road, kilkenny sa 5009": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8887104,
+    "lng": 138.5485897,
+    "source": "map.html-seed"
+  },
+  "8 murray street, thebarton sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.913301,
+    "lng": 138.5699441,
+    "source": "map.html-seed"
+  },
+  "8 stint avenue, thompson beach sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4856698,
+    "lng": 138.2817109,
+    "source": "map.html-seed"
+  },
+  "8 sturdee street, linden park sa 5065": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9455583,
+    "lng": 138.6444168,
+    "source": "map.html-seed"
+  },
+  "8 weebo street, gilles plains sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8465347,
+    "lng": 138.6644952,
+    "source": "map.html-seed"
+  },
+  "8 welsh cres para hills": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.81414760000001,
+    "lng": 138.6600497,
+    "source": "map.html-seed"
+  },
+  "8 yapinga street, south plympton sa 5038": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.97069159999999,
+    "lng": 138.5611834,
+    "source": "map.html-seed"
+  },
+  "81 john street, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7622945,
+    "lng": 138.6463533,
+    "source": "map.html-seed"
+  },
+  "82 fairfield road, elizabeth grove sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7344119,
+    "lng": 138.6663505,
+    "source": "map.html-seed"
+  },
+  "82 lewis road, glynde sa 5070": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.892099,
+    "lng": 138.6548266,
+    "source": "map.html-seed"
+  },
+  "82c wright road, ingle farm sa 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8353318,
+    "lng": 138.6472565,
+    "source": "map.html-seed"
+  },
+  "83 chellaston road, munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6605688,
+    "lng": 138.6696246,
+    "source": "map.html-seed"
+  },
+  "83 laroona road, truro sa 5356": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4067647,
+    "lng": 139.1735644,
+    "source": "map.html-seed"
+  },
+  "83 stately way, wallaroo sa 5556": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.9194656,
+    "lng": 137.6357337,
+    "source": "google"
+  },
+  "84 sansom road, semaphore park sa 5019": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8619007,
+    "lng": 138.4828489,
+    "source": "map.html-seed"
+  },
+  "846 & 848 grand junction road, gilles plains sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.845826,
+    "lng": 138.660152,
+    "source": "map.html-seed"
+  },
+  "84a gladstone road, north brighton sa 5048": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0073995,
+    "lng": 138.5139122,
+    "source": "map.html-seed"
+  },
+  "850 lower north east road, dernancourt sa 5075": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8610129,
+    "lng": 138.6843777,
+    "source": "map.html-seed"
+  },
+  "86 island view drive, clayton bay sa 5256": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5001491,
+    "lng": 138.9286964,
+    "source": "map.html-seed"
+  },
+  "86 sansom road, semaphore park sa 5019": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8620697,
+    "lng": 138.4828453,
+    "source": "map.html-seed"
+  },
+  "87 stanbel road, salisbury plain sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7721687,
+    "lng": 138.6626321,
+    "source": "map.html-seed"
+  },
+  "873 stockwell road, angaston sa 5353": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5035074,
+    "lng": 139.0228902,
+    "source": "map.html-seed"
+  },
+  "89 pirie street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9258666,
+    "lng": 138.6032434,
+    "source": "map.html-seed"
+  },
+  "8b marilyn court, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7607678,
+    "lng": 138.6842456,
+    "source": "map.html-seed"
+  },
+  "8th avenue to 2nd avenue, sa st peters 5069": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9091935,
+    "lng": 138.6247471,
+    "source": "map.html-seed"
+  },
+  "9 & 11 riviera court, pasadena sa 5042": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0119984,
+    "lng": 138.5939938,
+    "source": "map.html-seed"
+  },
+  "9 & 11 ross street, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.755905,
+    "lng": 138.6289229,
+    "source": "map.html-seed"
+  },
+  "9 bagster road, sailsbury north sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7539354,
+    "lng": 138.631885,
+    "source": "map.html-seed"
+  },
+  "9 cynthia street, para hills sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8139504,
+    "lng": 138.6507204,
+    "source": "map.html-seed"
+  },
+  "9 donegal street salisbury downs": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7761035,
+    "lng": 138.6249464,
+    "source": "map.html-seed"
+  },
+  "9 goodall crescent, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7611895,
+    "lng": 138.6361354,
+    "source": "map.html-seed"
+  },
+  "9 hallett st. & 23 craig st., tarlee sa 5411": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2715509,
+    "lng": 138.773529,
+    "source": "map.html-seed"
+  },
+  "9 mary street, glenelg north sa 5045": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9755244,
+    "lng": 138.5162032,
+    "source": "map.html-seed"
+  },
+  "9 mildara avenue, paralowie sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7556039,
+    "lng": 138.6173539,
+    "source": "map.html-seed"
+  },
+  "9 priority court, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7008503,
+    "lng": 138.6577656,
+    "source": "map.html-seed"
+  },
+  "9 richmond rd, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7792629,
+    "lng": 138.6184967,
+    "source": "map.html-seed"
+  },
+  "9 sprnkler drive, walker flat sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7539414,
+    "lng": 139.5666024,
+    "source": "map.html-seed"
+  },
+  "9 stevens avenue, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7636612,
+    "lng": 138.6849674,
+    "source": "map.html-seed"
+  },
+  "9 sylvan way, grange sa 5022": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8960313,
+    "lng": 138.4961728,
+    "source": "map.html-seed"
+  },
+  "9-11 holden avenue, richmond sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8829035,
+    "lng": 138.5293357,
+    "source": "map.html-seed"
+  },
+  "9-11 holder avenue, richmond sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9405122,
+    "lng": 138.5667367,
+    "source": "map.html-seed"
+  },
+  "90 kensington way, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7447755,
+    "lng": 138.5974987,
+    "source": "map.html-seed"
+  },
+  "90 moonta road, moonta bay sa 5558": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.0579423,
+    "lng": 137.5769376,
+    "source": "map.html-seed"
+  },
+  "90 valley view drive, highbury": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8549703,
+    "lng": 138.7025747,
+    "source": "map.html-seed"
+  },
+  "91 elizabeth road, christie downs sa 5164": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1339908,
+    "lng": 138.5010141,
+    "source": "map.html-seed"
+  },
+  "91 lyndoch road, gawler east sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5951778,
+    "lng": 138.7629085,
+    "source": "map.html-seed"
+  },
+  "91 valliant road holden hill": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8535243,
+    "lng": 138.6721145,
+    "source": "map.html-seed"
+  },
+  "910 main north road, mawson lakes sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.82302960000001,
+    "lng": 138.6181004,
+    "source": "map.html-seed"
+  },
+  "93 & 95 peachey road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6906218,
+    "lng": 138.6685255,
+    "source": "map.html-seed"
+  },
+  "93 the esplanade, thompson beach sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4855956,
+    "lng": 138.2796797,
+    "source": "map.html-seed"
+  },
+  "93a taylor road, humbug scrub sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7147405,
+    "lng": 138.794763,
+    "source": "map.html-seed"
+  },
+  "95 frisby road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6458495,
+    "lng": 138.6591514,
+    "source": "map.html-seed"
+  },
+  "97 milne road & 1 alva st, para vista sa 5093": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8188078,
+    "lng": 138.6622677,
+    "source": "map.html-seed"
+  },
+  "98 barnard st, north adelaide sa 5006": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9090278,
+    "lng": 138.5877348,
+    "source": "map.html-seed"
+  },
+  "98 churchill road, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8899358,
+    "lng": 138.5847659,
+    "source": "map.html-seed"
+  },
+  "a1305": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "acacia st": {
+    "cachedAt": "2026-08-25",
+    "lat": -37.8145522,
+    "lng": 140.7727282,
+    "source": "map.html-seed"
+  },
+  "adelaide airport": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.946237,
+    "lng": 138.5312017,
+    "source": "map.html-seed"
+  },
+  "adelaide airport, morphett": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9997027,
+    "lng": 138.5395327,
+    "source": "map.html-seed"
+  },
+  "adelaide central market redevelopment": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9294838,
+    "lng": 138.5974186,
+    "source": "map.html-seed"
+  },
+  "adelaide central market- gouger st & victoria sq": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9294838,
+    "lng": 138.5974186,
+    "source": "map.html-seed"
+  },
+  "adelaide high": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9255505,
+    "lng": 138.586967,
+    "source": "map.html-seed"
+  },
+  "adelaide parklands": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9195059,
+    "lng": 138.5912962,
+    "source": "map.html-seed"
+  },
+  "adelaide university lot 1205 north terrace adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9219097,
+    "lng": 138.5903433,
+    "source": "map.html-seed"
+  },
+  "alawoona avenue, clovelly park": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0082775,
+    "lng": 138.5632308,
+    "source": "map.html-seed"
+  },
+  "alisa avenue, seaton sa 5023": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9037621,
+    "lng": 138.5160358,
+    "source": "map.html-seed"
+  },
+  "along gray street psm 6628/13248": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "andrew smith drive, parafield gardens sa 5107": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7766006,
+    "lng": 138.6051702,
+    "source": "map.html-seed"
+  },
+  "andrew st": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.0241278,
+    "lng": 137.5255284,
+    "source": "map.html-seed"
+  },
+  "angle vale community sports centre": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6467463,
+    "lng": 138.6543632,
+    "source": "map.html-seed"
+  },
+  "argent road, northern expressway": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6876873,
+    "lng": 138.6333274,
+    "source": "map.html-seed"
+  },
+  "ashley street, torrensville": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9183182,
+    "lng": 138.5615858,
+    "source": "map.html-seed"
+  },
+  "ashton place, wynn vale drive": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7963959,
+    "lng": 138.7016306,
+    "source": "map.html-seed"
+  },
+  "augusta street, glenelg regulator replacement": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9784373,
+    "lng": 138.5157662,
+    "source": "map.html-seed"
+  },
+  "austin street, adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9218566,
+    "lng": 138.6043699,
+    "source": "map.html-seed"
+  },
+  "auto court, banksia park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8117115,
+    "lng": 138.7304682,
+    "source": "map.html-seed"
+  },
+  "aver ave, daw park sa 5041": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9807635,
+    "lng": 138.586442,
+    "source": "map.html-seed"
+  },
+  "bald hils road to summit road, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9328294,
+    "lng": 138.6038129,
+    "source": "map.html-seed"
+  },
+  "barossa valley": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6182425,
+    "lng": 138.9001364,
+    "source": "map.html-seed"
+  },
+  "barwell avenue, kurralta park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9465989,
+    "lng": 138.5679125,
+    "source": "map.html-seed"
+  },
+  "barwell st., marleston": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.946634,
+    "lng": 138.5672022,
+    "source": "map.html-seed"
+  },
+  "beaconsfield street, hyde park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9555947,
+    "lng": 138.6063444,
+    "source": "map.html-seed"
+  },
+  "belair rd., lynton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.997052,
+    "lng": 138.6085002,
+    "source": "map.html-seed"
+  },
+  "bet. folkstone and morphett road, dover gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.02517940000001,
+    "lng": 138.5414993,
+    "source": "map.html-seed"
+  },
+  "bet. walkleys rd & wright rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.83578730000001,
+    "lng": 138.6452383,
+    "source": "map.html-seed"
+  },
+  "blyth": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.8477988,
+    "lng": 138.4890715,
+    "source": "map.html-seed"
+  },
+  "bolivar treatment plant": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7680716,
+    "lng": 138.5920709,
+    "source": "map.html-seed"
+  },
+  "bollen street, north haven sa 5018": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7876972,
+    "lng": 138.4944805,
+    "source": "map.html-seed"
+  },
+  "bookman avenue, st. marys": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.006,
+    "lng": 138.577,
+    "source": "map.html-seed"
+  },
+  "botaninc lane/east terrace adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9214319,
+    "lng": 138.6107281,
+    "source": "map.html-seed"
+  },
+  "bowen street, hamley bridge": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3565475,
+    "lng": 138.6866187,
+    "source": "map.html-seed"
+  },
+  "braund road, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8884355,
+    "lng": 138.5895762,
+    "source": "map.html-seed"
+  },
+  "brebner drive, west lakes": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8820348,
+    "lng": 138.4925698,
+    "source": "map.html-seed"
+  },
+  "bridge road, salisbury east": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7835731,
+    "lng": 138.6698775,
+    "source": "map.html-seed"
+  },
+  "brighton oval": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0144026,
+    "lng": 138.5252384,
+    "source": "map.html-seed"
+  },
+  "brisbane drive, salisbury heights": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7581866,
+    "lng": 138.6803899,
+    "source": "map.html-seed"
+  },
+  "brogan road & wilkins highway, depot road; jones street, jamestown": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.2027644,
+    "lng": 138.6181217,
+    "source": "map.html-seed"
+  },
+  "broster road, angle vale": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6355835,
+    "lng": 138.6510533,
+    "source": "map.html-seed"
+  },
+  "brown hill creek & marion road, north plympton sa 5037": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9510868,
+    "lng": 138.5537914,
+    "source": "map.html-seed"
+  },
+  "brown hill keswick creek stormwater project": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.93549770130628,
+    "lng": 138.5590632679886,
+    "source": "map.html-seed"
+  },
+  "browns road, monarto sa 5254": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0992744,
+    "lng": 139.0845667,
+    "source": "map.html-seed"
+  },
+  "burbridge road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9358247,
+    "lng": 138.5084166,
+    "source": "map.html-seed"
+  },
+  "burragah recreation centre": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8247929,
+    "lng": 138.67417,
+    "source": "map.html-seed"
+  },
+  "caltex parafield gardens, salisbury hwy (4 shephardson road)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7881544,
+    "lng": 138.6178744,
+    "source": "map.html-seed"
+  },
+  "camden park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9737464,
+    "lng": 138.539614,
+    "source": "map.html-seed"
+  },
+  "capella drive, hallett cove": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0691847,
+    "lng": 138.5113448,
+    "source": "map.html-seed"
+  },
+  "chalk hill road & olivers road, mclaren vale": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1985303,
+    "lng": 138.5420721,
+    "source": "map.html-seed"
+  },
+  "chamber avenue, richmond sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9390279,
+    "lng": 138.5574404,
+    "source": "map.html-seed"
+  },
+  "chivell road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6387966,
+    "lng": 138.6313458,
+    "source": "map.html-seed"
+  },
+  "churchhill road north": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8361105,
+    "lng": 138.5886685,
+    "source": "map.html-seed"
+  },
+  "churchill avenue, glandore regulator replacement": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9643826,
+    "lng": 138.5699633,
+    "source": "map.html-seed"
+  },
+  "churchill road north": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8361105,
+    "lng": 138.5886685,
+    "source": "map.html-seed"
+  },
+  "clarence park sa 5034": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9611837,
+    "lng": 138.5813379,
+    "source": "map.html-seed"
+  },
+  "clayton ave., anzac hwy": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9631281,
+    "lng": 138.5562589,
+    "source": "map.html-seed"
+  },
+  "clifton street, maylands": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.91005,
+    "lng": 138.6371515,
+    "source": "map.html-seed"
+  },
+  "cnr bagster rd & siment road salisbury north": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7517864,
+    "lng": 138.6349696,
+    "source": "map.html-seed"
+  },
+  "cnr chuchill road & torrens road, ovingham": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8976017,
+    "lng": 138.5855182,
+    "source": "map.html-seed"
+  },
+  "cnr churchill road and grand junction, kilburn": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.84903,
+    "lng": 138.5824884,
+    "source": "map.html-seed"
+  },
+  "cnr king william and north tce adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9214777,
+    "lng": 138.5995079,
+    "source": "map.html-seed"
+  },
+  "cnr mill rd. & diment rd., direk": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7224727,
+    "lng": 138.5976368,
+    "source": "map.html-seed"
+  },
+  "cnr of first and norman tce blackwood": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9554873,
+    "lng": 138.5778491,
+    "source": "map.html-seed"
+  },
+  "cnr of fork tree rd & reservoir rd, myponga": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.4092941,
+    "lng": 138.4077307,
+    "source": "map.html-seed"
+  },
+  "cnr of grand junction rd & rail line": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8473943,
+    "lng": 138.6127043,
+    "source": "map.html-seed"
+  },
+  "cnr of waterloo corner & heaslip rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7214916,
+    "lng": 138.5980479,
+    "source": "map.html-seed"
+  },
+  "cnr of waymouth street & bentham street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9258779,
+    "lng": 138.597661,
+    "source": "map.html-seed"
+  },
+  "cnr poplar & tapleys hill rd, royal park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8724526,
+    "lng": 138.5122582,
+    "source": "map.html-seed"
+  },
+  "coast park grange": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9023032,
+    "lng": 138.4937098,
+    "source": "map.html-seed"
+  },
+  "columbia cres, hallet cove": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0857412,
+    "lng": 138.5018424,
+    "source": "map.html-seed"
+  },
+  "coneybeer street, berri sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2849698,
+    "lng": 140.5998497,
+    "source": "map.html-seed"
+  },
+  "coomurra drive, salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7593209,
+    "lng": 138.6889195,
+    "source": "map.html-seed"
+  },
+  "coreega avenue, springfield sa 5062": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9793336,
+    "lng": 138.6291394,
+    "source": "map.html-seed"
+  },
+  "cormack & south rd, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8405984,
+    "lng": 138.5639346,
+    "source": "map.html-seed"
+  },
+  "corner of allendale rd & balmoral rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6096259,
+    "lng": 138.7944389,
+    "source": "map.html-seed"
+  },
+  "corner of montague and bridge road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8040382,
+    "lng": 138.6518003,
+    "source": "map.html-seed"
+  },
+  "coromandel parade, blackwood": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0260959,
+    "lng": 138.6191333,
+    "source": "map.html-seed"
+  },
+  "cranbrook": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.71929739999999,
+    "lng": 150.7087705,
+    "source": "map.html-seed"
+  },
+  "cudmore tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9171337,
+    "lng": 138.500824,
+    "source": "map.html-seed"
+  },
+  "currie st, king william & franklin": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9244194,
+    "lng": 138.5997332,
+    "source": "map.html-seed"
+  },
+  "currie street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9246611,
+    "lng": 138.5932529,
+    "source": "map.html-seed"
+  },
+  "delorean biomethane": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "diment road m12 pipeline": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7350735,
+    "lng": 138.6181744,
+    "source": "map.html-seed"
+  },
+  "diment road, salisbury- north regulator replacement": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7413602,
+    "lng": 138.6286272,
+    "source": "map.html-seed"
+  },
+  "dment rd & helps rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7293387,
+    "lng": 138.6073637,
+    "source": "map.html-seed"
+  },
+  "doreen street, st. marys": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0010728,
+    "lng": 138.5790411,
+    "source": "map.html-seed"
+  },
+  "dorene street & walsh ave, st. marys": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0031294,
+    "lng": 138.5791985,
+    "source": "map.html-seed"
+  },
+  "dublin mineral": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4512383,
+    "lng": 138.3506466,
+    "source": "map.html-seed"
+  },
+  "dukes highway tintinara": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.8972177,
+    "lng": 140.0736808,
+    "source": "map.html-seed"
+  },
+  "dyson rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1265447,
+    "lng": 138.485939,
+    "source": "map.html-seed"
+  },
+  "east ave, black forest sa 5035": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.957539,
+    "lng": 138.5811278,
+    "source": "map.html-seed"
+  },
+  "east tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.927916,
+    "lng": 138.6141059,
+    "source": "map.html-seed"
+  },
+  "eastern parade, ottoway regulator replacement": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8468851,
+    "lng": 138.5339767,
+    "source": "map.html-seed"
+  },
+  "edwards davies st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9540807,
+    "lng": 138.556489,
+    "source": "map.html-seed"
+  },
+  "elizabeth court, burnside sa 5066": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9415054,
+    "lng": 138.6699967,
+    "source": "map.html-seed"
+  },
+  "festival plaza tram station": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.918659,
+    "lng": 138.599202,
+    "source": "map.html-seed"
+  },
+  "fisher terrace, glenelg": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9694422,
+    "lng": 138.5229898,
+    "source": "map.html-seed"
+  },
+  "flaxley road, mt. barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0897749,
+    "lng": 138.8405155,
+    "source": "map.html-seed"
+  },
+  "franklin st & elizabeth st, adelaie sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.92757,
+    "lng": 138.5918734,
+    "source": "map.html-seed"
+  },
+  "frome & north tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9212059,
+    "lng": 138.6077551,
+    "source": "map.html-seed"
+  },
+  "galway avenue, broadview": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8797841,
+    "lng": 138.6145148,
+    "source": "map.html-seed"
+  },
+  "garnet avenue, blackwood": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0298326,
+    "lng": 138.6153823,
+    "source": "map.html-seed"
+  },
+  "gawler gate": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.591763,
+    "lng": 138.5699184,
+    "source": "map.html-seed"
+  },
+  "gawler outlet alignment": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.59720739999999,
+    "lng": 138.7490985,
+    "source": "map.html-seed"
+  },
+  "gawler plant": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.59720739999999,
+    "lng": 138.7490985,
+    "source": "map.html-seed"
+  },
+  "gibson avenue, encounter bay": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5657936,
+    "lng": 138.6089886,
+    "source": "map.html-seed"
+  },
+  "giles street, encounter bay": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.574349,
+    "lng": 138.6009498,
+    "source": "map.html-seed"
+  },
+  "goldenfields, harpers, tilley turramurra": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.733499,
+    "lng": 151.1279841,
+    "source": "map.html-seed"
+  },
+  "goodwood road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9680528,
+    "lng": 138.5909118,
+    "source": "map.html-seed"
+  },
+  "graham st, mount gambier": {
+    "cachedAt": "2026-08-25",
+    "lat": -37.8163455,
+    "lng": 140.7515461,
+    "source": "map.html-seed"
+  },
+  "grand central avenue, hallett cove regulator replacement": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0837083,
+    "lng": 138.5002537,
+    "source": "map.html-seed"
+  },
+  "grand jct & rumble rd, dry creek sa 5094": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8480329,
+    "lng": 138.600254,
+    "source": "map.html-seed"
+  },
+  "grand junction road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8473943,
+    "lng": 138.6127043,
+    "source": "map.html-seed"
+  },
+  "grand trunkway, torrens island": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8244456,
+    "lng": 138.5210482,
+    "source": "map.html-seed"
+  },
+  "grange & causeway rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8460411,
+    "lng": 138.4941346,
+    "source": "map.html-seed"
+  },
+  "grange rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.905739,
+    "lng": 138.5281084,
+    "source": "map.html-seed"
+  },
+  "grange road, colonel light gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9771389,
+    "lng": 138.5928341,
+    "source": "map.html-seed"
+  },
+  "hales drive, lonsdale": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1191729,
+    "lng": 138.4872399,
+    "source": "map.html-seed"
+  },
+  "halsey": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "hargraves street, largs bay sa 5016": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8338942,
+    "lng": 138.4940747,
+    "source": "map.html-seed"
+  },
+  "harris road, vale park and north east road, klemzig": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8744972,
+    "lng": 138.6328788,
+    "source": "map.html-seed"
+  },
+  "hatswell street, hackney sa 5069": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.911111,
+    "lng": 138.6151106,
+    "source": "map.html-seed"
+  },
+  "heather drive, modbury": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8173858,
+    "lng": 138.7074064,
+    "source": "map.html-seed"
+  },
+  "herbert street, medindie sa 5081": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8990918,
+    "lng": 138.6068758,
+    "source": "map.html-seed"
+  },
+  "high street south brighton stormwater": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0282857,
+    "lng": 138.5263743,
+    "source": "map.html-seed"
+  },
+  "hope christian college": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7077806,
+    "lng": 138.7059859,
+    "source": "map.html-seed"
+  },
+  "horricks hwy": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.485059,
+    "lng": 138.4374772,
+    "source": "map.html-seed"
+  },
+  "horrocks hwy": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.485059,
+    "lng": 138.4374772,
+    "source": "map.html-seed"
+  },
+  "hoylake street & albert ave, novar gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9638844,
+    "lng": 138.5344206,
+    "source": "map.html-seed"
+  },
+  "hoylake street, novar gardens": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9638844,
+    "lng": 138.5344206,
+    "source": "map.html-seed"
+  },
+  "hugh johnson reserve": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0765846,
+    "lng": 138.5308107,
+    "source": "map.html-seed"
+  },
+  "jagger road encounter bay": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.587307,
+    "lng": 138.5908823,
+    "source": "map.html-seed"
+  },
+  "joslin reserve, prospect": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9014863,
+    "lng": 138.6290128,
+    "source": "map.html-seed"
+  },
+  "junction street, nairne": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0346934,
+    "lng": 138.9120057,
+    "source": "map.html-seed"
+  },
+  "kanmantoo": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.072306,
+    "lng": 139.0135344,
+    "source": "map.html-seed"
+  },
+  "karallta park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.94959910000001,
+    "lng": 138.5644377,
+    "source": "map.html-seed"
+  },
+  "karra cove, new port sa 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8483756,
+    "lng": 138.4958898,
+    "source": "map.html-seed"
+  },
+  "keith motor inn": {
+    "cachedAt": "2026-08-25",
+    "lat": -36.0932705,
+    "lng": 140.3495411,
+    "source": "map.html-seed"
+  },
+  "kelly rd, modbury heights sa 5092 (to grand junction)": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8258483,
+    "lng": 138.6745114,
+    "source": "map.html-seed"
+  },
+  "kenworth road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8431413,
+    "lng": 138.5927132,
+    "source": "map.html-seed"
+  },
+  "keswick creek": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.93549770130628,
+    "lng": 138.5590632679886,
+    "source": "map.html-seed"
+  },
+  "kfc womma road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6945557,
+    "lng": 138.6493493,
+    "source": "map.html-seed"
+  },
+  "king william street, north tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9214777,
+    "lng": 138.5995079,
+    "source": "map.html-seed"
+  },
+  "kingdon place & beach road, goolwa": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5070793,
+    "lng": 138.7764473,
+    "source": "map.html-seed"
+  },
+  "kolapore ave., largs north": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8158174,
+    "lng": 138.4974299,
+    "source": "map.html-seed"
+  },
+  "kurralta park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.94959910000001,
+    "lng": 138.5644377,
+    "source": "map.html-seed"
+  },
+  "kurralta park drainage": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.94959910000001,
+    "lng": 138.5644377,
+    "source": "map.html-seed"
+  },
+  "langman grove, felixtow": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.886433,
+    "lng": 138.6469607,
+    "source": "map.html-seed"
+  },
+  "le hunt avenue, prospect sa 5082": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8822968,
+    "lng": 138.5891787,
+    "source": "map.html-seed"
+  },
+  "leader street keswick": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9488825,
+    "lng": 138.5832122,
+    "source": "map.html-seed"
+  },
+  "livingston ave, prospect": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8710527,
+    "lng": 138.5877669,
+    "source": "map.html-seed"
+  },
+  "lot 1 33b lawrie avenue, salisbury sa 5108": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7604747,
+    "lng": 138.6385903,
+    "source": "map.html-seed"
+  },
+  "lot 1 cemetery road & 155 vigars road, eden valley sa 5235": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6724887,
+    "lng": 139.0781983,
+    "source": "map.html-seed"
+  },
+  "lot 1 cricksdale street, cheltenham sa 5014": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8709878,
+    "lng": 138.5222958,
+    "source": "map.html-seed"
+  },
+  "lot 1 john st & lot 2 johnson st, port wakefield sa 5550": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1835406,
+    "lng": 138.1528975,
+    "source": "map.html-seed"
+  },
+  "lot 100 pix road, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.680719,
+    "lng": 138.6668299,
+    "source": "map.html-seed"
+  },
+  "lot 101 56a judith crescent, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1095866,
+    "lng": 138.5203557,
+    "source": "map.html-seed"
+  },
+  "lot 101 kilsby street": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7143333,
+    "lng": 138.6867027,
+    "source": "map.html-seed"
+  },
+  "lot 102 gateway terrace": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "lot 103 quinlivan road, pooraka sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8318375,
+    "lng": 138.621973,
+    "source": "map.html-seed"
+  },
+  "lot 105 33 target hill road, salisbury heights": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7600018,
+    "lng": 138.6782785,
+    "source": "map.html-seed"
+  },
+  "lot 109 & 110 16 hawker road, burton sa 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7316237,
+    "lng": 138.6003679,
+    "source": "map.html-seed"
+  },
+  "lot 113 49 skipton crescent, mount barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0875334,
+    "lng": 138.8766348,
+    "source": "map.html-seed"
+  },
+  "lot 120 radcliffe street, mount barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0877783,
+    "lng": 138.8775263,
+    "source": "map.html-seed"
+  },
+  "lot 131 23 calypso cct., munno para sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6547447,
+    "lng": 138.6878457,
+    "source": "map.html-seed"
+  },
+  "lot 14 4 katrina avenue, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8642603,
+    "lng": 138.6498986,
+    "source": "map.html-seed"
+  },
+  "lot 14 port paterson road, port augusta, sa 5700": {
+    "cachedAt": "2026-08-25",
+    "lat": -32.5277914,
+    "lng": 137.8318518,
+    "source": "map.html-seed"
+  },
+  "lot 14, 79, 80, 81, 91 port road port road & highes st. south, woodville": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8631411,
+    "lng": 138.514294,
+    "source": "map.html-seed"
+  },
+  "lot 15 old port wakefield road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6624272,
+    "lng": 138.5568855,
+    "source": "map.html-seed"
+  },
+  "lot 150 no. 3 chalklen court, commissariat point sa 5700": {
+    "cachedAt": "2026-08-25",
+    "lat": -32.6443564,
+    "lng": 137.755265,
+    "source": "map.html-seed"
+  },
+  "lot 17 river road, pasley": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4993979,
+    "lng": 139.5855216,
+    "source": "map.html-seed"
+  },
+  "lot 18 south street, auburn": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.0293761,
+    "lng": 138.6844877,
+    "source": "map.html-seed"
+  },
+  "lot 2 2 fatchen street, elizabeth grove sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7377025,
+    "lng": 138.6636612,
+    "source": "map.html-seed"
+  },
+  "lot 2 stebonheath rd, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7006404,
+    "lng": 138.6538649,
+    "source": "map.html-seed"
+  },
+  "lot 2 stenbon road, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7040843,
+    "lng": 138.6635471,
+    "source": "map.html-seed"
+  },
+  "lot 201 short road, penfield gardens sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6639501,
+    "lng": 138.6195642,
+    "source": "map.html-seed"
+  },
+  "lot 203 1643c main north road, salisbury east sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7783774,
+    "lng": 138.6593438,
+    "source": "map.html-seed"
+  },
+  "lot 21 & 22 pederick road, lewiston sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6161909,
+    "lng": 138.5931338,
+    "source": "map.html-seed"
+  },
+  "lot 21 14 mersey street, croydon park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8769287,
+    "lng": 138.5594834,
+    "source": "map.html-seed"
+  },
+  "lot 21 2a armson court, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7993547,
+    "lng": 138.6459672,
+    "source": "map.html-seed"
+  },
+  "lot 21 8 road train drive, two wells sa 5501": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.580991,
+    "lng": 138.4881875,
+    "source": "map.html-seed"
+  },
+  "lot 2193 henri street, coober pedy sa 5723": {
+    "cachedAt": "2026-08-25",
+    "lat": -29.0010462,
+    "lng": 134.7552894,
+    "source": "map.html-seed"
+  },
+  "lot 22 old port wakefield road, virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6672894,
+    "lng": 138.5610177,
+    "source": "map.html-seed"
+  },
+  "lot 221 6 evergreen drive, davoren park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6884929,
+    "lng": 138.6636433,
+    "source": "map.html-seed"
+  },
+  "lot 227-233 eastern parade, port adelaide sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8370942,
+    "lng": 138.5172611,
+    "source": "google"
+  },
+  "lot 23 curtis road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6656783,
+    "lng": 138.6654768,
+    "source": "map.html-seed"
+  },
+  "lot 232 432 bridge road, para hills west sa 5096": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8050025,
+    "lng": 138.6503299,
+    "source": "map.html-seed"
+  },
+  "lot 24 pellew road, penfield sa 5121": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6996752,
+    "lng": 138.6063708,
+    "source": "map.html-seed"
+  },
+  "lot 27 31 innovation drive, totness sa 5250": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0576315,
+    "lng": 138.8409137,
+    "source": "map.html-seed"
+  },
+  "lot 27 innovation dr., totness": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0579763,
+    "lng": 138.8418946,
+    "source": "map.html-seed"
+  },
+  "lot 273 26 elias circuit, munno para west sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6610715,
+    "lng": 138.6714633,
+    "source": "map.html-seed"
+  },
+  "lot 28 innovation dr., totness": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0569074,
+    "lng": 138.8410154,
+    "source": "map.html-seed"
+  },
+  "lot 28 south eastern freeway, totness sa 5250": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0579036,
+    "lng": 138.8395403,
+    "source": "map.html-seed"
+  },
+  "lot 3 16b daniel street, elizabeth park sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7060757,
+    "lng": 138.6824166,
+    "source": "map.html-seed"
+  },
+  "lot 3 54 ashfield road, elizabeth sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.725404,
+    "lng": 138.6728029,
+    "source": "map.html-seed"
+  },
+  "lot 3 glasgow street, wingfield sa 5013": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8374757,
+    "lng": 138.5628418,
+    "source": "map.html-seed"
+  },
+  "lot 3 stebonheath rd, edinburth north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6787833,
+    "lng": 138.6676331,
+    "source": "map.html-seed"
+  },
+  "lot 300 euston avenue, highgate sa 5063": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9634248,
+    "lng": 138.6250584,
+    "source": "map.html-seed"
+  },
+  "lot 300 frost road, salisbury north sa 5106": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.782307,
+    "lng": 138.6528058,
+    "source": "map.html-seed"
+  },
+  "lot 301 1 murphy street, elizabeth grove sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7325913,
+    "lng": 138.6671398,
+    "source": "map.html-seed"
+  },
+  "lot 301 euston avenue, highgate sa 5063": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9634248,
+    "lng": 138.6250584,
+    "source": "map.html-seed"
+  },
+  "lot 303 & 304 67 maxwell terrace, glengowrie sa 5044": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9776869,
+    "lng": 138.5353464,
+    "source": "map.html-seed"
+  },
+  "lot 3091 willison road, gould creek sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7327118,
+    "lng": 138.7150448,
+    "source": "map.html-seed"
+  },
+  "lot 31, 9 henderson court, ardrossan sa 5571": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4283724,
+    "lng": 137.9136301,
+    "source": "map.html-seed"
+  },
+  "lot 32 clift road, ardrossan sa 5571": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.4331113,
+    "lng": 137.9088001,
+    "source": "map.html-seed"
+  },
+  "lot 365 balmoral road, kalbeeba sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6096133,
+    "lng": 138.8017128,
+    "source": "map.html-seed"
+  },
+  "lot 374/256 goyder highway, world's end sa 5381": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.6701254,
+    "lng": 138.9577348,
+    "source": "map.html-seed"
+  },
+  "lot 3787 26 verdello drive, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6523346,
+    "lng": 138.6523781,
+    "source": "map.html-seed"
+  },
+  "lot 400 bruce st eudunda sa 5374": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1665217,
+    "lng": 139.0839197,
+    "source": "map.html-seed"
+  },
+  "lot 409 7 sweeney terrace, woodville west sa 5011": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8843564,
+    "lng": 138.5224423,
+    "source": "map.html-seed"
+  },
+  "lot 41 pelican parade pelican point": {
+    "cachedAt": "2026-08-25",
+    "lat": -37.9279117,
+    "lng": 140.4238252,
+    "source": "map.html-seed"
+  },
+  "lot 420 bentley road, blakeview sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6732879,
+    "lng": 138.7137074,
+    "source": "map.html-seed"
+  },
+  "lot 43 twartz road, roseworthy sa 5371": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5460719,
+    "lng": 138.7382862,
+    "source": "map.html-seed"
+  },
+  "lot 44 42 amblemead drive, mount barker sa 5251": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0861317,
+    "lng": 138.8770346,
+    "source": "map.html-seed"
+  },
+  "lot 5 & 14 10 symonds street, royal park sa 5014": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.866711,
+    "lng": 138.5065327,
+    "source": "map.html-seed"
+  },
+  "lot 5 22a dale avenue, ridgehaven": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8186692,
+    "lng": 138.7146588,
+    "source": "map.html-seed"
+  },
+  "lot 5 frisby road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6393223,
+    "lng": 138.6627106,
+    "source": "map.html-seed"
+  },
+  "lot 50 18 blackburn court, elizabeth east sa 5112": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7395435,
+    "lng": 138.6774459,
+    "source": "map.html-seed"
+  },
+  "lot 500 bruce avenue, marleston sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9443428,
+    "lng": 138.5658082,
+    "source": "map.html-seed"
+  },
+  "lot 501 bruce avenue, marleston sa 5033": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9443428,
+    "lng": 138.5658082,
+    "source": "map.html-seed"
+  },
+  "lot 52 ridgeway road, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7039013,
+    "lng": 138.6572618,
+    "source": "map.html-seed"
+  },
+  "lot 55 macalister road, kudla sa 5115": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6519093,
+    "lng": 138.7098816,
+    "source": "map.html-seed"
+  },
+  "lot 57 & 58 mary street, mawson lakes sa 5095": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8239567,
+    "lng": 138.615611,
+    "source": "map.html-seed"
+  },
+  "lot 65 providence drive, bowhill sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8851891,
+    "lng": 139.6145442,
+    "source": "map.html-seed"
+  },
+  "lot 7, 8, 9, 10 orion way, edinburgh north sa 5113": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7040843,
+    "lng": 138.6635471,
+    "source": "google"
+  },
+  "lot 701 & 702 bone street, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1220139,
+    "lng": 138.5270989,
+    "source": "map.html-seed"
+  },
+  "lot 701 saxon street, smithfield plains sa 5114": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6723454,
+    "lng": 138.675939,
+    "source": "map.html-seed"
+  },
+  "lot 706, 49a gulfview road, christies beach sa 5165": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.130647,
+    "lng": 138.4769745,
+    "source": "map.html-seed"
+  },
+  "lot 713 5 lavinia street, athol park sa 5012": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8543233,
+    "lng": 138.5387871,
+    "source": "map.html-seed"
+  },
+  "lot 77 brenda park shack road, morgan sa 5320": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.0756058,
+    "lng": 139.6844255,
+    "source": "map.html-seed"
+  },
+  "lot 84 black point drive, black point sa 5571": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6131507,
+    "lng": 137.8951026,
+    "source": "map.html-seed"
+  },
+  "lot 901 & 902 the golden way, golden grove sa 5018": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7864061,
+    "lng": 138.7032441,
+    "source": "map.html-seed"
+  },
+  "lot 94 curtis road, munno para west": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6683282,
+    "lng": 138.6723785,
+    "source": "map.html-seed"
+  },
+  "lot 961 ringwood road, morphett vale sa 5162": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1241449,
+    "lng": 138.5175589,
+    "source": "map.html-seed"
+  },
+  "lot 998 woodforde drive, north beach sa 5556": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.8953136,
+    "lng": 137.6293971,
+    "source": "map.html-seed"
+  },
+  "lyndoch rd, gawler": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5969298,
+    "lng": 138.7498366,
+    "source": "map.html-seed"
+  },
+  "m12 tp pipeline mill road, burton sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7373204,
+    "lng": 138.6005988,
+    "source": "map.html-seed"
+  },
+  "m12 tp pipeline porter street, elizabeth south sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7539468,
+    "lng": 138.6501143,
+    "source": "map.html-seed"
+  },
+  "m188 dyson rd, christie creek": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1265447,
+    "lng": 138.485939,
+    "source": "map.html-seed"
+  },
+  "magill road, adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9141139,
+    "lng": 138.6539464,
+    "source": "map.html-seed"
+  },
+  "main n rd & roseworthy rd, roseworthy sa 5371": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5344286,
+    "lng": 138.7505121,
+    "source": "map.html-seed"
+  },
+  "main n. road, clare": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.8404529,
+    "lng": 138.6163523,
+    "source": "map.html-seed"
+  },
+  "majors rd, adelaide sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0544815,
+    "lng": 138.5473405,
+    "source": "map.html-seed"
+  },
+  "manton st & adam st, hindmarsh": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9092962,
+    "lng": 138.5731764,
+    "source": "map.html-seed"
+  },
+  "market st, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9308966,
+    "lng": 138.5974247,
+    "source": "map.html-seed"
+  },
+  "mcgilip reserve": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "memorial drive, tea tree gully sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8224422,
+    "lng": 138.7267184,
+    "source": "map.html-seed"
+  },
+  "mersey rd osborne sa 5017": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8025936,
+    "lng": 138.5049435,
+    "source": "map.html-seed"
+  },
+  "meyer street, torrensville sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9164349,
+    "lng": 138.5606981,
+    "source": "map.html-seed"
+  },
+  "mildred street, kapunda sa 5373": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.3339544,
+    "lng": 138.9185201,
+    "source": "map.html-seed"
+  },
+  "millswoord railway bore": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9579517,
+    "lng": 138.5858649,
+    "source": "map.html-seed"
+  },
+  "mistletoe tce, tea tree gully sa 5091": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.830299,
+    "lng": 138.7207009,
+    "source": "map.html-seed"
+  },
+  "molens road, mount barker": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0283344,
+    "lng": 138.816305,
+    "source": "map.html-seed"
+  },
+  "monarto south": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1977312,
+    "lng": 139.1314567,
+    "source": "map.html-seed"
+  },
+  "moorook": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2901347,
+    "lng": 140.3658914,
+    "source": "map.html-seed"
+  },
+  "moredun street": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8869495,
+    "lng": 138.4859641,
+    "source": "map.html-seed"
+  },
+  "morialta high school": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9008799,
+    "lng": 138.6781699,
+    "source": "map.html-seed"
+  },
+  "morphetville racecourse": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9774268,
+    "lng": 138.5389001,
+    "source": "map.html-seed"
+  },
+  "mount barker roundabout": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0731986,
+    "lng": 138.8575836,
+    "source": "map.html-seed"
+  },
+  "mt lofty artc": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9735979,
+    "lng": 138.708631,
+    "source": "map.html-seed"
+  },
+  "mt. barker- see plan for details": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0731986,
+    "lng": 138.8575836,
+    "source": "map.html-seed"
+  },
+  "mt. cone": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.3796038,
+    "lng": 138.5497796,
+    "source": "map.html-seed"
+  },
+  "mt. torrens rd & lobethal rd- birdwood potholing plan": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.894112,
+    "lng": 138.8926096,
+    "source": "map.html-seed"
+  },
+  "multiple": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "multiple address": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "myponga reservoir": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.4023538,
+    "lng": 138.4300186,
+    "source": "map.html-seed"
+  },
+  "near the corner of the bridge road and montague road intersection in ingle farm, sa, 5098": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8244782,
+    "lng": 138.6356328,
+    "source": "map.html-seed"
+  },
+  "nelson rd., para vista": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8273816,
+    "lng": 138.6620566,
+    "source": "map.html-seed"
+  },
+  "nelson street to williams ave": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1446971,
+    "lng": 138.5203461,
+    "source": "map.html-seed"
+  },
+  "newland ave marino, adjacent coolinga road": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0437996,
+    "lng": 138.5162674,
+    "source": "map.html-seed"
+  },
+  "newland ave marion, adjacent coolinga rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0464319,
+    "lng": 138.514741,
+    "source": "map.html-seed"
+  },
+  "newland avenue, marino": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0437996,
+    "lng": 138.5162674,
+    "source": "map.html-seed"
+  },
+  "no. 26 phillip street, tanunda sa 5352": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5150956,
+    "lng": 138.9758487,
+    "source": "map.html-seed"
+  },
+  "norman road, willunga": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2666873,
+    "lng": 138.5473676,
+    "source": "map.html-seed"
+  },
+  "north heaslip road, angle vale sa 5117": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6431241,
+    "lng": 138.6464009,
+    "source": "map.html-seed"
+  },
+  "north kitchen": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6781266,
+    "lng": 138.6963817,
+    "source": "map.html-seed"
+  },
+  "north parade, torrensville": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9202194,
+    "lng": 138.5620938,
+    "source": "map.html-seed"
+  },
+  "north tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9212178,
+    "lng": 138.6047935,
+    "source": "map.html-seed"
+  },
+  "nottage road, meadows": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1878886,
+    "lng": 138.7559354,
+    "source": "map.html-seed"
+  },
+  "o'connell street, north adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9055649,
+    "lng": 138.5956619,
+    "source": "map.html-seed"
+  },
+  "o'halloran hill sa 5158": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.066458,
+    "lng": 138.555278,
+    "source": "map.html-seed"
+  },
+  "oaklands rd, adelaide sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9959596,
+    "lng": 138.5395928,
+    "source": "map.html-seed"
+  },
+  "ocean streamers rd, port adelaide 5015": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8340119,
+    "lng": 138.5132024,
+    "source": "map.html-seed"
+  },
+  "old belair road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9874071,
+    "lng": 138.6248216,
+    "source": "map.html-seed"
+  },
+  "old port wakefield rd & nash rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6819767,
+    "lng": 138.5654795,
+    "source": "map.html-seed"
+  },
+  "old port wakefield road & mcevoy road virginia sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6838336,
+    "lng": 138.5545648,
+    "source": "map.html-seed"
+  },
+  "onkaparinga valley road, oakbank": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9801283,
+    "lng": 138.8513946,
+    "source": "map.html-seed"
+  },
+  "osbourne road, north haven sa 5018": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7924312,
+    "lng": 138.4961805,
+    "source": "map.html-seed"
+  },
+  "outside of the elizabeth gate station on the corner of mill road and greyhound road in waterloo corner, sa, 5110": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7163307,
+    "lng": 138.5876013,
+    "source": "map.html-seed"
+  },
+  "ovingham lxrp torrens rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8978682,
+    "lng": 138.5862032,
+    "source": "map.html-seed"
+  },
+  "pallamana food manufacturing plant, murray bridge": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1200511,
+    "lng": 139.2736963,
+    "source": "map.html-seed"
+  },
+  "parafield airport": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7884008,
+    "lng": 138.6364357,
+    "source": "map.html-seed"
+  },
+  "park ave., aberfoyle park": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0746108,
+    "lng": 138.5901531,
+    "source": "map.html-seed"
+  },
+  "peachy road": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6874632,
+    "lng": 138.6702033,
+    "source": "map.html-seed"
+  },
+  "pelican point": {
+    "cachedAt": "2026-08-25",
+    "lat": -37.9279117,
+    "lng": 140.4238252,
+    "source": "map.html-seed"
+  },
+  "pelican point road, morgan sa 5320": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1233259,
+    "lng": 139.6647796,
+    "source": "map.html-seed"
+  },
+  "pita st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8568998,
+    "lng": 138.5580211,
+    "source": "map.html-seed"
+  },
+  "port adelaide enfield, sa, australia": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.840461,
+    "lng": 138.56876,
+    "source": "map.html-seed"
+  },
+  "port stanvac power station": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1102132,
+    "lng": 138.4909081,
+    "source": "map.html-seed"
+  },
+  "porter st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9037422,
+    "lng": 139.3338693,
+    "source": "map.html-seed"
+  },
+  "quebec st &amp; baynes port place": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "r105 regulator mersy road, osbourne": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7972375,
+    "lng": 138.5048186,
+    "source": "map.html-seed"
+  },
+  "railway line osborne": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7963003,
+    "lng": 138.5015491,
+    "source": "map.html-seed"
+  },
+  "railway tce": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9327293,
+    "lng": 138.576547,
+    "source": "map.html-seed"
+  },
+  "railway terrace, edwardstown 5039": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9761668,
+    "lng": 138.5708396,
+    "source": "map.html-seed"
+  },
+  "railway terrace, mile end south australia": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.086986,
+    "lng": 138.5455327,
+    "source": "map.html-seed"
+  },
+  "reedy road, buckland park sa 5120": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6472413,
+    "lng": 138.5350013,
+    "source": "map.html-seed"
+  },
+  "refinery road, lonsdale sa 5160": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1105599,
+    "lng": 138.4904471,
+    "source": "map.html-seed"
+  },
+  "reg 105- mersey rd. north, osbourne": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7814427,
+    "lng": 138.5080515,
+    "source": "map.html-seed"
+  },
+  "regency park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8601686,
+    "lng": 138.5702971,
+    "source": "map.html-seed"
+  },
+  "regency rd overpass": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8744864,
+    "lng": 138.5851377,
+    "source": "map.html-seed"
+  },
+  "rellum road, greenacres sa 5086": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8693063,
+    "lng": 138.6338745,
+    "source": "map.html-seed"
+  },
+  "rfq edinburgh- geotech investigation": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.738053,
+    "lng": 138.6332525,
+    "source": "map.html-seed"
+  },
+  "ridgeway court, wynn vale": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7967446,
+    "lng": 138.7007942,
+    "source": "map.html-seed"
+  },
+  "riverdale road, myrtle bank": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.961811,
+    "lng": 138.6366727,
+    "source": "map.html-seed"
+  },
+  "roseworthy main": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5341167,
+    "lng": 138.7468836,
+    "source": "map.html-seed"
+  },
+  "rothesay avenue, glenelg": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9987252,
+    "lng": 138.577898,
+    "source": "map.html-seed"
+  },
+  "russell street rosewater": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8564211,
+    "lng": 138.5190531,
+    "source": "map.html-seed"
+  },
+  "sa103 cy26 v858 replacement project - m83 tp pipeline": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "sa103 v1693 replacement project": {
+    "cachedAt": "2026-08-25",
+    "lat": -25.274398,
+    "lng": 133.775136,
+    "source": "map.html-seed"
+  },
+  "sa107 kenginston": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.910021,
+    "lng": 151.2232749,
+    "source": "map.html-seed"
+  },
+  "scotch college": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9822645,
+    "lng": 138.6167122,
+    "source": "map.html-seed"
+  },
+  "seaford aldinga": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1870338,
+    "lng": 138.4801681,
+    "source": "map.html-seed"
+  },
+  "seaford rise": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2013566,
+    "lng": 138.4875207,
+    "source": "map.html-seed"
+  },
+  "section 4 & 5 artc": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "semaphore rail bore": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.838889,
+    "lng": 138.483889,
+    "source": "map.html-seed"
+  },
+  "semaphore rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8402529,
+    "lng": 138.4920032,
+    "source": "map.html-seed"
+  },
+  "shephard hill rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.027539,
+    "lng": 138.5988458,
+    "source": "map.html-seed"
+  },
+  "shepherds hill road": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.027539,
+    "lng": 138.5988458,
+    "source": "map.html-seed"
+  },
+  "simpson parade goodwood": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9477991,
+    "lng": 138.5968162,
+    "source": "map.html-seed"
+  },
+  "sir donald bradman drive, adelaide airport sa 5950": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9337966,
+    "lng": 138.528944,
+    "source": "map.html-seed"
+  },
+  "site 52 & 77 1 brenda shack road, brenda park sa 5320": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.0687541,
+    "lng": 139.685102,
+    "source": "map.html-seed"
+  },
+  "sky on metro, metro parade mawson lakes": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8058756,
+    "lng": 138.614137,
+    "source": "map.html-seed"
+  },
+  "snapper point power station": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.764415,
+    "lng": 138.507737,
+    "source": "map.html-seed"
+  },
+  "somerton park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9970848,
+    "lng": 138.5215183,
+    "source": "map.html-seed"
+  },
+  "south road main trunk": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9233488,
+    "lng": 138.5696584,
+    "source": "map.html-seed"
+  },
+  "south road, mile end south sa 5031": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9360089,
+    "lng": 138.5706841,
+    "source": "map.html-seed"
+  },
+  "south terrace, blyth": {
+    "cachedAt": "2026-08-25",
+    "lat": -33.8477738,
+    "lng": 138.4893666,
+    "source": "map.html-seed"
+  },
+  "springs rd mt. barker": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0690041,
+    "lng": 138.8846944,
+    "source": "map.html-seed"
+  },
+  "st bernards road, rostrevor sa 5073": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8932596,
+    "lng": 138.6745725,
+    "source": "map.html-seed"
+  },
+  "st martin's catholic primary school 66-68 princes road greenacres": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8672843,
+    "lng": 138.6298931,
+    "source": "map.html-seed"
+  },
+  "st. anton st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9448525,
+    "lng": 138.5592507,
+    "source": "map.html-seed"
+  },
+  "st. peter's billabong": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9049837,
+    "lng": 138.6180107,
+    "source": "map.html-seed"
+  },
+  "stebonheath rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.6519063,
+    "lng": 138.6836943,
+    "source": "map.html-seed"
+  },
+  "stephens place, adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.922549,
+    "lng": 138.6011398,
+    "source": "map.html-seed"
+  },
+  "stephens place, adleaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.922549,
+    "lng": 138.6011398,
+    "source": "map.html-seed"
+  },
+  "stewart avenue, vale park sa 5081": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.888143,
+    "lng": 138.630707,
+    "source": "map.html-seed"
+  },
+  "strathalbyn & eden valley": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.64221550000001,
+    "lng": 139.098057,
+    "source": "map.html-seed"
+  },
+  "strathalbyn rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1299125,
+    "lng": 138.8129244,
+    "source": "map.html-seed"
+  },
+  "sturt highway, barmera sa 5345": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2577101,
+    "lng": 140.46677,
+    "source": "map.html-seed"
+  },
+  "sturt hwy, barmera": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.2577101,
+    "lng": 140.46677,
+    "source": "map.html-seed"
+  },
+  "sturt lane hackham": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1510856,
+    "lng": 138.5343936,
+    "source": "map.html-seed"
+  },
+  "sturt lane, hackham sa 5163": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1510856,
+    "lng": 138.5343936,
+    "source": "map.html-seed"
+  },
+  "syphons additional": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "tatachilla road and maslin beach road": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2220345,
+    "lng": 138.4923423,
+    "source": "map.html-seed"
+  },
+  "tennyson st., kurralta park": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9495405,
+    "lng": 138.565806,
+    "source": "map.html-seed"
+  },
+  "the crescent, marryatville sa 5068": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9283765,
+    "lng": 138.644329,
+    "source": "map.html-seed"
+  },
+  "the grove way & green valley drive": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7699339,
+    "lng": 138.6786376,
+    "source": "map.html-seed"
+  },
+  "the hind marsh": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9058302,
+    "lng": 138.570272,
+    "source": "map.html-seed"
+  },
+  "the precint conference centre, thebarton": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9120461,
+    "lng": 138.5670728,
+    "source": "map.html-seed"
+  },
+  "tonsley": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.014633,
+    "lng": 138.5706901,
+    "source": "map.html-seed"
+  },
+  "tonsley (same as a1160)": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.014633,
+    "lng": 138.5706901,
+    "source": "map.html-seed"
+  },
+  "tonsley to rothesay": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.014633,
+    "lng": 138.5706901,
+    "source": "map.html-seed"
+  },
+  "tower road, pinnaroo sa 5304": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.2567869,
+    "lng": 140.9132349,
+    "source": "map.html-seed"
+  },
+  "townsvale estate, balaklava": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1464612,
+    "lng": 138.4199547,
+    "source": "map.html-seed"
+  },
+  "tucker street, adelaide": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9259015,
+    "lng": 138.6109218,
+    "source": "map.html-seed"
+  },
+  "twelfth street, renmark sa": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1672215,
+    "lng": 140.7496428,
+    "source": "map.html-seed"
+  },
+  "unit 1 54 cottage lane, hackham sa 5163": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.15049610000001,
+    "lng": 138.5328825,
+    "source": "map.html-seed"
+  },
+  "unit 1-2 37 petrova avenue, windsor gardens sa 5087": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8620358,
+    "lng": 138.6502522,
+    "source": "map.html-seed"
+  },
+  "unit 1-8 1 kingfisher drive, hewett sa 5118": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.5789014,
+    "lng": 138.7478014,
+    "source": "map.html-seed"
+  },
+  "unit 18 44 burton road, athelstone sa 5076": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8691724,
+    "lng": 138.7071993,
+    "source": "map.html-seed"
+  },
+  "unit 2, 56 mcinnes avenue, broadview sa 5083": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.876697,
+    "lng": 138.6171361,
+    "source": "map.html-seed"
+  },
+  "unit 21 1 rob loxton road, walker flat sa 5238": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7777139,
+    "lng": 139.5680219,
+    "source": "map.html-seed"
+  },
+  "unit 55, 1 pelican parade, morgan": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.1326745,
+    "lng": 139.6744351,
+    "source": "map.html-seed"
+  },
+  "unit 6 39 stanford road salisbury heights sa 5109": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7659785,
+    "lng": 138.6792217,
+    "source": "map.html-seed"
+  },
+  "unley road, unley sa 5061": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9543146,
+    "lng": 138.6077703,
+    "source": "map.html-seed"
+  },
+  "v506 columbia crescent, hallet cove": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.0857412,
+    "lng": 138.5018424,
+    "source": "map.html-seed"
+  },
+  "v751 dig up, grand junction rd": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8473943,
+    "lng": 138.6127043,
+    "source": "map.html-seed"
+  },
+  "valve 318": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "valve 752": {
+    "cachedAt": "2026-08-25",
+    "lat": -30.0002315,
+    "lng": 136.2091547,
+    "source": "map.html-seed"
+  },
+  "victoria drive, adelaide 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9174082,
+    "lng": 138.6020806,
+    "source": "map.html-seed"
+  },
+  "warrandee dr": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8194865,
+    "lng": 138.6914162,
+    "source": "map.html-seed"
+  },
+  "waymouth street, adelaide sa 5000": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9260797,
+    "lng": 138.5936927,
+    "source": "map.html-seed"
+  },
+  "wearing street": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.1510091,
+    "lng": 138.4712181,
+    "source": "map.html-seed"
+  },
+  "whalers road, encounter bay": {
+    "cachedAt": "2026-08-25",
+    "lat": -35.5738579,
+    "lng": 138.5934141,
+    "source": "map.html-seed"
+  },
+  "william st & redin st": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8761201,
+    "lng": 138.589162,
+    "source": "map.html-seed"
+  },
+  "wingfield": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.8413535,
+    "lng": 138.54613,
+    "source": "map.html-seed"
+  },
+  "winston ave & caufield ave., clarence gardens sa 5039": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9764164,
+    "lng": 138.5824782,
+    "source": "map.html-seed"
+  },
+  "wynn vale drive": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.7972971,
+    "lng": 138.673632,
+    "source": "map.html-seed"
+  },
+  "yatala labour prison- grand junction road, northfield sa 5085": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.846724,
+    "lng": 138.6277957,
+    "source": "map.html-seed"
+  },
+  "young street, parkside": {
+    "cachedAt": "2026-08-25",
+    "lat": -34.9442458,
+    "lng": 138.6130152,
+    "source": "map.html-seed"
+  }
+}
