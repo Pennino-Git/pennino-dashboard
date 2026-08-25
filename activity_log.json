@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15599174,
+      "project_name": "J1015 Eudunda Land TD1-50",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-25T16:30:16.529230+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18400559,
       "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17876195,
-      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-25T16:15:27.143262+09:30"
+  "last_updated": "2026-08-25T16:30:16.529230+09:30"
 }
