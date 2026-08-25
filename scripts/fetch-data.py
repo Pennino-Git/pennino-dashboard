@@ -4,9 +4,11 @@ Fetch active projects from Insightly and generate data.json for the dashboard.
 Runs as a GitHub Action every 15 minutes.
 Also tracks stage/responsibility changes in activity_log.json.
 """
-import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime, time
+import json, os, sys, urllib.request, urllib.error, urllib.parse, base64, datetime, time, re
 
 API_KEY = os.environ.get("INSIGHTLY_API_KEY", "")
+GOOGLE_MAPS_API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY", "").strip()
+GEOCACHE_PATH = os.path.join("scripts", "geocache.json")
 BASE = "https://api.na1.insightly.com/v3.1"
 
 ACTIVE_STATUSES = {"IN PROGRESS", "NOT STARTED", "DEFERRED"}
@@ -41,6 +43,58 @@ STAGE_RESPONSIBILITY = {
 
 MAX_RETRIES = 3
 RETRY_DELAY = 10
+
+
+# Address-key rule: lowercase, collapse whitespace, strip trailing punctuation (.,;:!?), then trim.
+def normalise_address(address):
+    value = re.sub(r"\s+", " ", str(address or "").lower()).strip()
+    return re.sub(r"[.,;:!?]+$", "", value).strip()
+
+def load_geocache():
+    try:
+        with open(GEOCACHE_PATH, "r") as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except Exception:
+        return {}
+
+def save_geocache(cache):
+    with open(GEOCACHE_PATH, "w") as f:
+        json.dump(cache, f, indent=2, sort_keys=True)
+        f.write("\n")
+
+def geocode_address(address, cache):
+    """Return cached or Google coordinates; Google is optional and failures are non-fatal."""
+    key = normalise_address(address)
+    if not key:
+        return None
+    cached = cache.get(key)
+    if isinstance(cached, dict) and isinstance(cached.get("lat"), (int, float)) and isinstance(cached.get("lng"), (int, float)):
+        return cached
+    if not GOOGLE_MAPS_API_KEY:
+        return None
+    try:
+        params = urllib.parse.urlencode({"address": address, "key": GOOGLE_MAPS_API_KEY})
+        req = urllib.request.Request(
+            "https://maps.googleapis.com/maps/api/geocode/json?" + params,
+            headers={"Accept": "application/json"},
+        )
+        with urllib.request.urlopen(req, timeout=15) as response:
+            result = json.loads(response.read().decode())
+        if result.get("status") != "OK" or not result.get("results"):
+            print(f"  Google geocoding did not resolve: {address} ({result.get('status', 'unknown')})", file=sys.stderr)
+            return None
+        location = result["results"][0].get("geometry", {}).get("location", {})
+        lat, lng = location.get("lat"), location.get("lng")
+        if not isinstance(lat, (int, float)) or not isinstance(lng, (int, float)):
+            return None
+        entry = {"lat": float(lat), "lng": float(lng), "source": "google", "cachedAt": datetime.date.today().isoformat()}
+        cache[key] = entry
+        print(f"  Geocoded: {address}")
+        return entry
+    except Exception as error:
+        print(f"  Google geocoding failed for {address}: {error}", file=sys.stderr)
+        return None
 
 def api_get(endpoint, params=None, retries=MAX_RETRIES):
     url = f"{BASE}/{endpoint}"
@@ -181,6 +235,9 @@ def main():
         print("ERROR: INSIGHTLY_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
+    geocache = load_geocache()
+    print(f"Loaded {len(geocache)} geocache entries")
+
     prev_data = load_previous_data()
     prev_clients = {pid: p.get("client", "") for pid, p in prev_data.items() if p.get("client")}
     print(f"Loaded {len(prev_clients)} cached client names from previous run")
@@ -315,7 +372,8 @@ def main():
         if (i + 1) % 20 == 0:
             print(f"  Processing: {i+1}/{len(active_projects)}")
 
-        projects.append({
+        coordinates = geocode_address(address, geocache)
+        record = {
             "id": project_id,
             "name": project_name,
             "tier": tier,
@@ -331,7 +389,11 @@ def main():
             "tags": tags,
             "needs_fieldwork": needs_fieldwork,
             "is_premium": is_premium,
-        })
+        }
+        if coordinates:
+            record["lat"] = coordinates["lat"]
+            record["lng"] = coordinates["lng"]
+        projects.append(record)
 
     projects.sort(key=lambda x: ({"T1":1,"T2":2,"T3":3}.get(x["tier"],9), x["name"]))
 
@@ -339,6 +401,7 @@ def main():
 
     with open("data.json", "w") as f:
         json.dump(output, f, indent=2)
+    save_geocache(geocache)
 
     save_stage_tracking(new_tracking)
 
