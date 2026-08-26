@@ -892,8 +892,8 @@
     "17782437": {
       "total": 18,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1054,8 +1054,8 @@
           "due_date": "2026-08-27",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3225,8 +3225,8 @@
     },
     "17732479": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 2,
       "tasks": [
         {
@@ -3279,8 +3279,8 @@
           "title": "Re-upload Cert plan ",
           "due_date": "2026-08-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4251,8 +4251,8 @@
     "17845187": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206794850,
@@ -4278,8 +4278,8 @@
           "due_date": "2026-08-27",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5118,15 +5118,26 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207245192,
-      "title": "Re-upload Cert plan ",
-      "due_date": "2026-08-26",
+      "task_id": 207238534,
+      "title": "Check if SA Water responded- also if we need to send their plans to client",
+      "due_date": "2026-08-27",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 207244698,
+      "title": "Ask DP about pegging plan/sa water requirement",
+      "due_date": "2026-08-27",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
     }
   ],
   "tasks_overdue": [
@@ -5679,13 +5690,24 @@
       "due_soon": false,
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 207245192,
+      "title": "Re-upload Cert plan ",
+      "due_date": "2026-08-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "summary": {
     "total_open": 475,
-    "total_overdue": 50,
-    "total_due_today": 1,
+    "total_overdue": 51,
+    "total_due_today": 2,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-26T23:45:26.373180+09:30"
+  "last_updated": "2026-08-27T00:00:38.301097+09:30"
 }
