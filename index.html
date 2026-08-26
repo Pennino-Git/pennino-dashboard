@@ -113,6 +113,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .badge-stale { font-size:9px; background:#92400e; color:#fde047; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-premium { font-size:9px; background:#5b21b6; color:#c4b5fd; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-tasks { font-size:9px; padding:1px 5px; border-radius:3px; font-weight:700; background:#1e3a5f; color:#93c5fd; }
+.badge-clockify { font-size:11px; cursor:pointer; text-decoration:none; opacity:.7; transition:opacity .15s; line-height:1; }
+.badge-clockify:hover { opacity:1; }
+.list-clockify { font-size:13px; text-decoration:none; opacity:.6; }
+.list-clockify:hover { opacity:1; }
 
 /* List view */
 .list-view { padding:12px 24px; }
@@ -270,6 +274,8 @@ let RFI_DATA = null;
 let ACTIVITY_DATA = null;
 let TASK_DATA = null;
 let TASK_BY_PROJECT = {};
+let CLOCKIFY_MAP = {};
+const CLOCKIFY_WORKSPACE = "5fa34057b984156561d86892";
 
 // Stale thresholds (days) per stage name
 const STALE_THRESHOLDS = {
@@ -313,6 +319,15 @@ const RESP_COLORS = {
 };
 const RESP_LABELS = { "": "Unassigned" };
 function respLabel(r) { return RESP_LABELS[r] || r; }
+function extractRef(name) {
+  const m = (name || "").match(/^([A-Z]\d{3,4})/i);
+  return m ? m[1].toUpperCase() : null;
+}
+function clockifyUrl(ref) {
+  const pid = CLOCKIFY_MAP[ref];
+  if (!pid) return null;
+  return "https://app.clockify.me/projects/" + CLOCKIFY_WORKSPACE + "/edit/" + pid;
+}
 
 function matchesSmart(p, filter) {
   if (!filter) return true;
@@ -361,7 +376,12 @@ function makeCard(p) {
   const td = TASK_BY_PROJECT[String(p.id)];
   const taskBadgeHtml = (td && td.total > 0) ? `<span class="badge-tasks" title="${td.total} active tasks">${td.total}</span>` : "";
 
+  const ref = extractRef(p.name);
+  const cUrl = ref ? clockifyUrl(ref) : null;
+  const clockifyHtml = cUrl ? `<a href="${cUrl}" target="_blank" class="badge-clockify" title="Open in Clockify" onclick="event.stopPropagation();event.preventDefault();window.open(this.href,'_blank')">&#x23F1;&#xFE0F;</a>` : "";
+
   let badgeHtml = "";
+  if (cUrl) badgeHtml += clockifyHtml;
   if (td && td.total > 0) badgeHtml += taskBadgeHtml;
   if (isStale(p)) badgeHtml += `<span class="badge-stale">\u{23F0}</span>`;
   if (p.is_premium) badgeHtml += `<span class="badge-premium">\u{1F48E}</span>`;
@@ -557,6 +577,7 @@ function renderListView(fp) {
 
       return `<tr>
         <td><a class="link" href="${INSIGHTLY_BASE}${p.id}" target="_blank">${p.name}</a></td>
+        <td>${(() => { const r = extractRef(p.name); const u = r ? clockifyUrl(r) : null; return u ? '<a href="'+u+'" target="_blank" class="list-clockify" title="Clockify">&#x23F1;&#xFE0F;</a>' : ''; })()}</td>
         <td><span class="card-tier ${p.tier}" style="font-size:11px">${p.tier}</span></td>
         <td style="max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${p.address||''}">${p.address || "-"}</td>
         <td>${p.stage_name}</td>
@@ -570,6 +591,7 @@ function renderListView(fp) {
     document.getElementById("panel-list").innerHTML = `<div class="list-view"><table class="list-table">
       <thead><tr>
         <th data-col="name">Project${arrow("name")}</th>
+        <th>&#x23F1;&#xFE0F;</th>
         <th data-col="tier">Tier${arrow("tier")}</th>
         <th data-col="address">Address${arrow("address")}</th>
         <th data-col="stage_name">Stage${arrow("stage_name")}</th>
@@ -789,6 +811,17 @@ function renderAll() {
   renderActivityView();
 }
 
+
+async function loadClockify() {
+  try {
+    const resp = await fetch('clockify.json?' + Date.now());
+    CLOCKIFY_MAP = await resp.json();
+    console.log('Clockify map loaded:', Object.keys(CLOCKIFY_MAP).length, 'projects');
+  } catch(e) {
+    console.log('No clockify.json available');
+  }
+}
+
 // Data loading
 async function loadData() {
   try {
@@ -917,12 +950,12 @@ document.getElementById("workloadToggle").addEventListener("click", () => {
 });
 
 // Initial load
-loadTasks().then(() => loadData());
+Promise.all([loadTasks(), loadClockify()]).then(() => loadData());
 loadRFIs();
 loadActivity();
 
 // Auto-refresh
-setInterval(() => { loadTasks().then(() => loadData()); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
+setInterval(() => { Promise.all([loadTasks(), loadClockify()]).then(() => loadData()); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
 </script>
 </body>
 </html>
