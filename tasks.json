@@ -5090,7 +5090,7 @@
       ]
     },
     "18438117": {
-      "total": 4,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -5125,6 +5125,24 @@
         {
           "task_id": 207245328,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207245341,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207245342,
+          "title": "Final plan signed off",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5700,10 +5718,10 @@
     }
   ],
   "summary": {
-    "total_open": 477,
+    "total_open": 479,
     "total_overdue": 50,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-26T12:00:37.965093+09:30"
+  "last_updated": "2026-08-26T12:15:24.784205+09:30"
 }

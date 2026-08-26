@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18438117,
+      "project_name": "D1073 - Gawler Gate Station",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-08-26T12:15:24.784205+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18438117,
+      "project_name": "D1073 - Gawler Gate Station",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-26T12:15:24.784205+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18435136,
       "project_name": "T1331 Light Common TIER3",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17303279,
-      "project_name": "A1310 Railway Tce TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-26T12:00:37.965093+09:30"
+  "last_updated": "2026-08-26T12:15:24.784205+09:30"
 }
