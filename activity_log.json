@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-08-26T17:00:33.695107+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18438117,
       "project_name": "D1073 - Gawler Gate Station",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16477307,
-      "project_name": "Z1049 The Esplanade CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-26T16:45:23.123756+09:30"
+  "last_updated": "2026-08-26T17:00:33.695107+09:30"
 }
