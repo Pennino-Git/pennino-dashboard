@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-26T10:45:24.212134+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-26T10:45:24.212134+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17810905,
-      "project_name": "F1107 Edinburgh- Geotech Investigation",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-26T10:30:39.372674+09:30"
+  "last_updated": "2026-08-26T10:45:24.212134+09:30"
 }
