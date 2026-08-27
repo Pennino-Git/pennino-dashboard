@@ -113,7 +113,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .badge-stale { font-size:9px; background:#92400e; color:#fde047; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-premium { font-size:9px; background:#5b21b6; color:#c4b5fd; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-tasks { font-size:9px; padding:1px 5px; border-radius:3px; font-weight:700; background:#1e3a5f; color:#93c5fd; }
-.badge-clockify { font-size:16px; cursor:pointer; text-decoration:none; opacity:.8; transition:all .15s; line-height:1; z-index:10; position:relative; padding:2px 4px; border-radius:4px; }
+.badge-clockify { font-size:18px; cursor:pointer; text-decoration:none; opacity:.8; transition:all .15s; line-height:1; z-index:10; position:relative; padding:2px 4px; border-radius:4px; }
 .badge-clockify:hover { opacity:1; background:rgba(59,130,246,.2); transform:scale(1.15); }
 .list-clockify { font-size:13px; text-decoration:none; opacity:.6; }
 .list-clockify:hover { opacity:1; }
@@ -324,8 +324,9 @@ function extractRef(name) {
   return m ? m[1].toUpperCase() : null;
 }
 function clockifyUrl(ref) {
-  const pid = CLOCKIFY_MAP[ref];
-  if (!pid) return null;
+  const entry = CLOCKIFY_MAP[ref];
+  if (!entry) return null;
+  const pid = typeof entry === 'string' ? entry : (entry.id || entry);
   return "https://app.clockify.me/projects/" + CLOCKIFY_WORKSPACE + "/edit/" + pid;
 }
 
@@ -813,7 +814,9 @@ function renderAll() {
 async function loadClockify() {
   try {
     const resp = await fetch('clockify.json?' + Date.now());
-    CLOCKIFY_MAP = await resp.json();
+    const raw = await resp.json();
+    CLOCKIFY_MAP = raw.projects || raw;
+    if (raw.workspace_id) CLOCKIFY_WORKSPACE_LOADED = raw.workspace_id;
     console.log('Clockify map loaded:', Object.keys(CLOCKIFY_MAP).length, 'projects');
   } catch(e) {
     console.log('No clockify.json available');
