@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-08-28T05:00:34.460590+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-08-04T11:45:32.829946+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-04T11:45:32.829946+09:30"
     }
   ],
-  "last_updated": "2026-08-28T04:45:25.979011+09:30"
+  "last_updated": "2026-08-28T05:00:34.460590+09:30"
 }

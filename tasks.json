@@ -4575,17 +4575,17 @@
     "18039448": {
       "total": 2,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206977011,
           "title": "SA Water invoice paid?",
-          "due_date": "2026-08-28",
+          "due_date": "2026-09-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         },
         {
           "task_id": 206977015,
@@ -5019,17 +5019,6 @@
     }
   },
   "tasks_due_today": [
-    {
-      "task_id": 206977011,
-      "title": "SA Water invoice paid?",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
     {
       "task_id": 207093169,
       "title": "Check for SA Water response- we sent pegging plan on 12.08",
@@ -5630,8 +5619,8 @@
   "summary": {
     "total_open": 465,
     "total_overdue": 48,
-    "total_due_today": 7,
+    "total_due_today": 6,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-28T04:45:25.979011+09:30"
+  "last_updated": "2026-08-28T05:00:34.460590+09:30"
 }
