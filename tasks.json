@@ -2081,23 +2081,6 @@
         }
       ]
     },
-    "18223472": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205068599,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "11236872": {
       "total": 7,
       "overdue": 0,
@@ -5097,6 +5080,32 @@
           "due_soon": ""
         }
       ]
+    },
+    "18223472": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207271919,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207271924,
+          "title": "Follow up with client on payment",
+          "due_date": "2026-09-07",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5676,10 +5685,10 @@
     }
   ],
   "summary": {
-    "total_open": 474,
+    "total_open": 475,
     "total_overdue": 50,
     "total_due_today": 2,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-27T12:00:34.175333+09:30"
+  "last_updated": "2026-08-27T12:15:24.570571+09:30"
 }
