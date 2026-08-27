@@ -512,5 +512,77 @@ def main():
         json.dump(tasks_data, f, indent=2)
     print(f"  Saved tasks.json — {len(open_tasks)} open tasks across {len(by_project)} projects")
 
+    # --- Clockify project mapping for dashboard icons ---
+    CLOCKIFY_API_KEY = os.environ.get("CLOCKIFY_API_KEY", "").strip()
+    if CLOCKIFY_API_KEY:
+        print("\nSyncing Clockify projects...")
+        try:
+            # Get workspaces
+            req = urllib.request.Request(
+                "https://api.clockify.me/api/v1/workspaces",
+                headers={"X-Api-Key": CLOCKIFY_API_KEY, "Accept": "application/json"}
+            )
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                workspaces = json.loads(resp.read().decode())
+
+            if workspaces:
+                ws_id = workspaces[0]["id"]
+                ws_name = workspaces[0]["name"]
+                print(f"  Workspace: {ws_name} ({ws_id})")
+
+                # Paginate all projects (archived=false)
+                all_clockify = []
+                page = 1
+                while True:
+                    params = urllib.parse.urlencode({
+                        "page": page, "page-size": 500, "archived": "false"
+                    })
+                    req = urllib.request.Request(
+                        f"https://api.clockify.me/api/v1/workspaces/{ws_id}/projects?{params}",
+                        headers={"X-Api-Key": CLOCKIFY_API_KEY, "Accept": "application/json"}
+                    )
+                    with urllib.request.urlopen(req, timeout=60) as resp:
+                        batch = json.loads(resp.read().decode())
+                    if not batch:
+                        break
+                    all_clockify.extend(batch)
+                    if len(batch) < 500:
+                        break
+                    page += 1
+                    time.sleep(0.5)  # Rate limit courtesy
+
+                print(f"  Fetched {len(all_clockify)} Clockify projects")
+
+                # Build ref -> clockify ID mapping
+                ref_pattern = re.compile(r"^([A-Z]\d{3,4})")
+                clockify_map = {}
+                for cp in all_clockify:
+                    match = ref_pattern.match(cp.get("name", ""))
+                    if match:
+                        ref = match.group(1)
+                        if ref not in clockify_map:  # First match wins
+                            clockify_map[ref] = {
+                                "id": cp["id"],
+                                "name": cp["name"]
+                            }
+
+                clockify_data = {
+                    "workspace_id": ws_id,
+                    "projects": clockify_map,
+                    "total": len(clockify_map),
+                    "last_updated": now_iso
+                }
+
+                with open("clockify.json", "w") as f:
+                    json.dump(clockify_data, f, indent=2)
+                print(f"  Saved clockify.json — {len(clockify_map)} refs mapped")
+            else:
+                print("  No Clockify workspaces found", file=sys.stderr)
+        except Exception as e:
+            print(f"  Clockify sync failed (non-fatal): {e}", file=sys.stderr)
+    else:
+        print("\nSkipping Clockify sync (no API key)")
+
+
 if __name__ == "__main__":
     main()

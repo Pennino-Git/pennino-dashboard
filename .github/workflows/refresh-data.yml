@@ -26,11 +26,12 @@ jobs:
         env:
           INSIGHTLY_API_KEY: ${{ secrets.INSIGHTLY_API_KEY }}
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          CLOCKIFY_API_KEY: ${{ secrets.CLOCKIFY_API_KEY }}
         run: python scripts/fetch-data.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "Pennino Dashboard Bot"
           git config user.email "office@pennino.com.au"
-          git add data.json tasks.json stage_tracking.json activity_log.json rfi.json scripts/geocache.json
+          git add data.json tasks.json stage_tracking.json activity_log.json rfi.json scripts/geocache.json clockify.json
           git diff --cached --quiet || (git commit -m "📊 Auto-refresh dashboard data $(date -u +%Y-%m-%dT%H:%M:%SZ)" && git pull --rebase origin main && git push) || echo "Push failed, will retry next cycle"
