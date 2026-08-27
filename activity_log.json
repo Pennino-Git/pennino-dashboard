@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18420550,
+      "project_name": "W1022 Main North Rd TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-27T14:00:31.711842+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18420550,
+      "project_name": "W1022 Main North Rd TIER3",
+      "tier": "T3",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-27T14:00:31.711842+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18400559,
       "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "LTO",
       "timestamp": "2026-08-03T06:15:28.976922+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-03T03:45:36.043410+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-03T03:30:47.612675+09:30"
     }
   ],
-  "last_updated": "2026-08-27T13:45:26.759894+09:30"
+  "last_updated": "2026-08-27T14:00:31.711842+09:30"
 }

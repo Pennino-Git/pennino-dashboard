@@ -2510,11 +2510,11 @@
       "address": "590 Main North Road, Gepps Cross",
       "client": "Harry Tsakalos",
       "link": "https://crm.na1.insightly.com/details/project/18420550",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 16,
-      "stage_name": "Field Work Scheduled",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "wingfield_construction"
@@ -2525,6 +2525,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-27T13:45:26.759894+09:30",
+  "last_updated": "2026-08-27T14:00:31.711842+09:30",
   "total": 112
 }
