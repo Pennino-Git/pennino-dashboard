@@ -893,7 +893,7 @@
       "total": 18,
       "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1055,7 +1055,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -1150,8 +1150,8 @@
     "15978707": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1195,8 +1195,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1274,8 +1274,8 @@
     "17539782": {
       "total": 25,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1499,8 +1499,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3128,8 +3128,8 @@
     "17732479": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 3,
+      "due_today": 2,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3164,8 +3164,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207118657,
@@ -3191,8 +3191,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3640,8 +3640,8 @@
     "18393529": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206461758,
@@ -3658,8 +3658,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207271709,
@@ -4135,8 +4135,8 @@
     },
     "17845187": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4162,8 +4162,8 @@
           "title": "Ask DP about pegging plan/sa water requirement",
           "due_date": "2026-08-27",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4171,8 +4171,8 @@
     "17328458": {
       "total": 8,
       "overdue": 3,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206844652,
@@ -4243,8 +4243,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4575,8 +4575,8 @@
     "18039448": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206977011,
@@ -4584,8 +4584,8 @@
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 206977015,
@@ -5020,15 +5020,81 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207244698,
-      "title": "Ask DP about pegging plan/sa water requirement",
-      "due_date": "2026-08-27",
+      "task_id": 206977011,
+      "title": "SA Water invoice paid?",
+      "due_date": "2026-08-28",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2"
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
+    },
+    {
+      "task_id": 207093169,
+      "title": "Check for SA Water response- we sent pegging plan on 12.08",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 207190641,
+      "title": "Did DP respond to email about SA Water INV?",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 207244879,
+      "title": "Check actionables",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 207271588,
+      "title": "Check if Plan SA withdrawal is done and can re-lodge ",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 207271708,
+      "title": "Application form completed on PlanSA portal",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3"
+    },
+    {
+      "task_id": 207273555,
+      "title": "Council cleared Plan SA?",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5539,6 +5605,17 @@
       "project_name": "L1031 Stebonheath Rd TD1-5"
     },
     {
+      "task_id": 207244698,
+      "title": "Ask DP about pegging plan/sa water requirement",
+      "due_date": "2026-08-27",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
       "task_id": 207245192,
       "title": "Re-upload Cert plan ",
       "due_date": "2026-08-26",
@@ -5552,9 +5629,9 @@
   ],
   "summary": {
     "total_open": 465,
-    "total_overdue": 47,
-    "total_due_today": 1,
+    "total_overdue": 48,
+    "total_due_today": 7,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-27T23:45:28.147158+09:30"
+  "last_updated": "2026-08-28T00:00:39.750639+09:30"
 }
