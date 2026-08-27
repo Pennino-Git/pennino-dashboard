@@ -388,7 +388,7 @@
       "address": "48 The Esplanade, Clinton SA 5570",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/16477307",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "Client",
       "days_in_stage": 77,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -1462,7 +1462,7 @@
       "address": "20-26 Lipson Street, Port Adelaide SA 5015",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351320",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "Client",
       "days_in_stage": 16,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0161247",
@@ -1756,7 +1756,7 @@
       "address": "6 & 8A Strawson Road, Northfield SA 5085",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17732479",
-      "responsibility": "SA Water",
+      "responsibility": "SCAP/DAC",
       "days_in_stage": 58,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0183205",
@@ -2178,7 +2178,7 @@
       "address": "Corner of Montague and Bridge Road",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18103170",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 77,
       "stage_name": "Further Work Required",
       "sa_water_ref": "",
@@ -2371,28 +2371,6 @@
       "lng": 138.6836943
     },
     {
-      "id": 18333096,
-      "name": "T1325 Edwards Davies St TIER3",
-      "tier": "T3",
-      "status": "NOT STARTED",
-      "address": "Edwards Davies St",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18333096",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 17,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9540807,
-      "lng": 138.556489
-    },
-    {
       "id": 18350144,
       "name": "T1326 Garnet Ave TIER3",
       "tier": "T3",
@@ -2547,6 +2525,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-27T11:15:23.860482+09:30",
-  "total": 113
+  "last_updated": "2026-08-27T11:30:40.412179+09:30",
+  "total": 112
 }
