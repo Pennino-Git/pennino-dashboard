@@ -1059,86 +1059,6 @@
         }
       ]
     },
-    "18046089": {
-      "total": 8,
-      "overdue": 3,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 202965655,
-          "title": "Prep files, send to Kate",
-          "due_date": "2026-02-03",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205068657,
-          "title": "Client Brief Received and Info Prepped",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068658,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068659,
-          "title": "Concept plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068660,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068661,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206520446,
-          "title": "Update on CAD files?",
-          "due_date": "2026-07-28",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 206672462,
-          "title": "per DP's instruction, set a reminder and ask him again",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "17303279": {
       "total": 1,
       "overdue": 1,
@@ -2149,6 +2069,41 @@
           "overdue": false,
           "due_today": false,
           "due_soon": false
+        }
+      ]
+    },
+    "18046089": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205068657,
+          "title": "Client Brief Received and Info Prepped",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068660,
+          "title": "Concept plan sent to client for approval",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205068661,
+          "title": "Client approval received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -5248,17 +5203,6 @@
       "project_name": "S1134 Wynn Vale Dr TIER3"
     },
     {
-      "task_id": 202965655,
-      "title": "Prep files, send to Kate",
-      "due_date": "2026-02-03",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
-    },
-    {
       "task_id": 203266255,
       "title": "Invoicing? Ask Joe first",
       "due_date": "2026-03-09",
@@ -5534,28 +5478,6 @@
       "project_name": "T1327 Davoren Park- 4 Sites TIER3"
     },
     {
-      "task_id": 206520446,
-      "title": "Update on CAD files?",
-      "due_date": "2026-07-28",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
-    },
-    {
-      "task_id": 206672462,
-      "title": "per DP's instruction, set a reminder and ask him again",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
-    },
-    {
       "task_id": 206844652,
       "title": "Check if the project has chargeables",
       "due_date": "2026-08-07",
@@ -5667,10 +5589,10 @@
     }
   ],
   "summary": {
-    "total_open": 473,
-    "total_overdue": 50,
+    "total_open": 468,
+    "total_overdue": 47,
     "total_due_today": 2,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-27T12:45:30.242353+09:30"
+  "last_updated": "2026-08-27T13:00:31.760218+09:30"
 }
