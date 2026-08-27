@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18400559,
+      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-08-27T13:45:26.759894+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18059610,
       "project_name": "Z1062 Leon St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-03T03:30:47.612675+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-03T03:00:40.146758+09:30"
     }
   ],
-  "last_updated": "2026-08-27T13:30:41.366199+09:30"
+  "last_updated": "2026-08-27T13:45:26.759894+09:30"
 }
