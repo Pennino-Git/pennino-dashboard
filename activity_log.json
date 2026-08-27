@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-27T11:15:23.860482+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-27T11:15:23.860482+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 11764688,
       "project_name": "H1015 Barkey St TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-07-30T09:45:29.411602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15187921,
-      "project_name": "B1103 Kensington Way TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-07-30T06:08:29.725602+09:30"
     }
   ],
-  "last_updated": "2026-08-27T11:00:33.782934+09:30"
+  "last_updated": "2026-08-27T11:15:23.860482+09:30"
 }
