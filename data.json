@@ -1074,7 +1074,7 @@
       "address": "12 Araluen Street, Ridgehaven SA 5097",
       "client": "Darren Ferber",
       "link": "https://crm.na1.insightly.com/details/project/13466164",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 78,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0125919",
@@ -1083,7 +1083,8 @@
         "tier2",
         "torrens_division",
         "city_of_tea_tree_gully",
-        "ridgehaven"
+        "ridgehaven",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2525,6 +2526,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-28T04:15:24.582633+09:30",
+  "last_updated": "2026-08-28T04:30:43.329861+09:30",
   "total": 112
 }

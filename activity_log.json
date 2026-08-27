@@ -5,6 +5,15 @@
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
       "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-08-28T04:30:43.329861+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2",
+      "tier": "T2",
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-08-28T04:15:24.582633+09:30"
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-08-04T11:45:32.829946+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-04T06:15:39.972642+09:30"
     }
   ],
-  "last_updated": "2026-08-28T04:15:24.582633+09:30"
+  "last_updated": "2026-08-28T04:30:43.329861+09:30"
 }
