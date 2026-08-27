@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-08-27T16:45:27.480740+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18250076,
+      "project_name": "B1140 Garden Tce TD2-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-27T16:45:27.480740+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18426556,
       "project_name": "Z1074 Orion Way CONTOUR",
@@ -1781,25 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-08-03T20:15:38.228769+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17956195,
-      "project_name": "A1336 The Parade TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-03T16:45:48.373860+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-03T14:30:45.898773+09:30"
     }
   ],
-  "last_updated": "2026-08-27T16:30:48.020699+09:30"
+  "last_updated": "2026-08-27T16:45:27.480740+09:30"
 }
