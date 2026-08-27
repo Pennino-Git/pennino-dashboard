@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18426556,
+      "project_name": "Z1074 Orion Way CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-27T15:30:39.654521+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-03T14:30:45.898773+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-03T14:30:45.898773+09:30"
     }
   ],
-  "last_updated": "2026-08-27T15:15:26.483811+09:30"
+  "last_updated": "2026-08-27T15:30:39.654521+09:30"
 }

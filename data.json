@@ -528,7 +528,7 @@
       "address": "Lot 7, 8, 9, 10 Orion Way, Edinburgh North SA 5113",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18426556",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 13,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2525,6 +2525,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-27T15:15:26.483811+09:30",
+  "last_updated": "2026-08-27T15:30:39.654521+09:30",
   "total": 112
 }
