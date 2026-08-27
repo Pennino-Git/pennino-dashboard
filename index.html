@@ -113,8 +113,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; backg
 .badge-stale { font-size:9px; background:#92400e; color:#fde047; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-premium { font-size:9px; background:#5b21b6; color:#c4b5fd; padding:1px 4px; border-radius:3px; font-weight:700; }
 .badge-tasks { font-size:9px; padding:1px 5px; border-radius:3px; font-weight:700; background:#1e3a5f; color:#93c5fd; }
-.badge-clockify { font-size:11px; cursor:pointer; text-decoration:none; opacity:.7; transition:opacity .15s; line-height:1; }
-.badge-clockify:hover { opacity:1; }
+.badge-clockify { font-size:16px; cursor:pointer; text-decoration:none; opacity:.8; transition:all .15s; line-height:1; z-index:10; position:relative; padding:2px 4px; border-radius:4px; }
+.badge-clockify:hover { opacity:1; background:rgba(59,130,246,.2); transform:scale(1.15); }
 .list-clockify { font-size:13px; text-decoration:none; opacity:.6; }
 .list-clockify:hover { opacity:1; }
 
@@ -378,7 +378,7 @@ function makeCard(p) {
 
   const ref = extractRef(p.name);
   const cUrl = ref ? clockifyUrl(ref) : null;
-  const clockifyHtml = cUrl ? `<a href="${cUrl}" target="_blank" class="badge-clockify" title="Open in Clockify" onclick="event.stopPropagation();event.preventDefault();window.open(this.href,'_blank')">&#x23F1;&#xFE0F;</a>` : "";
+  const clockifyHtml = cUrl ? `<a href="${cUrl}" target="_blank" class="badge-clockify" title="Open in Clockify" onclick="event.stopPropagation();window.open(this.href,'_blank');return false;">&#x23F1;&#xFE0F;</a>` : "";
 
   let badgeHtml = "";
   if (cUrl) badgeHtml += clockifyHtml;
@@ -386,8 +386,7 @@ function makeCard(p) {
   if (isStale(p)) badgeHtml += `<span class="badge-stale">\u{23F0}</span>`;
   if (p.is_premium) badgeHtml += `<span class="badge-premium">\u{1F48E}</span>`;
 
-  return `<a href="${INSIGHTLY_BASE}${p.id}" target="_blank" style="text-decoration:none;color:inherit;" title="Open in Insightly">
-    <div class="card">
+  return `<div class="card" onclick="window.open('${INSIGHTLY_BASE}${p.id}','_blank')" title="Open in Insightly" style="cursor:pointer;">
       <div class="card-header">
         <span class="card-name">${p.name}</span>
         <div class="card-badges">${badgeHtml}<span class="card-tier ${p.tier}">${p.tier}</span></div>
@@ -398,8 +397,7 @@ function makeCard(p) {
         <span class="card-stage" title="${p.stage_name}">${p.stage_name}</span>
         ${daysHtml}
       </div>
-    </div>
-  </a>`;
+    </div>``;
 }
 
 function renderStats(fp) {
