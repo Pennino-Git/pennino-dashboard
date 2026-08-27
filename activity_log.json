@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-28T04:15:24.582633+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18250076,
       "project_name": "B1140 Garden Tce TD2-3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-08-04T06:15:39.972642+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "3. Authority Assessment",
-      "timestamp": "2026-08-03T20:15:38.228769+09:30"
     }
   ],
-  "last_updated": "2026-08-28T04:00:36.740152+09:30"
+  "last_updated": "2026-08-28T04:15:24.582633+09:30"
 }
