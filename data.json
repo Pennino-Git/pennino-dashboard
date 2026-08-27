@@ -1166,7 +1166,7 @@
       "address": "60 Glenloth Drive, Happy Valley SA 5159",
       "client": "Alice  Wright",
       "link": "https://crm.na1.insightly.com/details/project/17782437",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "Client",
       "days_in_stage": 77,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0181127",
@@ -2525,6 +2525,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-27T14:15:23.488747+09:30",
+  "last_updated": "2026-08-27T14:30:39.763585+09:30",
   "total": 112
 }

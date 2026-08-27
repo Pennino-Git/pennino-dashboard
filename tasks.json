@@ -892,7 +892,7 @@
     "17782437": {
       "total": 18,
       "overdue": 5,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1049,12 +1049,12 @@
           "due_soon": ""
         },
         {
-          "task_id": 207238534,
-          "title": "Check if SA Water responded- also if we need to send their plans to client",
-          "due_date": "2026-08-27",
+          "task_id": 207272810,
+          "title": "per Jake 1 week to remove trees. check if this is done",
+          "due_date": "2026-09-04",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5029,17 +5029,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207238534,
-      "title": "Check if SA Water responded- also if we need to send their plans to client",
-      "due_date": "2026-08-27",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 207244698,
       "title": "Ask DP about pegging plan/sa water requirement",
       "due_date": "2026-08-27",
@@ -5573,8 +5562,8 @@
   "summary": {
     "total_open": 466,
     "total_overdue": 47,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-27T14:15:23.488747+09:30"
+  "last_updated": "2026-08-27T14:30:39.763585+09:30"
 }
