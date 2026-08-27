@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18214852,
+      "project_name": "L1041 Kensington Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-27T12:30:47.005734+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18223472,
       "project_name": "B1139 Karri St TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "8. Final Authority Approvals",
       "to": "9. LTO Lodgement",
       "timestamp": "2026-07-31T16:14:37.210723+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-07-31T16:14:37.210723+09:30"
     }
   ],
-  "last_updated": "2026-08-27T12:15:24.570571+09:30"
+  "last_updated": "2026-08-27T12:30:47.005734+09:30"
 }
