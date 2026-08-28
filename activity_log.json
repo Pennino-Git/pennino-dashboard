@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18059610,
+      "project_name": "Z1062 Leon St TD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-08-28T11:30:41.805089+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18249652,
+      "project_name": "S1146 Symond St REALIGNMENT",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-28T11:30:41.805089+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18333168,
+      "project_name": "S1152 Tarton Rd TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-08-28T11:30:41.805089+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "Invoice & Close",
       "to": "Further Work Required",
       "timestamp": "2026-08-05T05:00:46.411752+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18184868,
-      "project_name": "T1319 Grange Rd TIER3",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-05T05:00:46.411752+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "8. Final Authority Approvals",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-08-04T18:15:33.209089+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-04T11:45:32.829946+09:30"
     }
   ],
-  "last_updated": "2026-08-28T11:15:25.688060+09:30"
+  "last_updated": "2026-08-28T11:30:41.805089+09:30"
 }

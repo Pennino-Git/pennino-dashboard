@@ -1825,7 +1825,7 @@
       "address": "Lot 5 & 14 10 Symonds Street, Royal Park SA 5014",
       "client": "Gerry Russo",
       "link": "https://crm.na1.insightly.com/details/project/18249652",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 78,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1871,7 +1871,7 @@
       "address": "23 Tarton Road, Holden Hill SA 5088",
       "client": "Shrishti  Ghosh",
       "link": "https://crm.na1.insightly.com/details/project/18333168",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Client",
       "days_in_stage": 78,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -1985,7 +1985,7 @@
       "address": "29 Leon Street, Salisbury North SA 5108",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18059610",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 78,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -2526,6 +2526,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-28T11:15:25.688060+09:30",
+  "last_updated": "2026-08-28T11:30:41.805089+09:30",
   "total": 112
 }
