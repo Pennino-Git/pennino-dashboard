@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-28T11:15:25.688060+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "AR (Alex)",
       "timestamp": "2026-08-04T11:45:32.829946+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-04T11:45:32.829946+09:30"
     }
   ],
-  "last_updated": "2026-08-28T11:00:32.033594+09:30"
+  "last_updated": "2026-08-28T11:15:25.688060+09:30"
 }
