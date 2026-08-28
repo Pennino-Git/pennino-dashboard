@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Council/Authority",
+      "timestamp": "2026-08-28T15:15:27.022751+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 15599174,
       "project_name": "J1015 Eudunda Land TD1-50",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
     }
   ],
-  "last_updated": "2026-08-28T15:00:31.901670+09:30"
+  "last_updated": "2026-08-28T15:15:27.022751+09:30"
 }
