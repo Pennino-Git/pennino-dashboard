@@ -3126,10 +3126,10 @@
       ]
     },
     "17732479": {
-      "total": 7,
-      "overdue": 1,
-      "due_today": 2,
-      "due_soon": 1,
+      "total": 6,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3161,38 +3161,29 @@
         {
           "task_id": 207093169,
           "title": "Check for SA Water response- we sent pegging plan on 12.08",
-          "due_date": "2026-08-28",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 207118657,
-          "title": "Did Council grant clearance?",
-          "due_date": "2026-08-31",
+          "due_date": "2026-09-01",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
           "due_soon": true
         },
         {
-          "task_id": 207245192,
-          "title": "Re-upload Cert plan ",
-          "due_date": "2026-08-26",
+          "task_id": 207118657,
+          "title": "Did Council grant clearance?",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
-          "task_id": 207271588,
-          "title": "Check if Plan SA withdrawal is done and can re-lodge ",
-          "due_date": "2026-08-28",
+          "task_id": 207245192,
+          "title": "Re-upload Cert plan ",
+          "due_date": "2026-08-31",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5011,17 +5002,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207093169,
-      "title": "Check for SA Water response- we sent pegging plan on 12.08",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
       "task_id": 207190641,
       "title": "Did DP respond to email about SA Water INV?",
       "due_date": "2026-08-28",
@@ -5042,17 +5022,6 @@
       "due_soon": false,
       "project_id": 17328458,
       "project_name": "L1031 Stebonheath Rd TD1-5"
-    },
-    {
-      "task_id": 207271588,
-      "title": "Check if Plan SA withdrawal is done and can re-lodge ",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
     },
     {
       "task_id": 207271708,
@@ -5594,24 +5563,13 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207245192,
-      "title": "Re-upload Cert plan ",
-      "due_date": "2026-08-26",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "summary": {
-    "total_open": 464,
-    "total_overdue": 48,
-    "total_due_today": 6,
+    "total_open": 463,
+    "total_overdue": 47,
+    "total_due_today": 4,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-28T10:00:35.081600+09:30"
+  "last_updated": "2026-08-28T10:15:24.500297+09:30"
 }
