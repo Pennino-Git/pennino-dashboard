@@ -1132,8 +1132,8 @@
     },
     "15978707": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1177,8 +1177,8 @@
           "title": "Council cleared Plan SA?",
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1256,8 +1256,8 @@
     },
     "17539782": {
       "total": 25,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1481,8 +1481,8 @@
           "title": "Did DP respond to email about SA Water INV?",
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4039,8 +4039,8 @@
     },
     "17328458": {
       "total": 8,
-      "overdue": 3,
-      "due_today": 1,
+      "overdue": 4,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4111,8 +4111,8 @@
           "title": "Check actionables",
           "due_date": "2026-08-28",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4991,41 +4991,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207190641,
-      "title": "Did DP respond to email about SA Water INV?",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
-      "task_id": 207244879,
-      "title": "Check actionables",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5"
-    },
-    {
-      "task_id": 207273555,
-      "title": "Council cleared Plan SA?",
-      "due_date": "2026-08-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5523,6 +5489,17 @@
       "project_name": "L1031 Stebonheath Rd TD1-5"
     },
     {
+      "task_id": 207190641,
+      "title": "Did DP respond to email about SA Water INV?",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
       "task_id": 207244698,
       "title": "Ask DP about pegging plan/sa water requirement",
       "due_date": "2026-08-27",
@@ -5532,13 +5509,35 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
+      "task_id": 207244879,
+      "title": "Check actionables",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5"
+    },
+    {
+      "task_id": 207273555,
+      "title": "Council cleared Plan SA?",
+      "due_date": "2026-08-28",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
     }
   ],
   "summary": {
     "total_open": 462,
-    "total_overdue": 46,
-    "total_due_today": 3,
+    "total_overdue": 49,
+    "total_due_today": 0,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-28T23:45:24.852410+09:30"
+  "last_updated": "2026-08-29T00:00:39.742189+09:30"
 }
