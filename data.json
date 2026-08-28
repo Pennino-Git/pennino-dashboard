@@ -2136,11 +2136,11 @@
       "address": "Wynn Vale Drive",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/17847395",
-      "responsibility": "Client",
-      "days_in_stage": 78,
-      "stage_name": "Further Work Required",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "seychell"
@@ -2180,11 +2180,11 @@
       "address": "Ashton Place, Wynn Vale Drive",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18264763",
-      "responsibility": "Client",
-      "days_in_stage": 78,
-      "stage_name": "Further Work Required",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "seychell_construction"
@@ -2224,11 +2224,11 @@
       "address": "476 Anzac Hwy, Camden Park SA 5038",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18316698",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 35,
-      "stage_name": "Plan to Client",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 6,
       "tags": [
         "seychell",
         "tier3"
@@ -2505,6 +2505,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-28T16:15:25.393029+09:30",
+  "last_updated": "2026-08-28T16:30:44.864582+09:30",
   "total": 111
 }

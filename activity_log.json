@@ -1,6 +1,60 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17847395,
+      "project_name": "S1134 Wynn Vale Dr TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17847395,
+      "project_name": "S1134 Wynn Vale Dr TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18264763,
+      "project_name": "S1147 Ashton Pl TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18264763,
+      "project_name": "S1147 Ashton Pl TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18316698,
+      "project_name": "S1151 Morphett Rd TIER3",
+      "tier": "T3",
+      "from": "Plan to Client",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18316698,
+      "project_name": "S1151 Morphett Rd TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-28T16:30:44.864582+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18056682,
       "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
@@ -1745,61 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Council/Authority",
       "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "LTO",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17956195,
-      "project_name": "A1336 The Parade TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18078768,
-      "project_name": "N1028 Lyndoch Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
     }
   ],
-  "last_updated": "2026-08-28T16:15:25.393029+09:30"
+  "last_updated": "2026-08-28T16:30:44.864582+09:30"
 }
