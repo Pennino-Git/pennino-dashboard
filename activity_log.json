@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 11764688,
+      "project_name": "H1015 Barkey St TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "LTO",
+      "timestamp": "2026-08-28T12:30:43.807592+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18059610,
       "project_name": "Z1062 Leon St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18184868,
-      "project_name": "T1319 Grange Rd TIER3",
-      "tier": "T3",
-      "from": "Invoice & Close",
-      "to": "Further Work Required",
-      "timestamp": "2026-08-05T05:00:46.411752+09:30"
     }
   ],
-  "last_updated": "2026-08-28T12:15:24.625876+09:30"
+  "last_updated": "2026-08-28T12:30:43.807592+09:30"
 }
