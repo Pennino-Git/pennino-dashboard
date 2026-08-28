@@ -3399,59 +3399,6 @@
         }
       ]
     },
-    "18250076": {
-      "total": 5,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206290847,
-          "title": "SA Water connection request submitted (May Require Pegging)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206290851,
-          "title": "All authority approvals received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207273529,
-          "title": "Field survey completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207273530,
-          "title": "Certified plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207273531,
-          "title": "SCAP Certificate Applied For",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18386748": {
       "total": 6,
       "overdue": 1,
@@ -4998,6 +4945,41 @@
           "due_soon": ""
         }
       ]
+    },
+    "18250076": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207273529,
+          "title": "Field survey completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207273530,
+          "title": "Certified plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207273531,
+          "title": "SCAP Certificate Applied For",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5566,10 +5548,10 @@
     }
   ],
   "summary": {
-    "total_open": 463,
+    "total_open": 461,
     "total_overdue": 47,
     "total_due_today": 4,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-28T10:38:48.033611+09:30"
+  "last_updated": "2026-08-28T10:45:23.693027+09:30"
 }
