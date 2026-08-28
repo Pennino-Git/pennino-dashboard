@@ -490,9 +490,9 @@
     "stage_name": "Prepare Plan"
   },
   "18403480": {
-    "stage_id": 3823937,
-    "entered": "2026-07-27",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823938,
+    "entered": "2026-08-28",
+    "stage_name": "Prepare Plan"
   },
   "18415275": {
     "stage_id": 4845733,
@@ -548,11 +548,6 @@
     "stage_id": 3823937,
     "entered": "2026-08-25",
     "stage_name": "Field Work Scheduled"
-  },
-  "18436641": {
-    "stage_id": 3823936,
-    "entered": "2026-08-25",
-    "stage_name": "Prepare Project"
   },
   "18438117": {
     "stage_id": 3134302,

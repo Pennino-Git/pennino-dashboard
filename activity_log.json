@@ -2,6 +2,42 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18056682,
+      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-28T16:15:25.393029+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-08-28T16:15:25.393029+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18403480,
+      "project_name": "Z1073 Hawker Rd CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-08-28T16:15:25.393029+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-28T16:15:25.393029+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3",
       "tier": "T2",
@@ -1763,43 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18184868,
-      "project_name": "T1319 Grange Rd TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
     }
   ],
-  "last_updated": "2026-08-28T16:00:35.368680+09:30"
+  "last_updated": "2026-08-28T16:15:25.393029+09:30"
 }

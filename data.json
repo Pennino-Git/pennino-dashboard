@@ -100,7 +100,7 @@
       "address": "1113-1117 Port Wakefield Road, Bolivar SA 5110",
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/18056682",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Client",
       "days_in_stage": 18,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -145,7 +145,7 @@
       "address": "30 Haig Street, Broadview SA 5083",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18415320",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 22,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -213,7 +213,7 @@
       "address": "1498 South Para Road, Kersbrook SA 5231",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18317513",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Client",
       "days_in_stage": 29,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -336,27 +336,6 @@
       "is_premium": false,
       "lat": -35.0849326,
       "lng": 138.5735223
-    },
-    {
-      "id": 18436641,
-      "name": "V1020 - [TEST/VOID] System Test 25 Aug 2026",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "10 Rundle St, Kent Town SA 5000, Australia",
-      "client": "TEST VOID",
-      "link": "https://crm.na1.insightly.com/details/project/18436641",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 3,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [
-        "FIELD"
-      ],
-      "needs_fieldwork": true,
-      "is_premium": false,
-      "lat": -34.9228367,
-      "lng": 138.6057926
     },
     {
       "id": 18269218,
@@ -505,10 +484,10 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18403480",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 32,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "tier1",
         "contour",
@@ -2526,6 +2505,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-28T16:00:35.368680+09:30",
-  "total": 112
+  "last_updated": "2026-08-28T16:15:25.393029+09:30",
+  "total": 111
 }
