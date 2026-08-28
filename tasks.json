@@ -4877,23 +4877,6 @@
         }
       ]
     },
-    "18403480": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207301104,
-          "title": "Final plan signed off",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18264763": {
       "total": 2,
       "overdue": 0,
@@ -4963,6 +4946,41 @@
         },
         {
           "task_id": 207301183,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18403480": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207301348,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207301349,
+          "title": "Payment received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207301350,
           "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5517,10 +5535,10 @@
     }
   ],
   "summary": {
-    "total_open": 460,
+    "total_open": 462,
     "total_overdue": 46,
     "total_due_today": 3,
     "projects_with_tasks": 104
   },
-  "last_updated": "2026-08-28T16:45:27.247929+09:30"
+  "last_updated": "2026-08-28T17:00:34.182746+09:30"
 }

@@ -483,11 +483,11 @@
       "address": "Lot 109 & 110 16 Hawker Road, Burton SA 5110",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18403480",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Plan",
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 5,
       "tags": [
         "tier1",
         "contour",
@@ -2505,6 +2505,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-28T16:45:27.247929+09:30",
+  "last_updated": "2026-08-28T17:00:34.182746+09:30",
   "total": 111
 }

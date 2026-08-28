@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18403480,
+      "project_name": "Z1073 Hawker Rd CONTOUR",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-08-28T17:00:34.182746+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18403480,
+      "project_name": "Z1073 Hawker Rd CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-28T17:00:34.182746+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17847395,
       "project_name": "S1134 Wynn Vale Dr TIER3",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-08-05T10:15:38.563244+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15599174,
-      "project_name": "J1015 Eudunda Land TD1-50",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-05T06:15:32.371685+09:30"
     }
   ],
-  "last_updated": "2026-08-28T16:45:27.247929+09:30"
+  "last_updated": "2026-08-28T17:00:34.182746+09:30"
 }
