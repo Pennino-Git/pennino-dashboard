@@ -1534,7 +1534,7 @@
       "address": "846 & 848 Grand Junction Road, Gilles Plains SA 5086",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18308881",
-      "responsibility": "Kate (Drafting)",
+      "responsibility": "Client",
       "days_in_stage": 0,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2506,6 +2506,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-29T13:45:26.270271+09:30",
+  "last_updated": "2026-08-29T14:00:32.384919+09:30",
   "total": 111
 }

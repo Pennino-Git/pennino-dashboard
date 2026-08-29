@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-08-29T14:00:32.384919+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-05T11:00:44.154394+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18397836,
-      "project_name": "A1354 Verdello Dr IDENT-PEG",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Invoice",
-      "timestamp": "2026-08-05T11:00:44.154394+09:30"
     }
   ],
-  "last_updated": "2026-08-29T13:45:26.270271+09:30"
+  "last_updated": "2026-08-29T14:00:32.384919+09:30"
 }
