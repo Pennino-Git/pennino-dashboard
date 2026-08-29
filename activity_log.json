@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "Plan to Client",
+      "to": "Invoice & Close",
+      "timestamp": "2026-08-29T14:30:40.837110+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18289825,
+      "project_name": "S1149 Kensington Park TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-08-29T14:30:40.837110+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18398274,
+      "project_name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-08-29T14:30:40.837110+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1772,34 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-06T06:15:33.193487+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-05T11:00:44.154394+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18356989,
-      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Invoice",
-      "timestamp": "2026-08-05T11:00:44.154394+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18356989,
-      "project_name": "A1351 Pegasus Ct IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T11:00:44.154394+09:30"
     }
   ],
-  "last_updated": "2026-08-29T14:15:25.247147+09:30"
+  "last_updated": "2026-08-29T14:30:40.837110+09:30"
 }

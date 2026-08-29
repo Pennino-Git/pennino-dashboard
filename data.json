@@ -459,7 +459,7 @@
       "address": "1-3 Frederick Street, Cavan SA 5094",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18398274",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 38,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2203,11 +2203,11 @@
       "address": "21 Park Road, Kensington Park SA 5068",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18289825",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 36,
-      "stage_name": "Plan to Client",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "seychell_construction"
@@ -2506,6 +2506,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-29T14:15:25.247147+09:30",
+  "last_updated": "2026-08-29T14:30:40.837110+09:30",
   "total": 111
 }
