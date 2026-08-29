@@ -3944,9 +3944,9 @@
     },
     "18254196": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 2,
-      "due_soon": 2,
+      "overdue": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206702013,
@@ -3971,8 +3971,8 @@
           "title": "Repeg",
           "due_date": "2026-08-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3980,8 +3980,8 @@
           "title": "Kate, we have two concepts received",
           "due_date": "2026-08-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3990,8 +3990,8 @@
           "due_date": "2026-08-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207318571,
@@ -5100,20 +5100,9 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207318567,
-      "title": "Repeg",
-      "due_date": "2026-08-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
-    },
-    {
-      "task_id": 207318569,
-      "title": "Kate, we have two concepts received",
-      "due_date": "2026-08-29",
+      "task_id": 207318570,
+      "title": "Client approval of Rev 2",
+      "due_date": "2026-08-30",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
@@ -5661,13 +5650,35 @@
       "due_soon": false,
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207318567,
+      "title": "Repeg",
+      "due_date": "2026-08-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 207318569,
+      "title": "Kate, we have two concepts received",
+      "due_date": "2026-08-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 49,
-    "total_due_today": 2,
+    "total_overdue": 51,
+    "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-29T23:45:26.573575+09:30"
+  "last_updated": "2026-08-30T00:00:32.055804+09:30"
 }
