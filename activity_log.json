@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-08-29T12:15:24.758293+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Invoice",
       "timestamp": "2026-08-05T11:00:44.154394+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18397836,
-      "project_name": "A1354 Verdello Dr IDENT-PEG",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-05T11:00:44.154394+09:30"
     }
   ],
-  "last_updated": "2026-08-29T12:00:32.826928+09:30"
+  "last_updated": "2026-08-29T12:15:24.758293+09:30"
 }
