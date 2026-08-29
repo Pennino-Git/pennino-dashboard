@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-08-29T11:15:26.930671+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18403480,
       "project_name": "Z1073 Hawker Rd CONTOUR",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-05T11:00:44.154394+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18372992,
-      "project_name": "A1352 Gulf Pde TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-05T10:15:38.563244+09:30"
     }
   ],
-  "last_updated": "2026-08-29T11:00:32.679332+09:30"
+  "last_updated": "2026-08-29T11:15:26.930671+09:30"
 }
