@@ -3173,8 +3173,8 @@
     "17732479": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3227,8 +3227,8 @@
           "due_date": "2026-08-31",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3944,9 +3944,9 @@
     },
     "18254196": {
       "total": 6,
-      "overdue": 2,
+      "overdue": 3,
       "due_today": 1,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206702013,
@@ -3989,8 +3989,8 @@
           "title": "Client approval of Rev 2",
           "due_date": "2026-08-30",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3999,8 +3999,8 @@
           "due_date": "2026-08-31",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4121,8 +4121,8 @@
     "17328458": {
       "total": 9,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206844652,
@@ -4202,8 +4202,8 @@
           "due_date": "2026-08-31",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4858,7 +4858,7 @@
       "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207271919,
@@ -4876,7 +4876,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5109,15 +5109,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207318570,
-      "title": "Client approval of Rev 2",
-      "due_date": "2026-08-30",
+      "task_id": 207245192,
+      "title": "Re-upload Cert plan ",
+      "due_date": "2026-08-31",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 207318571,
+      "title": "Updated rev to plans lodged with Plan SA",
+      "due_date": "2026-08-31",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 207323437,
+      "title": "Ask DP for clarification on SCAP approval",
+      "due_date": "2026-08-31",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17328458,
+      "project_name": "L1031 Stebonheath Rd TD1-5"
     }
   ],
   "tasks_overdue": [
@@ -5648,13 +5670,24 @@
       "due_soon": false,
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 207318570,
+      "title": "Client approval of Rev 2",
+      "due_date": "2026-08-30",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
     "total_open": 474,
-    "total_overdue": 48,
-    "total_due_today": 1,
+    "total_overdue": 49,
+    "total_due_today": 3,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-30T23:45:23.924841+09:30"
+  "last_updated": "2026-08-31T00:00:34.439050+09:30"
 }
