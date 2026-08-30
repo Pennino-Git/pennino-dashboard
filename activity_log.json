@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-08-30T23:00:34.968301+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18289825,
       "project_name": "S1149 Kensington Park TIER3",
@@ -1790,16 +1799,7 @@
       "from": "3. Authority Assessment",
       "to": "4. Conditions & Compliance",
       "timestamp": "2026-08-06T09:45:34.589215+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-06T06:15:33.193487+09:30"
     }
   ],
-  "last_updated": "2026-08-30T22:45:25.704290+09:30"
+  "last_updated": "2026-08-30T23:00:34.968301+09:30"
 }

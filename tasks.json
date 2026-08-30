@@ -1489,7 +1489,7 @@
     },
     "18046019": {
       "total": 5,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -1505,11 +1505,11 @@
         {
           "task_id": 205432354,
           "title": "SA Water invoice paid",
-          "due_date": "2026-08-14",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         },
         {
           "task_id": 205432355,
@@ -5419,17 +5419,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 205432354,
-      "title": "SA Water invoice paid",
-      "due_date": "2026-08-14",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
       "task_id": 205536899,
       "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
       "due_date": "2026-08-01",
@@ -5663,9 +5652,9 @@
   ],
   "summary": {
     "total_open": 474,
-    "total_overdue": 49,
+    "total_overdue": 48,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-30T22:45:25.704290+09:30"
+  "last_updated": "2026-08-30T23:00:34.968301+09:30"
 }

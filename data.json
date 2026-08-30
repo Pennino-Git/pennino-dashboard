@@ -1191,7 +1191,7 @@
       "address": "14 Bonnin Street, Reynella SA 5161",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18046019",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "Client",
       "days_in_stage": 80,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0187514",
@@ -2506,6 +2506,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-30T22:45:25.704290+09:30",
+  "last_updated": "2026-08-30T23:00:34.968301+09:30",
   "total": 111
 }
