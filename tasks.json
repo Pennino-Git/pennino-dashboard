@@ -2266,18 +2266,18 @@
     },
     "18203158": {
       "total": 1,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
           "task_id": 205381503,
           "title": "Client approval received",
-          "due_date": "2026-08-21",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         }
       ]
     },
@@ -5388,17 +5388,6 @@
       "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
-      "task_id": 205381503,
-      "title": "Client approval received",
-      "due_date": "2026-08-21",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    },
-    {
       "task_id": 205428926,
       "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
       "due_date": "2026-08-24",
@@ -5665,9 +5654,9 @@
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 50,
+    "total_overdue": 49,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-30T17:30:39.639734+09:30"
+  "last_updated": "2026-08-30T17:45:25.045556+09:30"
 }
