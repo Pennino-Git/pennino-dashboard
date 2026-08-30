@@ -3823,9 +3823,9 @@
     },
     "18287874": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206546331,
@@ -3848,11 +3848,11 @@
         {
           "task_id": 206845276,
           "title": "Per DP's email 05.08, we need to invoice 2 traffic",
-          "due_date": "2026-08-07",
+          "due_date": "2026-09-01",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5531,17 +5531,6 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
-      "task_id": 206845276,
-      "title": "Per DP's email 05.08, we need to invoice 2 traffic",
-      "due_date": "2026-08-07",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
-    },
-    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5676,9 +5665,9 @@
   ],
   "summary": {
     "total_open": 473,
-    "total_overdue": 51,
+    "total_overdue": 50,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-30T15:30:42.192784+09:30"
+  "last_updated": "2026-08-30T15:45:24.345776+09:30"
 }
