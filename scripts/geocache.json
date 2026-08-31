@@ -1769,6 +1769,12 @@
     "lng": 138.8931443,
     "source": "map.html-seed"
   },
+  "21 byre avenue, somerton park sa 5044": {
+    "cachedAt": "2026-08-31",
+    "lat": -34.9982688,
+    "lng": 138.5244671,
+    "source": "google"
+  },
   "21 dowlish street davoren park": {
     "cachedAt": "2026-08-25",
     "lat": -34.6917383,
