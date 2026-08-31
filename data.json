@@ -1466,7 +1466,7 @@
       "address": "17 Stebonheath Road, Edinburgh North (Womma Road)",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/17328458",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 21,
       "stage_name": "8. Final Authority Approvals",
       "sa_water_ref": "H0162554; H0182031; H0188988 (Correspondence)",
@@ -2506,6 +2506,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-31T10:15:23.577469+09:30",
+  "last_updated": "2026-08-31T10:24:21.046123+09:30",
   "total": 111
 }
