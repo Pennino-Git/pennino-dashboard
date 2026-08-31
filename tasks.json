@@ -3934,10 +3934,10 @@
       ]
     },
     "18254196": {
-      "total": 6,
+      "total": 7,
       "overdue": 3,
       "due_today": 1,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206702013,
@@ -3992,6 +3992,15 @@
           "overdue": false,
           "due_today": true,
           "due_soon": false
+        },
+        {
+          "task_id": 207327739,
+          "title": "Check for DP's response about the notifications",
+          "due_date": "2026-09-01",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5564,10 +5573,10 @@
     }
   ],
   "summary": {
-    "total_open": 468,
+    "total_open": 469,
     "total_overdue": 45,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-31T14:45:25.944588+09:30"
+  "last_updated": "2026-08-31T15:00:33.467904+09:30"
 }
