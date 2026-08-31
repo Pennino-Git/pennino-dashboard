@@ -3171,10 +3171,10 @@
       ]
     },
     "17732479": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 2,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3202,15 +3202,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207093169,
-          "title": "Check for SA Water response- we sent pegging plan on 12.08",
-          "due_date": "2026-09-01",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
         },
         {
           "task_id": 207118657,
@@ -5573,10 +5564,10 @@
     }
   ],
   "summary": {
-    "total_open": 469,
+    "total_open": 468,
     "total_overdue": 45,
     "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-08-31T12:45:27.963581+09:30"
+  "last_updated": "2026-08-31T13:00:33.196924+09:30"
 }
