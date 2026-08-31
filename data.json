@@ -1618,6 +1618,28 @@
       "lng": 138.5931338
     },
     {
+      "id": 18442448,
+      "name": "M1070 The Triangle CD1-2",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "9 & 11 The Triangle, Warradale SA 5046",
+      "client": "Lauren Prowse",
+      "link": "https://crm.na1.insightly.com/details/project/18442448",
+      "responsibility": "Kate (Drafting)",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "Community_Division",
+        "tier2"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.99816450000001,
+      "lng": 138.5307988
+    },
+    {
       "id": 17845187,
       "name": "N1027 Holder Ave CD2-2",
       "tier": "T2",
@@ -2506,6 +2528,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-08-31T15:30:42.725486+09:30",
-  "total": 111
+  "last_updated": "2026-08-31T15:45:26.251090+09:30",
+  "total": 112
 }
