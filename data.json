@@ -243,7 +243,9 @@
       "stage_order": 2,
       "tags": [
         "tier1",
-        "ident"
+        "ident",
+        "city_of_port_adelaide_enfield",
+        "field"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -508,10 +510,10 @@
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18426556",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 18,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "contour",
         "zummo_designs"
@@ -2549,6 +2551,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-01T12:15:26.563937+09:30",
+  "last_updated": "2026-09-01T12:30:42.783800+09:30",
   "total": 113
 }

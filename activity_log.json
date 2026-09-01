@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18426556,
+      "project_name": "Z1074 Orion Way CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-09-01T12:30:42.783800+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-06T14:15:31.661710+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-06T14:15:31.661710+09:30"
     }
   ],
-  "last_updated": "2026-09-01T12:15:26.563937+09:30"
+  "last_updated": "2026-09-01T12:30:42.783800+09:30"
 }
