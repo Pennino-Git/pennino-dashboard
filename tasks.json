@@ -3286,7 +3286,7 @@
       ]
     },
     "18091731": {
-      "total": 10,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3294,42 +3294,6 @@
         {
           "task_id": 206175449,
           "title": "Conditions of approval reviewed and itemised",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175452,
-          "title": "Allotment clearance confirmed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175464,
-          "title": "Surveyor assigned and field survey scheduled",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175465,
-          "title": "Surveyor assigned (Tristan / Harry / Grantley / Damiano)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206175466,
-          "title": "Field survey date scheduled",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5812,10 +5776,10 @@
     }
   ],
   "summary": {
-    "total_open": 488,
+    "total_open": 484,
     "total_overdue": 46,
     "total_due_today": 4,
     "projects_with_tasks": 108
   },
-  "last_updated": "2026-09-01T17:45:25.546723+09:30"
+  "last_updated": "2026-09-01T18:00:32.197013+09:30"
 }
