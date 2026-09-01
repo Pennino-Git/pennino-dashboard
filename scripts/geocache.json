@@ -413,6 +413,12 @@
     "lng": 138.5280864,
     "source": "map.html-seed"
   },
+  "11 marblewood wy, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-01",
+    "lat": -35.0968259,
+    "lng": 138.8809948,
+    "source": "google"
+  },
   "11 meadow lane, gulfview heights sa 5096": {
     "cachedAt": "2026-08-25",
     "lat": -34.783119,
