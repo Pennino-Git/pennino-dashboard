@@ -1573,29 +1573,6 @@
       "lng": 138.7461363
     },
     {
-      "id": 18009966,
-      "name": "M1067 Goodwood Rd TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "255 Goodwood Road, Kings Park SA 5034",
-      "client": "Isaac McNicol",
-      "link": "https://crm.na1.insightly.com/details/project/18009966",
-      "responsibility": "LTO",
-      "days_in_stage": 57,
-      "stage_name": "10. LTO Approval",
-      "sa_water_ref": "H0174519",
-      "stage_order": 10,
-      "tags": [
-        "tier2",
-        "torrens_division",
-        "inherited"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9590429,
-      "lng": 138.590484
-    },
-    {
       "id": 18425013,
       "name": "M1069 Pederick Rd CD1-5",
       "tier": "T2",
@@ -2572,6 +2549,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-01T10:30:41.979846+09:30",
-  "total": 114
+  "last_updated": "2026-09-01T10:45:25.084391+09:30",
+  "total": 113
 }
