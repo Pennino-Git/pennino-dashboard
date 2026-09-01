@@ -3881,8 +3881,8 @@
       ]
     },
     "18254196": {
-      "total": 7,
-      "overdue": 5,
+      "total": 6,
+      "overdue": 4,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3935,15 +3935,6 @@
           "task_id": 207318571,
           "title": "Updated rev to plans lodged with Plan SA",
           "due_date": "2026-08-31",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207327739,
-          "title": "Check for DP's response about the notifications",
-          "due_date": "2026-09-01",
           "status": "NOT STARTED",
           "overdue": true,
           "due_today": false,
@@ -5795,24 +5786,13 @@
       "due_soon": false,
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4"
-    },
-    {
-      "task_id": 207327739,
-      "title": "Check for DP's response about the notifications",
-      "due_date": "2026-09-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
-    "total_open": 484,
-    "total_overdue": 50,
+    "total_open": 483,
+    "total_overdue": 49,
     "total_due_today": 3,
     "projects_with_tasks": 108
   },
-  "last_updated": "2026-09-02T03:30:43.342422+09:30"
+  "last_updated": "2026-09-02T03:42:50.234424+09:30"
 }
