@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-01T15:45:27.430340+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18442448,
+      "project_name": "M1070 The Triangle CD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-09-01T15:45:27.430340+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-06T14:30:47.656226+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-06T14:30:47.656226+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-06T14:15:31.661710+09:30"
     }
   ],
-  "last_updated": "2026-09-01T15:30:42.300071+09:30"
+  "last_updated": "2026-09-01T15:45:27.430340+09:30"
 }
