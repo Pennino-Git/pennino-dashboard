@@ -1257,8 +1257,8 @@
     "17539782": {
       "total": 26,
       "overdue": 6,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1491,8 +1491,8 @@
           "due_date": "2026-09-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1810,8 +1810,8 @@
     "17900271": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205047318,
@@ -1873,8 +1873,8 @@
           "due_date": "2026-09-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3007,8 +3007,8 @@
     "17923064": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205771233,
@@ -3025,8 +3025,8 @@
           "due_date": "2026-09-02",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205771276,
@@ -3190,8 +3190,8 @@
     },
     "17732479": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3235,8 +3235,8 @@
           "title": "Lodge Final Plan (Withdrawn Approved?)",
           "due_date": "2026-09-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3761,8 +3761,8 @@
     },
     "18287874": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3788,8 +3788,8 @@
           "title": "Per DP's email 05.08, we need to invoice 2 traffic",
           "due_date": "2026-09-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3882,8 +3882,8 @@
     },
     "18254196": {
       "total": 7,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3945,8 +3945,8 @@
           "title": "Check for DP's response about the notifications",
           "due_date": "2026-09-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4435,8 +4435,8 @@
     },
     "18039448": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4444,8 +4444,8 @@
           "title": "SA Water invoice paid?",
           "due_date": "2026-09-01",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -5223,48 +5223,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206845276,
-      "title": "Per DP's email 05.08, we need to invoice 2 traffic",
-      "due_date": "2026-09-01",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18287874,
-      "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
-    },
-    {
-      "task_id": 206977011,
+      "task_id": 205771275,
       "title": "SA Water invoice paid?",
-      "due_date": "2026-09-01",
+      "due_date": "2026-09-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3"
     },
     {
-      "task_id": 207245192,
-      "title": "Lodge Final Plan (Withdrawn Approved?)",
-      "due_date": "2026-09-01",
+      "task_id": 207355887,
+      "title": "Did DP respond to email about uploading Planning Consent",
+      "due_date": "2026-09-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 207327739,
-      "title": "Check for DP's response about the notifications",
-      "due_date": "2026-09-01",
+      "task_id": 207355919,
+      "title": "Check for PLanning Consent if it's actionable",
+      "due_date": "2026-09-02",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
+      "project_id": 17900271,
+      "project_name": "A1335 Mitchel Dr TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5654,6 +5643,17 @@
       "project_name": "A1351 Pegasus Ct IDENT & CONTOUR"
     },
     {
+      "task_id": 206845276,
+      "title": "Per DP's email 05.08, we need to invoice 2 traffic",
+      "due_date": "2026-09-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18287874,
+      "project_name": "G1039 Angle Vale Lifestyle Center TIER3"
+    },
+    {
       "task_id": 206871440,
       "title": "Ask DP what do to next",
       "due_date": "2026-08-10",
@@ -5674,6 +5674,17 @@
       "due_soon": false,
       "project_id": 18372992,
       "project_name": "A1352 Gulf Pde TD1-3"
+    },
+    {
+      "task_id": 206977011,
+      "title": "SA Water invoice paid?",
+      "due_date": "2026-09-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18039448,
+      "project_name": "S1137 Ellis Ave TD2-6"
     },
     {
       "task_id": 207051079,
@@ -5718,6 +5729,17 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
+      "task_id": 207245192,
+      "title": "Lodge Final Plan (Withdrawn Approved?)",
+      "due_date": "2026-09-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     },
     {
       "task_id": 207273555,
@@ -5773,13 +5795,24 @@
       "due_soon": false,
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 207327739,
+      "title": "Check for DP's response about the notifications",
+      "due_date": "2026-09-01",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
     "total_open": 484,
-    "total_overdue": 46,
-    "total_due_today": 4,
+    "total_overdue": 50,
+    "total_due_today": 3,
     "projects_with_tasks": 108
   },
-  "last_updated": "2026-09-01T23:45:31.820298+09:30"
+  "last_updated": "2026-09-02T00:00:38.101706+09:30"
 }
