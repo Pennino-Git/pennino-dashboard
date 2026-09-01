@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-01T15:15:24.612734+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18426556,
       "project_name": "Z1074 Orion Way CONTOUR",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-06T14:15:31.661710+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-06T14:15:31.661710+09:30"
     }
   ],
-  "last_updated": "2026-09-01T14:39:14.441487+09:30"
+  "last_updated": "2026-09-01T15:15:24.612734+09:30"
 }
