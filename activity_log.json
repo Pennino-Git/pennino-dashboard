@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-02T16:00:32.372630+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18445572,
       "project_name": "T1334 - Wingfield Water Test Hole",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-06T15:30:47.466569+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-06T15:15:35.692089+09:30"
     }
   ],
-  "last_updated": "2026-09-02T15:45:29.488237+09:30"
+  "last_updated": "2026-09-02T16:00:32.372630+09:30"
 }
