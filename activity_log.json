@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18425013,
+      "project_name": "M1069 Pederick Rd CD1-5",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-09-02T12:00:32.374441+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-06T14:45:31.301905+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18249652,
-      "project_name": "S1146 Symond St REALIGNMENT",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-06T14:45:31.301905+09:30"
     }
   ],
-  "last_updated": "2026-09-02T11:45:24.268565+09:30"
+  "last_updated": "2026-09-02T12:00:32.374441+09:30"
 }
