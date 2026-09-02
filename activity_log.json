@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17923064,
+      "project_name": "F1108 Kurrajong Pl TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-09-02T10:44:21.766279+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-08-06T14:45:31.301905+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-06T14:30:47.656226+09:30"
     }
   ],
-  "last_updated": "2026-09-02T10:30:40.675545+09:30"
+  "last_updated": "2026-09-02T10:44:21.766279+09:30"
 }
