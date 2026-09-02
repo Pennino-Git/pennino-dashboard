@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-09-02T11:15:25.055243+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17923064,
       "project_name": "F1108 Kurrajong Pl TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-06T14:45:31.301905+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-08-06T14:45:31.301905+09:30"
     }
   ],
-  "last_updated": "2026-09-02T11:00:31.997432+09:30"
+  "last_updated": "2026-09-02T11:15:25.055243+09:30"
 }
