@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18445572,
+      "project_name": "T1334 - Wingfield Water Test Hole",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-02T15:23:59.326276+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18445564,
       "project_name": "T1333 - Ormison Court Water T3",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-08-06T15:15:35.692089+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333168,
-      "project_name": "S1152 Tarton Rd TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-06T15:00:44.642736+09:30"
     }
   ],
-  "last_updated": "2026-09-02T15:15:24.772554+09:30"
+  "last_updated": "2026-09-02T15:23:59.326276+09:30"
 }
