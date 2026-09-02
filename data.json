@@ -2548,6 +2548,25 @@
       "lng": 138.6152567
     },
     {
+      "id": 18445564,
+      "name": "T1333 - Ormison Court Water T3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "7 Ormiston Ct, Taperoo SA 5017, Australia",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18445564",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.8109166,
+      "lng": 138.4973837
+    },
+    {
       "id": 18420550,
       "name": "W1022 Main North Rd TIER3",
       "tier": "T3",
@@ -2570,6 +2589,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-02T14:30:40.842867+09:30",
-  "total": 114
+  "last_updated": "2026-09-02T14:45:23.566774+09:30",
+  "total": 115
 }
