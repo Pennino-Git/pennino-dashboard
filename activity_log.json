@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18445572,
+      "project_name": "T1334 - Wingfield Water Test Hole",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-02T15:30:40.406367+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18445572,
       "project_name": "T1334 - Wingfield Water Test Hole",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-08-06T15:15:35.692089+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-06T15:15:35.692089+09:30"
     }
   ],
-  "last_updated": "2026-09-02T15:23:59.326276+09:30"
+  "last_updated": "2026-09-02T15:30:40.406367+09:30"
 }
