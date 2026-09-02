@@ -5203,13 +5203,39 @@
       ]
     },
     "18445564": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207385119,
+          "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207385265,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18445572": {
       "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 207385116,
+          "task_id": 207385273,
           "title": "Job folder created in Dropbox/Clockify",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5218,7 +5244,7 @@
           "due_soon": ""
         },
         {
-          "task_id": 207385117,
+          "task_id": 207385274,
           "title": "DBYD responses received and reviewed",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5227,7 +5253,7 @@
           "due_soon": ""
         },
         {
-          "task_id": 207385118,
+          "task_id": 207385275,
           "title": "Existing plan / survey research done",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5236,7 +5262,7 @@
           "due_soon": ""
         },
         {
-          "task_id": 207385119,
+          "task_id": 207385276,
           "title": "Physical Docket Prepared",
           "due_date": null,
           "status": "NOT STARTED",
@@ -5769,10 +5795,10 @@
     }
   ],
   "summary": {
-    "total_open": 486,
+    "total_open": 488,
     "total_overdue": 46,
     "total_due_today": 1,
-    "projects_with_tasks": 109
+    "projects_with_tasks": 110
   },
-  "last_updated": "2026-09-02T15:00:32.889278+09:30"
+  "last_updated": "2026-09-02T15:15:24.772554+09:30"
 }
