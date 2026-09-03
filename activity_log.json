@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18133721,
+      "project_name": "C1063 Innovation Dr CD1-5",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-03T10:15:24.108462+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18273273,
       "project_name": "F1114 Blackham Cres TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-08-06T15:30:47.466569+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415320,
-      "project_name": "C1066 Haig St IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-06T15:30:47.466569+09:30"
     }
   ],
-  "last_updated": "2026-09-03T10:00:32.456491+09:30"
+  "last_updated": "2026-09-03T10:15:24.108462+09:30"
 }
