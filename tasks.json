@@ -875,8 +875,8 @@
     "17782437": {
       "total": 18,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 202742751,
@@ -1037,8 +1037,8 @@
           "due_date": "2026-09-04",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1133,8 +1133,8 @@
     "15978707": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204312633,
@@ -1178,8 +1178,8 @@
           "due_date": "2026-09-04",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1257,8 +1257,8 @@
     "17539782": {
       "total": 26,
       "overdue": 6,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1491,8 +1491,8 @@
           "due_date": "2026-09-04",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2707,8 +2707,8 @@
     },
     "18273554": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2752,8 +2752,8 @@
           "title": "Did Plan SA respond?",
           "due_date": "2026-09-03",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3190,8 +3190,8 @@
     },
     "17732479": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3235,8 +3235,8 @@
           "title": "Lodge Final Plan (Withdrawn Approved?)",
           "due_date": "2026-09-03",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5125,26 +5125,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207245192,
-      "title": "Lodge Final Plan (Withdrawn Approved?)",
-      "due_date": "2026-09-03",
+      "task_id": 207272810,
+      "title": "per Jake 1 week to remove trees. check if this is done",
+      "due_date": "2026-09-04",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
-      "task_id": 207357562,
-      "title": "Did Plan SA respond?",
-      "due_date": "2026-09-03",
+      "task_id": 207376508,
+      "title": "Check for Council response",
+      "due_date": "2026-09-04",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 207383693,
+      "title": "SCAP Certificate?",
+      "due_date": "2026-09-04",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5600,6 +5611,17 @@
       "project_name": "N1027 Holder Ave CD2-2"
     },
     {
+      "task_id": 207245192,
+      "title": "Lodge Final Plan (Withdrawn Approved?)",
+      "due_date": "2026-09-03",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
       "task_id": 207318567,
       "title": "Repeg",
       "due_date": "2026-08-29",
@@ -5653,13 +5675,24 @@
       "due_soon": false,
       "project_id": 17900271,
       "project_name": "A1335 Mitchel Dr TD1-3"
+    },
+    {
+      "task_id": 207357562,
+      "title": "Did Plan SA respond?",
+      "due_date": "2026-09-03",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "summary": {
     "total_open": 474,
-    "total_overdue": 46,
-    "total_due_today": 2,
+    "total_overdue": 48,
+    "total_due_today": 3,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-03T23:45:27.124557+09:30"
+  "last_updated": "2026-09-04T00:00:35.979553+09:30"
 }
