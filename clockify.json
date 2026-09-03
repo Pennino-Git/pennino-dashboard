@@ -193,10 +193,6 @@
       "id": "69f01b76a4155fee70782117",
       "name": "A1348 Bone St IDENT"
     },
-    "A1350": {
-      "id": "6a322afcbd0f0bfb9a9b49bc",
-      "name": "A1350 Sturt St IDENT"
-    },
     "A1351": {
       "id": "6a34ab760819592999044bfd",
       "name": "A1351 Pegasus Ct IDENT & CONTOUR"
@@ -1846,6 +1842,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 461,
-  "last_updated": "2026-09-03T14:45:23.979346+09:30"
+  "total": 460,
+  "last_updated": "2026-09-03T15:00:31.118666+09:30"
 }
