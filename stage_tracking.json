@@ -409,11 +409,6 @@
     "entered": "2026-06-30",
     "stage_name": "Invoice & Close"
   },
-  "18356989": {
-    "stage_id": 3823940,
-    "entered": "2026-08-05",
-    "stage_name": "Invoice"
-  },
   "18358533": {
     "stage_id": 3134305,
     "entered": "2026-07-14",

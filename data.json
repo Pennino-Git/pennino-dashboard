@@ -24,29 +24,6 @@
       "lng": 138.664237
     },
     {
-      "id": 18356989,
-      "name": "A1351 Pegasus Ct IDENT & CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "1 Pegasus Court, Yatala Vale SA 5126",
-      "client": "Matthew Kantarias",
-      "link": "https://crm.na1.insightly.com/details/project/18356989",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 29,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident_and_contour",
-        "tier1",
-        "arc_lending_network"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7938692,
-      "lng": 138.7368337
-    },
-    {
       "id": 18400559,
       "name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -2585,6 +2562,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-03T15:00:31.118666+09:30",
-  "total": 115
+  "last_updated": "2026-09-03T15:15:23.685304+09:30",
+  "total": 114
 }
