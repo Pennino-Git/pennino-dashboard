@@ -2126,28 +2126,6 @@
       "lng": 138.6332525
     },
     {
-      "id": 18287874,
-      "name": "G1039 Angle Vale Lifestyle Center TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "470 Curtis Road, Angle Vale SA 5117",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18287874",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 43,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "Angle_Vale"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6588733,
-      "lng": 138.651545
-    },
-    {
       "id": 17847395,
       "name": "S1134 Wynn Vale Dr TIER3",
       "tier": "T3",
@@ -2562,6 +2540,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-03T15:15:23.685304+09:30",
-  "total": 114
+  "last_updated": "2026-09-03T15:30:40.636677+09:30",
+  "total": 113
 }

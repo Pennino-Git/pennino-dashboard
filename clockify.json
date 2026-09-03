@@ -641,10 +641,6 @@
       "id": "68903510fd7280617afaacfa",
       "name": "G1038 Stuckey Ave IDENT"
     },
-    "G1039": {
-      "id": "6a0552ab06c65aaf60fc767a",
-      "name": "G1039 Angle Vale Lifestyle Center TIER3"
-    },
     "H1013": {
       "id": "64e747b797f5910c71862773",
       "name": "H1013 Beaumont Rd IDENT"
@@ -1838,6 +1834,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 459,
-  "last_updated": "2026-09-03T15:15:23.685304+09:30"
+  "total": 458,
+  "last_updated": "2026-09-03T15:30:40.636677+09:30"
 }
