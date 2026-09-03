@@ -845,10 +845,6 @@
       "id": "6a25000a7b8dfc6725dc039f",
       "name": "M1066 Cleland Ct TD1-2"
     },
-    "M1067": {
-      "id": "69699f53f9ad4b4c92b7b7f3",
-      "name": "M1067 Goodwood Rd TD1-2"
-    },
     "M1069": {
       "id": "6a7d401b0d7de1e019ab4cfe",
       "name": "M1069 Pederick Rd CD1-5"
@@ -1850,6 +1846,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 462,
-  "last_updated": "2026-09-03T10:15:24.108462+09:30"
+  "total": 461,
+  "last_updated": "2026-09-03T10:31:38.752526+09:30"
 }
