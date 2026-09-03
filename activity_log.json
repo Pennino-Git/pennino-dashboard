@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18433922,
+      "project_name": "F1148 Stately Way IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-09-04T08:15:30.165362+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-07T07:18:19.813320+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-07T05:30:49.144238+09:30"
     }
   ],
-  "last_updated": "2026-09-04T07:45:27.967267+09:30"
+  "last_updated": "2026-09-04T08:15:30.165362+09:30"
 }
