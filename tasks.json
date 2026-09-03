@@ -1,12 +1,449 @@
 {
-  "by_project": {},
-  "tasks_due_today": [],
-  "tasks_overdue": [],
-  "summary": {
-    "total_open": 0,
-    "total_overdue": 0,
-    "total_due_today": 0,
-    "projects_with_tasks": 0
+  "by_project": {
+    "13746454": {
+      "total": 5,
+      "overdue": 2,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 156354631,
+          "title": "4.1 SA Water (Request for Investigation Requirements)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 156354632,
+          "title": "4.2 Secure DNF from Council",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 156354633,
+          "title": "4.3 Send DNF to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 179236149,
+          "title": "Check council response and history",
+          "due_date": "2023-08-21",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 182447553,
+          "title": "Send Denied DNF",
+          "due_date": "2023-11-27",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "13213940": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 166233045,
+          "title": "6.1 SA Water INV",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233046,
+          "title": "6.2 lodge CoA in PlanSA (Sec 51)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233049,
+          "title": "6.5 Conveyancer Details",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233050,
+          "title": "6.6 SCAP Cert received? (5-Digits Stamp)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "14754903": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 169693510,
+          "title": "3.1 Prepare PlanSA application",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 169693511,
+          "title": "3.2 Pay and Lodge in PlanSA",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 169693512,
+          "title": "3.3 Send LD3 template to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "15187921": {
+      "total": 2,
+      "overdue": 2,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 178896318,
+          "title": "sent 1st INV?",
+          "due_date": "2023-08-14",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 182086851,
+          "title": "Send follow-up regarding RFI. Was it sent to client?",
+          "due_date": "2023-11-10",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "15599174": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 191999420,
+          "title": "4.1 SA Water (Request for Investigation Requirements)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "14617925": {
+      "total": 4,
+      "overdue": 3,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 192119643,
+          "title": "2.1 Prep 1st INV",
+          "due_date": "2025-01-24",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 192119647,
+          "title": "2.5 invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 192548332,
+          "title": "4.3 Send DNF to client (check if email is good, ask DP)",
+          "due_date": "2025-01-24",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 194983712,
+          "title": "Address Tony's email- see correspondence",
+          "due_date": "2025-04-08",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "16823916": {
+      "total": 4,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 192185146,
+          "title": "4.1 SA Water (Request for Investigation Requirements)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 192185147,
+          "title": "4.2 Secure DNF from Council",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 192185148,
+          "title": "4.3 Send DNF to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 200856104,
+          "title": "DNF expires 31st Oct. Ask her for an update",
+          "due_date": "2025-10-17",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "17278348": {
+      "total": 1,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 197665090,
+          "title": "Demo estimated to be completed on Aug",
+          "due_date": "2025-08-20",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "16435772": {
+      "total": 1,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 198398336,
+          "title": "Check what's next",
+          "due_date": "2025-06-26",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "16416720": {
+      "total": 1,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 199499841,
+          "title": "Ask for OB status- just check as it's been inactive",
+          "due_date": "2025-10-13",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    }
   },
-  "last_updated": "2026-09-04T08:30:38.317039+09:30"
+  "tasks_due_today": [],
+  "tasks_overdue": [
+    {
+      "task_id": 178896318,
+      "title": "sent 1st INV?",
+      "due_date": "2023-08-14",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15187921,
+      "project_name": "B1103 Kensington Way TD1-2"
+    },
+    {
+      "task_id": 179236149,
+      "title": "Check council response and history",
+      "due_date": "2023-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 13746454,
+      "project_name": "H1025 Gloucester Ave TD1-2"
+    },
+    {
+      "task_id": 182086851,
+      "title": "Send follow-up regarding RFI. Was it sent to client?",
+      "due_date": "2023-11-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15187921,
+      "project_name": "B1103 Kensington Way TD1-2"
+    },
+    {
+      "task_id": 182447553,
+      "title": "Send Denied DNF",
+      "due_date": "2023-11-27",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 13746454,
+      "project_name": "H1025 Gloucester Ave TD1-2"
+    },
+    {
+      "task_id": 192119643,
+      "title": "2.1 Prep 1st INV",
+      "due_date": "2025-01-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 14617925,
+      "project_name": "Z1029 Montague & Quinlivan REALIGNMENT"
+    },
+    {
+      "task_id": 192548332,
+      "title": "4.3 Send DNF to client (check if email is good, ask DP)",
+      "due_date": "2025-01-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 14617925,
+      "project_name": "Z1029 Montague & Quinlivan REALIGNMENT"
+    },
+    {
+      "task_id": 194983712,
+      "title": "Address Tony's email- see correspondence",
+      "due_date": "2025-04-08",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 14617925,
+      "project_name": "Z1029 Montague & Quinlivan REALIGNMENT"
+    },
+    {
+      "task_id": 197665090,
+      "title": "Demo estimated to be completed on Aug",
+      "due_date": "2025-08-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8"
+    },
+    {
+      "task_id": 198398336,
+      "title": "Check what's next",
+      "due_date": "2025-06-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16435772,
+      "project_name": "B1122 Holbrooks Rd TD1-2"
+    },
+    {
+      "task_id": 199499841,
+      "title": "Ask for OB status- just check as it's been inactive",
+      "due_date": "2025-10-13",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16416720,
+      "project_name": "B1120 Peachey Rd CD2-12"
+    },
+    {
+      "task_id": 200856104,
+      "title": "DNF expires 31st Oct. Ask her for an update",
+      "due_date": "2025-10-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16823916,
+      "project_name": "M1063 Adelaide Rd CD1-2"
+    }
+  ],
+  "summary": {
+    "total_open": 26,
+    "total_overdue": 11,
+    "total_due_today": 0,
+    "projects_with_tasks": 10
+  },
+  "last_updated": "2026-09-04T08:45:26.333323+09:30"
 }
