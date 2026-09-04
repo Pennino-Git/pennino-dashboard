@@ -1009,7 +1009,7 @@
       "address": "12 Araluen Street, Ridgehaven SA 5097",
       "client": "Darren Ferber",
       "link": "https://crm.na1.insightly.com/details/project/13466164",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 85,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0125919",
@@ -2578,6 +2578,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-04T13:00:31.277062+09:30",
+  "last_updated": "2026-09-04T13:30:40.876212+09:30",
   "total": 115
 }
