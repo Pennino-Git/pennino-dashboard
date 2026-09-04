@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-09-04T15:00:32.254749+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "SA Water",
       "timestamp": "2026-08-07T10:45:33.288322+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-07T10:10:18.475271+09:30"
     }
   ],
-  "last_updated": "2026-09-04T14:45:24.948150+09:30"
+  "last_updated": "2026-09-04T15:00:32.254749+09:30"
 }

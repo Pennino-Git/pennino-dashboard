@@ -2300,10 +2300,10 @@
       ]
     },
     "17385935": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205385157,
@@ -2331,6 +2331,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207434695,
+          "title": "Did TR respond?",
+          "due_date": "2026-09-07",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5841,10 +5850,10 @@
     }
   ],
   "summary": {
-    "total_open": 491,
+    "total_open": 492,
     "total_overdue": 46,
     "total_due_today": 2,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-04T14:45:24.948150+09:30"
+  "last_updated": "2026-09-04T15:00:32.254749+09:30"
 }

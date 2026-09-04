@@ -1376,7 +1376,7 @@
       "address": "30 Wilsden Street, Walkerville SA 5081",
       "client": "Lori Kambitsis",
       "link": "https://crm.na1.insightly.com/details/project/17385935",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 85,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0177446",
@@ -2616,6 +2616,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-04T14:45:24.948150+09:30",
+  "last_updated": "2026-09-04T15:00:32.254749+09:30",
   "total": 117
 }
