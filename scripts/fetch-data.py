@@ -235,6 +235,27 @@ def main():
         print("ERROR: INSIGHTLY_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
+    # A manual "Run workflow" doubles as a live test of GOOGLE_MAPS_API_KEY.
+    # Geocoding below is cached and deliberately non-fatal, so a scheduled run goes green
+    # whether or not the key works - every current address is already cached, so Google is
+    # never called. A broken key would only surface much later as a new job with no map pin.
+    # On a manual run we call Google directly and stop, so the run goes red and says why.
+    # Scheduled runs are untouched and make no extra API calls.
+    if os.environ.get("GITHUB_EVENT_NAME", "") == "workflow_dispatch":
+        print("Manual run - checking the Google Maps key...")
+        try:
+            from keycheck import run_check
+        except Exception as error:
+            print(f"  Key check unavailable ({error}) - continuing with the refresh.", file=sys.stderr)
+        else:
+            ok, message = run_check(GOOGLE_MAPS_API_KEY)
+            if ok:
+                print(f"  PASS: {message}")
+            else:
+                print(f"  FAIL: {message}", file=sys.stderr)
+                print("  Stopping so this run goes red. The next scheduled run will refresh data as usual.", file=sys.stderr)
+                sys.exit(1)
+
     geocache = load_geocache()
     print(f"Loaded {len(geocache)} geocache entries")
 
