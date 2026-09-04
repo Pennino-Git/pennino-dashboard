@@ -1,12 +1,176 @@
 {
-  "by_project": {},
-  "tasks_due_today": [],
-  "tasks_overdue": [],
-  "summary": {
-    "total_open": 0,
-    "total_overdue": 0,
-    "total_due_today": 0,
-    "projects_with_tasks": 0
+  "by_project": {
+    "13746454": {
+      "total": 4,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 156354631,
+          "title": "4.1 SA Water (Request for Investigation Requirements)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 156354632,
+          "title": "4.2 Secure DNF from Council",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 156354633,
+          "title": "4.3 Send DNF to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 179236149,
+          "title": "Check council response and history",
+          "due_date": "2023-08-21",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
+    "13213940": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 166233045,
+          "title": "6.1 SA Water INV",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233046,
+          "title": "6.2 lodge CoA in PlanSA (Sec 51)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233049,
+          "title": "6.5 Conveyancer Details",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 166233050,
+          "title": "6.6 SCAP Cert received? (5-Digits Stamp)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "14754903": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 169693510,
+          "title": "3.1 Prepare PlanSA application",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 169693511,
+          "title": "3.2 Pay and Lodge in PlanSA",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 169693512,
+          "title": "3.3 Send LD3 template to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "15187921": {
+      "total": 1,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 178896318,
+          "title": "sent 1st INV?",
+          "due_date": "2023-08-14",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    }
   },
-  "last_updated": "2026-09-04T13:30:40.876212+09:30"
+  "tasks_due_today": [],
+  "tasks_overdue": [
+    {
+      "task_id": 178896318,
+      "title": "sent 1st INV?",
+      "due_date": "2023-08-14",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 15187921,
+      "project_name": "B1103 Kensington Way TD1-2"
+    },
+    {
+      "task_id": 179236149,
+      "title": "Check council response and history",
+      "due_date": "2023-08-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 13746454,
+      "project_name": "H1025 Gloucester Ave TD1-2"
+    }
+  ],
+  "summary": {
+    "total_open": 12,
+    "total_overdue": 2,
+    "total_due_today": 0,
+    "projects_with_tasks": 4
+  },
+  "last_updated": "2026-09-04T13:45:30.697335+09:30"
 }
