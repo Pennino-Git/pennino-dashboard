@@ -874,8 +874,8 @@
     },
     "17782437": {
       "total": 18,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1036,8 +1036,8 @@
           "title": "per Jake 1 week to remove trees. check if this is done",
           "due_date": "2026-09-04",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1256,8 +1256,8 @@
     },
     "17539782": {
       "total": 26,
-      "overdue": 6,
-      "due_today": 1,
+      "overdue": 7,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1490,8 +1490,8 @@
           "title": "Check for Council response",
           "due_date": "2026-09-04",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5317,30 +5317,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207272810,
-      "title": "per Jake 1 week to remove trees. check if this is done",
-      "due_date": "2026-09-04",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
-      "task_id": 207376508,
-      "title": "Check for Council response",
-      "due_date": "2026-09-04",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5783,6 +5760,17 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
+      "task_id": 207272810,
+      "title": "per Jake 1 week to remove trees. check if this is done",
+      "due_date": "2026-09-04",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
       "task_id": 207318567,
       "title": "Repeg",
       "due_date": "2026-08-29",
@@ -5847,13 +5835,24 @@
       "due_soon": false,
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 207376508,
+      "title": "Check for Council response",
+      "due_date": "2026-09-04",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "summary": {
     "total_open": 492,
-    "total_overdue": 46,
-    "total_due_today": 2,
+    "total_overdue": 48,
+    "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-04T23:45:24.597893+09:30"
+  "last_updated": "2026-09-05T00:00:36.072385+09:30"
 }
