@@ -2104,6 +2104,25 @@
       "lng": 138.8008256
     },
     {
+      "id": 18449651,
+      "name": "E1038 - Richmond Deacon NDT",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "154 Richmond Rd, Marleston SA 5033, Australia",
+      "client": "Harry Fry",
+      "link": "https://crm.na1.insightly.com/details/project/18449651",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.9425902,
+      "lng": 138.5667231
+    },
+    {
       "id": 17810905,
       "name": "F1107 Edinburgh- Geotech Investigation",
       "tier": "T3",
@@ -2559,6 +2578,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-04T10:15:24.444500+09:30",
-  "total": 114
+  "last_updated": "2026-09-04T10:42:19.093850+09:30",
+  "total": 115
 }
