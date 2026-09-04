@@ -1013,6 +1013,14 @@
       "id": "6a9645548fa6ddf60de7dd87",
       "name": "R1037 11 Marblewood Wy - Land division Torrens"
     },
+    "R1038": {
+      "id": "6a9a4af0c098666b7715ed2d",
+      "name": "R1038 30 Redwood Dr - Land division Torrens"
+    },
+    "R1039": {
+      "id": "6a9a515f4056231e81839bbf",
+      "name": "R1039 9 Marblewood Wy - Land division Torrens"
+    },
     "S1032": {
       "id": "611a05cb99176e0562bc45a6",
       "name": "S1032-STANBEL ROAD"
@@ -1842,6 +1850,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 460,
-  "last_updated": "2026-09-04T13:45:30.697335+09:30"
+  "total": 462,
+  "last_updated": "2026-09-04T14:45:24.948150+09:30"
 }

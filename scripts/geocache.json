@@ -2585,6 +2585,12 @@
     "lng": 138.6577833,
     "source": "map.html-seed"
   },
+  "30 redwood dr, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-04",
+    "lat": -35.0964681,
+    "lng": 138.8813633,
+    "source": "google"
+  },
   "30 spring street, north plympton sa 5037": {
     "cachedAt": "2026-08-25",
     "lat": -34.9549319,
@@ -4816,6 +4822,12 @@
     "lat": -34.2715509,
     "lng": 138.773529,
     "source": "map.html-seed"
+  },
+  "9 marblewood wy, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-04",
+    "lat": -35.0966043,
+    "lng": 138.8809085,
+    "source": "google"
   },
   "9 mary street, glenelg north sa 5045": {
     "cachedAt": "2026-08-25",
