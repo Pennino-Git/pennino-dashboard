@@ -2302,8 +2302,8 @@
     "17385935": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205385157,
@@ -2338,8 +2338,8 @@
           "due_date": "2026-09-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3200,8 +3200,8 @@
     "17732479": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206006210,
@@ -3245,8 +3245,8 @@
           "due_date": "2026-09-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3971,8 +3971,8 @@
     "18415275": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206846174,
@@ -4016,8 +4016,8 @@
           "due_date": "2026-09-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4050,8 +4050,8 @@
     "18417055": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206870067,
@@ -4095,8 +4095,8 @@
           "due_date": "2026-09-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4557,8 +4557,8 @@
     "18223472": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207271919,
@@ -4575,8 +4575,8 @@
           "due_date": "2026-09-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5317,7 +5317,63 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207245192,
+      "title": "Lodge Final Plan (Withdrawn Approved?)",
+      "due_date": "2026-09-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 207271924,
+      "title": "Follow up with client on payment",
+      "due_date": "2026-09-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18223472,
+      "project_name": "B1139 Karri St TD1-2"
+    },
+    {
+      "task_id": 207357684,
+      "title": "DP To review Concepts",
+      "due_date": "2026-09-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
+    },
+    {
+      "task_id": 207357851,
+      "title": "DP to review Concept before sending to client",
+      "due_date": "2026-09-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7"
+    },
+    {
+      "task_id": 207434695,
+      "title": "Did TR respond?",
+      "due_date": "2026-09-07",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5851,8 +5907,8 @@
   "summary": {
     "total_open": 492,
     "total_overdue": 48,
-    "total_due_today": 0,
+    "total_due_today": 5,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-06T23:45:23.922873+09:30"
+  "last_updated": "2026-09-07T00:00:30.683832+09:30"
 }
