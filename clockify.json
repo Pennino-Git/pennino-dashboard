@@ -797,6 +797,22 @@
       "id": "6a1e4ea4412e74c13f041141",
       "name": "L1043 KFC Womma Road LEASE"
     },
+    "L1044": {
+      "id": "6a9645548fa6ddf60de7dd87",
+      "name": "L1044 11 Marblewood Wy TD1-2"
+    },
+    "L1045": {
+      "id": "6a9e511dd1ec2694cfe567bc",
+      "name": "L1045 30 Redwood Dr TD1-2"
+    },
+    "L1046": {
+      "id": "6a9a515f4056231e81839bbf",
+      "name": "L1046 9 Marblewood Wy TD1-2"
+    },
+    "L1047": {
+      "id": "6a9e5125f32fad351f442d8b",
+      "name": "L1047 3 Marblewood Wy TD1-2"
+    },
     "M1042": {
       "id": "5fdeb71141e17856a6ee7444",
       "name": "M1042-DERNANCOURT IDENT"
@@ -1009,17 +1025,9 @@
       "id": "6a24fee5d9125d6cead2d4c1",
       "name": "R1036 Maple Ave IDENT"
     },
-    "R1037": {
-      "id": "6a9645548fa6ddf60de7dd87",
-      "name": "R1037 11 Marblewood Wy - Land division Torrens"
-    },
     "R1038": {
       "id": "6a9a4af0c098666b7715ed2d",
       "name": "R1038 30 Redwood Dr - Land division Torrens"
-    },
-    "R1039": {
-      "id": "6a9a515f4056231e81839bbf",
-      "name": "R1039 9 Marblewood Wy - Land division Torrens"
     },
     "S1032": {
       "id": "611a05cb99176e0562bc45a6",
@@ -1850,6 +1858,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 462,
-  "last_updated": "2026-09-07T15:15:54.677830+09:30"
+  "total": 464,
+  "last_updated": "2026-09-07T15:30:39.665598+09:30"
 }

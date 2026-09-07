@@ -5288,6 +5288,68 @@
           "due_soon": ""
         }
       ]
+    },
+    "18451364": {
+      "total": 6,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207467481,
+          "title": "Draft Plan/Brief Sent to Drafter",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207467482,
+          "title": "Concept plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207467483,
+          "title": "Concept plan sent to client for approval",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207467484,
+          "title": "Client approval received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207467485,
+          "title": "Physical Docket Created",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207467486,
+          "title": "[AUTO REMINDER] Follow up client re concept plan",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -5867,10 +5929,10 @@
     }
   ],
   "summary": {
-    "total_open": 489,
+    "total_open": 495,
     "total_overdue": 47,
     "total_due_today": 5,
-    "projects_with_tasks": 111
+    "projects_with_tasks": 112
   },
-  "last_updated": "2026-09-07T15:15:54.677830+09:30"
+  "last_updated": "2026-09-07T15:30:39.665598+09:30"
 }
