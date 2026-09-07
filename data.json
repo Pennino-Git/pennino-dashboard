@@ -1241,7 +1241,7 @@
       "responsibility": "Council/Authority",
       "days_in_stage": 18,
       "stage_name": "3. Authority Assessment",
-      "sa_water_ref": "",
+      "sa_water_ref": "H0193908",
       "stage_order": 3,
       "tags": [
         "tier2",
@@ -2616,6 +2616,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-07T13:30:38.983792+09:30",
+  "last_updated": "2026-09-07T13:45:23.453347+09:30",
   "total": 117
 }
