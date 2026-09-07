@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18449645,
+      "project_name": "T1335 - DIT SLOT TRENCHES T3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-07T16:15:23.035156+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 16351320,
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-10T06:12:58.861137+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-10T06:12:58.861137+09:30"
     }
   ],
-  "last_updated": "2026-09-07T16:00:33.130616+09:30"
+  "last_updated": "2026-09-07T16:15:23.035156+09:30"
 }
