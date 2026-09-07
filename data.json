@@ -774,28 +774,6 @@
       "lng": 138.6068152
     },
     {
-      "id": 18426479,
-      "name": "B1143 Marblewood Way TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "3, 9, 11, 16 Marblewood Way & 30 Redwood Drive, Mount Barker 2521",
-      "client": "Donna  Salvisberg",
-      "link": "https://crm.na1.insightly.com/details/project/18426479",
-      "responsibility": "Kate (Drafting)",
-      "days_in_stage": 24,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [
-        "Torrens_Division",
-        "tier2"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0971622,
-      "lng": 138.8804305
-    },
-    {
       "id": 11236872,
       "name": "C1031 Diment Rd TD1-3",
       "tier": "T2",
@@ -2647,6 +2625,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-07T16:15:23.035156+09:30",
-  "total": 118
+  "last_updated": "2026-09-07T16:30:39.612424+09:30",
+  "total": 117
 }
