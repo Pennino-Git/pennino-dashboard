@@ -1506,6 +1506,72 @@
       "lng": 138.660152
     },
     {
+      "id": 18443754,
+      "name": "L1044 11 Marblewood Wy TD1-2",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "11 Marblewood Way, Mount Barker SA 5251,",
+      "client": "Donna  Salvisberg",
+      "link": "https://crm.na1.insightly.com/details/project/18443754",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 6,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier2",
+        "torrens_division"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.0968259,
+      "lng": 138.8809948
+    },
+    {
+      "id": 18449737,
+      "name": "L1045 30 Redwood Dr TD1-2",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "30 Redwood Dr, Mount Barker SA 5251, Australia",
+      "client": "Donna  Salvisberg",
+      "link": "https://crm.na1.insightly.com/details/project/18449737",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 3,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier2",
+        "torrens_division"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.0964681,
+      "lng": 138.8813633
+    },
+    {
+      "id": 18449744,
+      "name": "L1046 9 Marblewood Wy TD1-2",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "9 Marblewood Wy, Mount Barker SA 5251, Australia",
+      "client": "Donna  Salvisberg",
+      "link": "https://crm.na1.insightly.com/details/project/18449744",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 3,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [
+        "tier2",
+        "torrens_division"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.0966043,
+      "lng": 138.8809085
+    },
+    {
       "id": 16823916,
       "name": "M1063 Adelaide Rd CD1-2",
       "tier": "T2",
@@ -1682,63 +1748,6 @@
       "is_premium": false,
       "lat": -34.9636516,
       "lng": 138.5387078
-    },
-    {
-      "id": 18443754,
-      "name": "R1037 - 11 (lot 2032) Marblewood TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "11 Marblewood Wy, Mount Barker SA 5251, Australia",
-      "client": "Donna  Salvisberg",
-      "link": "https://crm.na1.insightly.com/details/project/18443754",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 6,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0968259,
-      "lng": 138.8809948
-    },
-    {
-      "id": 18449737,
-      "name": "R1038 - REDWOOD TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "30 Redwood Dr, Mount Barker SA 5251, Australia",
-      "client": "Donna  Salvisberg",
-      "link": "https://crm.na1.insightly.com/details/project/18449737",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 3,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0964681,
-      "lng": 138.8813633
-    },
-    {
-      "id": 18449744,
-      "name": "R1039 - 9 Marblewood TD 1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "9 Marblewood Wy, Mount Barker SA 5251, Australia",
-      "client": "Donna  Salvisberg",
-      "link": "https://crm.na1.insightly.com/details/project/18449744",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 3,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0966043,
-      "lng": 138.8809085
     },
     {
       "id": 17732479,
@@ -2616,6 +2625,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-07T15:00:30.372471+09:30",
+  "last_updated": "2026-09-07T15:15:25.161281+09:30",
   "total": 117
 }
