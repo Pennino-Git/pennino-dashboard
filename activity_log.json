@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "LTO",
+      "timestamp": "2026-09-07T13:15:25.435310+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17385935,
       "project_name": "K1030 Wilsden St CD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-08-07T15:00:53.882761+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "SA Water",
-      "timestamp": "2026-08-07T10:45:33.288322+09:30"
     }
   ],
-  "last_updated": "2026-09-07T13:00:32.495736+09:30"
+  "last_updated": "2026-09-07T13:15:25.435310+09:30"
 }
