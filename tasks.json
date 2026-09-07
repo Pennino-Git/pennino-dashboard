@@ -3907,41 +3907,6 @@
         }
       ]
     },
-    "11764688": {
-      "total": 3,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206759257,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207247156,
-          "title": "LTO Examined and Approved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207247157,
-          "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "17845187": {
       "total": 2,
       "overdue": 0,
@@ -4546,6 +4511,23 @@
         {
           "task_id": 207245342,
           "title": "Final plan signed off",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "11764688": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207247157,
+          "title": "Confirmation of Approval Sent to All Parties",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5905,10 +5887,10 @@
     }
   ],
   "summary": {
-    "total_open": 492,
+    "total_open": 490,
     "total_overdue": 48,
     "total_due_today": 5,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-07T10:21:54.521823+09:30"
+  "last_updated": "2026-09-07T10:30:38.090114+09:30"
 }
