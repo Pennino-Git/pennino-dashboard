@@ -580,7 +580,7 @@
       "responsibility": "Council/Authority",
       "days_in_stage": 89,
       "stage_name": "3. Authority Assessment",
-      "sa_water_ref": "",
+      "sa_water_ref": "H0193844",
       "stage_order": 3,
       "tags": [
         "torrens_division",
@@ -2625,6 +2625,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-08T09:30:41.074021+09:30",
+  "last_updated": "2026-09-08T09:45:25.742438+09:30",
   "total": 117
 }
