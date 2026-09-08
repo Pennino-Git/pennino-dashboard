@@ -869,7 +869,7 @@
       "address": "223-225 Eastern Parade, Port Adelaide SA 5015",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187249",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Client",
       "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "",
@@ -2620,6 +2620,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-08T16:00:35.382636+09:30",
+  "last_updated": "2026-09-08T16:15:26.066429+09:30",
   "total": 117
 }

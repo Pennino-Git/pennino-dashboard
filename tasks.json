@@ -3863,8 +3863,8 @@
       ]
     },
     "18415275": {
-      "total": 5,
-      "overdue": 1,
+      "total": 4,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3903,15 +3903,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207357851,
-          "title": "DP to review Concept before sending to client",
-          "due_date": "2026-09-07",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -3943,7 +3934,7 @@
     },
     "18417055": {
       "total": 5,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3986,11 +3977,11 @@
         {
           "task_id": 207357684,
           "title": "DP To review Concepts",
-          "due_date": "2026-09-07",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         }
       ]
     },
@@ -4405,8 +4396,8 @@
       ]
     },
     "18223472": {
-      "total": 2,
-      "overdue": 1,
+      "total": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -4418,15 +4409,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207271924,
-          "title": "Follow up with client on payment",
-          "due_date": "2026-09-07",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5832,17 +5814,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 207271924,
-      "title": "Follow up with client on payment",
-      "due_date": "2026-09-07",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2"
-    },
-    {
       "task_id": 207272810,
       "title": "per Jake 1 week to remove trees. check if this is done",
       "due_date": "2026-09-04",
@@ -5909,28 +5880,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 207357684,
-      "title": "DP To review Concepts",
-      "due_date": "2026-09-07",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
-    },
-    {
-      "task_id": 207357851,
-      "title": "DP to review Concept before sending to client",
-      "due_date": "2026-09-07",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7"
-    },
-    {
       "task_id": 207376508,
       "title": "Check for Council response",
       "due_date": "2026-09-04",
@@ -5954,10 +5903,10 @@
     }
   ],
   "summary": {
-    "total_open": 500,
-    "total_overdue": 51,
+    "total_open": 498,
+    "total_overdue": 48,
     "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-08T16:00:35.382636+09:30"
+  "last_updated": "2026-09-08T16:15:26.066429+09:30"
 }

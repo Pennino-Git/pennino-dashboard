@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-09-08T16:15:26.066429+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-10T12:15:33.256691+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18398255,
-      "project_name": "D1072 Broxmore St IDENT",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Invoice",
-      "timestamp": "2026-08-10T12:00:44.554132+09:30"
     }
   ],
-  "last_updated": "2026-09-08T16:00:35.382636+09:30"
+  "last_updated": "2026-09-08T16:15:26.066429+09:30"
 }
