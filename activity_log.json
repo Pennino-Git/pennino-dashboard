@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18451911,
+      "project_name": "A1356 Dunstan Ct RE-PEG",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-08T17:15:25.927890+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Invoice & Close",
       "timestamp": "2026-08-10T12:15:33.256691+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333096,
-      "project_name": "T1325 Edwards Davies St TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-10T12:15:33.256691+09:30"
     }
   ],
-  "last_updated": "2026-09-08T17:00:35.407647+09:30"
+  "last_updated": "2026-09-08T17:15:25.927890+09:30"
 }
