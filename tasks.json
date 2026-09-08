@@ -4422,23 +4422,6 @@
         }
       ]
     },
-    "11764688": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207247157,
-          "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18223472": {
       "total": 2,
       "overdue": 1,
@@ -5945,10 +5928,10 @@
     }
   ],
   "summary": {
-    "total_open": 499,
+    "total_open": 498,
     "total_overdue": 51,
     "total_due_today": 0,
-    "projects_with_tasks": 111
+    "projects_with_tasks": 110
   },
-  "last_updated": "2026-09-08T11:30:40.565295+09:30"
+  "last_updated": "2026-09-08T11:45:24.677174+09:30"
 }

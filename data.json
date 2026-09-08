@@ -1254,30 +1254,6 @@
       "lng": 138.4837116
     },
     {
-      "id": 11764688,
-      "name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "1 Barkey Street, Para Hills SA 5096",
-      "client": "Rick Hurst",
-      "link": "https://crm.na1.insightly.com/details/project/11764688",
-      "responsibility": "LTO",
-      "days_in_stage": 13,
-      "stage_name": "10. LTO Approval",
-      "sa_water_ref": "H0108995",
-      "stage_order": 10,
-      "tags": [
-        "Para_Hills",
-        "Torrens_Division",
-        "City_of_Salisbury",
-        "Tier2"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8065353,
-      "lng": 138.6570766
-    },
-    {
       "id": 13746454,
       "name": "H1025 Gloucester Ave TD1-2",
       "tier": "T2",
@@ -1488,7 +1464,7 @@
       "name": "L1044 11 Marblewood Wy TD1-2",
       "tier": "T2",
       "status": "IN PROGRESS",
-      "address": "11 Marblewood Way, Mount Barker SA 5251,",
+      "address": "Lot 2032 11 Marblewood Way, Mount Barker SA 5251,",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18443754",
       "responsibility": "AR (Alex)",
@@ -1510,7 +1486,7 @@
       "name": "L1045 30 Redwood Dr TD1-2",
       "tier": "T2",
       "status": "IN PROGRESS",
-      "address": "30 Redwood Dr, Mount Barker SA 5251, Australia",
+      "address": "Lot 2025 30 Redwood Dr, Mount Barker SA 5251, Australia",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18449737",
       "responsibility": "AR (Alex)",
@@ -1532,7 +1508,7 @@
       "name": "L1046 9 Marblewood Wy TD1-2",
       "tier": "T2",
       "status": "IN PROGRESS",
-      "address": "9 Marblewood Wy, Mount Barker SA 5251, Australia",
+      "address": "Lot 2031 9 Marblewood Wy, Mount Barker SA 5251, Australia",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18449744",
       "responsibility": "AR (Alex)",
@@ -1554,7 +1530,7 @@
       "name": "L1047 3 Marblewood Wy TD1-2",
       "tier": "T2",
       "status": "IN PROGRESS",
-      "address": "3 Marblewood Wy, Mount Barker SA 5251, Australia",
+      "address": "Lot 2017 3 Marblewood Wy, Mount Barker SA 5251, Australia",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18451364",
       "responsibility": "AR (Alex)",
@@ -2625,6 +2601,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-08T11:30:40.565295+09:30",
-  "total": 117
+  "last_updated": "2026-09-08T11:45:24.677174+09:30",
+  "total": 116
 }

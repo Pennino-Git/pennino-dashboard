@@ -6059,11 +6059,35 @@
     "lng": 138.6195642,
     "source": "map.html-seed"
   },
+  "lot 2017 3 marblewood wy, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-08",
+    "lat": -35.0961332,
+    "lng": 138.8805884,
+    "source": "google"
+  },
+  "lot 2025 30 redwood dr, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-08",
+    "lat": -35.0964681,
+    "lng": 138.8813633,
+    "source": "google"
+  },
   "lot 203 1643c main north road, salisbury east sa 5109": {
     "cachedAt": "2026-08-25",
     "lat": -34.7783774,
     "lng": 138.6593438,
     "source": "map.html-seed"
+  },
+  "lot 2031 9 marblewood wy, mount barker sa 5251, australia": {
+    "cachedAt": "2026-09-08",
+    "lat": -35.0966043,
+    "lng": 138.8809085,
+    "source": "google"
+  },
+  "lot 2032 11 marblewood way, mount barker sa 5251": {
+    "cachedAt": "2026-09-08",
+    "lat": -35.0968259,
+    "lng": 138.8809948,
+    "source": "google"
   },
   "lot 21 & 22 pederick road, lewiston sa 5501": {
     "cachedAt": "2026-08-25",
