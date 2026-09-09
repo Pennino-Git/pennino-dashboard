@@ -1756,8 +1756,8 @@
     },
     "17900271": {
       "total": 6,
-      "overdue": 2,
-      "due_today": 1,
+      "overdue": 3,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1810,8 +1810,8 @@
           "title": "Action SA Water RFI- check with DP",
           "due_date": "2026-09-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2654,8 +2654,8 @@
     },
     "18273554": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2690,8 +2690,8 @@
           "title": "SA Water RFI issued, ask DP for field work/pegging plan",
           "due_date": "2026-09-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4231,8 +4231,8 @@
     },
     "18377245": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4258,8 +4258,8 @@
           "title": "SA Water RFI actioned?",
           "due_date": "2026-09-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5257,8 +5257,8 @@
     },
     "18187249": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -5311,8 +5311,8 @@
           "title": "Check if DP responded to query on 07.09",
           "due_date": "2026-09-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5344,52 +5344,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207466812,
-      "title": "SA Water RFI issued, ask DP for field work/pegging plan",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
-      "task_id": 207467134,
-      "title": "SA Water RFI actioned?",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    },
-    {
-      "task_id": 207468326,
-      "title": "Check if DP responded to query on 07.09",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
-    },
-    {
-      "task_id": 207477021,
-      "title": "Action SA Water RFI- check with DP",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17900271,
-      "project_name": "A1335 Mitchel Dr TD1-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5918,13 +5873,57 @@
       "due_soon": false,
       "project_id": 17385935,
       "project_name": "K1030 Wilsden St CD1-3"
+    },
+    {
+      "task_id": 207466812,
+      "title": "SA Water RFI issued, ask DP for field work/pegging plan",
+      "due_date": "2026-09-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 207467134,
+      "title": "SA Water RFI actioned?",
+      "due_date": "2026-09-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
+    },
+    {
+      "task_id": 207468326,
+      "title": "Check if DP responded to query on 07.09",
+      "due_date": "2026-09-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
+    },
+    {
+      "task_id": 207477021,
+      "title": "Action SA Water RFI- check with DP",
+      "due_date": "2026-09-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17900271,
+      "project_name": "A1335 Mitchel Dr TD1-3"
     }
   ],
   "summary": {
     "total_open": 495,
-    "total_overdue": 48,
-    "total_due_today": 4,
+    "total_overdue": 52,
+    "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-09T23:45:29.701948+09:30"
+  "last_updated": "2026-09-10T00:00:36.885720+09:30"
 }
