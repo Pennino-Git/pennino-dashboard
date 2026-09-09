@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18443754,
+      "project_name": "L1044 11 Marblewood Wy TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-09-10T05:45:27.740958+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18449737,
+      "project_name": "L1045 30 Redwood Dr TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-09-10T05:45:27.740958+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18451911,
       "project_name": "A1356 Dunstan Ct RE-PEG",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-11T06:15:35.981616+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "11. Complete",
-      "to": "8. Final Authority Approvals",
-      "timestamp": "2026-08-10T14:45:33.158533+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-10T14:45:33.158533+09:30"
     }
   ],
-  "last_updated": "2026-09-10T05:30:41.541179+09:30"
+  "last_updated": "2026-09-10T05:45:27.740958+09:30"
 }

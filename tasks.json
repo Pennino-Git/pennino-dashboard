@@ -4824,20 +4824,11 @@
       ]
     },
     "18443754": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 207357072,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 207357073,
           "title": "Concept plan drafted (Kate)",
@@ -5920,10 +5911,10 @@
     }
   ],
   "summary": {
-    "total_open": 495,
+    "total_open": 494,
     "total_overdue": 52,
     "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-10T05:30:41.541179+09:30"
+  "last_updated": "2026-09-10T05:45:27.740958+09:30"
 }
