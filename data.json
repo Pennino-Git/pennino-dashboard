@@ -24,25 +24,6 @@
       "lng": 138.664237
     },
     {
-      "id": 18451974,
-      "name": "A1356 - Dunstan Ct",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "Lot 228 20 Dunstan Court, Munno Para West SA 5115, Australia",
-      "client": "Ali Prior",
-      "link": "https://crm.na1.insightly.com/details/project/18451974",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 1,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6610715,
-      "lng": 138.6714633
-    },
-    {
       "id": 18451911,
       "name": "A1356 Dunstan Ct RE-PEG",
       "tier": "T1",
@@ -50,12 +31,16 @@
       "address": "20 & 22 Dunstan Court, Munno Para West SA 5115",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18451911",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 1,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2,
-      "tags": [],
+      "tags": [
+        "tier1",
+        "field_work",
+        "ident"
+      ],
       "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.6610715,
@@ -2639,6 +2624,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-09T14:30:42.391325+09:30",
-  "total": 118
+  "last_updated": "2026-09-09T14:45:28.652705+09:30",
+  "total": 117
 }
