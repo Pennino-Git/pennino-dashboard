@@ -876,7 +876,7 @@
       "responsibility": "Client",
       "days_in_stage": 2,
       "stage_name": "5. Certified Survey",
-      "sa_water_ref": "",
+      "sa_water_ref": "H0193073",
       "stage_order": 5,
       "tags": [
         "Dominion_Homes",
@@ -2624,6 +2624,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-09T15:15:34.531410+09:30",
+  "last_updated": "2026-09-09T15:30:43.587902+09:30",
   "total": 117
 }
