@@ -3127,9 +3127,9 @@
       ]
     },
     "17732479": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3167,15 +3167,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207245192,
-          "title": "Lodge Final Plan (Withdrawn Approved?)",
-          "due_date": "2026-09-09",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5399,17 +5390,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207245192,
-      "title": "Lodge Final Plan (Withdrawn Approved?)",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
       "task_id": 207466812,
       "title": "SA Water RFI issued, ask DP for field work/pegging plan",
       "due_date": "2026-09-09",
@@ -5996,10 +5976,10 @@
     }
   ],
   "summary": {
-    "total_open": 500,
+    "total_open": 499,
     "total_overdue": 48,
-    "total_due_today": 6,
+    "total_due_today": 5,
     "projects_with_tasks": 112
   },
-  "last_updated": "2026-09-09T09:30:41.287300+09:30"
+  "last_updated": "2026-09-09T09:45:29.005439+09:30"
 }
