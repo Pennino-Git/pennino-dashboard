@@ -486,7 +486,7 @@
       "address": "Lot 7, 8, 9, 10 Orion Way, Edinburgh North SA 5113",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18426556",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 9,
       "stage_name": "Prepare Plan",
       "sa_water_ref": "",
@@ -1375,7 +1375,7 @@
       "address": "20-26 Lipson Street, Port Adelaide SA 5015",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/16351320",
-      "responsibility": "Kate (Drafting)",
+      "responsibility": "Client",
       "days_in_stage": 30,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0161247",
@@ -2624,6 +2624,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-10T10:30:40.827144+09:30",
+  "last_updated": "2026-09-10T10:45:26.417319+09:30",
   "total": 117
 }

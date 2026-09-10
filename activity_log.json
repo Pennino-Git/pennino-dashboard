@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-09-10T10:45:26.417319+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18426556,
+      "project_name": "Z1074 Orion Way CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-10T10:45:26.417319+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17956195,
       "project_name": "A1336 The Parade TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-11T08:30:49.665758+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18217316,
-      "project_name": "Z1068 Angas St IDENT",
-      "tier": "T1",
-      "from": "Prepare Plan",
-      "to": "Invoice",
-      "timestamp": "2026-08-11T08:30:49.665758+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18217316,
-      "project_name": "Z1068 Angas St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-11T08:30:49.665758+09:30"
     }
   ],
-  "last_updated": "2026-09-10T10:30:40.827144+09:30"
+  "last_updated": "2026-09-10T10:45:26.417319+09:30"
 }
