@@ -175,9 +175,9 @@
     "stage_name": "3. Authority Assessment"
   },
   "17956195": {
-    "stage_id": 4845733,
-    "entered": "2026-06-11",
-    "stage_name": "1. Concept Planning"
+    "stage_id": 4845735,
+    "entered": "2026-09-10",
+    "stage_name": "3. Authority Assessment"
   },
   "18021299": {
     "stage_id": 4845742,
@@ -475,9 +475,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18415320": {
-    "stage_id": 3823937,
-    "entered": "2026-08-06",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823938,
+    "entered": "2026-09-10",
+    "stage_name": "Prepare Plan"
   },
   "18417055": {
     "stage_id": 4845733,
@@ -515,9 +515,9 @@
     "stage_name": "Invoice & Close"
   },
   "18436280": {
-    "stage_id": 3823937,
-    "entered": "2026-08-25",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823938,
+    "entered": "2026-09-10",
+    "stage_name": "Prepare Plan"
   },
   "18438117": {
     "stage_id": 3134302,

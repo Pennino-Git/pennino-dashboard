@@ -1887,68 +1887,6 @@
         }
       ]
     },
-    "17956195": {
-      "total": 6,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205068509,
-          "title": "Client Brief Received and Info Prepped",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068510,
-          "title": "Draft Plan/Brief Sent to Drafter",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068511,
-          "title": "Concept plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068512,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205068513,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205171354,
-          "title": "Respond to RFI \u2014 Tree details and crossover distance",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "11236872": {
       "total": 7,
       "overdue": 0,
@@ -2183,6 +2121,50 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        }
+      ]
+    },
+    "17956195": {
+      "total": 4,
+      "overdue": 1,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 205171354,
+          "title": "Respond to RFI \u2014 Tree details and crossover distance",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207528621,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207528622,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207528624,
+          "title": "DP To answer RFI",
+          "due_date": "2026-09-09",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -3897,32 +3879,6 @@
         }
       ]
     },
-    "18415320": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206847054,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206871496,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18417055": {
       "total": 5,
       "overdue": 0,
@@ -4291,23 +4247,6 @@
         {
           "task_id": 207167106,
           "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
-    "18436280": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207214894,
-          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5297,6 +5236,58 @@
           "due_soon": ""
         }
       ]
+    },
+    "18415320": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207528592,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207528593,
+          "title": "Final plan signed off",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18436280": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207528595,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207528596,
+          "title": "Final plan signed off",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [],
@@ -5872,13 +5863,24 @@
       "due_soon": false,
       "project_id": 17900271,
       "project_name": "A1335 Mitchel Dr TD1-3"
+    },
+    {
+      "task_id": 207528624,
+      "title": "DP To answer RFI",
+      "due_date": "2026-09-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2"
     }
   ],
   "summary": {
-    "total_open": 490,
-    "total_overdue": 52,
+    "total_open": 489,
+    "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-10T10:15:24.975104+09:30"
+  "last_updated": "2026-09-10T10:30:40.827144+09:30"
 }

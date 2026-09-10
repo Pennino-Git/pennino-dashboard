@@ -1,6 +1,42 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-09-10T10:30:40.827144+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-10T10:30:40.827144+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-09-10T10:30:40.827144+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18436280,
+      "project_name": "C1067 Edward St IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-09-10T10:30:40.827144+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18449744,
       "project_name": "L1046 9 Marblewood Wy TD1-2",
@@ -1763,43 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-11T08:30:49.665758+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18420550,
-      "project_name": "W1022 Main North Rd TIER3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-08-11T08:30:49.665758+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18420550,
-      "project_name": "W1022 Main North Rd TIER3",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-11T08:30:49.665758+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16477307,
-      "project_name": "Z1049 The Esplanade CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-11T08:19:57.549195+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17876195,
-      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-11T08:19:57.549195+09:30"
     }
   ],
-  "last_updated": "2026-09-10T10:15:24.975104+09:30"
+  "last_updated": "2026-09-10T10:30:40.827144+09:30"
 }
