@@ -3827,8 +3827,8 @@
     },
     "18417055": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3881,8 +3881,8 @@
           "title": "Plan back form Kate",
           "due_date": "2026-09-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5227,19 +5227,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207530301,
-      "title": "Plan back form Kate",
-      "due_date": "2026-09-10",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5801,13 +5789,24 @@
       "due_soon": false,
       "project_id": 17956195,
       "project_name": "A1336 The Parade TD1-2"
+    },
+    {
+      "task_id": 207530301,
+      "title": "Plan back form Kate",
+      "due_date": "2026-09-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
     }
   ],
   "summary": {
     "total_open": 482,
-    "total_overdue": 51,
-    "total_due_today": 1,
+    "total_overdue": 52,
+    "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-10T23:45:26.722984+09:30"
+  "last_updated": "2026-09-11T00:00:34.918120+09:30"
 }
