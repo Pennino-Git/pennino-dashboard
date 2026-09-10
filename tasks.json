@@ -5052,8 +5052,8 @@
       ]
     },
     "18187249": {
-      "total": 6,
-      "overdue": 1,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -5101,15 +5101,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207468326,
-          "title": "Check if DP responded to query on 07.09",
-          "due_date": "2026-09-09",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5790,17 +5781,6 @@
       "project_name": "F1146 Oakridge Rise TD1-4"
     },
     {
-      "task_id": 207468326,
-      "title": "Check if DP responded to query on 07.09",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2"
-    },
-    {
       "task_id": 207477021,
       "title": "Action SA Water RFI- check with DP",
       "due_date": "2026-09-09",
@@ -5824,10 +5804,10 @@
     }
   ],
   "summary": {
-    "total_open": 483,
-    "total_overdue": 52,
+    "total_open": 482,
+    "total_overdue": 51,
     "total_due_today": 1,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-10T16:00:34.732623+09:30"
+  "last_updated": "2026-09-10T16:15:29.703806+09:30"
 }
