@@ -872,176 +872,6 @@
         }
       ]
     },
-    "17782437": {
-      "total": 18,
-      "overdue": 6,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 202742751,
-          "title": "4.2 Secure DNF from Council",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 202742752,
-          "title": "4.3 Send DNF to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 204448414,
-          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 204449281,
-          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 204449286,
-          "title": "\ud83c\udf89 Planning & Land Division Consent GRANTED \u2014 F1106 (25033689) | City of Onkaparinga",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 204580451,
-          "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205373343,
-          "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205428926,
-          "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205430706,
-          "title": "6.1 SA Water INV",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430707,
-          "title": "6.2 lodge CoA in PlanSA (Sec 51)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430708,
-          "title": "6.3 Send all invoices to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430709,
-          "title": "6.4 All fees paid?",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430710,
-          "title": "6.5 Conveyancer Details",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472489,
-          "title": "Final council sign-off obtained",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472490,
-          "title": "All remaining conditions cleared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472492,
-          "title": "SA Water Conditions Met",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205472493,
-          "title": "SCAP Certificate Recieved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207272810,
-          "title": "per Jake 1 week to remove trees. check if this is done",
-          "due_date": "2026-09-04",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "17303279": {
       "total": 1,
       "overdue": 1,
@@ -1122,6 +952,122 @@
         {
           "task_id": 205472451,
           "title": "Referrals issued (SA Water, Council, DIT, EPA)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "17782437": {
+      "total": 12,
+      "overdue": 5,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 204448414,
+          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
+          "due_date": "2026-07-01",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 204449281,
+          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
+          "due_date": "2026-07-01",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 204449286,
+          "title": "\ud83c\udf89 Planning & Land Division Consent GRANTED \u2014 F1106 (25033689) | City of Onkaparinga",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 204580451,
+          "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
+          "due_date": "2026-07-01",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 205373343,
+          "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
+          "due_date": "2026-08-24",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 205428926,
+          "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
+          "due_date": "2026-08-24",
+          "status": "NOT STARTED",
+          "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 205430707,
+          "title": "6.2 lodge CoA in PlanSA (Sec 51)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205430708,
+          "title": "6.3 Send all invoices to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205430709,
+          "title": "6.4 All fees paid?",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472490,
+          "title": "All remaining conditions cleared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472492,
+          "title": "SA Water Conditions Met",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 205472493,
+          "title": "SCAP Certificate Recieved",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5768,17 +5714,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 207272810,
-      "title": "per Jake 1 week to remove trees. check if this is done",
-      "due_date": "2026-09-04",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 207318567,
       "title": "Repeg",
       "due_date": "2026-08-29",
@@ -5912,10 +5847,10 @@
     }
   ],
   "summary": {
-    "total_open": 492,
-    "total_overdue": 53,
+    "total_open": 486,
+    "total_overdue": 52,
     "total_due_today": 0,
     "projects_with_tasks": 112
   },
-  "last_updated": "2026-09-10T11:45:26.610564+09:30"
+  "last_updated": "2026-09-10T12:00:36.118279+09:30"
 }
