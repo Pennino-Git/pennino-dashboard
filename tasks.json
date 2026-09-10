@@ -3826,9 +3826,9 @@
       ]
     },
     "18417055": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -3875,6 +3875,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207530301,
+          "title": "Plan back form Kate",
+          "due_date": "2026-09-10",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5271,7 +5280,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207530301,
+      "title": "Plan back form Kate",
+      "due_date": "2026-09-10",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5847,10 +5868,10 @@
     }
   ],
   "summary": {
-    "total_open": 486,
+    "total_open": 487,
     "total_overdue": 52,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 112
   },
-  "last_updated": "2026-09-10T12:00:36.118279+09:30"
+  "last_updated": "2026-09-10T12:15:26.251023+09:30"
 }
