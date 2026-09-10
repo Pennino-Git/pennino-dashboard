@@ -317,25 +317,6 @@
       "lng": 138.6541258
     },
     {
-      "id": 18434007,
-      "name": "V1019 - [TEST/VOID] System Test 21 Aug 2026",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "60 Glenloth Dr, Happy Valley SA 5159, Australia",
-      "client": "TEST VOID",
-      "link": "https://crm.na1.insightly.com/details/project/18434007",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 20,
-      "stage_name": "Prepare Project",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0849326,
-      "lng": 138.5735223
-    },
-    {
       "id": 18269218,
       "name": "W1021 Gully View Ct IDENT",
       "tier": "T1",
@@ -2643,6 +2624,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-10T12:15:26.251023+09:30",
-  "total": 118
+  "last_updated": "2026-09-10T12:30:43.323621+09:30",
+  "total": 117
 }
