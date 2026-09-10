@@ -230,6 +230,25 @@
       "lng": 137.6357337
     },
     {
+      "id": 18454639,
+      "name": "G1041 - Main South Rd Ident T1",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "32 Main S Rd, Morphett Vale SA 5162, Australia",
+      "client": "Michael C Talladira",
+      "link": "https://crm.na1.insightly.com/details/project/18454639",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.134201,
+      "lng": 138.5245239
+    },
+    {
       "id": 18325237,
       "name": "L1043 KFC Womma Road LEASE",
       "tier": "T1",
@@ -2624,6 +2643,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-10T11:00:35.884278+09:30",
-  "total": 117
+  "last_updated": "2026-09-10T11:15:27.139378+09:30",
+  "total": 118
 }
