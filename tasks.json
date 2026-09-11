@@ -3782,9 +3782,9 @@
       ]
     },
     "18415275": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -3822,6 +3822,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207556731,
+          "title": "Draft Concept feedback from client re water meters",
+          "due_date": "2026-09-11",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -5227,7 +5236,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207556731,
+      "title": "Draft Concept feedback from client re water meters",
+      "due_date": "2026-09-11",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5803,10 +5824,10 @@
     }
   ],
   "summary": {
-    "total_open": 482,
+    "total_open": 483,
     "total_overdue": 52,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-11T14:15:22.601393+09:30"
+  "last_updated": "2026-09-11T14:30:40.208219+09:30"
 }
