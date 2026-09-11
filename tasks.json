@@ -3783,8 +3783,8 @@
     },
     "18415275": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3828,8 +3828,8 @@
           "title": "Draft Concept feedback from client re water meters",
           "due_date": "2026-09-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -5209,19 +5209,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207556731,
-      "title": "Draft Concept feedback from client re water meters",
-      "due_date": "2026-09-11",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5794,13 +5782,24 @@
       "due_soon": false,
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6"
+    },
+    {
+      "task_id": 207556731,
+      "title": "Draft Concept feedback from client re water meters",
+      "due_date": "2026-09-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18415275,
+      "project_name": "E1037 Eastern Pde CD1-7"
     }
   ],
   "summary": {
     "total_open": 480,
-    "total_overdue": 52,
-    "total_due_today": 1,
+    "total_overdue": 53,
+    "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-11T23:45:28.504459+09:30"
+  "last_updated": "2026-09-12T00:00:35.963195+09:30"
 }
