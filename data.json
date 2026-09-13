@@ -2067,28 +2067,6 @@
       "lng": 138.576547
     },
     {
-      "id": 18256019,
-      "name": "A1347 V506 Columbia Cres TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "V506 Columbia Crescent, Hallet Cove",
-      "client": "Sam Dyson",
-      "link": "https://crm.na1.insightly.com/details/project/18256019",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 95,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "agig"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0857412,
-      "lng": 138.5018424
-    },
-    {
       "id": 18313305,
       "name": "D1066 V57 Newland Ave & Coolinga Rd TIER3",
       "tier": "T3",
@@ -2624,6 +2602,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T07:45:26.056983+09:30",
-  "total": 117
+  "last_updated": "2026-09-14T08:00:33.953886+09:30",
+  "total": 116
 }
