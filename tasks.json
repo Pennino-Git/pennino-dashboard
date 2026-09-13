@@ -3756,10 +3756,10 @@
       ]
     },
     "17845187": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206794850,
@@ -3778,6 +3778,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207580896,
+          "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
+          "due_date": "2026-09-16",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4179,16 +4188,16 @@
       "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207244903,
           "title": "Final invoice issued and In XERO",
-          "due_date": null,
+          "due_date": "2026-09-17",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 207244904,
@@ -5796,10 +5805,10 @@
     }
   ],
   "summary": {
-    "total_open": 480,
+    "total_open": 481,
     "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 111
   },
-  "last_updated": "2026-09-14T07:30:39.558587+09:30"
+  "last_updated": "2026-09-14T07:40:57.963141+09:30"
 }
