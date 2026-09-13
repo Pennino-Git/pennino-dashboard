@@ -1673,10 +1673,6 @@
       "id": "697846ac7548991415c14560",
       "name": "T1316 Clifton St TIER3"
     },
-    "T1317": {
-      "id": "69800b090192c6798122a33f",
-      "name": "T1317 Horrocks Hwy TIER3"
-    },
     "T1318": {
       "id": "6993fd5279ebd2663deb2058",
       "name": "T1318 Innovation Dr CD1-4"
@@ -1688,14 +1684,6 @@
     "T1320": {
       "id": "6a24ffdc177ca3150f930eac",
       "name": "T1320 Russell St TIER3"
-    },
-    "T1323": {
-      "id": "6a1fa9760fd47a69afbe0a26",
-      "name": "T1323 High Street South Brighton Stormwater TIER3"
-    },
-    "T1324": {
-      "id": "6a244a066922488bf183ff54",
-      "name": "T1324 Stebonheath Rd TIER3"
     },
     "T1327": {
       "id": "6a389156a604c559fb8c3cbe",
@@ -1862,6 +1850,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 465,
-  "last_updated": "2026-09-14T08:00:33.953886+09:30"
+  "total": 462,
+  "last_updated": "2026-09-14T08:15:25.774283+09:30"
 }

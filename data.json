@@ -2279,28 +2279,6 @@
       "lng": 138.5381049
     },
     {
-      "id": 18046054,
-      "name": "T1317 Horrocks Hwy TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Horrocks Hwy",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18046054",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 76,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -33.485059,
-      "lng": 138.4374772
-    },
-    {
       "id": 18184868,
       "name": "T1319 Grange Rd TIER3",
       "tier": "T3",
@@ -2345,50 +2323,6 @@
       "is_premium": false,
       "lat": -34.8483885,
       "lng": 138.4858136
-    },
-    {
-      "id": 18327811,
-      "name": "T1323 High Street South Brighton Stormwater TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "High Street South Brighton Stormwater",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18327811",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 95,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0282857,
-      "lng": 138.5263743
-    },
-    {
-      "id": 18333017,
-      "name": "T1324 Stebonheath Rd TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Stebonheath Rd",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18333017",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 76,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6519063,
-      "lng": 138.6836943
     },
     {
       "id": 18350144,
@@ -2602,6 +2536,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T08:00:33.953886+09:30",
-  "total": 116
+  "last_updated": "2026-09-14T08:15:25.774283+09:30",
+  "total": 113
 }
