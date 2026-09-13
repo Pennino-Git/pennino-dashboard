@@ -2325,28 +2325,6 @@
       "lng": 138.4858136
     },
     {
-      "id": 18350144,
-      "name": "T1326 Garnet Ave TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Garnet Avenue, Blackwood",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18350144",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 76,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0298326,
-      "lng": 138.6153823
-    },
-    {
       "id": 18358533,
       "name": "T1327 Davoren Park- 4 Sites TIER3",
       "tier": "T3",
@@ -2536,6 +2514,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T08:30:40.870985+09:30",
-  "total": 113
+  "last_updated": "2026-09-14T08:45:25.691818+09:30",
+  "total": 112
 }
