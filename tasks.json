@@ -2149,7 +2149,7 @@
       ]
     },
     "18203158": {
-      "total": 1,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2162,6 +2162,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207581365,
+          "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
+          "due_date": "2026-09-25",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5657,10 +5666,10 @@
     }
   ],
   "summary": {
-    "total_open": 469,
+    "total_open": 470,
     "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-14T09:00:33.010940+09:30"
+  "last_updated": "2026-09-14T09:15:23.162289+09:30"
 }
