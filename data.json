@@ -272,28 +272,6 @@
       "lng": 138.6493493
     },
     {
-      "id": 18156649,
-      "name": "R1036 Maple Ave IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "32 Maple Avenue, Rostrevor SA 5073",
-      "client": "Donato Russo",
-      "link": "https://crm.na1.insightly.com/details/project/18156649",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 55,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8955451,
-      "lng": 138.6813289
-    },
-    {
       "id": 18227807,
       "name": "S1144 Angle Vale Rd IDENT",
       "tier": "T1",
@@ -2514,6 +2492,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T12:00:35.498114+09:30",
-  "total": 112
+  "last_updated": "2026-09-14T12:15:26.113449+09:30",
+  "total": 111
 }
