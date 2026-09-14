@@ -1733,10 +1733,6 @@
       "id": "6a95ca3f45ff5f845d5dfcc1",
       "name": "V1022 Byre Ave CD1-2"
     },
-    "W1021": {
-      "id": "69f7549f51886e4b1818cb82",
-      "name": "W1021 Gully View Ct IDENT"
-    },
     "W1022": {
       "id": "6a792119ad57a8b72b791c5d",
       "name": "W1022 Main North Rd TIER3"
@@ -1842,6 +1838,6 @@
       "name": "Z1073 Hawker Rd CONTOUR"
     }
   },
-  "total": 460,
-  "last_updated": "2026-09-14T14:00:36.827684+09:30"
+  "total": 459,
+  "last_updated": "2026-09-14T14:15:25.225082+09:30"
 }

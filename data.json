@@ -93,28 +93,6 @@
       "lng": 138.585005
     },
     {
-      "id": 18294425,
-      "name": "C1065 Lookout Dr CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "52 Lookout Drive, Murray Bridge East SA 5253",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18294425",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 61,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "contour",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.1042685,
-      "lng": 139.28694
-    },
-    {
       "id": 18415320,
       "name": "C1066 Haig St IDENT & CONTOUR",
       "tier": "T1",
@@ -293,28 +271,6 @@
       "is_premium": false,
       "lat": -34.6394149,
       "lng": 138.6541258
-    },
-    {
-      "id": 18269218,
-      "name": "W1021 Gully View Ct IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "7 Gully View Court, Salisbury Heights SA 5109",
-      "client": "Luke  Williams",
-      "link": "https://crm.na1.insightly.com/details/project/18269218",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 55,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7636683,
-      "lng": 138.6855528
     },
     {
       "id": 16477307,
@@ -2492,6 +2448,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T14:00:36.827684+09:30",
-  "total": 111
+  "last_updated": "2026-09-14T14:15:25.225082+09:30",
+  "total": 109
 }
