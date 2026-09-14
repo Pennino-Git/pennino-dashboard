@@ -1330,7 +1330,7 @@
       "address": "12 Pine Avenue, Eudunda SA 5374",
       "client": "Jamie Launer",
       "link": "https://crm.na1.insightly.com/details/project/17928270",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 84,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0190681",
@@ -2514,6 +2514,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-14T10:45:26.636733+09:30",
+  "last_updated": "2026-09-14T11:00:34.005444+09:30",
   "total": 112
 }

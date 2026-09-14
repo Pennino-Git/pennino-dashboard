@@ -2519,10 +2519,10 @@
       ]
     },
     "17928270": {
-      "total": 7,
+      "total": 8,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2586,6 +2586,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207581909,
+          "title": "Check if DP replied to my query about Jamie responding to him directly",
+          "due_date": "2026-09-17",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5666,10 +5675,10 @@
     }
   ],
   "summary": {
-    "total_open": 470,
+    "total_open": 471,
     "total_overdue": 53,
     "total_due_today": 0,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-14T10:45:26.636733+09:30"
+  "last_updated": "2026-09-14T11:00:34.005444+09:30"
 }
