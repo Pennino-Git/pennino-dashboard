@@ -4053,7 +4053,7 @@
       "tasks": [
         {
           "task_id": 207244903,
-          "title": "Final invoice issued and In XERO",
+          "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5671,5 +5671,5 @@
     "total_due_today": 0,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-14T09:45:24.469586+09:30"
+  "last_updated": "2026-09-14T10:00:37.426534+09:30"
 }
