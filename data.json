@@ -1755,7 +1755,7 @@
       "address": "29 Minorca Crescent, Hackham West SA 5163",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18254196",
-      "responsibility": "Kate (Drafting)",
+      "responsibility": "Client",
       "days_in_stage": 49,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2486,6 +2486,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-16T04:00:34.627031+09:30",
+  "last_updated": "2026-09-16T04:15:28.105428+09:30",
   "total": 111
 }
