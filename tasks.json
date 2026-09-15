@@ -1149,9 +1149,9 @@
     },
     "17539782": {
       "total": 26,
-      "overdue": 7,
+      "overdue": 6,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1380,12 +1380,12 @@
         },
         {
           "task_id": 207376508,
-          "title": "Check for Council response",
-          "due_date": "2026-09-04",
+          "title": "Check for Council response  (uploaded Planning Consent via Plan SA)",
+          "due_date": "2026-09-17",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5453,17 +5453,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 207376508,
-      "title": "Check for Council response",
-      "due_date": "2026-09-04",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
       "task_id": 207434695,
       "title": "Did TR respond?",
       "due_date": "2026-09-07",
@@ -5532,9 +5521,9 @@
   ],
   "summary": {
     "total_open": 460,
-    "total_overdue": 50,
+    "total_overdue": 49,
     "total_due_today": 1,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-09-15T13:15:29.383053+09:30"
+  "last_updated": "2026-09-15T13:30:41.028137+09:30"
 }
