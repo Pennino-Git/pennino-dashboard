@@ -435,6 +435,25 @@
       "lng": 138.6635471
     },
     {
+      "id": 18459045,
+      "name": "Z1075 - 10&11 Kindale Ct Contour",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "11 Kindale Ct, Pooraka SA 5095, Australia",
+      "client": "Andrew Zummo",
+      "link": "https://crm.na1.insightly.com/details/project/18459045",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.8120451,
+      "lng": 138.633535
+    },
+    {
       "id": 15978707,
       "name": "A1266 Fatchen St CD1-3",
       "tier": "T2",
@@ -2467,6 +2486,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-15T17:00:35.408372+09:30",
-  "total": 110
+  "last_updated": "2026-09-15T17:15:27.642438+09:30",
+  "total": 111
 }

@@ -4843,20 +4843,11 @@
       ]
     },
     "18451911": {
-      "total": 2,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 207479157,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 207480324,
           "title": "Field work completed",
@@ -4973,6 +4964,50 @@
         {
           "task_id": 207625948,
           "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18459045": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207625980,
+          "title": "Job folder created in Dropbox/Clockify",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207625981,
+          "title": "Title search completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207625982,
+          "title": "Existing plan / survey research done",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207625983,
+          "title": "Physical Docket Prepared",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5537,10 +5572,10 @@
     }
   ],
   "summary": {
-    "total_open": 461,
+    "total_open": 464,
     "total_overdue": 49,
     "total_due_today": 1,
-    "projects_with_tasks": 104
+    "projects_with_tasks": 105
   },
-  "last_updated": "2026-09-15T17:00:35.408372+09:30"
+  "last_updated": "2026-09-15T17:15:27.642438+09:30"
 }
