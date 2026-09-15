@@ -3388,9 +3388,9 @@
       ]
     },
     "18254196": {
-      "total": 6,
-      "overdue": 3,
-      "due_today": 1,
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3410,42 +3410,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207318570,
-          "title": "Client approval of Rev 2",
-          "due_date": "2026-08-30",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207318571,
-          "title": "Updated rev to plans lodged with Plan SA",
-          "due_date": "2026-08-31",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207581003,
-          "title": "Check on the reminders. Ask DP if they can be cleared",
-          "due_date": "2026-09-15",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207622015,
-          "title": "DP reviewed Concept Plan REV2?",
-          "due_date": "2026-09-16",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -5003,17 +4967,6 @@
       "due_soon": false,
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6"
-    },
-    {
-      "task_id": 207622015,
-      "title": "DP reviewed Concept Plan REV2?",
-      "due_date": "2026-09-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5458,28 +5411,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 207318570,
-      "title": "Client approval of Rev 2",
-      "due_date": "2026-08-30",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
-    },
-    {
-      "task_id": 207318571,
-      "title": "Updated rev to plans lodged with Plan SA",
-      "due_date": "2026-08-31",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
-    },
-    {
       "task_id": 207355919,
       "title": "Check for PLanning Consent if it's actionable",
       "due_date": "2026-09-02",
@@ -5555,24 +5486,13 @@
       "due_soon": false,
       "project_id": 18415275,
       "project_name": "E1037 Eastern Pde CD1-7"
-    },
-    {
-      "task_id": 207581003,
-      "title": "Check on the reminders. Ask DP if they can be cleared",
-      "due_date": "2026-09-15",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
-    "total_open": 460,
-    "total_overdue": 50,
-    "total_due_today": 3,
+    "total_open": 456,
+    "total_overdue": 47,
+    "total_due_today": 2,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-09-16T04:15:28.105428+09:30"
+  "last_updated": "2026-09-16T04:30:43.726003+09:30"
 }
