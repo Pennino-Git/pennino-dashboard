@@ -807,7 +807,7 @@
       "address": "223-225 Eastern Parade, Port Adelaide SA 5015",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187249",
-      "responsibility": "Client",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 8,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0193073",
@@ -2426,6 +2426,25 @@
       "lng": 138.5577556
     },
     {
+      "id": 18459038,
+      "name": "T1336 - Big River Pork T3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "283 Flagstaff Rd, Brinkley SA 5253, Australia",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18459038",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.2034416,
+      "lng": 139.2929639
+    },
+    {
       "id": 18420550,
       "name": "W1022 Main North Rd TIER3",
       "tier": "T3",
@@ -2448,6 +2467,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-15T16:45:26.403890+09:30",
-  "total": 109
+  "last_updated": "2026-09-15T16:49:40.205724+09:30",
+  "total": 110
 }
