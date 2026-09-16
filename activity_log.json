@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18459045,
+      "project_name": "Z1075 - 10&11 Kindale Ct Contour",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-16T10:00:37.620978+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18459045,
+      "project_name": "Z1075 - 10&11 Kindale Ct Contour",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-09-16T10:00:37.620978+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "LTO",
       "timestamp": "2026-08-11T17:00:42.636978+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-08-11T17:00:42.636978+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-11T16:15:32.553319+09:30"
     }
   ],
-  "last_updated": "2026-09-16T09:45:25.868048+09:30"
+  "last_updated": "2026-09-16T10:00:37.620978+09:30"
 }

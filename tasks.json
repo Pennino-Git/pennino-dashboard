@@ -4901,32 +4901,23 @@
       ]
     },
     "18459045": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 207625981,
-          "title": "Title search completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207625982,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 207625983,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207647357,
+          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5480,10 +5471,10 @@
     }
   ],
   "summary": {
-    "total_open": 455,
+    "total_open": 454,
     "total_overdue": 47,
     "total_due_today": 2,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-09-16T09:45:25.868048+09:30"
+  "last_updated": "2026-09-16T10:00:37.620978+09:30"
 }
