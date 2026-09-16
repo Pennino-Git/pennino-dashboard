@@ -439,7 +439,7 @@
       "name": "Z1075 - 10&11 Kindale Ct Contour",
       "tier": "T1",
       "status": "IN PROGRESS",
-      "address": "11 Kindale Ct, Pooraka SA 5095, Australia",
+      "address": "10 & 11 Kindale Ct, Pooraka SA 5095, Australia",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18459045",
       "responsibility": "AR (Alex)",
@@ -450,8 +450,8 @@
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
-      "lat": -34.8120451,
-      "lng": 138.633535
+      "lat": -34.8123058,
+      "lng": 138.6332125
     },
     {
       "id": 15978707,
@@ -2486,6 +2486,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-16T09:30:44.466458+09:30",
+  "last_updated": "2026-09-16T09:45:25.868048+09:30",
   "total": 111
 }
