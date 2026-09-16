@@ -2122,6 +2122,25 @@
       "lng": 138.6332525
     },
     {
+      "id": 18460385,
+      "name": "F1150 - RAAF Base TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "2 Sturton Rd, Edinburgh SA 5111, Australia",
+      "client": "Jonathon Tozer",
+      "link": "https://crm.na1.insightly.com/details/project/18460385",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Search & DBYD",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.7275218,
+      "lng": 138.6287652
+    },
+    {
       "id": 17847395,
       "name": "S1134 Wynn Vale Dr TIER3",
       "tier": "T3",
@@ -2486,6 +2505,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-16T12:45:28.222858+09:30",
-  "total": 111
+  "last_updated": "2026-09-16T13:00:34.646296+09:30",
+  "total": 112
 }

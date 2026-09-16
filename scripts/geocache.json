@@ -1637,6 +1637,12 @@
     "lng": 139.2747209,
     "source": "map.html-seed"
   },
+  "2 sturton rd, edinburgh sa 5111, australia": {
+    "cachedAt": "2026-09-16",
+    "lat": -34.7275218,
+    "lng": 138.6287652,
+    "source": "google"
+  },
   "2 tabora crescent, salisbury north sa 5108": {
     "cachedAt": "2026-08-25",
     "lat": -34.7398054,
