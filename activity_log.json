@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18460385,
+      "project_name": "F1150 RAAF Base TIER3",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-16T13:15:26.433154+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18460385,
+      "project_name": "F1150 RAAF Base TIER3",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-09-16T13:15:26.433154+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18459045,
       "project_name": "Z1075 - 10&11 Kindale Ct Contour",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-11T22:30:51.594605+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11236872,
-      "project_name": "C1031 Diment Rd TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-11T18:15:32.908294+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17632301,
-      "project_name": "F1102 Copernicus Rd TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "LTO",
-      "timestamp": "2026-08-11T17:00:42.636978+09:30"
     }
   ],
-  "last_updated": "2026-09-16T13:00:34.646296+09:30"
+  "last_updated": "2026-09-16T13:15:26.433154+09:30"
 }
