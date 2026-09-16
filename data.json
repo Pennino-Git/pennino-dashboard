@@ -2274,6 +2274,28 @@
       "lng": 138.5928341
     },
     {
+      "id": 18209910,
+      "name": "T1320 Russell St TIER3",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Russell Street Rosewater",
+      "client": "Rob Wooton",
+      "link": "https://crm.na1.insightly.com/details/project/18209910",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Further Work Required",
+      "sa_water_ref": "",
+      "stage_order": 5,
+      "tags": [
+        "tier3",
+        "tpc"
+      ],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.8564211,
+      "lng": 138.5190531
+    },
+    {
       "id": 18323822,
       "name": "T1322 Nazar Reserve Pots TIER 3",
       "tier": "T3",
@@ -2505,6 +2527,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-16T14:15:26.177149+09:30",
-  "total": 112
+  "last_updated": "2026-09-16T14:30:43.286967+09:30",
+  "total": 113
 }
