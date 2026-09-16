@@ -4244,10 +4244,10 @@
       ]
     },
     "18443116": {
-      "total": 3,
+      "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207345226,
@@ -4275,6 +4275,24 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207649753,
+          "title": "New Changes to Kate",
+          "due_date": "2026-09-17",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 207649758,
+          "title": "CAD FIles from Client",
+          "due_date": "2026-09-16",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4909,20 +4927,11 @@
       ]
     },
     "18460385": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 207649407,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 207649408,
           "title": "Physical Docket Prepared",
@@ -4944,7 +4953,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207649758,
+      "title": "CAD FIles from Client",
+      "due_date": "2026-09-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5465,10 +5486,10 @@
     }
   ],
   "summary": {
-    "total_open": 455,
+    "total_open": 456,
     "total_overdue": 47,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-16T14:00:35.330988+09:30"
+  "last_updated": "2026-09-16T14:15:26.177149+09:30"
 }
