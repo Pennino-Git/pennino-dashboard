@@ -3537,20 +3537,11 @@
       ]
     },
     "18417055": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 206870067,
-          "title": "Concept plan sent to client for approval",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 206870068,
           "title": "Client approval received",
@@ -5530,10 +5521,10 @@
     }
   ],
   "summary": {
-    "total_open": 460,
+    "total_open": 459,
     "total_overdue": 47,
     "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-16T15:30:40.345450+09:30"
+  "last_updated": "2026-09-16T15:45:26.322752+09:30"
 }
