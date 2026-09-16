@@ -963,8 +963,8 @@
     "17782437": {
       "total": 12,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448414,
@@ -1026,8 +1026,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 205430708,
@@ -1150,8 +1150,8 @@
     "17539782": {
       "total": 26,
       "overdue": 6,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1384,8 +1384,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1445,8 +1445,8 @@
     "18225672": {
       "total": 9,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1526,8 +1526,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2512,8 +2512,8 @@
     "17928270": {
       "total": 8,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2584,8 +2584,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3539,8 +3539,8 @@
     "18417055": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206870068,
@@ -3584,8 +3584,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3880,8 +3880,8 @@
     "18435136": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207244903,
@@ -3889,8 +3889,8 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207244904,
@@ -4245,9 +4245,9 @@
     },
     "18443116": {
       "total": 5,
-      "overdue": 0,
+      "overdue": 1,
       "due_today": 1,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207345226,
@@ -4282,16 +4282,16 @@
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207649758,
           "title": "CAD FIles from Client",
           "due_date": "2026-09-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4999,15 +4999,81 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207649758,
-      "title": "CAD FIles from Client",
-      "due_date": "2026-09-16",
+      "task_id": 205430707,
+      "title": "6.2 lodge CoA in PlanSA (Sec 51)",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    },
+    {
+      "task_id": 207244903,
+      "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3"
+    },
+    {
+      "task_id": 207376508,
+      "title": "Check for Council response  (uploaded Planning Consent via Plan SA)",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 207581909,
+      "title": "Check if DP replied to my query about Jamie responding to him directly",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 207649753,
+      "title": "New Changes to Kate",
+      "due_date": "2026-09-17",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
       "project_id": 18443116,
       "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
+      "task_id": 207650210,
+      "title": "Check if DP responded to email about David's feedback",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
+    },
+    {
+      "task_id": 207650216,
+      "title": "SA Water INV sent?",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "tasks_overdue": [
@@ -5527,13 +5593,24 @@
       "due_soon": false,
       "project_id": 18415275,
       "project_name": "E1037 Eastern Pde CD1-7"
+    },
+    {
+      "task_id": 207649758,
+      "title": "CAD FIles from Client",
+      "due_date": "2026-09-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
     }
   ],
   "summary": {
     "total_open": 460,
-    "total_overdue": 47,
-    "total_due_today": 1,
+    "total_overdue": 48,
+    "total_due_today": 7,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-16T23:45:29.708206+09:30"
+  "last_updated": "2026-09-17T00:00:39.069451+09:30"
 }
