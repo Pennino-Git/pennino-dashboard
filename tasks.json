@@ -1763,7 +1763,7 @@
       ]
     },
     "17700505": {
-      "total": 7,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -1816,15 +1816,6 @@
         {
           "task_id": 206139091,
           "title": "REPEG - SUPERSEDED DESIGN",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207003134,
-          "title": "SA Water INV?",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3460,8 +3451,8 @@
     "17845187": {
       "total": 3,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206794850,
@@ -3484,11 +3475,11 @@
         {
           "task_id": 207580896,
           "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
-          "due_date": "2026-09-16",
+          "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4918,19 +4909,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207580896,
-      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
-      "due_date": "2026-09-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5451,10 +5430,10 @@
     }
   ],
   "summary": {
-    "total_open": 453,
+    "total_open": 452,
     "total_overdue": 47,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-09-16T10:15:26.312463+09:30"
+  "last_updated": "2026-09-16T10:30:39.531603+09:30"
 }
