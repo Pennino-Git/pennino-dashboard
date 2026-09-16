@@ -3546,9 +3546,9 @@
       ]
     },
     "18417055": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3595,15 +3595,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207621988,
-          "title": "Did DP review Concept?",
-          "due_date": "2026-09-16",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4938,17 +4929,6 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207621988,
-      "title": "Did DP review Concept?",
-      "due_date": "2026-09-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
     }
   ],
   "tasks_overdue": [
@@ -5471,10 +5451,10 @@
     }
   ],
   "summary": {
-    "total_open": 454,
+    "total_open": 453,
     "total_overdue": 47,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 105
   },
-  "last_updated": "2026-09-16T10:00:37.620978+09:30"
+  "last_updated": "2026-09-16T10:15:26.312463+09:30"
 }
