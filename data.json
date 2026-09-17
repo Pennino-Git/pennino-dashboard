@@ -510,10 +510,10 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17539782",
       "responsibility": "Council/Authority",
-      "days_in_stage": 78,
-      "stage_name": "3. Authority Assessment",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0189504",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "tier2",
         "alete_homes",
@@ -2530,6 +2530,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-17T13:45:25.533540+09:30",
+  "last_updated": "2026-09-17T14:00:34.597363+09:30",
   "total": 113
 }

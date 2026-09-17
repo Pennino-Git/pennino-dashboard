@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-09-17T14:00:34.597363+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18454639,
       "project_name": "G1041 Main South Rd IDENT",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-17T13:45:25.533540+09:30"
+  "last_updated": "2026-09-17T14:00:34.597363+09:30"
 }
