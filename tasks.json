@@ -2546,8 +2546,8 @@
       ]
     },
     "18273554": {
-      "total": 4,
-      "overdue": 1,
+      "total": 3,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2577,15 +2577,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207466812,
-          "title": "SA Water RFI issued, ask DP for field work/pegging plan",
-          "due_date": "2026-09-09",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -5538,17 +5529,6 @@
       "project_name": "A1335 Mitchel Dr TD1-3"
     },
     {
-      "task_id": 207466812,
-      "title": "SA Water RFI issued, ask DP for field work/pegging plan",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 207467134,
       "title": "SA Water RFI actioned?",
       "due_date": "2026-09-09",
@@ -5605,10 +5585,10 @@
     }
   ],
   "summary": {
-    "total_open": 461,
-    "total_overdue": 47,
+    "total_open": 460,
+    "total_overdue": 46,
     "total_due_today": 7,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-17T12:45:23.221016+09:30"
+  "last_updated": "2026-09-17T13:00:33.768417+09:30"
 }

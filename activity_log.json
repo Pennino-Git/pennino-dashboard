@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "SA Water",
+      "timestamp": "2026-09-17T13:00:33.768417+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-11T22:47:07.974526+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18317513,
-      "project_name": "F1145 South Para Rd IDENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-08-11T22:47:07.974526+09:30"
     }
   ],
-  "last_updated": "2026-09-17T12:45:23.221016+09:30"
+  "last_updated": "2026-09-17T13:00:33.768417+09:30"
 }
