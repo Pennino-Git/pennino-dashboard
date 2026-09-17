@@ -3629,10 +3629,10 @@
       ]
     },
     "15978707": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 207056135,
@@ -3646,6 +3646,15 @@
         {
           "task_id": 207581995,
           "title": "Check for DPL approval",
+          "due_date": "2026-09-21",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 207674867,
+          "title": "Kate fixed REQ?",
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
@@ -5379,10 +5388,10 @@
     }
   ],
   "summary": {
-    "total_open": 442,
+    "total_open": 443,
     "total_overdue": 45,
     "total_due_today": 4,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-17T16:00:39.759997+09:30"
+  "last_updated": "2026-09-17T16:15:26.033782+09:30"
 }

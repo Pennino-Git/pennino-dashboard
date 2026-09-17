@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-09-17T16:15:26.033782+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18398274,
-      "project_name": "Z1072 Frederick St IDENT",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-17T16:00:39.759997+09:30"
+  "last_updated": "2026-09-17T16:15:26.033782+09:30"
 }
