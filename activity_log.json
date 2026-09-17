@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-09-17T16:00:39.759997+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Client",
+      "timestamp": "2026-09-17T16:00:39.759997+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18403480,
-      "project_name": "Z1073 Hawker Rd CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-17T15:45:27.395311+09:30"
+  "last_updated": "2026-09-17T16:00:39.759997+09:30"
 }

@@ -829,7 +829,7 @@
       "address": "223-225 Eastern Parade, Port Adelaide SA 5015",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187249",
-      "responsibility": "Client",
+      "responsibility": "SA Water",
       "days_in_stage": 10,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0193073",
@@ -875,7 +875,7 @@
       "address": "64-66 Deeds Road, North Plympton SA 5037",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
-      "responsibility": "SA Water",
+      "responsibility": "Client",
       "days_in_stage": 69,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0190294",
@@ -2530,6 +2530,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-17T15:45:27.395311+09:30",
+  "last_updated": "2026-09-17T16:00:39.759997+09:30",
   "total": 113
 }

@@ -1317,9 +1317,9 @@
       ]
     },
     "18225672": {
-      "total": 9,
+      "total": 8,
       "overdue": 4,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1393,15 +1393,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207650216,
-          "title": "SA Water INV sent?",
-          "due_date": "2026-09-17",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4566,10 +4557,10 @@
       ]
     },
     "18187249": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207468322,
@@ -4588,15 +4579,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207673118,
-          "title": "Ask DP if we heard from Tina (DP sent SA Water RFI last Thu)",
-          "due_date": "2026-09-18",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
         }
       ]
     },
@@ -4897,17 +4879,6 @@
       "due_soon": false,
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6"
-    },
-    {
-      "task_id": 207650216,
-      "title": "SA Water INV sent?",
-      "due_date": "2026-09-17",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "tasks_overdue": [
@@ -5408,10 +5379,10 @@
     }
   ],
   "summary": {
-    "total_open": 444,
+    "total_open": 442,
     "total_overdue": 45,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-17T15:45:27.395311+09:30"
+  "last_updated": "2026-09-17T16:00:39.759997+09:30"
 }
