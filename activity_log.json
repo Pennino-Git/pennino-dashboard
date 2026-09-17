@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-09-17T10:23:40.140643+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "TR (Tristan)",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-17T10:23:40.140643+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-11T22:47:07.974526+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17902817,
-      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-08-11T22:45:32.462984+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18056682,
-      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-11T22:30:51.594605+09:30"
     }
   ],
-  "last_updated": "2026-09-17T10:15:26.431403+09:30"
+  "last_updated": "2026-09-17T10:23:40.140643+09:30"
 }
