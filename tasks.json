@@ -2008,7 +2008,7 @@
       "total": 2,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205381503,
@@ -2026,7 +2026,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -2332,8 +2332,8 @@
     },
     "17928270": {
       "total": 8,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2404,8 +2404,8 @@
           "title": "Check if DP replied to my query about Jamie responding to him directly",
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3263,8 +3263,8 @@
     "17845187": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206794850,
@@ -3290,8 +3290,8 @@
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3351,8 +3351,8 @@
     "18417055": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206870069,
@@ -3378,8 +3378,8 @@
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3613,8 +3613,8 @@
     "15978707": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207056135,
@@ -3640,8 +3640,8 @@
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3682,8 +3682,8 @@
     },
     "18435136": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3691,8 +3691,8 @@
           "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4048,8 +4048,8 @@
     },
     "18443116": {
       "total": 5,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4084,8 +4084,8 @@
           "title": "New Changes to Kate",
           "due_date": "2026-09-17",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4784,8 +4784,8 @@
     "17385935": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207672244,
@@ -4820,45 +4820,56 @@
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     }
   },
   "tasks_due_today": [
     {
-      "task_id": 207244903,
-      "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
-      "due_date": "2026-09-17",
+      "task_id": 207580896,
+      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
+      "due_date": "2026-09-18",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18435136,
-      "project_name": "T1331 Light Common TIER3"
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
     },
     {
-      "task_id": 207581909,
-      "title": "Check if DP replied to my query about Jamie responding to him directly",
-      "due_date": "2026-09-17",
+      "task_id": 207672247,
+      "title": "Prem Serv quote received?",
+      "due_date": "2026-09-18",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4"
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3"
     },
     {
-      "task_id": 207649753,
-      "title": "New Changes to Kate",
-      "due_date": "2026-09-17",
+      "task_id": 207674867,
+      "title": "Kate fixed REQ?",
+      "due_date": "2026-09-18",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18443116,
-      "project_name": "V1021 Grove Ave CD1-2"
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3"
+    },
+    {
+      "task_id": 207674964,
+      "title": "Lodged?",
+      "due_date": "2026-09-18",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
     }
   ],
   "tasks_overdue": [
@@ -5292,6 +5303,17 @@
       "project_name": "J1015 Eudunda Land TD1-50"
     },
     {
+      "task_id": 207244903,
+      "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18435136,
+      "project_name": "T1331 Light Common TIER3"
+    },
+    {
       "task_id": 207355919,
       "title": "Check for PLanning Consent if it's actionable",
       "due_date": "2026-09-02",
@@ -5347,6 +5369,28 @@
       "project_name": "E1037 Eastern Pde CD1-7"
     },
     {
+      "task_id": 207581909,
+      "title": "Check if DP replied to my query about Jamie responding to him directly",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 207649753,
+      "title": "New Changes to Kate",
+      "due_date": "2026-09-17",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
       "task_id": 207649758,
       "title": "CAD FIles from Client",
       "due_date": "2026-09-16",
@@ -5360,9 +5404,9 @@
   ],
   "summary": {
     "total_open": 441,
-    "total_overdue": 45,
-    "total_due_today": 3,
+    "total_overdue": 48,
+    "total_due_today": 4,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-17T23:45:27.244903+09:30"
+  "last_updated": "2026-09-18T00:00:36.663859+09:30"
 }
