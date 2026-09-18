@@ -3253,8 +3253,8 @@
     },
     "17845187": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3280,8 +3280,8 @@
           "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3341,8 +3341,8 @@
     },
     "18417055": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3368,8 +3368,8 @@
           "title": "Lodged?",
           "due_date": "2026-09-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4808,30 +4808,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207580896,
-      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
-      "due_date": "2026-09-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207674964,
-      "title": "Lodged?",
-      "due_date": "2026-09-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5329,6 +5306,17 @@
       "project_name": "E1037 Eastern Pde CD1-7"
     },
     {
+      "task_id": 207580896,
+      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
+      "due_date": "2026-09-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
       "task_id": 207581909,
       "title": "Check if DP replied to my query about Jamie responding to him directly",
       "due_date": "2026-09-17",
@@ -5360,13 +5348,24 @@
       "due_soon": false,
       "project_id": 18443116,
       "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
+      "task_id": 207674964,
+      "title": "Lodged?",
+      "due_date": "2026-09-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
     }
   ],
   "summary": {
     "total_open": 439,
-    "total_overdue": 48,
-    "total_due_today": 2,
+    "total_overdue": 50,
+    "total_due_today": 0,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-18T23:45:27.642803+09:30"
+  "last_updated": "2026-09-19T00:00:38.650250+09:30"
 }
