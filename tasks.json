@@ -3611,9 +3611,9 @@
       ]
     },
     "15978707": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -3633,15 +3633,6 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
-        },
-        {
-          "task_id": 207674867,
-          "title": "Kate fixed REQ?",
-          "due_date": "2026-09-18",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4850,17 +4841,6 @@
       "project_name": "K1030 Wilsden St CD1-3"
     },
     {
-      "task_id": 207674867,
-      "title": "Kate fixed REQ?",
-      "due_date": "2026-09-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3"
-    },
-    {
       "task_id": 207674964,
       "title": "Lodged?",
       "due_date": "2026-09-18",
@@ -5403,10 +5383,10 @@
     }
   ],
   "summary": {
-    "total_open": 441,
+    "total_open": 440,
     "total_overdue": 48,
-    "total_due_today": 4,
+    "total_due_today": 3,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-18T09:45:28.613965+09:30"
+  "last_updated": "2026-09-18T10:00:33.829593+09:30"
 }

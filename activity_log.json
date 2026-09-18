@@ -5,6 +5,15 @@
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
       "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "LTO",
+      "timestamp": "2026-09-18T10:00:33.829593+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 15978707,
+      "project_name": "A1266 Fatchen St CD1-3",
+      "tier": "T2",
       "from": "DP (Damiano)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-17T16:15:26.033782+09:30"
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-18T09:45:28.613965+09:30"
+  "last_updated": "2026-09-18T10:00:33.829593+09:30"
 }
