@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "8. Final Authority Approvals",
+      "timestamp": "2026-09-18T16:30:42.903624+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-18T16:30:42.903624+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 15978707,
       "project_name": "A1266 Fatchen St CD1-3",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-18T16:15:26.795265+09:30"
+  "last_updated": "2026-09-18T16:30:42.903624+09:30"
 }
