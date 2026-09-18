@@ -4773,9 +4773,9 @@
       ]
     },
     "17385935": {
-      "total": 4,
+      "total": 3,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4804,15 +4804,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207672247,
-          "title": "Prem Serv quote received?",
-          "due_date": "2026-09-18",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     }
@@ -4828,17 +4819,6 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207672247,
-      "title": "Prem Serv quote received?",
-      "due_date": "2026-09-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17385935,
-      "project_name": "K1030 Wilsden St CD1-3"
     },
     {
       "task_id": 207674964,
@@ -5383,10 +5363,10 @@
     }
   ],
   "summary": {
-    "total_open": 440,
+    "total_open": 439,
     "total_overdue": 48,
-    "total_due_today": 3,
+    "total_due_today": 2,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-18T11:00:35.208624+09:30"
+  "last_updated": "2026-09-18T11:15:26.866652+09:30"
 }
