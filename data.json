@@ -1690,11 +1690,11 @@
       "address": "75 Penong Avenue, Camden Park SA 5038",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18417055",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 44,
-      "stage_name": "1. Concept Planning",
+      "responsibility": "Council/Authority",
+      "days_in_stage": 0,
+      "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [
         "tier2",
         "community_division"
@@ -2530,6 +2530,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-19T14:45:25.227360+09:30",
+  "last_updated": "2026-09-19T15:00:35.337264+09:30",
   "total": 113
 }
