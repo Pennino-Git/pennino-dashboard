@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-09-19T11:15:24.152475+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 14754903,
       "project_name": "O1012 The Hind Marsh Estate TD 1 - 150",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18333168,
-      "project_name": "S1152 Tarton Rd TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-19T11:00:33.569597+09:30"
+  "last_updated": "2026-09-19T11:15:24.152475+09:30"
 }
