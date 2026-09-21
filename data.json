@@ -1794,7 +1794,7 @@
       "address": "29 Minorca Crescent, Hackham West SA 5163",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18254196",
-      "responsibility": "Client",
+      "responsibility": "Council/Authority",
       "days_in_stage": 54,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2357,28 +2357,6 @@
       "lng": 138.6682126
     },
     {
-      "id": 18369356,
-      "name": "T1328 FMG Pelican Point TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Pelican Point",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18369356",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 62,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tpc",
-        "tier3"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -37.9279117,
-      "lng": 140.4238252
-    },
-    {
       "id": 18374500,
       "name": "T1329 Springs Rd Mt Barker TIER3",
       "tier": "T3",
@@ -2562,6 +2540,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-21T16:30:44.928340+09:30",
-  "total": 115
+  "last_updated": "2026-09-21T16:45:26.903566+09:30",
+  "total": 114
 }

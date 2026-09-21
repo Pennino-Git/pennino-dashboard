@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-21T16:45:26.903566+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18464673,
       "project_name": "A1358 - Morrow Rd Ident",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "SCAP/DAC",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18078768,
-      "project_name": "N1028 Lyndoch Rd TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-21T16:30:44.928340+09:30"
+  "last_updated": "2026-09-21T16:45:26.903566+09:30"
 }

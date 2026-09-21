@@ -1697,10 +1697,6 @@
       "id": "6a389156a604c559fb8c3cbe",
       "name": "T1327 Davoren Park- 4 Sites TIER3"
     },
-    "T1328": {
-      "id": "6a431ae268cdfd2446f3a9ef",
-      "name": "T1328 FMG Pelican Point TIER3"
-    },
     "T1329": {
       "id": "6a45f2f11fee215f3ece6195",
       "name": "T1329 Springs Rd Mt Barker TIER3"
@@ -1866,6 +1862,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 466,
-  "last_updated": "2026-09-21T16:30:44.928340+09:30"
+  "total": 465,
+  "last_updated": "2026-09-21T16:45:26.903566+09:30"
 }
