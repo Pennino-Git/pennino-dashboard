@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18464668,
+      "project_name": "A1357 - Riesling St Morphett Vale Ident",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-21T15:45:27.877851+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18214852,
       "project_name": "L1041 Kensington Rd REALIGNMENT",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18196569,
-      "project_name": "A1343 Lower North East Rd EASEMENT",
-      "tier": "T1",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-21T15:30:43.917798+09:30"
+  "last_updated": "2026-09-21T15:45:27.877851+09:30"
 }
