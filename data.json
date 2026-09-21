@@ -1655,7 +1655,7 @@
       "id": 14754903,
       "name": "O1012 The Hind Marsh Estate TD 1 - 150",
       "tier": "T2",
-      "status": "IN PROGRESS",
+      "status": "DEFERRED",
       "address": "The Hind Marsh",
       "client": "Viv Chauhan",
       "link": "https://crm.na1.insightly.com/details/project/14754903",
@@ -2518,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-21T23:15:27.256600+09:30",
+  "last_updated": "2026-09-21T23:30:46.078464+09:30",
   "total": 113
 }
