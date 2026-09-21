@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-21T23:45:26.663789+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-21T23:30:46.078464+09:30"
+  "last_updated": "2026-09-21T23:45:26.663789+09:30"
 }

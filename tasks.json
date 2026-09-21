@@ -972,8 +972,8 @@
     "17782437": {
       "total": 13,
       "overdue": 5,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448414,
@@ -1084,13 +1084,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 207674271,
-          "title": "Did Council respond? Asked what's happening as there's no lodging option for Cert",
-          "due_date": "2026-09-21",
+          "task_id": 207732586,
+          "title": "Check if we can lodge Certificate- per Council, should be okay after 5 bdays",
+          "due_date": "2026-09-24",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4801,17 +4801,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207674271,
-      "title": "Did Council respond? Asked what's happening as there's no lodging option for Cert",
-      "due_date": "2026-09-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 207699743,
       "title": "Did DP respond to DNF refused question",
       "due_date": "2026-09-21",
@@ -5345,8 +5334,8 @@
   "summary": {
     "total_open": 438,
     "total_overdue": 47,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-21T23:30:46.078464+09:30"
+  "last_updated": "2026-09-21T23:45:26.663789+09:30"
 }
