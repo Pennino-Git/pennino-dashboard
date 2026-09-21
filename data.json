@@ -493,28 +493,6 @@
       "lng": 138.6332125
     },
     {
-      "id": 15978707,
-      "name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "1 Fatchen Street, Elizabeth Grove SA 5112",
-      "client": "Patrick Nhim",
-      "link": "https://crm.na1.insightly.com/details/project/15978707",
-      "responsibility": "LTO",
-      "days_in_stage": 35,
-      "stage_name": "9. LTO Lodgement",
-      "sa_water_ref": "H0162794",
-      "stage_order": 9,
-      "tags": [
-        "tier2",
-        "community_div"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7372565,
-      "lng": 138.6639964
-    },
-    {
       "id": 17278348,
       "name": "A1309 Fife St CD1-8",
       "tier": "T2",
@@ -2540,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-21T23:00:37.567487+09:30",
-  "total": 114
+  "last_updated": "2026-09-21T23:15:27.256600+09:30",
+  "total": 113
 }
