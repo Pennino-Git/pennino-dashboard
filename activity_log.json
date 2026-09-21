@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3",
+      "tier": "T2",
+      "from": "6 Land Division Certificate Lodged with PlanSA",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-09-21T10:00:34.839409+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-21T10:00:34.839409+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18223472,
-      "project_name": "B1139 Karri St TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-21T09:45:29.916546+09:30"
+  "last_updated": "2026-09-21T10:00:34.839409+09:30"
 }

@@ -1127,11 +1127,11 @@
       "address": "29 Isabella Road, Morphett Vale SA 5162",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18091731",
-      "responsibility": "Kate (Drafting)",
-      "days_in_stage": 70,
-      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
+      "responsibility": "Council/Authority",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0189381",
-      "stage_order": 6,
+      "stage_order": 7,
       "tags": [
         "torrens_division",
         "jake_ferraro",
@@ -2530,6 +2530,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-21T09:45:29.916546+09:30",
+  "last_updated": "2026-09-21T10:00:34.839409+09:30",
   "total": 113
 }
