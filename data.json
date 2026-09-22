@@ -571,10 +571,10 @@
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17900271",
       "responsibility": "Client",
-      "days_in_stage": 103,
-      "stage_name": "3. Authority Assessment",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0193844",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "torrens_division",
         "alete_homes",
@@ -2518,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-22T15:45:29.341785+09:30",
+  "last_updated": "2026-09-22T16:00:37.797840+09:30",
   "total": 113
 }

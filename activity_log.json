@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17900271,
+      "project_name": "A1335 Mitchel Dr TD1-3",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-09-22T16:00:37.797840+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17900271,
       "project_name": "A1335 Mitchel Dr TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "2. PlanSA Lodgement",
       "timestamp": "2026-08-12T10:15:32.629313+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-12T10:15:32.629313+09:30"
     }
   ],
-  "last_updated": "2026-09-22T15:45:29.341785+09:30"
+  "last_updated": "2026-09-22T16:00:37.797840+09:30"
 }
