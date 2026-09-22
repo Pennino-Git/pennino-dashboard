@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-09-22T10:00:34.093843+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18445572,
+      "project_name": "T1334 - Wingfield Water Test Hole",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-09-22T10:00:34.093843+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18445564,
       "project_name": "T1333 - Ormison Court Water T3",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17902817,
-      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-22T09:45:26.939643+09:30"
+  "last_updated": "2026-09-22T10:00:34.093843+09:30"
 }

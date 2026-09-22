@@ -1209,7 +1209,7 @@
       "address": "57 Oakridge Rise, Huntfield Heights SA 5163",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18377245",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 33,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0193908",
@@ -2427,7 +2427,7 @@
       "address": "1 North Terrace, Wingfield SA 5013, Australia",
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18445572",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
       "stage_name": "Invoice & Close",
       "sa_water_ref": "",
@@ -2518,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-22T09:45:26.939643+09:30",
+  "last_updated": "2026-09-22T10:00:34.093843+09:30",
   "total": 113
 }
