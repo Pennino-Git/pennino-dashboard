@@ -1274,8 +1274,8 @@
     },
     "18046019": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1301,8 +1301,8 @@
           "title": "SCAP Certificate Received",
           "due_date": "2026-09-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1505,8 +1505,8 @@
     },
     "18187753": {
       "total": 6,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1559,8 +1559,8 @@
           "title": "Check if Kate sent through updated Final Plan- said she'll update last night",
           "due_date": "2026-09-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1927,8 +1927,8 @@
     },
     "18214852": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1945,8 +1945,8 @@
           "title": "Prep INV",
           "due_date": "2026-09-22",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4330,8 +4330,8 @@
     "18451911": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207480324,
@@ -4348,8 +4348,8 @@
           "due_date": "2026-09-23",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4747,37 +4747,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207699426,
-      "title": "SCAP Certificate Received",
-      "due_date": "2026-09-22",
+      "task_id": 207698840,
+      "title": "Check if Tristan sent plans, then prep INV",
+      "due_date": "2026-09-23",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
-      "task_id": 207724525,
-      "title": "Prep INV",
-      "due_date": "2026-09-22",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT"
-    },
-    {
-      "task_id": 207731773,
-      "title": "Check if Kate sent through updated Final Plan- said she'll update last night",
-      "due_date": "2026-09-22",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18187753,
-      "project_name": "D1068 Crossley Ave TD1-2"
+      "project_id": 18451911,
+      "project_name": "A1356 Dunstan Ct RE-PEG"
     }
   ],
   "tasks_overdue": [
@@ -5233,6 +5211,17 @@
       "project_name": "J1024 Pine Ave TD1-4"
     },
     {
+      "task_id": 207699426,
+      "title": "SCAP Certificate Received",
+      "due_date": "2026-09-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
       "task_id": 207699743,
       "title": "Did DP respond to DNF refused question",
       "due_date": "2026-09-21",
@@ -5253,13 +5242,35 @@
       "due_soon": false,
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
+    },
+    {
+      "task_id": 207724525,
+      "title": "Prep INV",
+      "due_date": "2026-09-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18214852,
+      "project_name": "L1041 Kensington Rd REALIGNMENT"
+    },
+    {
+      "task_id": 207731773,
+      "title": "Check if Kate sent through updated Final Plan- said she'll update last night",
+      "due_date": "2026-09-22",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2"
     }
   ],
   "summary": {
     "total_open": 432,
-    "total_overdue": 43,
-    "total_due_today": 3,
+    "total_overdue": 46,
+    "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-22T23:45:28.123887+09:30"
+  "last_updated": "2026-09-23T00:00:37.490306+09:30"
 }
