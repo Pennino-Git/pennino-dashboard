@@ -1615,7 +1615,7 @@
       "address": "9-11 Holder Avenue, Richmond SA 5033",
       "client": "Joseph Scali",
       "link": "https://crm.na1.insightly.com/details/project/17845187",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "SA Water",
       "days_in_stage": 50,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0183449; NEW H0192566",
@@ -2518,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-22T13:45:30.050053+09:30",
+  "last_updated": "2026-09-22T14:00:37.234041+09:30",
   "total": 113
 }

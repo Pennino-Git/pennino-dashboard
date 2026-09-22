@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SA Water",
+      "timestamp": "2026-09-22T14:00:37.234041+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 16351320,
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-22T13:45:30.050053+09:30"
+  "last_updated": "2026-09-22T14:00:37.234041+09:30"
 }
