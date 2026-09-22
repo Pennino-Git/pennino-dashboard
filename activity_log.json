@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18445564,
+      "project_name": "T1333 - Ormison Court Water T3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-09-22T09:45:26.939643+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18445564,
+      "project_name": "T1333 - Ormison Court Water T3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-09-22T09:45:26.939643+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18445572,
+      "project_name": "T1334 - Wingfield Water Test Hole",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-09-22T09:45:26.939643+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
@@ -1772,34 +1799,7 @@
       "from": "Client",
       "to": "SCAP/DAC",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18056682,
-      "project_name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-22T09:30:49.999374+09:30"
+  "last_updated": "2026-09-22T09:45:26.939643+09:30"
 }
