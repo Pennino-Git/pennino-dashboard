@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-09-22T12:15:25.424590+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-09-22T12:15:25.424590+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17385935,
       "project_name": "K1030 Wilsden St CD1-3",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17810905,
-      "project_name": "F1107 Edinburgh- Geotech Investigation",
-      "tier": "T3",
-      "from": "Contractor",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-12T06:15:22.012597+09:30"
     }
   ],
-  "last_updated": "2026-09-22T12:00:36.331247+09:30"
+  "last_updated": "2026-09-22T12:15:25.424590+09:30"
 }
