@@ -2296,7 +2296,7 @@
       ]
     },
     "18273554": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2327,6 +2327,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207771729,
+          "title": "SA Water 20 bdays almost up",
+          "due_date": "2026-10-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5267,10 +5276,10 @@
     }
   ],
   "summary": {
-    "total_open": 432,
+    "total_open": 433,
     "total_overdue": 46,
     "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-23T09:45:24.194742+09:30"
+  "last_updated": "2026-09-23T10:00:34.970628+09:30"
 }
