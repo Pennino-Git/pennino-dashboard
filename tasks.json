@@ -1308,7 +1308,7 @@
       ]
     },
     "18225672": {
-      "total": 8,
+      "total": 13,
       "overdue": 4,
       "due_today": 0,
       "due_soon": 0,
@@ -1379,6 +1379,51 @@
         {
           "task_id": 206311944,
           "title": "Allotment clearance confirmed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207772597,
+          "title": "Surveyor assigned and field survey scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207772598,
+          "title": "Field survey date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207772599,
+          "title": "Field survey completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207772600,
+          "title": "Certified plan drafted (Kate)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207772601,
+          "title": "SCAP Certificate Applied For",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5276,10 +5321,10 @@
     }
   ],
   "summary": {
-    "total_open": 433,
+    "total_open": 438,
     "total_overdue": 46,
     "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-23T10:47:48.160041+09:30"
+  "last_updated": "2026-09-23T11:00:35.066630+09:30"
 }
