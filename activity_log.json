@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-09-24T06:15:25.430429+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-13T04:30:49.511984+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-12T15:45:31.393471+09:30"
     }
   ],
-  "last_updated": "2026-09-24T06:00:37.854549+09:30"
+  "last_updated": "2026-09-24T06:15:25.430429+09:30"
 }

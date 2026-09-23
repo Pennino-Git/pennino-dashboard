@@ -866,7 +866,7 @@
       "address": "64-66 Deeds Road, North Plympton SA 5037",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 1,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0190294",
@@ -2495,6 +2495,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-24T06:00:37.854549+09:30",
+  "last_updated": "2026-09-24T06:15:25.430429+09:30",
   "total": 112
 }
