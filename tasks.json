@@ -4390,32 +4390,6 @@
         }
       ]
     },
-    "18451911": {
-      "total": 2,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207480324,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207698840,
-          "title": "Check if Tristan sent plans, then prep INV",
-          "due_date": "2026-09-23",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18415320": {
       "total": 2,
       "overdue": 0,
@@ -5296,17 +5270,6 @@
       "project_name": "J1024 Pine Ave TD1-4"
     },
     {
-      "task_id": 207698840,
-      "title": "Check if Tristan sent plans, then prep INV",
-      "due_date": "2026-09-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18451911,
-      "project_name": "A1356 Dunstan Ct RE-PEG"
-    },
-    {
       "task_id": 207699426,
       "title": "SCAP Certificate Received",
       "due_date": "2026-09-22",
@@ -5352,10 +5315,10 @@
     }
   ],
   "summary": {
-    "total_open": 439,
-    "total_overdue": 46,
+    "total_open": 437,
+    "total_overdue": 45,
     "total_due_today": 3,
-    "projects_with_tasks": 107
+    "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-24T05:30:46.900969+09:30"
+  "last_updated": "2026-09-24T05:45:27.329283+09:30"
 }

@@ -24,29 +24,6 @@
       "lng": 138.664237
     },
     {
-      "id": 18451911,
-      "name": "A1356 Dunstan Ct RE-PEG",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "20 & 22 Dunstan Court, Munno Para West SA 5115",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18451911",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 16,
-      "stage_name": "Field Work Scheduled",
-      "sa_water_ref": "",
-      "stage_order": 2,
-      "tags": [
-        "tier1",
-        "field_work",
-        "ident"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6610715,
-      "lng": 138.6714633
-    },
-    {
       "id": 18464668,
       "name": "A1357 - Riesling St Morphett Vale Ident",
       "tier": "T1",
@@ -2518,6 +2495,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-24T05:30:46.900969+09:30",
-  "total": 113
+  "last_updated": "2026-09-24T05:45:27.329283+09:30",
+  "total": 112
 }
