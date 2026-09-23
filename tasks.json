@@ -2896,10 +2896,10 @@
       ]
     },
     "18393529": {
-      "total": 1,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2909,6 +2909,24 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207775832,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207775834,
+          "title": "Action SA Water RFI, notify DP",
+          "due_date": "2026-09-28",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5321,10 +5339,10 @@
     }
   ],
   "summary": {
-    "total_open": 438,
+    "total_open": 440,
     "total_overdue": 46,
     "total_due_today": 1,
     "projects_with_tasks": 107
   },
-  "last_updated": "2026-09-23T17:15:29.777654+09:30"
+  "last_updated": "2026-09-23T17:30:44.053480+09:30"
 }

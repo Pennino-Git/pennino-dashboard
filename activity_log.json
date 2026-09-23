@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-09-23T17:30:44.053480+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "6 Land Division Certificate Lodged with PlanSA",
       "to": "7. SCAP Application",
       "timestamp": "2026-08-12T14:30:48.201256+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-12T14:30:48.201256+09:30"
     }
   ],
-  "last_updated": "2026-09-23T17:15:29.777654+09:30"
+  "last_updated": "2026-09-23T17:30:44.053480+09:30"
 }
