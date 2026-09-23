@@ -866,11 +866,11 @@
       "address": "12 Crossley Avenue, Croydon Park 5008",
       "client": "Christian  Albertini",
       "link": "https://crm.na1.insightly.com/details/project/18187753",
-      "responsibility": "Kate (Drafting)",
-      "days_in_stage": 59,
-      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
+      "responsibility": "SCAP/DAC",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0189352",
-      "stage_order": 6,
+      "stage_order": 7,
       "tags": [
         "dominion_homes",
         "tier2",
@@ -2518,6 +2518,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-24T04:15:26.252816+09:30",
+  "last_updated": "2026-09-24T04:30:45.040977+09:30",
   "total": 113
 }
