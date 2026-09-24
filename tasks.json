@@ -1257,8 +1257,8 @@
     "18046019": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1284,8 +1284,8 @@
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1900,8 +1900,8 @@
     "18203158": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205381503,
@@ -1918,8 +1918,8 @@
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2657,8 +2657,8 @@
     },
     "18091731": {
       "total": 8,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2729,8 +2729,8 @@
           "title": "Check for Open Space",
           "due_date": "2026-09-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3279,8 +3279,8 @@
     "16351320": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206951092,
@@ -3324,8 +3324,8 @@
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4276,9 +4276,9 @@
     },
     "17900271": {
       "total": 4,
-      "overdue": 0,
+      "overdue": 1,
       "due_today": 1,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207477021,
@@ -4286,16 +4286,16 @@
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207750411,
           "title": "Ask DP if anything is actionable in the meantime",
           "due_date": "2026-09-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4712,26 +4712,48 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207722666,
-      "title": "Check for Open Space",
-      "due_date": "2026-09-24",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18091731,
-      "project_name": "F1112 Isabella Rd TD1-3"
-    },
-    {
-      "task_id": 207750411,
-      "title": "Ask DP if anything is actionable in the meantime",
-      "due_date": "2026-09-24",
+      "task_id": 207477021,
+      "title": "Action SA Water RFI- check with DP",
+      "due_date": "2026-09-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
       "project_id": 17900271,
       "project_name": "A1335 Mitchel Dr TD1-3"
+    },
+    {
+      "task_id": 207581365,
+      "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
+      "due_date": "2026-09-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
+    },
+    {
+      "task_id": 207699426,
+      "title": "SCAP Certificate Received",
+      "due_date": "2026-09-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
+      "task_id": 207791429,
+      "title": "Prep INV",
+      "due_date": "2026-09-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     }
   ],
   "tasks_overdue": [
@@ -5207,13 +5229,35 @@
       "due_soon": false,
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
+    },
+    {
+      "task_id": 207722666,
+      "title": "Check for Open Space",
+      "due_date": "2026-09-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3"
+    },
+    {
+      "task_id": 207750411,
+      "title": "Ask DP if anything is actionable in the meantime",
+      "due_date": "2026-09-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17900271,
+      "project_name": "A1335 Mitchel Dr TD1-3"
     }
   ],
   "summary": {
     "total_open": 429,
-    "total_overdue": 43,
-    "total_due_today": 2,
+    "total_overdue": 45,
+    "total_due_today": 4,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-24T23:45:26.778829+09:30"
+  "last_updated": "2026-09-25T00:00:38.393762+09:30"
 }
