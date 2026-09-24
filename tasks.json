@@ -1274,9 +1274,9 @@
     },
     "18046019": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1299,11 +1299,11 @@
         {
           "task_id": 207699426,
           "title": "SCAP Certificate Received",
-          "due_date": "2026-09-22",
+          "due_date": "2026-09-25",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -1899,8 +1899,8 @@
       ]
     },
     "18214852": {
-      "total": 2,
-      "overdue": 1,
+      "total": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -1912,15 +1912,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207724525,
-          "title": "Prep INV",
-          "due_date": "2026-09-22",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -2313,10 +2304,10 @@
       ]
     },
     "18273273": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205503486,
@@ -2353,6 +2344,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207795347,
+          "title": "Ask DP to confirm actionables",
+          "due_date": "2026-09-28",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5216,17 +5216,6 @@
       "project_name": "J1024 Pine Ave TD1-4"
     },
     {
-      "task_id": 207699426,
-      "title": "SCAP Certificate Received",
-      "due_date": "2026-09-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
       "task_id": 207699743,
       "title": "Did DP respond to DNF refused question",
       "due_date": "2026-09-21",
@@ -5247,24 +5236,13 @@
       "due_soon": false,
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
-    },
-    {
-      "task_id": 207724525,
-      "title": "Prep INV",
-      "due_date": "2026-09-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT"
     }
   ],
   "summary": {
     "total_open": 431,
-    "total_overdue": 45,
+    "total_overdue": 43,
     "total_due_today": 3,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-24T09:30:46.007098+09:30"
+  "last_updated": "2026-09-24T09:45:24.317785+09:30"
 }

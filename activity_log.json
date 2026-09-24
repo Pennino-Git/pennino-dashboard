@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Client",
+      "timestamp": "2026-09-24T09:45:24.317785+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-08-13T04:45:32.185295+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-13T04:30:49.511984+09:30"
     }
   ],
-  "last_updated": "2026-09-24T09:30:46.007098+09:30"
+  "last_updated": "2026-09-24T09:45:24.317785+09:30"
 }
