@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-09-24T10:15:24.933549+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18273273,
       "project_name": "F1114 Blackham Cres TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-08-13T06:15:44.835698+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18133721,
-      "project_name": "C1063 Innovation Dr CD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-13T04:45:32.185295+09:30"
     }
   ],
-  "last_updated": "2026-09-24T10:00:36.215555+09:30"
+  "last_updated": "2026-09-24T10:15:24.933549+09:30"
 }
