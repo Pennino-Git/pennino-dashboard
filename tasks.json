@@ -1926,8 +1926,8 @@
     },
     "18203158": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1944,8 +1944,8 @@
           "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3201,8 +3201,8 @@
     },
     "16351320": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3246,8 +3246,8 @@
           "title": "Prep INV",
           "due_date": "2026-09-25",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4200,8 +4200,8 @@
     "17900271": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207477021,
@@ -4209,8 +4209,8 @@
           "due_date": "2026-09-26",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207750442,
@@ -4662,26 +4662,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207581365,
-      "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
-      "due_date": "2026-09-25",
+      "task_id": 207477021,
+      "title": "Action SA Water RFI- check with DP",
+      "due_date": "2026-09-26",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    },
-    {
-      "task_id": 207791429,
-      "title": "Prep INV",
-      "due_date": "2026-09-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+      "project_id": 17900271,
+      "project_name": "A1335 Mitchel Dr TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5104,6 +5093,17 @@
       "project_name": "N1027 Holder Ave CD2-2"
     },
     {
+      "task_id": 207581365,
+      "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
+      "due_date": "2026-09-25",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
+    },
+    {
       "task_id": 207581909,
       "title": "Check if DP replied to my query about Jamie responding to him directly",
       "due_date": "2026-09-17",
@@ -5135,13 +5135,24 @@
       "due_soon": false,
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
+    },
+    {
+      "task_id": 207791429,
+      "title": "Prep INV",
+      "due_date": "2026-09-25",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     }
   ],
   "summary": {
     "total_open": 427,
-    "total_overdue": 41,
-    "total_due_today": 2,
+    "total_overdue": 43,
+    "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-09-25T23:45:28.739094+09:30"
+  "last_updated": "2026-09-26T00:01:15.545345+09:30"
 }
