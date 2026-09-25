@@ -2267,29 +2267,6 @@
       "lng": 138.5190531
     },
     {
-      "id": 18323822,
-      "name": "T1322 Nazar Reserve Pots TIER 3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "46 Swan Terrace, Ethelton SA 5015",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18323822",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 59,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tpc",
-        "Ethelton",
-        "tier3"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8483885,
-      "lng": 138.4858136
-    },
-    {
       "id": 18435136,
       "name": "T1331 Light Common TIER3",
       "tier": "T3",
@@ -2429,6 +2406,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T15:15:27.481540+09:30",
-  "total": 109
+  "last_updated": "2026-09-25T15:30:43.545314+09:30",
+  "total": 108
 }
