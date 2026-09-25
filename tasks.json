@@ -2162,10 +2162,10 @@
       ]
     },
     "17928270": {
-      "total": 8,
+      "total": 9,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2238,6 +2238,15 @@
           "overdue": true,
           "due_today": false,
           "due_soon": false
+        },
+        {
+          "task_id": 207819964,
+          "title": "Notify client of RFI expiration",
+          "due_date": "2026-09-28",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5254,10 +5263,10 @@
     }
   ],
   "summary": {
-    "total_open": 429,
+    "total_open": 430,
     "total_overdue": 45,
     "total_due_today": 4,
     "projects_with_tasks": 106
   },
-  "last_updated": "2026-09-25T09:30:45.862732+09:30"
+  "last_updated": "2026-09-25T09:45:28.239189+09:30"
 }
