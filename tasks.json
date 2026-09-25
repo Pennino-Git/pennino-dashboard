@@ -3332,9 +3332,9 @@
     },
     "18377245": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207143843,
@@ -3355,13 +3355,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 207467134,
-          "title": "SA Water RFI actioned?",
-          "due_date": "2026-09-09",
+          "task_id": 207823182,
+          "title": "Schedule for Final Plan/Pegging Plan Certificate?",
+          "due_date": "2026-09-28",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -5071,17 +5071,6 @@
       "project_name": "T1331 Light Common TIER3"
     },
     {
-      "task_id": 207467134,
-      "title": "SA Water RFI actioned?",
-      "due_date": "2026-09-09",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    },
-    {
       "task_id": 207528624,
       "title": "DP To answer RFI",
       "due_date": "2026-09-09",
@@ -5150,9 +5139,9 @@
   ],
   "summary": {
     "total_open": 427,
-    "total_overdue": 42,
+    "total_overdue": 41,
     "total_due_today": 2,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-09-25T16:45:28.634103+09:30"
+  "last_updated": "2026-09-25T17:00:37.892002+09:30"
 }

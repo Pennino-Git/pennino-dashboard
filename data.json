@@ -1186,7 +1186,7 @@
       "address": "57 Oakridge Rise, Huntfield Heights SA 5163",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18377245",
-      "responsibility": "Client",
+      "responsibility": "SA Water",
       "days_in_stage": 36,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0193908",
@@ -2406,6 +2406,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T16:45:28.634103+09:30",
+  "last_updated": "2026-09-25T17:00:37.892002+09:30",
   "total": 108
 }

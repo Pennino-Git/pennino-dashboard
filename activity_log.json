@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-09-25T17:00:37.892002+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18046019,
       "project_name": "F1111 Bonnin St TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "SCAP/DAC",
       "timestamp": "2026-08-18T10:00:33.705912+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-17T15:15:28.528741+09:30"
     }
   ],
-  "last_updated": "2026-09-25T16:45:28.634103+09:30"
+  "last_updated": "2026-09-25T17:00:37.892002+09:30"
 }
