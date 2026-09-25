@@ -1118,7 +1118,7 @@
       "address": "29 Isabella Road, Morphett Vale SA 5162",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18091731",
-      "responsibility": "Council/Authority",
+      "responsibility": "SCAP/DAC",
       "days_in_stage": 4,
       "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0189381",
@@ -2290,50 +2290,6 @@
       "lng": 138.4858136
     },
     {
-      "id": 18358533,
-      "name": "T1327 Davoren Park- 4 Sites TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "21 Dowlish Street Davoren  Park",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18358533",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 73,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6917383,
-      "lng": 138.6682126
-    },
-    {
-      "id": 18374500,
-      "name": "T1329 Springs Rd Mt Barker TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Springs Rd Mt. Barker",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18374500",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 66,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.0690041,
-      "lng": 138.8846944
-    },
-    {
       "id": 18378158,
       "name": "T1330 Simpson Pde TIER3",
       "tier": "T3",
@@ -2495,6 +2451,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T12:45:29.916146+09:30",
-  "total": 112
+  "last_updated": "2026-09-25T13:00:36.346642+09:30",
+  "total": 110
 }

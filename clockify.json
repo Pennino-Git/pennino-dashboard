@@ -1685,10 +1685,6 @@
       "id": "6a24ffdc177ca3150f930eac",
       "name": "T1320 Russell St TIER3"
     },
-    "T1327": {
-      "id": "6a389156a604c559fb8c3cbe",
-      "name": "T1327 Davoren Park- 4 Sites TIER3"
-    },
     "T1329": {
       "id": "6a45f2f11fee215f3ece6195",
       "name": "T1329 Springs Rd Mt Barker TIER3"
@@ -1854,6 +1850,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 463,
-  "last_updated": "2026-09-25T12:45:29.916146+09:30"
+  "total": 462,
+  "last_updated": "2026-09-25T13:00:36.346642+09:30"
 }

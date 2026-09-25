@@ -359,11 +359,6 @@
     "entered": "2026-06-11",
     "stage_name": "1. Concept Planning"
   },
-  "18358533": {
-    "stage_id": 3134305,
-    "entered": "2026-07-14",
-    "stage_name": "Invoice & Close"
-  },
   "18363697": {
     "stage_id": 3823937,
     "entered": "2026-07-22",
@@ -373,11 +368,6 @@
     "stage_id": 4845734,
     "entered": "2026-07-29",
     "stage_name": "2. PlanSA Lodgement"
-  },
-  "18374500": {
-    "stage_id": 3134305,
-    "entered": "2026-07-21",
-    "stage_name": "Invoice & Close"
   },
   "18377245": {
     "stage_id": 4845735,

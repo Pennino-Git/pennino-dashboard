@@ -2744,41 +2744,6 @@
         }
       ]
     },
-    "18358533": {
-      "total": 3,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206377927,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206377928,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206404122,
-          "title": "Prep INV",
-          "due_date": "2026-07-20",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18390050": {
       "total": 3,
       "overdue": 0,
@@ -2866,32 +2831,6 @@
         },
         {
           "task_id": 206520280,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
-    "18374500": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206520283,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206520284,
           "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
@@ -4284,28 +4223,19 @@
       ]
     },
     "17900271": {
-      "total": 4,
-      "overdue": 1,
-      "due_today": 1,
-      "due_soon": 0,
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207477021,
           "title": "Action SA Water RFI- check with DP",
-          "due_date": "2026-09-25",
+          "due_date": "2026-09-26",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 207750411,
-          "title": "Ask DP if anything is actionable in the meantime",
-          "due_date": "2026-09-24",
-          "status": "NOT STARTED",
-          "overdue": true,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 207750442,
@@ -4757,17 +4687,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207477021,
-      "title": "Action SA Water RFI- check with DP",
-      "due_date": "2026-09-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17900271,
-      "project_name": "A1335 Mitchel Dr TD1-3"
-    },
-    {
       "task_id": 207581365,
       "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
       "due_date": "2026-09-25",
@@ -5133,17 +5052,6 @@
       "project_name": "F1113 Amundsen Dr TD1-4"
     },
     {
-      "task_id": 206404122,
-      "title": "Prep INV",
-      "due_date": "2026-07-20",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18358533,
-      "project_name": "T1327 Davoren Park- 4 Sites TIER3"
-    },
-    {
       "task_id": 206893797,
       "title": "Update client on Council feedback",
       "due_date": "2026-08-10",
@@ -5274,24 +5182,13 @@
       "due_soon": false,
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
-    },
-    {
-      "task_id": 207750411,
-      "title": "Ask DP if anything is actionable in the meantime",
-      "due_date": "2026-09-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17900271,
-      "project_name": "A1335 Mitchel Dr TD1-3"
     }
   ],
   "summary": {
-    "total_open": 434,
-    "total_overdue": 44,
-    "total_due_today": 4,
-    "projects_with_tasks": 106
+    "total_open": 428,
+    "total_overdue": 42,
+    "total_due_today": 3,
+    "projects_with_tasks": 104
   },
-  "last_updated": "2026-09-25T12:45:29.916146+09:30"
+  "last_updated": "2026-09-25T13:00:36.346642+09:30"
 }

@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18091731,
+      "project_name": "F1112 Isabella Rd TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-09-25T13:00:36.346642+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18464668,
       "project_name": "A1357 - Riesling St Morphett Vale Ident",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "SA Water",
       "timestamp": "2026-08-13T15:15:32.047193+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-13T12:05:38.623572+09:30"
     }
   ],
-  "last_updated": "2026-09-25T12:45:29.916146+09:30"
+  "last_updated": "2026-09-25T13:00:36.346642+09:30"
 }
