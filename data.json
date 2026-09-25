@@ -32,10 +32,10 @@
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18464668",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 4,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 5,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false
@@ -49,10 +49,10 @@
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18464673",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 4,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 5,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2495,6 +2495,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T10:30:43.889462+09:30",
+  "last_updated": "2026-09-25T10:45:26.887474+09:30",
   "total": 112
 }
