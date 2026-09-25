@@ -2290,28 +2290,6 @@
       "lng": 138.4858136
     },
     {
-      "id": 18378158,
-      "name": "T1330 Simpson Pde TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Simpson Parade Goodwood",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18378158",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 66,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9477991,
-      "lng": 138.5968162
-    },
-    {
       "id": 18435136,
       "name": "T1331 Light Common TIER3",
       "tier": "T3",
@@ -2451,6 +2429,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T14:00:35.569967+09:30",
-  "total": 110
+  "last_updated": "2026-09-25T14:15:27.210555+09:30",
+  "total": 109
 }

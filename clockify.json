@@ -1689,10 +1689,6 @@
       "id": "6a45f2f11fee215f3ece6195",
       "name": "T1329 Springs Rd Mt Barker TIER3"
     },
-    "T1330": {
-      "id": "6a4a68370dd182727ad293c3",
-      "name": "T1330 Simpson Pde TIER3"
-    },
     "T1331": {
       "id": "6a8be6560785ab59942638d8",
       "name": "T1331 Light Common TIER3"
@@ -1850,6 +1846,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 462,
-  "last_updated": "2026-09-25T14:00:35.569967+09:30"
+  "total": 461,
+  "last_updated": "2026-09-25T14:15:27.210555+09:30"
 }
