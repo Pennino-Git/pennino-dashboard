@@ -31,7 +31,7 @@
       "address": "Lot 743 in DP139937 \u2014 CT 6326/828",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18464668",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
       "stage_name": "Invoice",
       "sa_water_ref": "",
@@ -48,7 +48,7 @@
       "address": "29 Morrow Rd, Christies Beach SA 5165, Australia",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18464673",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
       "stage_name": "Invoice",
       "sa_water_ref": "",
@@ -2495,6 +2495,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T11:00:33.395333+09:30",
+  "last_updated": "2026-09-25T11:03:40.942941+09:30",
   "total": 112
 }
