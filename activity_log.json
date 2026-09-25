@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-09-25T14:46:01.341425+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Harry",
+      "timestamp": "2026-09-25T14:46:01.341425+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18091731,
       "project_name": "F1112 Isabella Rd TD1-3",
@@ -1781,25 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-17T15:15:28.528741+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "6 Land Division Certificate Lodged with PlanSA",
-      "to": "9. LTO Lodgement",
-      "timestamp": "2026-08-17T14:38:48.630071+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-08-13T15:15:32.047193+09:30"
     }
   ],
-  "last_updated": "2026-09-25T14:30:47.841084+09:30"
+  "last_updated": "2026-09-25T14:46:01.341425+09:30"
 }

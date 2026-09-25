@@ -1095,11 +1095,11 @@
       "address": "14 Bonnin Street, Reynella SA 5161",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18046019",
-      "responsibility": "Council/Authority",
-      "days_in_stage": 7,
-      "stage_name": "8. Final Authority Approvals",
+      "responsibility": "Harry",
+      "days_in_stage": 0,
+      "stage_name": "9. LTO Lodgement",
       "sa_water_ref": "H0187514",
-      "stage_order": 8,
+      "stage_order": 9,
       "tags": [
         "jake_ferraro",
         "tier2",
@@ -2429,6 +2429,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-25T14:30:47.841084+09:30",
+  "last_updated": "2026-09-25T14:46:01.341425+09:30",
   "total": 109
 }

@@ -1255,10 +1255,10 @@
       ]
     },
     "18046019": {
-      "total": 3,
+      "total": 6,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1279,13 +1279,40 @@
           "due_soon": ""
         },
         {
-          "task_id": 207699426,
-          "title": "SCAP Certificate Received",
-          "due_date": "2026-09-25",
+          "task_id": 207822258,
+          "title": "LTO fees paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207822259,
+          "title": "Plan Lodged Via DPL",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207822260,
+          "title": "Advised all Parties of Lodgement",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207822261,
+          "title": "Did Harry Certify DPL?",
+          "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4672,17 +4699,6 @@
       "project_name": "L1038 Beach Rd TD1-2"
     },
     {
-      "task_id": 207699426,
-      "title": "SCAP Certificate Received",
-      "due_date": "2026-09-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
       "task_id": 207791429,
       "title": "Prep INV",
       "due_date": "2026-09-25",
@@ -5159,10 +5175,10 @@
     }
   ],
   "summary": {
-    "total_open": 426,
+    "total_open": 429,
     "total_overdue": 42,
-    "total_due_today": 3,
+    "total_due_today": 2,
     "projects_with_tasks": 103
   },
-  "last_updated": "2026-09-25T14:30:47.841084+09:30"
+  "last_updated": "2026-09-25T14:46:01.341425+09:30"
 }
