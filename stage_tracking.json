@@ -480,9 +480,9 @@
     "stage_name": "Invoice & Close"
   },
   "18449645": {
-    "stage_id": 3134301,
-    "entered": "2026-09-07",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134305,
+    "entered": "2026-09-28",
+    "stage_name": "Invoice & Close"
   },
   "18449651": {
     "stage_id": 3134300,
@@ -520,9 +520,9 @@
     "stage_name": "Field Work Scheduled"
   },
   "18460385": {
-    "stage_id": 3134301,
-    "entered": "2026-09-16",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134305,
+    "entered": "2026-09-28",
+    "stage_name": "Invoice & Close"
   },
   "18464665": {
     "stage_id": 3134300,

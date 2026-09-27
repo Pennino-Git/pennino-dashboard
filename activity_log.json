@@ -1,6 +1,42 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18449645,
+      "project_name": "T1335 - DIT SLOT TRENCHES T3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-09-28T08:15:25.942184+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18449645,
+      "project_name": "T1335 - DIT SLOT TRENCHES T3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-09-28T08:15:25.942184+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18460385,
+      "project_name": "F1150 RAAF Base TIER3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-09-28T08:15:25.942184+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18460385,
+      "project_name": "F1150 RAAF Base TIER3",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-09-28T08:15:25.942184+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18377245,
       "project_name": "F1146 Oakridge Rise TD1-4",
@@ -1763,43 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-08-18T16:00:32.580880+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-18T16:00:32.580880+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-18T15:00:24.144915+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-18T11:00:33.892148+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-18T10:00:33.705912+09:30"
     }
   ],
-  "last_updated": "2026-09-28T08:03:42.471356+09:30"
+  "last_updated": "2026-09-28T08:15:25.942184+09:30"
 }
