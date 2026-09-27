@@ -1257,8 +1257,8 @@
     "18046019": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1311,8 +1311,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2191,8 +2191,8 @@
     "17928270": {
       "total": 9,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2272,8 +2272,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2324,8 +2324,8 @@
     "18273273": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205503486,
@@ -2369,8 +2369,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2809,8 +2809,8 @@
     "18393529": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2836,8 +2836,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3333,8 +3333,8 @@
     "18377245": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207143843,
@@ -3360,8 +3360,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4592,8 +4592,8 @@
     "18464673": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207820582,
@@ -4601,8 +4601,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207820583,
@@ -4627,8 +4627,8 @@
     "18464668": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207820664,
@@ -4636,8 +4636,8 @@
           "due_date": "2026-09-28",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207820665,
@@ -4660,7 +4660,85 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207775834,
+      "title": "Action SA Water RFI, notify DP",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3"
+    },
+    {
+      "task_id": 207795347,
+      "title": "Ask DP to confirm actionables",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3"
+    },
+    {
+      "task_id": 207819964,
+      "title": "Notify client of RFI expiration",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17928270,
+      "project_name": "J1024 Pine Ave TD1-4"
+    },
+    {
+      "task_id": 207820582,
+      "title": "Invoice issued",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18464673,
+      "project_name": "A1358 - Morrow Rd Ident"
+    },
+    {
+      "task_id": 207820664,
+      "title": "Invoice issued",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18464668,
+      "project_name": "A1357 - Riesling St Morphett Vale Ident"
+    },
+    {
+      "task_id": 207822261,
+      "title": "Did Harry Certify DPL?",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
+      "task_id": 207823182,
+      "title": "Schedule for Final Plan/Pegging Plan Certificate?",
+      "due_date": "2026-09-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5150,8 +5228,8 @@
   "summary": {
     "total_open": 427,
     "total_overdue": 44,
-    "total_due_today": 0,
+    "total_due_today": 7,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-09-27T23:45:27.495220+09:30"
+  "last_updated": "2026-09-28T00:00:39.053456+09:30"
 }
