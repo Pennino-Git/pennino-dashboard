@@ -3299,6 +3299,12 @@
     "lng": 138.671789,
     "source": "map.html-seed"
   },
+  "40 park ave, semaphore south sa 5019, australia": {
+    "cachedAt": "2026-09-28",
+    "lat": -34.8488083,
+    "lng": 138.4850294,
+    "source": "google"
+  },
   "40 wake road, lewiston sa 5501": {
     "cachedAt": "2026-08-25",
     "lat": -34.6228346,
