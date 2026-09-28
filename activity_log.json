@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18425013,
+      "project_name": "M1069 Pederick Rd CD1-5",
+      "tier": "T2",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-09-28T10:41:58.442076+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18449645,
       "project_name": "T1335 - DIT SLOT TRENCHES T3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-08-19T02:34:27.341099+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-18T16:00:32.580880+09:30"
     }
   ],
-  "last_updated": "2026-09-28T10:30:44.350930+09:30"
+  "last_updated": "2026-09-28T10:41:58.442076+09:30"
 }
