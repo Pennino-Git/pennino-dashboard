@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3",
+      "tier": "T2",
+      "from": "Harry",
+      "to": "LTO",
+      "timestamp": "2026-09-28T11:00:35.245233+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18425013,
       "project_name": "M1069 Pederick Rd CD1-5",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-08-19T02:34:27.341099+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-19T02:34:27.341099+09:30"
     }
   ],
-  "last_updated": "2026-09-28T10:45:26.563751+09:30"
+  "last_updated": "2026-09-28T11:00:35.245233+09:30"
 }
