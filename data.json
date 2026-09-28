@@ -1348,29 +1348,6 @@
       "lng": 138.4902905
     },
     {
-      "id": 18214852,
-      "name": "L1041 Kensington Rd REALIGNMENT",
-      "tier": "T2",
-      "status": "IN PROGRESS",
-      "address": "137, 139, 141 Kensington Road, Norwood SA 5067",
-      "client": "Louis Beinke",
-      "link": "https://crm.na1.insightly.com/details/project/18214852",
-      "responsibility": "LTO",
-      "days_in_stage": 109,
-      "stage_name": "1. Concept Planning",
-      "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [
-        "tier2",
-        "realignment",
-        "leyton_property"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9262824,
-      "lng": 138.6410612
-    },
-    {
       "id": 18308881,
       "name": "L1042 Grand Junction Rd REALIGNMENT",
       "tier": "T2",
@@ -2370,6 +2347,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-28T10:15:27.418194+09:30",
-  "total": 106
+  "last_updated": "2026-09-28T10:30:44.350930+09:30",
+  "total": 105
 }

@@ -1907,23 +1907,6 @@
         }
       ]
     },
-    "18214852": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205381395,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18203158": {
       "total": 2,
       "overdue": 1,
@@ -5067,10 +5050,10 @@
     }
   ],
   "summary": {
-    "total_open": 416,
+    "total_open": 415,
     "total_overdue": 44,
     "total_due_today": 3,
-    "projects_with_tasks": 100
+    "projects_with_tasks": 99
   },
-  "last_updated": "2026-09-28T10:15:27.418194+09:30"
+  "last_updated": "2026-09-28T10:30:44.350930+09:30"
 }
