@@ -1255,10 +1255,10 @@
       ]
     },
     "18046019": {
-      "total": 6,
+      "total": 3,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
+      "due_today": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1272,29 +1272,11 @@
         {
           "task_id": 205432370,
           "title": "Issue Final PAA Invoice",
-          "due_date": null,
+          "due_date": "2026-10-01",
           "status": "NOT STARTED",
-          "overdue": "",
+          "overdue": false,
           "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207822258,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207822259,
-          "title": "Plan Lodged Via DPL",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
+          "due_soon": true
         },
         {
           "task_id": 207822260,
@@ -1304,15 +1286,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207822261,
-          "title": "Did Harry Certify DPL?",
-          "due_date": "2026-09-28",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4550,17 +4523,6 @@
       "due_soon": false,
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4"
-    },
-    {
-      "task_id": 207822261,
-      "title": "Did Harry Certify DPL?",
-      "due_date": "2026-09-28",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5050,10 +5012,10 @@
     }
   ],
   "summary": {
-    "total_open": 415,
+    "total_open": 412,
     "total_overdue": 44,
-    "total_due_today": 3,
+    "total_due_today": 2,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-09-28T11:00:35.245233+09:30"
+  "last_updated": "2026-09-28T11:16:02.592617+09:30"
 }
