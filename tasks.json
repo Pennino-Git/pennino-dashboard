@@ -3765,50 +3765,6 @@
         }
       ]
     },
-    "18449651": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207433381,
-          "title": "Job folder created in Dropbox/Clockify",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207433382,
-          "title": "DBYD responses received and reviewed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207433383,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207433384,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18449737": {
       "total": 5,
       "overdue": 0,
@@ -4412,23 +4368,6 @@
         }
       ]
     },
-    "17328458": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 1,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207853626,
-          "title": "Confirmation of Plan Approval",
-          "due_date": "2026-09-29",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        }
-      ]
-    },
     "17303279": {
       "total": 1,
       "overdue": 0,
@@ -4535,17 +4474,6 @@
       "due_soon": false,
       "project_id": 17928270,
       "project_name": "J1024 Pine Ave TD1-4"
-    },
-    {
-      "task_id": 207853626,
-      "title": "Confirmation of Plan Approval",
-      "due_date": "2026-09-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5"
     },
     {
       "task_id": 207854029,
@@ -5013,10 +4941,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
+    "total_open": 405,
     "total_overdue": 41,
-    "total_due_today": 6,
-    "projects_with_tasks": 100
+    "total_due_today": 5,
+    "projects_with_tasks": 98
   },
-  "last_updated": "2026-09-29T06:49:27.315222+09:30"
+  "last_updated": "2026-09-29T10:39:27.321696+09:30"
 }

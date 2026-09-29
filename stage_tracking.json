@@ -94,11 +94,6 @@
     "entered": "2026-06-11",
     "stage_name": "Further Work Required"
   },
-  "17328458": {
-    "stage_id": 4845742,
-    "entered": "2026-09-28",
-    "stage_name": "10. LTO Approval"
-  },
   "17385935": {
     "stage_id": 4845739,
     "entered": "2026-09-17",
@@ -478,11 +473,6 @@
     "stage_id": 3134305,
     "entered": "2026-09-28",
     "stage_name": "Invoice & Close"
-  },
-  "18449651": {
-    "stage_id": 3134300,
-    "entered": "2026-09-04",
-    "stage_name": "Search & DBYD"
   },
   "18449737": {
     "stage_id": 4845733,
