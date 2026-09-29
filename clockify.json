@@ -769,10 +769,6 @@
       "id": "664c0ea8a17be2283ac21b9c",
       "name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
-    "L1031": {
-      "id": "67f75a4fd822fb114e7bc2a7",
-      "name": "L1031 Stebonheath Rd TD1-5"
-    },
     "L1037": {
       "id": "6902f6b33edc6576e3dedc87",
       "name": "L1037 Beach Rd CONTOUR"
@@ -1834,6 +1830,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 458,
-  "last_updated": "2026-09-29T10:39:27.321696+09:30"
+  "total": 457,
+  "last_updated": "2026-09-29T16:25:01.944304+09:30"
 }
