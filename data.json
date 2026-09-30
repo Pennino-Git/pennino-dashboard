@@ -2113,28 +2113,6 @@
       "lng": 138.6518003
     },
     {
-      "id": 18264763,
-      "name": "S1147 Ashton Pl TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Ashton Place, Wynn Vale Drive",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18264763",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 33,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "seychell_construction"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7963959,
-      "lng": 138.7016306
-    },
-    {
       "id": 18289825,
       "name": "S1149 Kensington Park TIER3",
       "tier": "T3",
@@ -2155,28 +2133,6 @@
       "is_premium": false,
       "lat": -34.9231035,
       "lng": 138.6531115
-    },
-    {
-      "id": 18316698,
-      "name": "S1151 Morphett Rd TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "476 Anzac Hwy, Camden Park SA 5038",
-      "client": "Aaron Seychell",
-      "link": "https://crm.na1.insightly.com/details/project/18316698",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 33,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "seychell",
-        "tier3"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9752423,
-      "lng": 138.5381049
     },
     {
       "id": 18184868,
@@ -2382,6 +2338,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-30T16:00:35.947050+09:30",
-  "total": 107
+  "last_updated": "2026-09-30T16:15:28.827881+09:30",
+  "total": 105
 }
