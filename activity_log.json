@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18474550,
+      "project_name": "F1151 - Summit WTP Balhannah",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-09-30T15:45:28.524290+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "LTO",
       "to": "Kate (Drafting)",
       "timestamp": "2026-08-20T10:00:32.822650+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-20T04:30:43.124896+09:30"
     }
   ],
-  "last_updated": "2026-09-30T15:30:43.622407+09:30"
+  "last_updated": "2026-09-30T15:45:28.524290+09:30"
 }
