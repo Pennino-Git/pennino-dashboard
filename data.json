@@ -115,6 +115,25 @@
       "lng": 138.6487735
     },
     {
+      "id": 18474571,
+      "name": "C1068 - Broadacres Dr CONTOUR",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "140 Broadacres Dr, Penfield Gardens SA 5121, Australia",
+      "client": "Adam Smith",
+      "link": "https://crm.na1.insightly.com/details/project/18474571",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.6553584,
+      "lng": 138.6321384
+    },
+    {
       "id": 18398255,
       "name": "D1072 Broxmore St IDENT",
       "tier": "T1",
@@ -2344,6 +2363,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-30T15:00:37.776276+09:30",
-  "total": 105
+  "last_updated": "2026-09-30T15:15:26.432392+09:30",
+  "total": 106
 }
