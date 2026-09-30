@@ -1615,6 +1615,25 @@
       "lng": 138.5387078
     },
     {
+      "id": 18474556,
+      "name": "P1089 - Beach Rd TD1-2",
+      "tier": "T2",
+      "status": "IN PROGRESS",
+      "address": "160/168 Beach Rd, Noarlunga Centre SA 5168, Australia",
+      "client": "Louis Beinke",
+      "link": "https://crm.na1.insightly.com/details/project/18474556",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "1. Concept Planning",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.1389901,
+      "lng": 138.4899121
+    },
+    {
       "id": 17732479,
       "name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -2325,6 +2344,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-30T14:00:36.504399+09:30",
-  "total": 104
+  "last_updated": "2026-09-30T14:15:25.826089+09:30",
+  "total": 105
 }
