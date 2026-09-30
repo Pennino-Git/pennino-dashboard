@@ -1172,7 +1172,7 @@
       "address": "26 Norongo Street, O'Sullivan Beach SA 5166",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18393529",
-      "responsibility": "Council/Authority",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 7,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0194589",
@@ -2344,6 +2344,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-09-30T14:15:25.826089+09:30",
+  "last_updated": "2026-09-30T14:30:47.582471+09:30",
   "total": 105
 }
