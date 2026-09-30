@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "7. SCAP Application",
+      "to": "8. Final Authority Approvals",
+      "timestamp": "2026-09-30T14:00:36.504399+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-09-30T14:00:36.504399+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17385935,
       "project_name": "K1030 Wilsden St CD1-3",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "SA Water",
       "timestamp": "2026-08-20T04:00:33.299740+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17810905,
-      "project_name": "F1107 Edinburgh- Geotech Investigation",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "Contractor",
-      "timestamp": "2026-08-19T16:14:27.101192+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-08-19T15:15:26.051819+09:30"
     }
   ],
-  "last_updated": "2026-09-30T13:45:25.849045+09:30"
+  "last_updated": "2026-09-30T14:00:36.504399+09:30"
 }
