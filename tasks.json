@@ -1240,8 +1240,8 @@
     "18046019": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1258,8 +1258,8 @@
           "due_date": "2026-10-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207822260,
@@ -2668,8 +2668,8 @@
     "18393529": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2695,8 +2695,8 @@
           "due_date": "2026-10-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2789,8 +2789,8 @@
     "18317513": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206732157,
@@ -2825,16 +2825,16 @@
           "due_date": "2026-10-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
     "17845187": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206794850,
@@ -2860,8 +2860,8 @@
           "due_date": "2026-10-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3070,8 +3070,8 @@
     "18196569": {
       "total": 1,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206956862,
@@ -3079,8 +3079,8 @@
           "due_date": "2026-10-01",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4395,7 +4395,63 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 205432370,
+      "title": "Issue Final PAA Invoice",
+      "due_date": "2026-10-01",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18046019,
+      "project_name": "F1111 Bonnin St TD1-3"
+    },
+    {
+      "task_id": 206956862,
+      "title": "Follow up with client ",
+      "due_date": "2026-10-01",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18196569,
+      "project_name": "A1343 Lower North East Rd EASEMENT"
+    },
+    {
+      "task_id": 206957252,
+      "title": "Check status with client.",
+      "due_date": "2026-10-01",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18317513,
+      "project_name": "F1145 South Para Rd IDENT"
+    },
+    {
+      "task_id": 207580896,
+      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
+      "due_date": "2026-10-01",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2"
+    },
+    {
+      "task_id": 207878614,
+      "title": "Did TR provide schedule for field?",
+      "due_date": "2026-10-01",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4841,8 +4897,8 @@
   "summary": {
     "total_open": 402,
     "total_overdue": 40,
-    "total_due_today": 0,
+    "total_due_today": 5,
     "projects_with_tasks": 97
   },
-  "last_updated": "2026-09-30T23:45:29.460409+09:30"
+  "last_updated": "2026-10-01T00:00:42.984862+09:30"
 }
