@@ -2832,9 +2832,9 @@
     },
     "17845187": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206794850,
@@ -2857,11 +2857,11 @@
         {
           "task_id": 207580896,
           "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
-          "due_date": "2026-09-18",
+          "due_date": "2026-10-01",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -4445,6 +4445,50 @@
           "due_soon": ""
         }
       ]
+    },
+    "18474550": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207902869,
+          "title": "Job folder created in Dropbox/Clockify",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207902870,
+          "title": "DBYD responses received and reviewed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207902871,
+          "title": "Existing plan / survey research done",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 207902872,
+          "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [],
@@ -4857,17 +4901,6 @@
       "project_name": "E1037 Eastern Pde CD1-7"
     },
     {
-      "task_id": 207580896,
-      "title": "Check for Variation Approval and ask about pegging schdule (see DP's email on 26 Aug)",
-      "due_date": "2026-09-18",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
       "task_id": 207581365,
       "title": "per DP on 26 Aug, follow up with client after a month re concept plan",
       "due_date": "2026-09-25",
@@ -4902,10 +4935,10 @@
     }
   ],
   "summary": {
-    "total_open": 406,
-    "total_overdue": 41,
+    "total_open": 410,
+    "total_overdue": 40,
     "total_due_today": 0,
-    "projects_with_tasks": 99
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-09-30T15:15:26.432392+09:30"
+  "last_updated": "2026-09-30T15:30:43.622407+09:30"
 }
