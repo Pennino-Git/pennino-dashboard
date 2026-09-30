@@ -1697,10 +1697,6 @@
       "id": "6a9a122bf6a0b275195caf55",
       "name": "T1335 760 Marion Rd - Engineering (Setout/Pickup)"
     },
-    "T1336": {
-      "id": "6aa8f117d39debcc72564bc2",
-      "name": "T1336 283 Flagstaff Rd - Engineering (Setout/Pickup)"
-    },
     "T1337": {
       "id": "6ab0c360f2ee87635709b6b0",
       "name": "T1337 199 Belair Rd - Engineering (Setout/Pickup)"
@@ -1842,6 +1838,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 460,
-  "last_updated": "2026-09-30T16:30:48.666652+09:30"
+  "total": 459,
+  "last_updated": "2026-09-30T16:45:29.364773+09:30"
 }
