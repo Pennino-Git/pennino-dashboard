@@ -2069,7 +2069,7 @@
       "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205472567,
@@ -2126,13 +2126,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 207878218,
-          "title": "Check if RFI Extension is granted",
-          "due_date": "2026-10-02",
+          "task_id": 207940490,
+          "title": "RFI extended until 23/12- remind client",
+          "due_date": "2026-12-01",
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": true
+          "due_soon": false
         }
       ]
     },
@@ -4968,5 +4968,5 @@
     "total_due_today": 4,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-01T21:00:37.216430+09:30"
+  "last_updated": "2026-10-01T21:15:26.568828+09:30"
 }
