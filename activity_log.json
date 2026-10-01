@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-10-01T21:00:37.216430+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18474550,
       "project_name": "F1151 - Summit WTP Balhannah",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-08-20T12:59:38.326758+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-08-20T10:00:32.822650+09:30"
     }
   ],
-  "last_updated": "2026-10-01T20:45:27.466306+09:30"
+  "last_updated": "2026-10-01T21:00:37.216430+09:30"
 }
