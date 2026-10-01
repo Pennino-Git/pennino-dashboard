@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-10-01T21:30:49.811927+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-08-20T15:30:42.827728+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18390050,
-      "project_name": "B1141 Diment Rd TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-20T12:59:38.326758+09:30"
     }
   ],
-  "last_updated": "2026-10-01T21:15:26.568828+09:30"
+  "last_updated": "2026-10-01T21:30:49.811927+09:30"
 }
