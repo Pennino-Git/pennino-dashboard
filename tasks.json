@@ -2675,9 +2675,9 @@
       ]
     },
     "18393529": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2697,15 +2697,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207878614,
-          "title": "Did TR provide schedule for field?",
-          "due_date": "2026-10-01",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4510,17 +4501,6 @@
       "due_soon": false,
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
-      "task_id": 207878614,
-      "title": "Did TR provide schedule for field?",
-      "due_date": "2026-10-01",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -4966,10 +4946,10 @@
     }
   ],
   "summary": {
-    "total_open": 409,
+    "total_open": 408,
     "total_overdue": 40,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 98
   },
-  "last_updated": "2026-10-01T10:15:27.273539+09:30"
+  "last_updated": "2026-10-01T10:30:46.954725+09:30"
 }
