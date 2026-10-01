@@ -755,6 +755,12 @@
     "lng": 138.7027744,
     "source": "map.html-seed"
   },
+  "13 rickaby st, croydon park sa 5008, australia": {
+    "cachedAt": "2026-10-01",
+    "lat": -34.8768198,
+    "lng": 138.5626039,
+    "source": "google"
+  },
   "13 simpson place, evanston park sa 5116": {
     "cachedAt": "2026-08-25",
     "lat": -34.6337978,
