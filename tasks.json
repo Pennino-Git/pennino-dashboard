@@ -2182,8 +2182,8 @@
     },
     "18273273": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2227,8 +2227,8 @@
           "title": "Ask DP to confirm actionables",
           "due_date": "2026-10-02",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4465,19 +4465,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207795347,
-      "title": "Ask DP to confirm actionables",
-      "due_date": "2026-10-02",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4962,13 +4950,24 @@
       "due_soon": false,
       "project_id": 16351320,
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+    },
+    {
+      "task_id": 207795347,
+      "title": "Ask DP to confirm actionables",
+      "due_date": "2026-10-02",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3"
     }
   ],
   "summary": {
     "total_open": 408,
-    "total_overdue": 44,
-    "total_due_today": 1,
+    "total_overdue": 45,
+    "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-02T23:45:30.039021+09:30"
+  "last_updated": "2026-10-03T00:00:40.971451+09:30"
 }
