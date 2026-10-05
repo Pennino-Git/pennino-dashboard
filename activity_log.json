@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18474550,
+      "project_name": "F1151 - Summit WTP Balhannah",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-06T08:00:42.187376+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-25T05:15:29.389309+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17876195,
-      "project_name": "Z1058 Old Port Wakefield Rd IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-24T22:30:46.761666+09:30"
     }
   ],
-  "last_updated": "2026-10-06T07:45:28.386852+09:30"
+  "last_updated": "2026-10-06T08:00:42.187376+09:30"
 }

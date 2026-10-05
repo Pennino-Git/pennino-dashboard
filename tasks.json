@@ -4315,23 +4315,6 @@
         }
       ]
     },
-    "18474550": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207902892,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18475733": {
       "total": 6,
       "overdue": 0,
@@ -4483,6 +4466,32 @@
         {
           "task_id": 207935785,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18474550": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208018688,
+          "title": "Final invoice issued and In XERO",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208018689,
+          "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5036,10 +5045,10 @@
     }
   ],
   "summary": {
-    "total_open": 411,
+    "total_open": 412,
     "total_overdue": 45,
     "total_due_today": 4,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-06T07:45:28.386852+09:30"
+  "last_updated": "2026-10-06T08:00:42.187376+09:30"
 }
