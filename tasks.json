@@ -2136,50 +2136,6 @@
         }
       ]
     },
-    "18273554": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205481673,
-          "title": "Referrals issued (SA Water, Council, DIT, EPA)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206006070,
-          "title": "RFI-Mandatory Information Needed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207107627,
-          "title": "Council Decision Notification Form received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207771729,
-          "title": "SA Water 20 bdays almost up",
-          "due_date": "2026-10-20",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "18273273": {
       "total": 5,
       "overdue": 1,
@@ -4148,6 +4104,23 @@
         }
       ]
     },
+    "18273554": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 207771729,
+          "title": "SA Water 20 bdays almost up",
+          "due_date": "2026-10-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
+        }
+      ]
+    },
     "18460385": {
       "total": 2,
       "overdue": 0,
@@ -4964,10 +4937,10 @@
     }
   ],
   "summary": {
-    "total_open": 408,
+    "total_open": 405,
     "total_overdue": 45,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-05T14:00:37.976321+09:30"
+  "last_updated": "2026-10-05T14:15:27.133650+09:30"
 }

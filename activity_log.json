@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-10-05T14:15:27.133650+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Client",
+      "timestamp": "2026-10-05T14:15:27.133650+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18443181,
       "project_name": "V1022 Byre Ave CD1-2",
@@ -1781,25 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "SA Water",
       "timestamp": "2026-08-24T15:45:25.731208+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-24T01:17:59.906474+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "3. Authority Assessment",
-      "timestamp": "2026-08-20T15:30:42.827728+09:30"
     }
   ],
-  "last_updated": "2026-10-05T14:00:37.976321+09:30"
+  "last_updated": "2026-10-05T14:15:27.133650+09:30"
 }

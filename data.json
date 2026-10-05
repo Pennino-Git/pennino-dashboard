@@ -1791,11 +1791,11 @@
       "address": "66 Elizabeth Road, Christie Downs SA 5164",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18273554",
-      "responsibility": "SA Water",
-      "days_in_stage": 47,
-      "stage_name": "3. Authority Assessment",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0193854",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "tier2",
         "torrens_division",
@@ -2358,6 +2358,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-05T14:00:37.976321+09:30",
+  "last_updated": "2026-10-05T14:15:27.133650+09:30",
   "total": 106
 }
