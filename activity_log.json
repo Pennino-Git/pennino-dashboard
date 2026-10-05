@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-10-05T15:00:40.548843+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-24T22:30:46.761666+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "SA Water",
-      "timestamp": "2026-08-24T15:45:25.731208+09:30"
     }
   ],
-  "last_updated": "2026-10-05T14:45:27.854546+09:30"
+  "last_updated": "2026-10-05T15:00:40.548843+09:30"
 }
