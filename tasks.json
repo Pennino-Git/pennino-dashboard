@@ -953,10 +953,10 @@
       ]
     },
     "17782437": {
-      "total": 11,
+      "total": 12,
       "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448414,
@@ -1056,6 +1056,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208001686,
+          "title": "Ask DP for schedule for field- check Jake's request",
+          "due_date": "2026-10-06",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4982,10 +4991,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
+    "total_open": 411,
     "total_overdue": 45,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-05T22:15:28.446942+09:30"
+  "last_updated": "2026-10-05T22:30:52.629243+09:30"
 }
