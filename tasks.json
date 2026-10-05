@@ -955,8 +955,8 @@
     "17782437": {
       "total": 12,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448414,
@@ -1063,8 +1063,8 @@
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1142,8 +1142,8 @@
     "17539782": {
       "total": 12,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1250,8 +1250,8 @@
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2281,8 +2281,8 @@
     "18076465": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205588473,
@@ -2335,8 +2335,8 @@
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2642,8 +2642,8 @@
     "18393529": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2669,8 +2669,8 @@
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4492,7 +4492,52 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207925724,
+      "title": "Check for SA Water update",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
+      "task_id": 207995421,
+      "title": "Confirm if 7th Oct is good for field work",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3"
+    },
+    {
+      "task_id": 207998886,
+      "title": "Status on this?",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 208001686,
+      "title": "Ask DP for schedule for field- check Jake's request",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4993,8 +5038,8 @@
   "summary": {
     "total_open": 411,
     "total_overdue": 45,
-    "total_due_today": 0,
+    "total_due_today": 4,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-05T23:45:29.505936+09:30"
+  "last_updated": "2026-10-06T00:00:43.260346+09:30"
 }
