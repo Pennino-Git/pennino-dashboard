@@ -1131,10 +1131,10 @@
       ]
     },
     "17539782": {
-      "total": 11,
+      "total": 12,
       "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1234,6 +1234,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207998886,
+          "title": "Status on this?",
+          "due_date": "2026-10-06",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4973,10 +4982,10 @@
     }
   ],
   "summary": {
-    "total_open": 409,
+    "total_open": 410,
     "total_overdue": 45,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-05T19:15:28.014165+09:30"
+  "last_updated": "2026-10-05T19:30:53.255125+09:30"
 }
