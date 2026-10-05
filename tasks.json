@@ -1335,7 +1335,7 @@
       ]
     },
     "18249652": {
-      "total": 12,
+      "total": 13,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -1447,6 +1447,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207996085,
+          "title": "Ask PM if this is a go. If not, cancel it.",
+          "due_date": "2026-12-01",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -1637,7 +1646,7 @@
       ]
     },
     "18046089": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -1668,6 +1677,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 207996069,
+          "title": "Ask DP if the info he's waiting on was provided",
+          "due_date": "2026-10-16",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -4955,10 +4973,10 @@
     }
   ],
   "summary": {
-    "total_open": 407,
+    "total_open": 409,
     "total_overdue": 45,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-05T16:15:28.326346+09:30"
+  "last_updated": "2026-10-05T16:30:50.031222+09:30"
 }
