@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18443181,
+      "project_name": "V1022 Byre Ave CD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-10-05T14:00:37.976321+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "3. Authority Assessment",
       "timestamp": "2026-08-20T15:30:42.827728+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-20T15:30:42.827728+09:30"
     }
   ],
-  "last_updated": "2026-10-05T13:45:28.838711+09:30"
+  "last_updated": "2026-10-05T14:00:37.976321+09:30"
 }
