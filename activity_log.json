@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-10-06T11:25:29.759753+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18474550,
       "project_name": "F1151 - Summit WTP Balhannah",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-08-25T05:15:29.389309+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18436280,
-      "project_name": "C1067 Edward St IDENT",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-25T05:15:29.389309+09:30"
     }
   ],
-  "last_updated": "2026-10-06T11:15:31.489679+09:30"
+  "last_updated": "2026-10-06T11:25:29.759753+09:30"
 }
