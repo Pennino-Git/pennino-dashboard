@@ -3345,7 +3345,7 @@
       ]
     },
     "18308881": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3367,6 +3367,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208039769,
+          "title": "Consent fee #503126 \u2014 $907",
+          "due_date": "2026-10-21",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5013,10 +5022,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
+    "total_open": 411,
     "total_overdue": 46,
     "total_due_today": 1,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-07T05:00:41.097681+09:30"
+  "last_updated": "2026-10-07T05:30:48.931966+09:30"
 }
