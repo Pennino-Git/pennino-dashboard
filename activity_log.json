@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-10-06T22:30:54.737766+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18438117,
       "project_name": "D1073 - Gawler Gate Station",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-08-25T16:30:16.529230+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-25T14:09:25.722921+09:30"
     }
   ],
-  "last_updated": "2026-10-06T22:15:29.419017+09:30"
+  "last_updated": "2026-10-06T22:30:54.737766+09:30"
 }
