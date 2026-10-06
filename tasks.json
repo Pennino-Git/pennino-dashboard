@@ -1132,8 +1132,8 @@
     },
     "17539782": {
       "total": 12,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1240,8 +1240,8 @@
           "title": "Status on this?",
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1893,8 +1893,8 @@
     "18203158": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205381503,
@@ -1911,8 +1911,8 @@
           "due_date": "2026-10-07",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2262,8 +2262,8 @@
     },
     "18076465": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2316,8 +2316,8 @@
           "title": "Check for SA Water update",
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4448,8 +4448,8 @@
     },
     "18483048": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4484,8 +4484,8 @@
           "title": "Chase CAD Files",
           "due_date": "2026-10-06",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4493,37 +4493,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207925724,
-      "title": "Check for SA Water update",
-      "due_date": "2026-10-06",
+      "task_id": 208021893,
+      "title": "Check actionable",
+      "due_date": "2026-10-07",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
-    },
-    {
-      "task_id": 207998886,
-      "title": "Status on this?",
-      "due_date": "2026-10-06",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
-      "task_id": 208022813,
-      "title": "Chase CAD Files",
-      "due_date": "2026-10-06",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18483048,
-      "project_name": "R1037 - Angle Vale Lease Plan"
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -4999,13 +4977,46 @@
       "due_soon": false,
       "project_id": 16351320,
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+    },
+    {
+      "task_id": 207925724,
+      "title": "Check for SA Water update",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
+      "task_id": 207998886,
+      "title": "Status on this?",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 208022813,
+      "title": "Chase CAD Files",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "summary": {
     "total_open": 410,
-    "total_overdue": 43,
-    "total_due_today": 3,
+    "total_overdue": 46,
+    "total_due_today": 1,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-06T23:45:30.308540+09:30"
+  "last_updated": "2026-10-07T00:00:43.429409+09:30"
 }
