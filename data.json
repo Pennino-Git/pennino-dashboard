@@ -2037,11 +2037,11 @@
       "address": "Allendale Rd, Kalbeeba SA 5118, Australia",
       "client": "Downer",
       "link": "https://crm.na1.insightly.com/details/project/18438117",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 41,
-      "stage_name": "Plan Drawing & Check",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 6,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2359,6 +2359,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-06T14:15:29.664536+09:30",
+  "last_updated": "2026-10-06T14:30:50.977751+09:30",
   "total": 106
 }
