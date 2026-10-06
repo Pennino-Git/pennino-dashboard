@@ -4454,6 +4454,50 @@
           "due_soon": ""
         }
       ]
+    },
+    "18483048": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 1,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208022768,
+          "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208022811,
+          "title": "Field work date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208022812,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208022813,
+          "title": "Chase CAD Files",
+          "due_date": "2026-10-06",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -4478,6 +4522,17 @@
       "due_soon": false,
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 208022813,
+      "title": "Chase CAD Files",
+      "due_date": "2026-10-06",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "tasks_overdue": [
@@ -4956,10 +5011,10 @@
     }
   ],
   "summary": {
-    "total_open": 407,
+    "total_open": 411,
     "total_overdue": 43,
-    "total_due_today": 2,
-    "projects_with_tasks": 99
+    "total_due_today": 3,
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-06T15:46:04.896475+09:30"
+  "last_updated": "2026-10-06T16:00:41.499639+09:30"
 }
