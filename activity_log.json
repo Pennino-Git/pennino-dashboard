@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-10-08T11:00:37.855150+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-08T11:00:37.855150+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-26T12:15:24.784205+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18435136,
-      "project_name": "T1331 Light Common TIER3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Invoice & Close",
-      "timestamp": "2026-08-26T10:45:24.212134+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18435136,
-      "project_name": "T1331 Light Common TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-26T10:45:24.212134+09:30"
     }
   ],
-  "last_updated": "2026-10-08T10:45:27.680322+09:30"
+  "last_updated": "2026-10-08T11:00:37.855150+09:30"
 }
