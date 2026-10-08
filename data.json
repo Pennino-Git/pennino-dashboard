@@ -1699,7 +1699,7 @@
       "address": "6 & 8A Strawson Road, Northfield SA 5085",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17732479",
-      "responsibility": "SCAP/DAC",
+      "responsibility": "SA Water",
       "days_in_stage": 100,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0183205",
@@ -2358,6 +2358,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-08T09:30:54.454100+09:30",
+  "last_updated": "2026-10-08T09:45:28.971645+09:30",
   "total": 106
 }
