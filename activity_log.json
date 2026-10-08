@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-10-08T12:30:50.084353+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "9. LTO Lodgement",
       "to": "10. LTO Approval",
       "timestamp": "2026-08-26T17:00:33.695107+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18438117,
-      "project_name": "D1073 - Gawler Gate Station",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Plan Drawing & Check",
-      "timestamp": "2026-08-26T12:15:24.784205+09:30"
     }
   ],
-  "last_updated": "2026-10-08T12:29:42.259799+09:30"
+  "last_updated": "2026-10-08T12:30:50.084353+09:30"
 }
