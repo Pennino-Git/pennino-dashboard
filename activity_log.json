@@ -5,6 +5,15 @@
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
       "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-10-08T15:30:48.721459+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
       "from": "SCAP/DAC",
       "to": "Client",
       "timestamp": "2026-10-08T12:30:50.084353+09:30"
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Client",
       "timestamp": "2026-08-27T11:15:23.860482+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "9. LTO Lodgement",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-08-26T17:00:33.695107+09:30"
     }
   ],
-  "last_updated": "2026-10-08T15:15:28.858267+09:30"
+  "last_updated": "2026-10-08T15:30:48.721459+09:30"
 }
