@@ -1132,8 +1132,8 @@
     },
     "17539782": {
       "total": 12,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1240,8 +1240,8 @@
           "title": "Call Council",
           "due_date": "2026-10-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3790,8 +3790,8 @@
     },
     "17385935": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3853,8 +3853,8 @@
           "title": "Check outstanding requirements",
           "due_date": "2026-10-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4395,8 +4395,8 @@
     },
     "18203158": {
       "total": 6,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4404,8 +4404,8 @@
           "title": "ask DP if this requires field work",
           "due_date": "2026-10-09",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4571,41 +4571,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207998886,
-      "title": "Call Council",
-      "due_date": "2026-10-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
-    },
-    {
-      "task_id": 208047998,
-      "title": "Check outstanding requirements",
-      "due_date": "2026-10-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17385935,
-      "project_name": "K1030 Wilsden St CD1-3"
-    },
-    {
-      "task_id": 208083478,
-      "title": "ask DP if this requires field work",
-      "due_date": "2026-10-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5092,6 +5058,17 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
+      "task_id": 207998886,
+      "title": "Call Council",
+      "due_date": "2026-10-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
       "task_id": 208022813,
       "title": "Chase CAD Files",
       "due_date": "2026-10-06",
@@ -5101,13 +5078,35 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
+      "task_id": 208047998,
+      "title": "Check outstanding requirements",
+      "due_date": "2026-10-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17385935,
+      "project_name": "K1030 Wilsden St CD1-3"
+    },
+    {
+      "task_id": 208083478,
+      "title": "ask DP if this requires field work",
+      "due_date": "2026-10-09",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
     }
   ],
   "summary": {
     "total_open": 418,
-    "total_overdue": 45,
-    "total_due_today": 3,
+    "total_overdue": 48,
+    "total_due_today": 0,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-09T23:45:29.705378+09:30"
+  "last_updated": "2026-10-10T00:00:42.333242+09:30"
 }
