@@ -1325,6 +1325,10 @@
       "id": "6a25bbde148dd6010d9dda76",
       "name": "S1152 Tarton Rd TD1-3"
     },
+    "S1155": {
+      "id": "6ac84692a78491c9260256b2",
+      "name": "S1155 306 Diment Rd - Other + Engineering (Setout/Pickup)"
+    },
     "T1002": {
       "id": "5fb85aad49f0033420e6b9a9",
       "name": "T1002-Casurina Rd Parafield Gardens"
@@ -1854,6 +1858,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 463,
-  "last_updated": "2026-10-09T11:00:37.089702+09:30"
+  "total": 464,
+  "last_updated": "2026-10-09T11:15:27.504350+09:30"
 }
