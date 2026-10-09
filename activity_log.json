@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18487294,
+      "project_name": "S1155 - Helps Rd Syphon 1",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-09T11:30:47.708887+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-08-27T11:15:23.860482+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-27T11:15:23.860482+09:30"
     }
   ],
-  "last_updated": "2026-10-09T11:15:27.504350+09:30"
+  "last_updated": "2026-10-09T11:30:47.708887+09:30"
 }
