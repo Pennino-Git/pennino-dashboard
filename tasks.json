@@ -2411,10 +2411,10 @@
       ]
     },
     "17732479": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206006210,
@@ -2433,6 +2433,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208133476,
+          "title": "Check if clearance is granted by SA Water",
+          "due_date": "2026-10-13",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5096,10 +5105,10 @@
     }
   ],
   "summary": {
-    "total_open": 418,
+    "total_open": 419,
     "total_overdue": 47,
     "total_due_today": 1,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-12T08:45:27.213213+09:30"
+  "last_updated": "2026-10-12T09:00:37.807919+09:30"
 }

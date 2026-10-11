@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18425013,
+      "project_name": "M1069 Pederick Rd CD1-5",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-10-12T09:00:37.807919+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18474571,
       "project_name": "C1068 - Broadacres Dr CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "Client",
       "timestamp": "2026-08-27T11:30:40.412179+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 ",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-08-27T11:30:40.412179+09:30"
     }
   ],
-  "last_updated": "2026-10-12T08:45:27.213213+09:30"
+  "last_updated": "2026-10-12T09:00:37.807919+09:30"
 }
