@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-12T00:30:55.792269+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18487294,
       "project_name": "S1155 - Helps Rd Syphon 1",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-27T11:30:40.412179+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18196569,
-      "project_name": "A1343 Lower North East Rd EASEMENT",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-08-27T11:15:23.860482+09:30"
     }
   ],
-  "last_updated": "2026-10-12T00:15:29.980894+09:30"
+  "last_updated": "2026-10-12T00:30:55.792269+09:30"
 }

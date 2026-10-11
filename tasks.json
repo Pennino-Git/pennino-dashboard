@@ -3031,9 +3031,9 @@
       ]
     },
     "18377245": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -3061,6 +3061,15 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 208131734,
+          "title": "DP reviewed Cert REV0?",
+          "due_date": "2026-10-12",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
           "due_soon": false
         }
       ]
@@ -4571,7 +4580,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 208131734,
+      "title": "DP reviewed Cert REV0?",
+      "due_date": "2026-10-12",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18377245,
+      "project_name": "F1146 Oakridge Rise TD1-4"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5103,10 +5124,10 @@
     }
   ],
   "summary": {
-    "total_open": 418,
+    "total_open": 419,
     "total_overdue": 48,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-12T00:15:29.980894+09:30"
+  "last_updated": "2026-10-12T00:30:55.792269+09:30"
 }
