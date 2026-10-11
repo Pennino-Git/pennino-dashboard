@@ -445,10 +445,6 @@
       "id": "69d5928be8df737c13eaba31",
       "name": "D1071 Deeds Rd CD1-10"
     },
-    "D1072": {
-      "id": "6a6976b1f286a8700b23b6dc",
-      "name": "D1072 Broxmore St IDENT"
-    },
     "D1073": {
       "id": "6a8e4f760a4edcf5e7ec959b",
       "name": "D1073 Allendale Rd - Engineering (Setout/Pickup)"
@@ -1858,6 +1854,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 464,
-  "last_updated": "2026-10-12T08:15:27.412346+09:30"
+  "total": 463,
+  "last_updated": "2026-10-12T08:30:47.992962+09:30"
 }

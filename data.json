@@ -136,29 +136,6 @@
       "lng": 138.6321384
     },
     {
-      "id": 18398255,
-      "name": "D1072 Broxmore St IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "2a Broxmore Street, Elizabeth North SA 5113",
-      "client": "Evanthe Dunn",
-      "link": "https://crm.na1.insightly.com/details/project/18398255",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 63,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "field",
-        "ident",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7038795,
-      "lng": 138.6753621
-    },
-    {
       "id": 18317513,
       "name": "F1145 South Para Rd IDENT",
       "tier": "T1",
@@ -2398,6 +2375,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-12T08:15:27.412346+09:30",
-  "total": 108
+  "last_updated": "2026-10-12T08:30:47.992962+09:30",
+  "total": 107
 }
