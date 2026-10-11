@@ -4422,19 +4422,10 @@
     },
     "18203158": {
       "total": 6,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 208083478,
-          "title": "ask DP if this requires field work",
-          "due_date": "2026-10-09",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
         {
           "task_id": 208083500,
           "title": "Surveyor assigned and field survey scheduled",
@@ -4479,6 +4470,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208131932,
+          "title": "Ask DP for status if he's done with drafting",
+          "due_date": "2026-10-30",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5128,24 +5128,13 @@
       "due_soon": false,
       "project_id": 17385935,
       "project_name": "K1030 Wilsden St CD1-3"
-    },
-    {
-      "task_id": 208083478,
-      "title": "ask DP if this requires field work",
-      "due_date": "2026-10-09",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
     }
   ],
   "summary": {
     "total_open": 421,
-    "total_overdue": 48,
+    "total_overdue": 47,
     "total_due_today": 1,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-12T01:15:29.703569+09:30"
+  "last_updated": "2026-10-12T01:30:49.290038+09:30"
 }
