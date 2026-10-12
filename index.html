@@ -310,8 +310,9 @@ let smartFilter = null;
 let searchTerm = "";
 let clientFilter = "";
 
-const RESP_ORDER = ["AR (Alex)", "DP (Damiano)", "TR (Tristan)", "Harry", "Grant", "Kate (Drafting)", "Client", "Contractor", "Council/Authority", "SA Water", "LTO", "SCAP/DAC", ""];
+const RESP_ORDER = ["Field Work", "AR (Alex)", "DP (Damiano)", "TR (Tristan)", "Harry", "Grant", "Kate (Drafting)", "Client", "Contractor", "Council/Authority", "SA Water", "LTO", "SCAP/DAC", ""];
 const RESP_COLORS = {
+  "Field Work":"#ef4444",
   "AR (Alex)":"#2D6DA5", "DP (Damiano)":"#ec4899", "TR (Tristan)":"#14b8a6",
   "Harry":"#f97316", "Grant":"#84cc16", "Kate (Drafting)":"#a78bfa",
   "Client":"#f59e0b", "Contractor":"#78716c", "Council/Authority":"#3b82f6",
@@ -330,12 +331,37 @@ function clockifyUrl(ref) {
   return "https://app.clockify.me/projects/" + CLOCKIFY_WORKSPACE + "/edit/" + pid;
 }
 
+// ---- Field Work (responsibility-based, replaces FIELD tag) ----
+let FW_BOOKINGS = {};
+async function loadBookings() {
+  try { const r = await fetch('fieldwork_bookings.json?' + Date.now()); if (r.ok) FW_BOOKINGS = (await r.json()).bookings || {}; } catch(e) {}
+}
+function isFieldWork(p) { return (p.responsibility || "") === "Field Work"; }
+function fmtD(d) { const x = new Date(d + "T00:00:00"); return x.toLocaleDateString("en-AU", {day:"numeric", month:"short"}); }
+function openTaskTitles(p) { const td = TASK_BY_PROJECT[String(p.id)]; return (td && td.tasks) ? td.tasks.filter(t => (t.status||"") !== "COMPLETED").map(t => t.title || "") : []; }
+function fwNextPerson(p) { for (const t of openTaskTitles(p)) { const m = t.match(/return to\s+(.+?)\s+after field work/i); if (m) return m[1]; } return null; }
+function hasFwTask(p) { return openTaskTitles(p).some(t => /field ?work/i.test(t) && !/return to/i.test(t)); }
+function authorityStage(p) { const sn = (p.stage_name || "").toLowerCase(); return /council|authority|plansa|planning|dnf|sa water|lto|scap/.test(sn); }
+function fwHtmlFor(p) {
+  const ref = extractRef(p.name);
+  if (isFieldWork(p)) {
+    const b = ref ? FW_BOOKINGS[ref] : null;
+    const when = (b && b.next) ? `Booked ${fmtD(b.next.date)} (${b.next.who})` : "Not booked";
+    const extra = [];
+    const nxt = fwNextPerson(p); if (nxt) extra.push("Next: " + nxt);
+    if (authorityStage(p)) extra.push("Also with Council");
+    return `<div class="card-fieldwork"><span class="fw-dot"></span>\u{1F527} ${when}</div>` + (extra.length ? `<div class="card-sawater">${extra.join(" \u00B7 ")}</div>` : "");
+  }
+  if (hasFwTask(p)) return `<div class="card-fieldwork">\u{1F527} Field work task open</div>`;
+  return "";
+}
+
 function matchesSmart(p, filter) {
   if (!filter) return true;
   const sn = (p.stage_name || "").toLowerCase();
   const rn = (p.responsibility || "").toLowerCase();
   switch(filter) {
-    case "fieldwork": return sn.includes("field work") || sn.includes("pegging") || sn.includes("certified survey") || p.needs_fieldwork === true;
+    case "fieldwork": return isFieldWork(p);
     case "authority": return sn.includes("authority") || sn.includes("plansa") || sn.includes("scap") || sn.includes("lto") || rn.includes("council") || rn.includes("scap") || rn.includes("lto");
     case "drafting": return sn.includes("plan drawing") || sn.includes("prepare plan") || sn.includes("drafting") || sn.includes("concept") || rn.includes("kate");
     case "premium": return p.is_premium === true;
@@ -369,7 +395,7 @@ function makeCard(p) {
   const dc = daysClass(p.days_in_stage);
   const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "";
   const clientHtml = p.client ? `<div class="card-sawater">\u{1F464} ${p.client}</div>` : "";
-  const fwHtml = p.needs_fieldwork ? `<div class="card-fieldwork"><span class="fw-dot"></span>\u{1F527} Field Work</div>` : "";
+  const fwHtml = fwHtmlFor(p);
   const premiumHtml = p.is_premium ? `<div class="card-premium">\u{1F48E} Premium</div>` : "";
   const staleHtml = isStale(p) ? `<div class="card-stale">\u{23F0} Stale (${STALE_THRESHOLDS[p.stage_name]}d threshold)</div>` : "";
 
@@ -572,7 +598,7 @@ function renderListView(fp) {
     const rows = sorted.map(p => {
       const dc = daysClass(p.days_in_stage);
       const daysHtml = p.days_in_stage !== null ? `<span class="card-days ${dc}">${p.days_in_stage}d</span>` : "-";
-      const badges = (isStale(p) ? '\u{23F0} ' : '') + (p.is_premium ? '\u{1F48E} ' : '') + (p.needs_fieldwork ? '\u{1F527} ' : '');
+      const badges = (isStale(p) ? '\u{23F0} ' : '') + (p.is_premium ? '\u{1F48E} ' : '') + ((isFieldWork(p) || hasFwTask(p)) ? '\u{1F527} ' : '');
 
       return `<tr>
         <td><a class="link" href="${INSIGHTLY_BASE}${p.id}" target="_blank">${p.name}</a></td>
@@ -951,12 +977,12 @@ document.getElementById("workloadToggle").addEventListener("click", () => {
 });
 
 // Initial load
-Promise.all([loadTasks(), loadClockify()]).then(() => loadData());
+Promise.all([loadTasks(), loadClockify(), loadBookings()]).then(() => loadData());
 loadRFIs();
 loadActivity();
 
 // Auto-refresh
-setInterval(() => { Promise.all([loadTasks(), loadClockify()]).then(() => loadData()); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
+setInterval(() => { Promise.all([loadTasks(), loadClockify(), loadBookings()]).then(() => loadData()); loadRFIs(); loadActivity(); }, 15 * 60 * 1000);
 </script>
 </body>
 </html>

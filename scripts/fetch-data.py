@@ -311,7 +311,7 @@ def main():
             responsibility = STAGE_RESPONSIBILITY.get(stage_name, "")
 
         tags = [t.get("TAG_NAME", "") for t in p.get("TAGS", []) if t.get("TAG_NAME")]
-        needs_fieldwork = "FIELD" in tags
+        needs_fieldwork = (responsibility == "Field Work")  # FIELD tag retired Oct 2026
         is_premium = "PREMIUM" in tags
 
         project_id = p["PROJECT_ID"]
