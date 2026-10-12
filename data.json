@@ -256,9 +256,9 @@
       "link": "https://crm.na1.insightly.com/details/project/18489026",
       "responsibility": "AR (Alex)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2394,6 +2394,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-12T10:00:39.964352+09:30",
+  "last_updated": "2026-10-12T10:15:29.346164+09:30",
   "total": 108
 }

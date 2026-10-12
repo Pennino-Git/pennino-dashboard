@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18489026,
+      "project_name": "L1048 - Holmes Ave IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-12T10:15:29.346164+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18425013,
       "project_name": "M1069 Pederick Rd CD1-5",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "Client",
       "timestamp": "2026-08-27T11:30:40.412179+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16477307,
-      "project_name": "Z1049 The Esplanade CONTOUR",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "Client",
-      "timestamp": "2026-08-27T11:30:40.412179+09:30"
     }
   ],
-  "last_updated": "2026-10-12T10:00:39.964352+09:30"
+  "last_updated": "2026-10-12T10:15:29.346164+09:30"
 }
