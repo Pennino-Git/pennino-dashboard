@@ -2422,8 +2422,8 @@
     "17732479": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206006210,
@@ -2449,8 +2449,8 @@
           "due_date": "2026-10-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3017,7 +3017,7 @@
       "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207143843,
@@ -3044,7 +3044,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 208136184,
@@ -4030,7 +4030,7 @@
       "total": 3,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 3,
       "tasks": [
         {
           "task_id": 207771729,
@@ -4039,7 +4039,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 207995325,
@@ -4048,7 +4048,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 208134476,
@@ -4660,7 +4660,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 208133476,
+      "title": "Check if clearance is granted by SA Water",
+      "due_date": "2026-10-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5161,8 +5173,8 @@
   "summary": {
     "total_open": 427,
     "total_overdue": 45,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-10-12T23:45:31.151181+09:30"
+  "last_updated": "2026-10-13T00:00:44.524132+09:30"
 }
