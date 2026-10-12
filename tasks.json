@@ -4616,29 +4616,11 @@
       ]
     },
     "18489079": {
-      "total": 4,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 208135413,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208135414,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 208135597,
           "title": "Field work completed",
@@ -4647,15 +4629,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208135598,
-          "title": "Is TR back?",
-          "due_date": "2026-10-14",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": false,
-          "due_soon": true
         }
       ]
     }
@@ -5171,10 +5144,10 @@
     }
   ],
   "summary": {
-    "total_open": 427,
+    "total_open": 424,
     "total_overdue": 45,
     "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-10-12T15:00:39.333917+09:30"
+  "last_updated": "2026-10-12T15:15:31.043194+09:30"
 }
