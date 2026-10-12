@@ -24,6 +24,25 @@
       "lng": 138.664237
     },
     {
+      "id": 18489079,
+      "name": "A1360 - Joseph St IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "Lot 1343 Joseph Street, Virginia",
+      "client": "Ali Prior",
+      "link": "https://crm.na1.insightly.com/details/project/18489079",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": 37.4315734,
+      "lng": -78.6568942
+    },
+    {
       "id": 18400559,
       "name": "B1142 Knoll Crescent IDENT & CONTOUR",
       "tier": "T1",
@@ -2394,6 +2413,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-12T12:00:41.701404+09:30",
-  "total": 108
+  "last_updated": "2026-10-12T12:15:28.416878+09:30",
+  "total": 109
 }
