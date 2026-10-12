@@ -247,6 +247,25 @@
       "lng": 138.6493493
     },
     {
+      "id": 18489026,
+      "name": "L1048 - Holmes Ave IDENT",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "7 Holmes Ave, Redwood Park SA 5097, Australia",
+      "client": "Marco Laudato",
+      "link": "https://crm.na1.insightly.com/details/project/18489026",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.8153506,
+      "lng": 138.7101726
+    },
+    {
       "id": 18483048,
       "name": "R1037 - Angle Vale Lease Plan",
       "tier": "T1",
@@ -2375,6 +2394,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-12T09:15:27.843683+09:30",
-  "total": 107
+  "last_updated": "2026-10-12T09:30:50.752945+09:30",
+  "total": 108
 }
