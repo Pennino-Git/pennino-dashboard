@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18489079,
+      "project_name": "A1360 - Joseph St IDENT",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-12T13:00:41.432077+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18489079,
+      "project_name": "A1360 - Joseph St IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-10-12T13:00:41.432077+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18489026,
       "project_name": "L1048 - Holmes Ave IDENT",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "2. PlanSA Lodgement",
       "timestamp": "2026-08-27T11:45:26.466411+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-27T11:45:26.466411+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-08-27T11:30:40.412179+09:30"
     }
   ],
-  "last_updated": "2026-10-12T12:45:27.351472+09:30"
+  "last_updated": "2026-10-12T13:00:41.432077+09:30"
 }

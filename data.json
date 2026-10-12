@@ -31,12 +31,14 @@
       "address": "Lot 1343 Joseph Street, Virginia",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18489079",
-      "responsibility": "AR (Alex)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
-      "tags": [],
+      "stage_order": 2,
+      "tags": [
+        "field_work"
+      ],
       "needs_fieldwork": false,
       "is_premium": false,
       "lat": 37.4315734,
@@ -2413,6 +2415,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-12T12:45:27.351472+09:30",
+  "last_updated": "2026-10-12T13:00:41.432077+09:30",
   "total": 109
 }
