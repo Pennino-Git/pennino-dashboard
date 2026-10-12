@@ -3014,9 +3014,9 @@
       ]
     },
     "18377245": {
-      "total": 4,
+      "total": 7,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3047,13 +3047,40 @@
           "due_soon": false
         },
         {
-          "task_id": 208131734,
-          "title": "DP reviewed Cert REV0?",
-          "due_date": "2026-10-12",
+          "task_id": 208136184,
+          "title": "SCAP certificate application submitted",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208136185,
+          "title": "Open Space invoice received & Sent to Client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208136186,
+          "title": "Open Space invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208136187,
+          "title": "Issue Final PAA Invoice",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -4633,19 +4660,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 208131734,
-      "title": "DP reviewed Cert REV0?",
-      "due_date": "2026-10-12",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5144,10 +5159,10 @@
     }
   ],
   "summary": {
-    "total_open": 424,
+    "total_open": 427,
     "total_overdue": 45,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-10-12T15:45:31.287736+09:30"
+  "last_updated": "2026-10-12T16:00:41.184069+09:30"
 }
