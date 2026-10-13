@@ -2236,8 +2236,8 @@
     },
     "18076465": {
       "total": 6,
-      "overdue": 1,
-      "due_today": 0,
+      "overdue": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -2288,10 +2288,10 @@
         {
           "task_id": 207925724,
           "title": "Check for SA Water update",
-          "due_date": "2026-10-06",
+          "due_date": "2026-10-13",
           "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
+          "overdue": false,
+          "due_today": true,
           "due_soon": false
         }
       ]
@@ -4662,6 +4662,17 @@
   },
   "tasks_due_today": [
     {
+      "task_id": 207925724,
+      "title": "Check for SA Water update",
+      "due_date": "2026-10-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
       "task_id": 208133476,
       "title": "Check if clearance is granted by SA Water",
       "due_date": "2026-10-13",
@@ -5148,17 +5159,6 @@
       "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
     {
-      "task_id": 207925724,
-      "title": "Check for SA Water update",
-      "due_date": "2026-10-06",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
-    },
-    {
       "task_id": 208022813,
       "title": "Chase CAD Files",
       "due_date": "2026-10-06",
@@ -5172,9 +5172,9 @@
   ],
   "summary": {
     "total_open": 427,
-    "total_overdue": 45,
-    "total_due_today": 1,
+    "total_overdue": 44,
+    "total_due_today": 2,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-10-13T09:46:17.038797+09:30"
+  "last_updated": "2026-10-13T10:00:38.913325+09:30"
 }
