@@ -294,7 +294,7 @@
       "address": "466 Curtis Rd, Angle Vale SA 5117, Australia",
       "client": "Modi Rajapakshe",
       "link": "https://crm.na1.insightly.com/details/project/18483048",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Field Work",
       "days_in_stage": 7,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -302,7 +302,7 @@
       "tags": [
         "field"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.6599665,
       "lng": 138.6516054
@@ -2415,6 +2415,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-13T11:15:29.905099+09:30",
+  "last_updated": "2026-10-13T11:30:47.130902+09:30",
   "total": 109
 }
