@@ -612,7 +612,7 @@
       "address": "42 The Parade, Holden Hill SA 5088",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17956195",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Field Work",
       "days_in_stage": 33,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -621,7 +621,7 @@
         "tier2",
         "torrens_division"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.8537455,
       "lng": 138.6766439
@@ -2415,6 +2415,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-13T12:15:27.413349+09:30",
+  "last_updated": "2026-10-13T12:30:52.049380+09:30",
   "total": 109
 }
