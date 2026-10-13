@@ -336,7 +336,9 @@ let FW_BOOKINGS = {};
 async function loadBookings() {
   try { const r = await fetch('fieldwork_bookings.json?' + Date.now()); if (r.ok) FW_BOOKINGS = (await r.json()).bookings || {}; } catch(e) {}
 }
-function isFieldWork(p) { return (p.responsibility || "") === "Field Work"; }
+function isFwStage(p) { const r = p.responsibility || ""; return /field work/i.test(p.stage_name || "") && !["Field Work","Client","Contractor"].includes(r); }
+function isFieldWork(p) { return (p.responsibility || "") === "Field Work" || isFwStage(p); }
+function rowResp(p) { return isFieldWork(p) ? "Field Work" : (p.responsibility || ""); }
 function fmtD(d) { const x = new Date(d + "T00:00:00"); return x.toLocaleDateString("en-AU", {day:"numeric", month:"short"}); }
 function openTaskTitles(p) { const td = TASK_BY_PROJECT[String(p.id)]; return (td && td.tasks) ? td.tasks.filter(t => (t.status||"") !== "COMPLETED").map(t => t.title || "") : []; }
 function fwNextPerson(p) { for (const t of openTaskTitles(p)) { const m = t.match(/return to\s+(.+?)\s+after field work/i); if (m) return m[1]; } return null; }
@@ -350,6 +352,7 @@ function fwHtmlFor(p) {
     const extra = [];
     const nxt = fwNextPerson(p); if (nxt) extra.push("Next: " + nxt);
     if (authorityStage(p)) extra.push("Also with Council");
+    if (isFwStage(p)) extra.push("Field Work stage \u00B7 Resp: " + respLabel(p.responsibility || "none"));
     return `<div class="card-fieldwork"><span class="fw-dot"></span>\u{1F527} ${when}</div>` + (extra.length ? `<div class="card-sawater">${extra.join(" \u00B7 ")}</div>` : "");
   }
   if (hasFwTask(p)) return `<div class="card-fieldwork">\u{1F527} Field work task open</div>`;
@@ -451,7 +454,7 @@ function renderStats(fp) {
 function renderWorkload(fp) {
   if (fp.length === 0) return;
   const counts = {};
-  fp.forEach(p => { const r = p.responsibility || ""; counts[r] = (counts[r]||0) + 1; });
+  fp.forEach(p => { const r = rowResp(p); counts[r] = (counts[r]||0) + 1; });
   const maxCount = Math.max(...Object.values(counts), 1);
 
   // Bar chart
@@ -506,7 +509,7 @@ function renderWorkload(fp) {
 function renderBottleneck(fp) {
   if (fp.length === 0) { document.getElementById("bottleneckBar").innerHTML = ""; return; }
   const counts = {};
-  fp.forEach(p => { const r = p.responsibility || ""; counts[r] = (counts[r]||0) + 1; });
+  fp.forEach(p => { const r = rowResp(p); counts[r] = (counts[r]||0) + 1; });
   let segs = "";
   RESP_ORDER.forEach(r => {
     if (!counts[r]) return;
@@ -525,7 +528,7 @@ function renderKanbanByResp(fp) {
   const groups = {};
   RESP_ORDER.forEach(r => groups[r] = []);
   fp.forEach(p => {
-    const r = p.responsibility || "";
+    const r = rowResp(p);
     if (!groups[r]) groups[r] = [];
     groups[r].push(p);
   });
