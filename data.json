@@ -233,13 +233,13 @@
       "address": "6 Buckley Cres, Fairview Park SA 5126, Australia",
       "client": "Matthew Kantarias",
       "link": "https://crm.na1.insightly.com/details/project/18476014",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Field Work",
       "days_in_stage": 12,
       "stage_name": "Prepare Project",
       "sa_water_ref": "",
       "stage_order": 1,
       "tags": [],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.7981736,
       "lng": 138.7285001
@@ -2415,6 +2415,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-13T13:00:42.708147+09:30",
+  "last_updated": "2026-10-13T13:15:27.198855+09:30",
   "total": 109
 }

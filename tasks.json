@@ -4291,7 +4291,7 @@
       ]
     },
     "18476014": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -4322,6 +4322,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208159202,
+          "title": "Ask DP for schedule as per 6 weeks ETA of tree ",
+          "due_date": "2026-11-04",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -5068,10 +5077,10 @@
     }
   ],
   "summary": {
-    "total_open": 418,
+    "total_open": 419,
     "total_overdue": 43,
     "total_due_today": 1,
     "projects_with_tasks": 102
   },
-  "last_updated": "2026-10-13T13:00:42.708147+09:30"
+  "last_updated": "2026-10-13T13:15:27.198855+09:30"
 }

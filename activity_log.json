@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18476014,
+      "project_name": "K1036 - Buckley Cres 1-3TD",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "Field Work",
+      "timestamp": "2026-10-13T13:15:27.198855+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17956195,
       "project_name": "A1336 The Parade TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-08-27T14:00:31.711842+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18400559,
-      "project_name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-08-27T13:45:26.759894+09:30"
     }
   ],
-  "last_updated": "2026-10-13T13:00:42.708147+09:30"
+  "last_updated": "2026-10-13T13:15:27.198855+09:30"
 }
