@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18474571,
+      "project_name": "C1068 - Broadacres Dr CONTOUR",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-13T13:30:49.115221+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18489079,
+      "project_name": "A1360 - Joseph St IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "Field Work",
+      "timestamp": "2026-10-13T13:30:49.115221+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18476014,
       "project_name": "K1036 - Buckley Cres 1-3TD",
@@ -1781,25 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "Client",
       "timestamp": "2026-08-27T14:30:39.763585+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18420550,
-      "project_name": "W1022 Main North Rd TIER3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Invoice & Close",
-      "timestamp": "2026-08-27T14:00:31.711842+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18420550,
-      "project_name": "W1022 Main North Rd TIER3",
-      "tier": "T3",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-27T14:00:31.711842+09:30"
     }
   ],
-  "last_updated": "2026-10-13T13:15:27.198855+09:30"
+  "last_updated": "2026-10-13T13:30:49.115221+09:30"
 }
