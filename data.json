@@ -46,29 +46,6 @@
       "lng": -78.6568942
     },
     {
-      "id": 18400559,
-      "name": "B1142 Knoll Crescent IDENT & CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "2 Knoll Crescent, Teringie SA 5072",
-      "client": "David Block",
-      "link": "https://crm.na1.insightly.com/details/project/18400559",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 48,
-      "stage_name": "Prepare Plan",
-      "sa_water_ref": "",
-      "stage_order": 3,
-      "tags": [
-        "tier1",
-        "field",
-        "ident_and_contour"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.911276,
-      "lng": 138.6979856
-    },
-    {
       "id": 18056682,
       "name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -773,8 +750,7 @@
       "tags": [
         "bargain_steel",
         "tier2",
-        "torrens_divison",
-        "field"
+        "torrens_divison"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2413,6 +2389,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T13:15:28.491879+09:30",
-  "total": 109
+  "last_updated": "2026-10-14T13:30:48.260333+09:30",
+  "total": 108
 }
