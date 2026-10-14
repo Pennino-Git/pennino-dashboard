@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18454639,
+      "project_name": "G1041 Main South Rd IDENT",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-10-15T08:00:39.791370+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-10-15T08:00:39.791370+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18471829,
       "project_name": "T1338 - Nazer Reserve Water",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-08-28T16:15:25.393029+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18403480,
-      "project_name": "Z1073 Hawker Rd CONTOUR",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-08-28T16:15:25.393029+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415320,
-      "project_name": "C1066 Haig St IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "DP (Damiano)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-08-28T16:15:25.393029+09:30"
     }
   ],
-  "last_updated": "2026-10-15T07:45:29.103909+09:30"
+  "last_updated": "2026-10-15T08:00:39.791370+09:30"
 }

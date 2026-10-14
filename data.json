@@ -121,10 +121,10 @@
       "client": "Michael C Talladira",
       "link": "https://crm.na1.insightly.com/details/project/18454639",
       "responsibility": "TR (Tristan)",
-      "days_in_stage": 28,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "ident",
         "tier1"
@@ -204,10 +204,10 @@
       "client": "Modi Rajapakshe",
       "link": "https://crm.na1.insightly.com/details/project/18483048",
       "responsibility": "Field Work",
-      "days_in_stage": 9,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Plan",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "lease",
         "tier1"
@@ -2286,6 +2286,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-15T07:45:29.103909+09:30",
+  "last_updated": "2026-10-15T08:00:39.791370+09:30",
   "total": 104
 }
