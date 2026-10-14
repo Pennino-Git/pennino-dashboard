@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18471829,
+      "project_name": "T1338 - Nazer Reserve Water",
+      "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-14T16:15:30.679968+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18471829,
+      "project_name": "T1338 - Nazer Reserve Water",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-14T16:15:30.679968+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18398274,
       "project_name": "Z1072 Frederick St IDENT",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-08-28T16:15:25.393029+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-08-28T15:15:27.022751+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15599174,
-      "project_name": "J1015 Eudunda Land TD1-50",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-08-28T15:00:31.901670+09:30"
     }
   ],
-  "last_updated": "2026-10-14T16:00:40.165811+09:30"
+  "last_updated": "2026-10-14T16:15:30.679968+09:30"
 }
