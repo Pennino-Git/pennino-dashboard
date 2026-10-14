@@ -290,7 +290,7 @@
       "id": 18363697,
       "name": "Z1071 Ann St LEASE",
       "tier": "T1",
-      "status": "IN PROGRESS",
+      "status": "NOT STARTED",
       "address": "33 Ann Street, Salisbury SA 5108",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18363697",
@@ -301,8 +301,7 @@
       "stage_order": 2,
       "tags": [
         "ident",
-        "tier1",
-        "field"
+        "tier1"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -1670,8 +1669,7 @@
       "stage_order": 3,
       "tags": [
         "tier2",
-        "torrens_division",
-        "field"
+        "torrens_division"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -1709,17 +1707,16 @@
       "address": "66 Elizabeth Road, Christie Downs SA 5164",
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18273554",
-      "responsibility": "Client",
+      "responsibility": "Field Work",
       "days_in_stage": 9,
       "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0193854",
       "stage_order": 4,
       "tags": [
         "tier2",
-        "torrens_division",
-        "field"
+        "torrens_division"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -35.1344244,
       "lng": 138.496923
@@ -2117,14 +2114,13 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18184868",
       "responsibility": "Client",
-      "days_in_stage": 70,
-      "stage_name": "Further Work Required",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier3",
-        "tpc",
-        "field"
+        "tpc"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2293,6 +2289,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T15:15:27.594345+09:30",
+  "last_updated": "2026-10-14T15:30:50.485928+09:30",
   "total": 104
 }
