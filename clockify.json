@@ -585,10 +585,6 @@
       "id": "69fa41e7fd2cefcde5f01127",
       "name": "F1114 Blackham Cres TD1-3"
     },
-    "F1145": {
-      "id": "6a16fec99da13919c0d0fa34",
-      "name": "F1145 South Para Rd IDENT"
-    },
     "F1146": {
       "id": "6a47454aca05603e6ee69326",
       "name": "F1146 Oakridge Rise TD1-4"
@@ -1854,6 +1850,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 463,
-  "last_updated": "2026-10-14T13:45:29.353536+09:30"
+  "total": 462,
+  "last_updated": "2026-10-14T14:00:41.977358+09:30"
 }

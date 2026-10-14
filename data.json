@@ -113,29 +113,6 @@
       "lng": 138.6321384
     },
     {
-      "id": 18317513,
-      "name": "F1145 South Para Rd IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "1498 South Para Road, Kersbrook SA 5231",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18317513",
-      "responsibility": "Client",
-      "days_in_stage": 76,
-      "stage_name": "Field Work Scheduled",
-      "sa_water_ref": "",
-      "stage_order": 2,
-      "tags": [
-        "ident",
-        "tier1",
-        "field"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.787853,
-      "lng": 138.8493891
-    },
-    {
       "id": 18433922,
       "name": "F1148 Stately Way IDENT",
       "tier": "T1",
@@ -999,8 +976,7 @@
         "tier2",
         "torrens_division",
         "city_of_tea_tree_gully",
-        "ridgehaven",
-        "field"
+        "ridgehaven"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2365,6 +2341,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T13:45:29.353536+09:30",
-  "total": 107
+  "last_updated": "2026-10-14T14:00:41.977358+09:30",
+  "total": 106
 }

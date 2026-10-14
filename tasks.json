@@ -2681,50 +2681,6 @@
         }
       ]
     },
-    "18317513": {
-      "total": 4,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 206732157,
-          "title": "Field work date scheduled",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206732158,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206957228,
-          "title": "Waiting on Client ",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 206957252,
-          "title": "Check status with client.",
-          "due_date": "2026-10-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "17845187": {
       "total": 3,
       "overdue": 1,
@@ -4920,17 +4876,6 @@
       "project_name": "A1343 Lower North East Rd EASEMENT"
     },
     {
-      "task_id": 206957252,
-      "title": "Check status with client.",
-      "due_date": "2026-10-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18317513,
-      "project_name": "F1145 South Para Rd IDENT"
-    },
-    {
       "task_id": 206977011,
       "title": "SA Water invoice paid?",
       "due_date": "2026-09-01",
@@ -5053,10 +4998,10 @@
     }
   ],
   "summary": {
-    "total_open": 416,
-    "total_overdue": 44,
+    "total_open": 412,
+    "total_overdue": 43,
     "total_due_today": 1,
-    "projects_with_tasks": 101
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-14T13:45:29.353536+09:30"
+  "last_updated": "2026-10-14T14:00:41.977358+09:30"
 }
