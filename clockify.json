@@ -1837,10 +1837,6 @@
       "id": "6a3c364bae497673cf3cd181",
       "name": "Z1071 Ann St LEASE"
     },
-    "Z1072": {
-      "id": "6a6040d3ca90319e6d52b57c",
-      "name": "Z1072 Frederick St IDENT"
-    },
     "Z1073": {
       "id": "6a67337535f43b28c5941a72",
       "name": "Z1073 Hawker Rd CONTOUR"
@@ -1850,6 +1846,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 462,
-  "last_updated": "2026-10-14T15:45:29.487124+09:30"
+  "total": 461,
+  "last_updated": "2026-10-14T16:00:40.165811+09:30"
 }

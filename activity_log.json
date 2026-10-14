@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18398274,
+      "project_name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-14T16:00:40.165811+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18471829,
       "project_name": "T1338 - Nazer Reserve Water",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-08-28T15:00:31.901670+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 11764688,
-      "project_name": "H1015 Barkey St TD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-08-28T12:30:43.807592+09:30"
     }
   ],
-  "last_updated": "2026-10-14T15:45:29.487124+09:30"
+  "last_updated": "2026-10-14T16:00:40.165811+09:30"
 }

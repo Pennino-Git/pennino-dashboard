@@ -312,20 +312,18 @@
       "id": 18398274,
       "name": "Z1072 Frederick St IDENT",
       "tier": "T1",
-      "status": "IN PROGRESS",
+      "status": "NOT STARTED",
       "address": "1-3 Frederick Street, Cavan SA 5094",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18398274",
-      "responsibility": "TR (Tristan)",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 84,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2,
       "tags": [
-        "tier1",
         "ident",
-        "zummo_design",
-        "field"
+        "zummo_design"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -348,8 +346,7 @@
       "tags": [
         "tier1",
         "contour",
-        "Zummo_design",
-        "field"
+        "Zummo_design"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2289,6 +2286,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T15:45:29.487124+09:30",
+  "last_updated": "2026-10-14T16:00:40.165811+09:30",
   "total": 104
 }
