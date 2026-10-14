@@ -1110,7 +1110,7 @@
       "address": "66 Auricchio Avenue, St Marys SA 5042",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/17708499",
-      "responsibility": "Council/Authority",
+      "responsibility": "Field Work",
       "days_in_stage": 125,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0181220",
@@ -1119,7 +1119,7 @@
         "tier2",
         "torrens_division"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -35.0091304,
       "lng": 138.5844318
@@ -2416,6 +2416,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T10:00:38.446716+09:30",
+  "last_updated": "2026-10-14T10:15:30.087358+09:30",
   "total": 109
 }
