@@ -636,7 +636,7 @@
       "address": "43 Gulf Parade, Maslin Beach SA 5170",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/18372992",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 77,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2416,6 +2416,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T09:45:30.983204+09:30",
+  "last_updated": "2026-10-14T10:00:38.446716+09:30",
   "total": 109
 }
