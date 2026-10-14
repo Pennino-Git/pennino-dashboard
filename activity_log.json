@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18212535,
+      "project_name": "D1069 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-14T13:45:29.353536+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-08-28T11:15:25.688060+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-08-28T05:00:34.460590+09:30"
     }
   ],
-  "last_updated": "2026-10-14T13:33:37.789371+09:30"
+  "last_updated": "2026-10-14T13:45:29.353536+09:30"
 }

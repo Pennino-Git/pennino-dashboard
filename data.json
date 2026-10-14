@@ -69,28 +69,6 @@
       "lng": 138.585005
     },
     {
-      "id": 18415320,
-      "name": "C1066 Haig St IDENT & CONTOUR",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "30 Haig Street, Broadview SA 5083",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18415320",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 34,
-      "stage_name": "Prepare Plan",
-      "sa_water_ref": "",
-      "stage_order": 3,
-      "tags": [
-        "tier1",
-        "ident_and_contour"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8752434,
-      "lng": 138.6150635
-    },
-    {
       "id": 18436280,
       "name": "C1067 Edward St IDENT",
       "tier": "T1",
@@ -2025,14 +2003,13 @@
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18212535",
       "responsibility": "Client",
-      "days_in_stage": 125,
-      "stage_name": "Further Work Required",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "downer",
-        "tier3",
-        "field"
+        "tier3"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2388,6 +2365,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T13:33:37.789371+09:30",
-  "total": 108
+  "last_updated": "2026-10-14T13:45:29.353536+09:30",
+  "total": 107
 }
