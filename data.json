@@ -2017,8 +2017,7 @@
       "stage_order": 5,
       "tags": [
         "tier3",
-        "apa",
-        "Field"
+        "apa"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2416,6 +2415,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T12:30:53.816540+09:30",
+  "last_updated": "2026-10-14T12:45:27.756738+09:30",
   "total": 109
 }
