@@ -575,8 +575,7 @@
       "tags": [
         "alete_homes",
         "community_division",
-        "tier2",
-        "Field"
+        "tier2"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -643,8 +642,7 @@
       "stage_order": 2,
       "tags": [
         "alete_homes",
-        "torrens_division",
-        "field"
+        "torrens_division"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2415,6 +2413,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T12:45:27.756738+09:30",
+  "last_updated": "2026-10-14T13:00:40.584014+09:30",
   "total": 109
 }
