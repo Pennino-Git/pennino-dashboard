@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18471829,
+      "project_name": "T1338 - Nazer Reserve Water",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-10-14T15:45:29.487124+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18471829,
+      "project_name": "T1338 - Nazer Reserve Water",
+      "tier": "T3",
+      "from": "Field Work",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-14T15:45:29.487124+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18184868,
       "project_name": "T1319 Grange Rd TIER3",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "LTO",
       "timestamp": "2026-08-28T12:30:43.807592+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18059610,
-      "project_name": "Z1062 Leon St TD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-08-28T11:30:41.805089+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18249652,
-      "project_name": "S1146 Symond St REALIGNMENT",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-08-28T11:30:41.805089+09:30"
     }
   ],
-  "last_updated": "2026-10-14T15:30:50.485928+09:30"
+  "last_updated": "2026-10-14T15:45:29.487124+09:30"
 }
