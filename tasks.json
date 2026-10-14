@@ -1141,8 +1141,8 @@
     },
     "17539782": {
       "total": 12,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1249,8 +1249,8 @@
           "title": "Call Council",
           "due_date": "2026-10-14",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3891,8 +3891,8 @@
     "18273554": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 3,
+      "due_today": 1,
+      "due_soon": 2,
       "tasks": [
         {
           "task_id": 207771729,
@@ -3918,8 +3918,8 @@
           "due_date": "2026-10-15",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208159903,
@@ -4495,15 +4495,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207998886,
-      "title": "Call Council",
-      "due_date": "2026-10-14",
+      "task_id": 208134476,
+      "title": "update Jim with SA Water's feedback",
+      "due_date": "2026-10-15",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -4979,13 +4979,24 @@
       "due_soon": false,
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
+      "task_id": 207998886,
+      "title": "Call Council",
+      "due_date": "2026-10-14",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "summary": {
     "total_open": 412,
-    "total_overdue": 43,
+    "total_overdue": 44,
     "total_due_today": 1,
     "projects_with_tasks": 98
   },
-  "last_updated": "2026-10-14T23:45:30.381891+09:30"
+  "last_updated": "2026-10-15T00:00:42.538581+09:30"
 }
