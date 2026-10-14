@@ -1269,8 +1269,7 @@
       "stage_order": 3,
       "tags": [
         "tier2",
-        "Torrens_Division",
-        "Field"
+        "Torrens_Division"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -1315,8 +1314,7 @@
       "tags": [
         "tier2",
         "community_division",
-        "staged",
-        "field"
+        "staged"
       ],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2317,6 +2315,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-14T14:45:29.432492+09:30",
+  "last_updated": "2026-10-14T15:00:43.819230+09:30",
   "total": 105
 }
