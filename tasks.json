@@ -671,8 +671,8 @@
     "17278348": {
       "total": 8,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 197665090,
@@ -743,8 +743,8 @@
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1666,8 +1666,8 @@
     "18046089": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205068657,
@@ -1702,8 +1702,8 @@
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2449,8 +2449,8 @@
     "17732479": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206006210,
@@ -2476,8 +2476,8 @@
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3855,8 +3855,8 @@
     },
     "18273554": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 2,
       "tasks": [
         {
@@ -3882,8 +3882,8 @@
           "title": "update Jim with SA Water's feedback",
           "due_date": "2026-10-15",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4338,8 +4338,8 @@
     "18254196": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208182985,
@@ -4365,8 +4365,8 @@
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4451,8 +4451,8 @@
     "18483048": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208202696,
@@ -4469,23 +4469,67 @@
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     }
   },
   "tasks_due_today": [
     {
-      "task_id": 208134476,
-      "title": "update Jim with SA Water's feedback",
-      "due_date": "2026-10-15",
+      "task_id": 207996069,
+      "title": "Ask DP if the info he's waiting on was provided",
+      "due_date": "2026-10-16",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2"
+    },
+    {
+      "task_id": 208159132,
+      "title": "Ask DP for actionables",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8"
+    },
+    {
+      "task_id": 208159148,
+      "title": "SCAP Certifciate?",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 208182987,
+      "title": "RFI reviewed by DP?",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 208213595,
+      "title": "Plan From Kate Recieved",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "tasks_overdue": [
@@ -4972,13 +5016,24 @@
       "due_soon": false,
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 208134476,
+      "title": "update Jim with SA Water's feedback",
+      "due_date": "2026-10-15",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "summary": {
     "total_open": 410,
-    "total_overdue": 44,
-    "total_due_today": 1,
+    "total_overdue": 45,
+    "total_due_today": 5,
     "projects_with_tasks": 98
   },
-  "last_updated": "2026-10-15T23:45:31.936783+09:30"
+  "last_updated": "2026-10-16T00:00:46.523936+09:30"
 }
