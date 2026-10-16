@@ -670,8 +670,8 @@
     },
     "17278348": {
       "total": 8,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -742,8 +742,8 @@
           "title": "Ask DP for actionables",
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -1665,8 +1665,8 @@
     },
     "18046089": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1701,8 +1701,8 @@
           "title": "Ask DP if the info he's waiting on was provided",
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2448,8 +2448,8 @@
     },
     "17732479": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2475,8 +2475,8 @@
           "title": "SCAP Certifciate?",
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4346,8 +4346,8 @@
     },
     "18254196": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -4373,8 +4373,8 @@
           "title": "RFI reviewed by DP?",
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4468,8 +4468,8 @@
     },
     "18483048": {
       "total": 2,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4486,70 +4486,14 @@
           "title": "Plan From Kate Recieved",
           "due_date": "2026-10-16",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207996069,
-      "title": "Ask DP if the info he's waiting on was provided",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18046089,
-      "project_name": "C1060 Orchestra Pl TD1-2"
-    },
-    {
-      "task_id": 208159132,
-      "title": "Ask DP for actionables",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17278348,
-      "project_name": "A1309 Fife St CD1-8"
-    },
-    {
-      "task_id": 208159148,
-      "title": "SCAP Certifciate?",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
-      "task_id": 208182987,
-      "title": "RFI reviewed by DP?",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
-    },
-    {
-      "task_id": 208213595,
-      "title": "Plan From Kate Recieved",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18483048,
-      "project_name": "R1037 - Angle Vale Lease Plan"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5025,6 +4969,17 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
+      "task_id": 207996069,
+      "title": "Ask DP if the info he's waiting on was provided",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18046089,
+      "project_name": "C1060 Orchestra Pl TD1-2"
+    },
+    {
       "task_id": 207998886,
       "title": "Call Council",
       "due_date": "2026-10-14",
@@ -5045,13 +5000,57 @@
       "due_soon": false,
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 208159132,
+      "title": "Ask DP for actionables",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8"
+    },
+    {
+      "task_id": 208159148,
+      "title": "SCAP Certifciate?",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
+    },
+    {
+      "task_id": 208182987,
+      "title": "RFI reviewed by DP?",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 208213595,
+      "title": "Plan From Kate Recieved",
+      "due_date": "2026-10-16",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "summary": {
     "total_open": 412,
-    "total_overdue": 45,
-    "total_due_today": 5,
+    "total_overdue": 50,
+    "total_due_today": 0,
     "projects_with_tasks": 98
   },
-  "last_updated": "2026-10-16T23:45:31.265884+09:30"
+  "last_updated": "2026-10-17T00:00:47.686624+09:30"
 }
