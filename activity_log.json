@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-10-16T15:15:29.593776+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-10-16T15:15:29.593776+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18377245,
       "project_name": "F1146 Oakridge Rise TD1-4",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "Further Work Required",
       "to": "Invoice & Close",
       "timestamp": "2026-08-28T16:30:44.864582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18264763,
-      "project_name": "S1147 Ashton Pl TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-28T16:30:44.864582+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18316698,
-      "project_name": "S1151 Morphett Rd TIER3",
-      "tier": "T3",
-      "from": "Plan to Client",
-      "to": "Invoice & Close",
-      "timestamp": "2026-08-28T16:30:44.864582+09:30"
     }
   ],
-  "last_updated": "2026-10-16T15:00:43.353808+09:30"
+  "last_updated": "2026-10-16T15:15:29.593776+09:30"
 }

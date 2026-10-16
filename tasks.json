@@ -2614,10 +2614,10 @@
       ]
     },
     "18393529": {
-      "total": 2,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2629,13 +2629,31 @@
           "due_soon": ""
         },
         {
-          "task_id": 207775832,
-          "title": "Council Decision Notification Form received",
+          "task_id": 208237027,
+          "title": "Allotment clearance confirmed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208237029,
+          "title": "SA Water Information Sent (Requires Pegging Of Allotments)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208237030,
+          "title": "check what's next? dnf sent to Jake",
+          "due_date": "2026-10-21",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4327,10 +4345,10 @@
       ]
     },
     "18254196": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 1,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 208182985,
@@ -4358,6 +4376,15 @@
           "overdue": false,
           "due_today": true,
           "due_soon": false
+        },
+        {
+          "task_id": 208237007,
+          "title": "Kate done with drafting?",
+          "due_date": "2026-10-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -5021,10 +5048,10 @@
     }
   ],
   "summary": {
-    "total_open": 409,
+    "total_open": 412,
     "total_overdue": 45,
     "total_due_today": 5,
     "projects_with_tasks": 98
   },
-  "last_updated": "2026-10-16T15:00:43.353808+09:30"
+  "last_updated": "2026-10-16T15:15:29.593776+09:30"
 }
