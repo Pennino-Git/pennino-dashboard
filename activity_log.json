@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18487253,
+      "project_name": "M1071 - Paxton St TD1-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-10-19T08:45:27.855840+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "AR (Alex)",
       "timestamp": "2026-08-28T16:30:44.864582+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18264763,
-      "project_name": "S1147 Ashton Pl TIER3",
-      "tier": "T3",
-      "from": "Further Work Required",
-      "to": "Invoice & Close",
-      "timestamp": "2026-08-28T16:30:44.864582+09:30"
     }
   ],
-  "last_updated": "2026-10-19T08:30:50.190890+09:30"
+  "last_updated": "2026-10-19T08:45:27.855840+09:30"
 }
