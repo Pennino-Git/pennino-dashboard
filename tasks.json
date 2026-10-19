@@ -669,8 +669,8 @@
       ]
     },
     "17278348": {
-      "total": 8,
-      "overdue": 2,
+      "total": 7,
+      "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -736,15 +736,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208159132,
-          "title": "Ask DP for actionables",
-          "due_date": "2026-10-16",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4345,8 +4336,8 @@
       ]
     },
     "18254196": {
-      "total": 4,
-      "overdue": 1,
+      "total": 3,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
       "tasks": [
@@ -4367,15 +4358,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208182987,
-          "title": "RFI reviewed by DP?",
-          "due_date": "2026-10-16",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         },
         {
           "task_id": 208237007,
@@ -5033,35 +5015,13 @@
       "due_soon": false,
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
-      "task_id": 208159132,
-      "title": "Ask DP for actionables",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17278348,
-      "project_name": "A1309 Fife St CD1-8"
-    },
-    {
-      "task_id": 208182987,
-      "title": "RFI reviewed by DP?",
-      "due_date": "2026-10-16",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "summary": {
-    "total_open": 416,
-    "total_overdue": 47,
+    "total_open": 414,
+    "total_overdue": 45,
     "total_due_today": 0,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-19T15:15:28.703104+09:30"
+  "last_updated": "2026-10-19T15:30:52.212831+09:30"
 }
