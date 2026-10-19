@@ -4517,6 +4517,23 @@
           "due_soon": ""
         }
       ]
+    },
+    "18415320": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208267107,
+          "title": "Plan sent to client",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [],
@@ -5018,10 +5035,10 @@
     }
   ],
   "summary": {
-    "total_open": 414,
+    "total_open": 415,
     "total_overdue": 45,
     "total_due_today": 0,
-    "projects_with_tasks": 99
+    "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-19T15:45:29.308167+09:30"
+  "last_updated": "2026-10-19T16:00:39.680372+09:30"
 }
