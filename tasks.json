@@ -1133,8 +1133,8 @@
     "17539782": {
       "total": 12,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1241,8 +1241,8 @@
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3856,8 +3856,8 @@
     "18273554": {
       "total": 5,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 3,
+      "due_today": 3,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207771729,
@@ -3865,8 +3865,8 @@
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 207995325,
@@ -3874,8 +3874,8 @@
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208134476,
@@ -3901,8 +3901,8 @@
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4338,8 +4338,8 @@
     "18254196": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208182985,
@@ -4365,8 +4365,8 @@
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4536,7 +4536,63 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 207771729,
+      "title": "SA Water 20 bdays almost up",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 207995325,
+      "title": "Check if Demo is done",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 208237007,
+      "title": "Kate done with drafting?",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4"
+    },
+    {
+      "task_id": 208265651,
+      "title": "Did TR respond?",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 208266631,
+      "title": "Update from Council? ",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -5037,8 +5093,8 @@
   "summary": {
     "total_open": 415,
     "total_overdue": 45,
-    "total_due_today": 0,
+    "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-19T23:45:32.438527+09:30"
+  "last_updated": "2026-10-20T00:00:44.659951+09:30"
 }
