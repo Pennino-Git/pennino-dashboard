@@ -2298,7 +2298,10 @@
       "stage_name": "Invoice & Close",
       "sa_water_ref": "",
       "stage_order": 6,
-      "tags": [],
+      "tags": [
+        "tier3",
+        "tpc"
+      ],
       "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.8488083,
@@ -2327,6 +2330,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-20T05:54:05.814591+09:30",
+  "last_updated": "2026-10-20T06:00:41.844804+09:30",
   "total": 106
 }
