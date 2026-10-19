@@ -46,6 +46,25 @@
       "lng": -78.6568942
     },
     {
+      "id": 18496189,
+      "name": "A1361 - Candover Cres Ident RePeg",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "Lot 701 Candover Crescent Hunfield Heights",
+      "client": "Ali Prior",
+      "link": "https://crm.na1.insightly.com/details/project/18496189",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -35.1489731,
+      "lng": 138.5082043
+    },
+    {
       "id": 18056682,
       "name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -184,13 +203,13 @@
       "address": "7 Holmes Ave, Redwood Park SA 5097, Australia",
       "client": "Marco Laudato",
       "link": "https://crm.na1.insightly.com/details/project/18489026",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Field Work",
       "days_in_stage": 7,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2,
       "tags": [],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.8153506,
       "lng": 138.7101726
@@ -2286,6 +2305,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-19T15:00:40.551761+09:30",
-  "total": 104
+  "last_updated": "2026-10-19T15:15:28.703104+09:30",
+  "total": 105
 }

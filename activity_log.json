@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18489026,
+      "project_name": "L1048 - Holmes Ave IDENT",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "Field Work",
+      "timestamp": "2026-10-19T15:15:28.703104+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18487253,
       "project_name": "M1071 - Paxton St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Further Work Required",
       "to": "Invoice & Close",
       "timestamp": "2026-08-28T16:30:44.864582+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17847395,
-      "project_name": "S1134 Wynn Vale Dr TIER3",
-      "tier": "T3",
-      "from": "Client",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-28T16:30:44.864582+09:30"
     }
   ],
-  "last_updated": "2026-10-19T15:00:40.551761+09:30"
+  "last_updated": "2026-10-19T15:15:28.703104+09:30"
 }
