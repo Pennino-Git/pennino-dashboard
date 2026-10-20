@@ -31,16 +31,16 @@
       "address": "Lot 1343 Joseph Street, Virginia",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18489079",
-      "responsibility": "Field Work",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 0,
-      "stage_name": "Send Plan to Client",
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 5,
       "tags": [
         "ident",
         "tier1"
       ],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false,
       "lat": 37.4315734,
       "lng": -78.6568942
@@ -55,9 +55,9 @@
       "link": "https://crm.na1.insightly.com/details/project/18496189",
       "responsibility": "AR (Alex)",
       "days_in_stage": 0,
-      "stage_name": "Send Plan to Client",
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 5,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2152,10 +2152,10 @@
       "client": "Rob Wooton",
       "link": "https://crm.na1.insightly.com/details/project/18184868",
       "responsibility": "Client",
-      "days_in_stage": 6,
-      "stage_name": "Invoice & Close",
+      "days_in_stage": 0,
+      "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
-      "stage_order": 6,
+      "stage_order": 3,
       "tags": [
         "tier3",
         "tpc"
@@ -2330,6 +2330,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-20T09:45:28.303282+09:30",
+  "last_updated": "2026-10-20T10:00:44.529578+09:30",
   "total": 106
 }
