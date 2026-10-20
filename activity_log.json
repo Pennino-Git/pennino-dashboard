@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-21T08:45:28.014226+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18497594,
       "project_name": "T1339 - Lockleys Pot PU T3",
@@ -1790,16 +1799,7 @@
       "from": "SCAP/DAC",
       "to": "Client",
       "timestamp": "2026-09-02T10:44:21.766279+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-02T04:15:26.067800+09:30"
     }
   ],
-  "last_updated": "2026-10-21T08:30:48.079830+09:30"
+  "last_updated": "2026-10-21T08:45:28.014226+09:30"
 }
