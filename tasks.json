@@ -2945,7 +2945,7 @@
       ]
     },
     "18377245": {
-      "total": 6,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -2971,15 +2971,6 @@
         {
           "task_id": 208136184,
           "title": "SCAP certificate application submitted",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208136185,
-          "title": "Open Space invoice received & Sent to Client",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5100,10 +5091,10 @@
     }
   ],
   "summary": {
-    "total_open": 416,
+    "total_open": 415,
     "total_overdue": 45,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-20T10:45:31.318943+09:30"
+  "last_updated": "2026-10-20T11:00:46.178480+09:30"
 }
