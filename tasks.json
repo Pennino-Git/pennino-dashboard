@@ -1132,8 +1132,8 @@
     },
     "17539782": {
       "total": 12,
-      "overdue": 5,
-      "due_today": 1,
+      "overdue": 6,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1240,8 +1240,8 @@
           "title": "Update from Council? ",
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2500,8 +2500,8 @@
     "18393529": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206461758,
@@ -2536,8 +2536,8 @@
           "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3111,8 +3111,8 @@
     "18308881": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207318721,
@@ -3138,8 +3138,8 @@
           "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3686,8 +3686,8 @@
     },
     "18273554": {
       "total": 5,
-      "overdue": 1,
-      "due_today": 3,
+      "overdue": 4,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3695,8 +3695,8 @@
           "title": "SA Water 20 bdays almost up",
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3704,8 +3704,8 @@
           "title": "Check if Demo is done",
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3731,8 +3731,8 @@
           "title": "Did TR respond?",
           "due_date": "2026-10-20",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4090,8 +4090,8 @@
     "18489026": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208133593,
@@ -4117,8 +4117,8 @@
           "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4229,8 +4229,8 @@
     "18483048": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208202696,
@@ -4247,8 +4247,8 @@
           "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4377,8 +4377,8 @@
     "17732479": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 2,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 208292862,
@@ -4404,8 +4404,8 @@
           "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208292881,
@@ -4465,48 +4465,59 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207771729,
-      "title": "SA Water 20 bdays almost up",
-      "due_date": "2026-10-20",
+      "task_id": 208039769,
+      "title": "Consent fee #503126 \u2014 $907",
+      "due_date": "2026-10-21",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT"
     },
     {
-      "task_id": 207995325,
-      "title": "Check if Demo is done",
-      "due_date": "2026-10-20",
+      "task_id": 208134250,
+      "title": "Per DP, this is to be done later this month Check if it's good",
+      "due_date": "2026-10-21",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 18489026,
+      "project_name": "L1048 - Holmes Ave IDENT"
     },
     {
-      "task_id": 208265651,
-      "title": "Did TR respond?",
-      "due_date": "2026-10-20",
+      "task_id": 208213595,
+      "title": "Plan From Kate Recieved",
+      "due_date": "2026-10-21",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     },
     {
-      "task_id": 208266631,
-      "title": "Update from Council? ",
-      "due_date": "2026-10-20",
+      "task_id": 208237030,
+      "title": "check what's next? dnf sent to Jake",
+      "due_date": "2026-10-21",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 17539782,
-      "project_name": "A1318 Euston Ave CD1-4"
+      "project_id": 18393529,
+      "project_name": "F1147 Norongo St TD1-3"
+    },
+    {
+      "task_id": 208292880,
+      "title": "Plan Lodged Via DPL",
+      "due_date": "2026-10-21",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "tasks_overdue": [
@@ -4962,6 +4973,17 @@
       "project_name": "O1012 The Hind Marsh Estate TD 1 - 150"
     },
     {
+      "task_id": 207771729,
+      "title": "SA Water 20 bdays almost up",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
       "task_id": 207791429,
       "title": "Prep INV",
       "due_date": "2026-09-25",
@@ -4984,6 +5006,17 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
+      "task_id": 207995325,
+      "title": "Check if Demo is done",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
       "task_id": 207996069,
       "title": "Ask DP if the info he's waiting on was provided",
       "due_date": "2026-10-16",
@@ -5004,13 +5037,35 @@
       "due_soon": false,
       "project_id": 18273554,
       "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 208265651,
+      "title": "Did TR respond?",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
+    },
+    {
+      "task_id": 208266631,
+      "title": "Update from Council? ",
+      "due_date": "2026-10-20",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     }
   ],
   "summary": {
     "total_open": 406,
-    "total_overdue": 45,
-    "total_due_today": 4,
+    "total_overdue": 49,
+    "total_due_today": 5,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-20T23:50:55.036640+09:30"
+  "last_updated": "2026-10-21T00:00:42.931677+09:30"
 }
