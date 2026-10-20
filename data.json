@@ -177,7 +177,7 @@
     },
     {
       "id": 18476014,
-      "name": "K1036 - Buckley Cres 1-3TD",
+      "name": "K1036 - Buckley Cres TD1-3",
       "tier": "T1",
       "status": "IN PROGRESS",
       "address": "6 Buckley Cres, Fairview Park SA 5126, Australia",
@@ -2330,6 +2330,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-20T10:00:44.529578+09:30",
+  "last_updated": "2026-10-20T10:15:26.551961+09:30",
   "total": 106
 }
