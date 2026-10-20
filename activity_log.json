@@ -2,6 +2,33 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17902817,
+      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Field Work",
+      "timestamp": "2026-10-20T13:15:27.512683+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18363697,
+      "project_name": "Z1071 Ann St LEASE",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Field Work",
+      "timestamp": "2026-10-20T13:15:27.512683+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18398274,
+      "project_name": "Z1072 Frederick St IDENT",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "Field Work",
+      "timestamp": "2026-10-20T13:15:27.512683+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18475883,
       "project_name": "C1069 Destroyer TD1-3",
       "tier": "T2",
@@ -1772,34 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-01T10:30:41.979846+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-31T10:24:21.046123+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-08-30T23:00:34.968301+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "Plan to Client",
-      "to": "Invoice & Close",
-      "timestamp": "2026-08-29T14:30:40.837110+09:30"
     }
   ],
-  "last_updated": "2026-10-20T13:00:38.678450+09:30"
+  "last_updated": "2026-10-20T13:15:27.512683+09:30"
 }

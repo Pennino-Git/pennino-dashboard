@@ -311,7 +311,7 @@
       "address": "87 Stanbel Road, Salisbury Plain SA 5109",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17902817",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Field Work",
       "days_in_stage": 131,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -322,7 +322,7 @@
         "contour",
         "zummo_design"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.7721687,
       "lng": 138.6626321
@@ -335,7 +335,7 @@
       "address": "33 Ann Street, Salisbury SA 5108",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/18363697",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Field Work",
       "days_in_stage": 90,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -344,7 +344,7 @@
         "ident",
         "tier1"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.765423,
       "lng": 138.647997
@@ -357,7 +357,7 @@
       "address": "1-3 Frederick Street, Cavan SA 5094",
       "client": "",
       "link": "https://crm.na1.insightly.com/details/project/18398274",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Field Work",
       "days_in_stage": 90,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -366,7 +366,7 @@
         "ident",
         "zummo_design"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.8309923,
       "lng": 138.6018763
@@ -2330,6 +2330,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-20T13:00:38.678450+09:30",
+  "last_updated": "2026-10-20T13:15:27.512683+09:30",
   "total": 106
 }
