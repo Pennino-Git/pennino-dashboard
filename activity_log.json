@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18475883,
+      "project_name": "C1069 Destroyer TD1-3",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-10-20T10:30:52.895873+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18184868,
       "project_name": "T1319 Grange Rd TIER3",
@@ -1790,16 +1799,7 @@
       "from": "Plan to Client",
       "to": "Invoice & Close",
       "timestamp": "2026-08-29T14:30:40.837110+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18289825,
-      "project_name": "S1149 Kensington Park TIER3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-08-29T14:30:40.837110+09:30"
     }
   ],
-  "last_updated": "2026-10-20T10:15:26.551961+09:30"
+  "last_updated": "2026-10-20T10:30:52.895873+09:30"
 }
