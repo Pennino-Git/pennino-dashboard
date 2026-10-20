@@ -4425,35 +4425,35 @@
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 208292958,
-          "title": "Job folder created in Dropbox/Clockify",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208292959,
-          "title": "DBYD responses received and reviewed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208292960,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 208292961,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208293056,
+          "title": "Field work date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208293057,
+          "title": "Third Parties Booked",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208293058,
+          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -5012,5 +5012,5 @@
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-20T15:45:30.184550+09:30"
+  "last_updated": "2026-10-20T16:00:38.508581+09:30"
 }
