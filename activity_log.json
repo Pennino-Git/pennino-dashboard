@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "9. LTO Lodgement",
+      "timestamp": "2026-10-20T15:15:28.413229+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18184868,
       "project_name": "T1319 Grange Rd TIER3",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-01T18:00:32.197013+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18415275,
-      "project_name": "E1037 Eastern Pde CD1-7",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-01T15:45:27.430340+09:30"
     }
   ],
-  "last_updated": "2026-10-20T15:00:38.310032+09:30"
+  "last_updated": "2026-10-20T15:15:28.413229+09:30"
 }
