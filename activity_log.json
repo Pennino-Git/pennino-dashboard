@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18499118,
+      "project_name": "B1143 - Heaslip Rd CONTOUR",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "Field Work",
+      "timestamp": "2026-10-21T22:00:46.213562+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18489026,
       "project_name": "L1048 - Holmes Ave IDENT",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-02T16:00:32.372630+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18445572,
-      "project_name": "T1334 - Wingfield Water Test Hole",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-02T15:30:40.406367+09:30"
     }
   ],
-  "last_updated": "2026-10-21T21:45:28.776183+09:30"
+  "last_updated": "2026-10-21T22:00:46.213562+09:30"
 }
