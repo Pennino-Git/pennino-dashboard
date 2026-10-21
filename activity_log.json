@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "9. LTO Lodgement",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-10-21T15:00:38.264481+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 ",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "LTO",
+      "timestamp": "2026-10-21T15:00:38.264481+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18454639,
       "project_name": "G1041 Main South Rd IDENT",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-02T15:23:59.326276+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18445564,
-      "project_name": "T1333 - Ormison Court Water T3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-02T15:15:24.772554+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18445564,
-      "project_name": "T1333 - Ormison Court Water T3",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-02T15:15:24.772554+09:30"
     }
   ],
-  "last_updated": "2026-10-21T14:45:27.733088+09:30"
+  "last_updated": "2026-10-21T15:00:38.264481+09:30"
 }

@@ -4366,50 +4366,6 @@
         }
       ]
     },
-    "17732479": {
-      "total": 4,
-      "overdue": 0,
-      "due_today": 2,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208292862,
-          "title": "Issue Final PAA Invoice",
-          "due_date": "2026-10-21",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 208292879,
-          "title": "LTO fees paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208292880,
-          "title": "Plan Lodged Via DPL",
-          "due_date": "2026-10-21",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
-        },
-        {
-          "task_id": 208292881,
-          "title": "Advised all Parties of Lodgement",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18497594": {
       "total": 4,
       "overdue": 0,
@@ -4453,6 +4409,32 @@
           "due_soon": ""
         }
       ]
+    },
+    "17732479": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208317894,
+          "title": "LTO Examined and Approved",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208317895,
+          "title": "Confirmation of Approval Sent to All Parties",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -4477,28 +4459,6 @@
       "due_soon": false,
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3"
-    },
-    {
-      "task_id": 208292862,
-      "title": "Issue Final PAA Invoice",
-      "due_date": "2026-10-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
-      "task_id": 208292880,
-      "title": "Plan Lodged Via DPL",
-      "due_date": "2026-10-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17732479,
-      "project_name": "S1130 Strawson Rd TD1-2 "
     }
   ],
   "tasks_overdue": [
@@ -5032,10 +4992,10 @@
     }
   ],
   "summary": {
-    "total_open": 406,
+    "total_open": 404,
     "total_overdue": 48,
-    "total_due_today": 4,
+    "total_due_today": 2,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-21T14:45:27.733088+09:30"
+  "last_updated": "2026-10-21T15:00:38.264481+09:30"
 }

@@ -1654,11 +1654,11 @@
       "address": "6 & 8A Strawson Road, Northfield SA 5085",
       "client": "Saran (Saranjeet) Singh",
       "link": "https://crm.na1.insightly.com/details/project/17732479",
-      "responsibility": "SCAP/DAC",
-      "days_in_stage": 1,
-      "stage_name": "9. LTO Lodgement",
+      "responsibility": "LTO",
+      "days_in_stage": 0,
+      "stage_name": "10. LTO Approval",
       "sa_water_ref": "H0183205",
-      "stage_order": 9,
+      "stage_order": 10,
       "tags": [
         "tier2",
         "torrens_division",
@@ -2349,6 +2349,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T14:45:27.733088+09:30",
+  "last_updated": "2026-10-21T15:00:38.264481+09:30",
   "total": 107
 }
