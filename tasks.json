@@ -4123,9 +4123,9 @@
       ]
     },
     "18254196": {
-      "total": 3,
+      "total": 2,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4145,15 +4145,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208314446,
-          "title": "AR to send plan to Council to address RFI",
-          "due_date": "2026-10-21",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4527,17 +4518,6 @@
       "due_soon": false,
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 "
-    },
-    {
-      "task_id": 208314446,
-      "title": "AR to send plan to Council to address RFI",
-      "due_date": "2026-10-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -5082,10 +5062,10 @@
     }
   ],
   "summary": {
-    "total_open": 407,
+    "total_open": 406,
     "total_overdue": 49,
-    "total_due_today": 6,
+    "total_due_today": 5,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-21T09:30:49.579608+09:30"
+  "last_updated": "2026-10-21T09:45:25.886582+09:30"
 }

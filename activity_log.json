@@ -5,6 +5,15 @@
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Council/Authority",
+      "timestamp": "2026-10-21T09:45:25.886582+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-10-21T08:45:28.014226+09:30"
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-02T11:15:25.055243+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17923064,
-      "project_name": "F1108 Kurrajong Pl TD1-3",
-      "tier": "T2",
-      "from": "SCAP/DAC",
-      "to": "Client",
-      "timestamp": "2026-09-02T10:44:21.766279+09:30"
     }
   ],
-  "last_updated": "2026-10-21T09:30:49.579608+09:30"
+  "last_updated": "2026-10-21T09:45:25.886582+09:30"
 }
