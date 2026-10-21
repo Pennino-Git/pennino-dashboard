@@ -3694,8 +3694,8 @@
       ]
     },
     "18273554": {
-      "total": 5,
-      "overdue": 4,
+      "total": 4,
+      "overdue": 3,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3712,15 +3712,6 @@
           "task_id": 207995325,
           "title": "Check if Demo is done",
           "due_date": "2026-10-20",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 208134476,
-          "title": "update Jim with SA Water's feedback",
-          "due_date": "2026-10-15",
           "status": "NOT STARTED",
           "overdue": true,
           "due_today": false,
@@ -3825,10 +3816,10 @@
       ]
     },
     "18475733": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207928046,
@@ -3874,6 +3865,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208316588,
+          "title": "Check about Architectural Response from PM",
+          "due_date": "2026-10-22",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4332,10 +4332,10 @@
       ]
     },
     "18489079": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 208290781,
@@ -4363,6 +4363,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208316646,
+          "title": "Prep INV- check average inv $$$",
+          "due_date": "2026-10-23",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     },
@@ -4386,17 +4395,17 @@
     "17732479": {
       "total": 4,
       "overdue": 0,
-      "due_today": 1,
-      "due_soon": 1,
+      "due_today": 2,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208292862,
           "title": "Issue Final PAA Invoice",
-          "due_date": "2026-10-22",
+          "due_date": "2026-10-21",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208292879,
@@ -4516,6 +4525,17 @@
       "due_soon": false,
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3"
+    },
+    {
+      "task_id": 208292862,
+      "title": "Issue Final PAA Invoice",
+      "due_date": "2026-10-21",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17732479,
+      "project_name": "S1130 Strawson Rd TD1-2 "
     },
     {
       "task_id": 208292880,
@@ -5037,17 +5057,6 @@
       "project_name": "C1060 Orchestra Pl TD1-2"
     },
     {
-      "task_id": 208134476,
-      "title": "update Jim with SA Water's feedback",
-      "due_date": "2026-10-15",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
-    },
-    {
       "task_id": 208265651,
       "title": "Did TR respond?",
       "due_date": "2026-10-20",
@@ -5071,10 +5080,10 @@
     }
   ],
   "summary": {
-    "total_open": 407,
-    "total_overdue": 49,
-    "total_due_today": 5,
+    "total_open": 408,
+    "total_overdue": 48,
+    "total_due_today": 6,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-21T10:45:27.330304+09:30"
+  "last_updated": "2026-10-21T11:00:40.392829+09:30"
 }
