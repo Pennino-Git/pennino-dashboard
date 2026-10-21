@@ -161,11 +161,11 @@
       "address": "32 Main S Rd, Morphett Vale SA 5162, Australia",
       "client": "Michael C Talladira",
       "link": "https://crm.na1.insightly.com/details/project/18454639",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 6,
-      "stage_name": "Prepare Plan",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 5,
       "tags": [
         "ident",
         "tier1"
@@ -2371,6 +2371,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T12:30:52.519338+09:30",
+  "last_updated": "2026-10-21T12:45:28.201260+09:30",
   "total": 108
 }

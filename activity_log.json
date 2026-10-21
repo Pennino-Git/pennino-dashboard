@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18454639,
+      "project_name": "G1041 Main South Rd IDENT",
+      "tier": "T1",
+      "from": "Prepare Plan",
+      "to": "Invoice",
+      "timestamp": "2026-10-21T12:45:28.201260+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18454639,
+      "project_name": "G1041 Main South Rd IDENT",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-21T12:45:28.201260+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-02T15:15:24.772554+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18425013,
-      "project_name": "M1069 Pederick Rd CD1-5",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-09-02T12:00:32.374441+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-02T11:15:25.055243+09:30"
     }
   ],
-  "last_updated": "2026-10-21T12:30:52.519338+09:30"
+  "last_updated": "2026-10-21T12:45:28.201260+09:30"
 }
