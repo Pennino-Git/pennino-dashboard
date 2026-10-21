@@ -203,13 +203,13 @@
       "address": "7 Holmes Ave, Redwood Park SA 5097, Australia",
       "client": "Marco Laudato",
       "link": "https://crm.na1.insightly.com/details/project/18489026",
-      "responsibility": "Field Work",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 9,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
       "stage_order": 2,
       "tags": [],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.8153506,
       "lng": 138.7101726
@@ -2349,6 +2349,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T15:15:30.280956+09:30",
+  "last_updated": "2026-10-21T15:30:49.403184+09:30",
   "total": 107
 }
