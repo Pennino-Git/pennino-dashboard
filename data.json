@@ -65,6 +65,25 @@
       "lng": 138.5082043
     },
     {
+      "id": 18499118,
+      "name": "B1143 - Heaslip Rd CONTOUR",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "795 Heaslip Rd, PENFIELD GARDENS",
+      "client": "Francesca  Serdaridis",
+      "link": "https://crm.na1.insightly.com/details/project/18499118",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.669705,
+      "lng": 138.6302806
+    },
+    {
       "id": 18056682,
       "name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -2349,6 +2368,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T21:30:52.431373+09:30",
-  "total": 107
+  "last_updated": "2026-10-21T21:45:28.776183+09:30",
+  "total": 108
 }
