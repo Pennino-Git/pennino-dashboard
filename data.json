@@ -154,28 +154,6 @@
       "lng": 138.6321384
     },
     {
-      "id": 18454639,
-      "name": "G1041 Main South Rd IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "32 Main S Rd, Morphett Vale SA 5162, Australia",
-      "client": "Michael C Talladira",
-      "link": "https://crm.na1.insightly.com/details/project/18454639",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 0,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.134201,
-      "lng": 138.5245239
-    },
-    {
       "id": 18476014,
       "name": "K1036 - Buckley Cres TD1-3",
       "tier": "T1",
@@ -2371,6 +2349,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T13:00:40.750819+09:30",
-  "total": 108
+  "last_updated": "2026-10-21T13:15:29.140027+09:30",
+  "total": 107
 }
