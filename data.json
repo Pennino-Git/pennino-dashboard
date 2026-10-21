@@ -74,9 +74,9 @@
       "link": "https://crm.na1.insightly.com/details/project/18499118",
       "responsibility": "Field Work",
       "days_in_stage": 0,
-      "stage_name": "Prepare Project",
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [],
       "needs_fieldwork": true,
       "is_premium": false,
@@ -2368,6 +2368,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-21T22:00:46.213562+09:30",
+  "last_updated": "2026-10-21T22:15:30.697118+09:30",
   "total": 108
 }
