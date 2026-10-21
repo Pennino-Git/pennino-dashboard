@@ -1248,9 +1248,9 @@
     },
     "18046019": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204449284,
@@ -1264,11 +1264,11 @@
         {
           "task_id": 205432370,
           "title": "Issue Final PAA Invoice",
-          "due_date": "2026-10-01",
+          "due_date": "2026-10-24",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 207822260,
@@ -4760,17 +4760,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 205432370,
-      "title": "Issue Final PAA Invoice",
-      "due_date": "2026-10-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18046019,
-      "project_name": "F1111 Bonnin St TD1-3"
-    },
-    {
       "task_id": 205536899,
       "title": "RFI \u2013 DIT Referral (DA 25031176 Land Division)",
       "due_date": "2026-08-01",
@@ -4982,9 +4971,9 @@
   ],
   "summary": {
     "total_open": 404,
-    "total_overdue": 45,
+    "total_overdue": 44,
     "total_due_today": 4,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-22T01:15:29.707098+09:30"
+  "last_updated": "2026-10-22T01:30:51.012835+09:30"
 }
