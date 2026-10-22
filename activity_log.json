@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18464665,
+      "project_name": "T1337 - Belair Rd Pots",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-10-22T13:30:46.660063+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18475733,
       "project_name": "A1359 - Rickaby St TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "TR (Tristan)",
       "timestamp": "2026-09-04T13:30:40.876212+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18433922,
-      "project_name": "F1148 Stately Way IDENT",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-09-04T08:15:30.165362+09:30"
     }
   ],
-  "last_updated": "2026-10-22T13:15:27.784716+09:30"
+  "last_updated": "2026-10-22T13:30:46.660063+09:30"
 }
