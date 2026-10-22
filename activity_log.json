@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "Client",
+      "timestamp": "2026-10-22T13:00:41.275786+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18273273,
       "project_name": "F1114 Blackham Cres TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Prepare Plan",
       "timestamp": "2026-09-04T08:15:30.165362+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-03T17:00:33.367907+09:30"
     }
   ],
-  "last_updated": "2026-10-22T12:45:29.182673+09:30"
+  "last_updated": "2026-10-22T13:00:41.275786+09:30"
 }
