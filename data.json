@@ -72,7 +72,7 @@
       "address": "4 Peerless Rd, Munno Para West SA 5115, Australia",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18501428",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 0,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2387,6 +2387,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-23T15:15:29.973976+09:30",
+  "last_updated": "2026-10-23T15:30:50.452440+09:30",
   "total": 109
 }

@@ -4437,20 +4437,11 @@
       ]
     },
     "18501428": {
-      "total": 2,
+      "total": 1,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 208363151,
-          "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 208363204,
           "title": "Field work completed",
@@ -5007,10 +4998,10 @@
     }
   ],
   "summary": {
-    "total_open": 406,
+    "total_open": 405,
     "total_overdue": 45,
     "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-23T15:15:29.973976+09:30"
+  "last_updated": "2026-10-23T15:30:50.452440+09:30"
 }

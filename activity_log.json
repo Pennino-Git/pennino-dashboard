@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18501428,
+      "project_name": "A1362 - Lot 701 Peerless Road Ident",
+      "tier": "T1",
+      "from": "DP (Damiano)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-10-23T15:30:50.452440+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17782437,
       "project_name": "F1106 Glenloth Dr TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-08T17:15:25.927890+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-09-08T16:15:26.066429+09:30"
     }
   ],
-  "last_updated": "2026-10-23T15:15:29.973976+09:30"
+  "last_updated": "2026-10-23T15:30:50.452440+09:30"
 }
