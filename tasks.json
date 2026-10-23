@@ -4227,20 +4227,11 @@
       ]
     },
     "18415320": {
-      "total": 2,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
       "tasks": [
-        {
-          "task_id": 208267107,
-          "title": "Plan sent to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 208284028,
           "title": "Prep INV",
@@ -4249,6 +4240,33 @@
           "overdue": false,
           "due_today": false,
           "due_soon": true
+        },
+        {
+          "task_id": 208363089,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208363090,
+          "title": "Payment received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208363091,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
@@ -4992,10 +5010,10 @@
     }
   ],
   "summary": {
-    "total_open": 404,
+    "total_open": 406,
     "total_overdue": 45,
     "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-23T14:15:27.650859+09:30"
+  "last_updated": "2026-10-23T14:30:48.353994+09:30"
 }

@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Send Plan to Client",
+      "to": "Invoice",
+      "timestamp": "2026-10-23T14:30:48.353994+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18464665,
       "project_name": "T1337 - Belair Rd Pots",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-07T13:30:38.983792+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "LTO",
-      "timestamp": "2026-09-07T13:15:25.435310+09:30"
     }
   ],
-  "last_updated": "2026-10-23T14:15:27.650859+09:30"
+  "last_updated": "2026-10-23T14:30:48.353994+09:30"
 }
