@@ -2,6 +2,42 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "8. Final Authority Approvals",
+      "to": "10. LTO Approval",
+      "timestamp": "2026-10-23T15:00:39.181830+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "LTO",
+      "timestamp": "2026-10-23T15:00:39.181830+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18501428,
+      "project_name": "A1362 - Lot 701 Peerless Road Ident",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-23T15:00:39.181830+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18501428,
+      "project_name": "A1362 - Lot 701 Peerless Road Ident",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-23T15:00:39.181830+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18415320,
       "project_name": "C1066 Haig St IDENT & CONTOUR",
       "tier": "T1",
@@ -1763,43 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-09-08T16:15:26.066429+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "3. Authority Assessment",
-      "to": "5. Certified Survey",
-      "timestamp": "2026-09-07T17:15:24.878977+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-07T17:15:24.878977+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18449645,
-      "project_name": "T1335 - DIT SLOT TRENCHES T3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-07T16:15:23.035156+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-07T13:30:38.983792+09:30"
     }
   ],
-  "last_updated": "2026-10-23T14:45:28.328757+09:30"
+  "last_updated": "2026-10-23T15:00:39.181830+09:30"
 }

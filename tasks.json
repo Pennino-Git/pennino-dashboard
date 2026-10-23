@@ -953,9 +953,9 @@
       ]
     },
     "17782437": {
-      "total": 12,
+      "total": 10,
       "overdue": 5,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1031,8 +1031,8 @@
           "due_soon": ""
         },
         {
-          "task_id": 205472490,
-          "title": "All remaining conditions cleared",
+          "task_id": 208363209,
+          "title": "LTO Examined and Approved",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -1040,31 +1040,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 205472492,
-          "title": "SA Water Conditions Met",
+          "task_id": 208363210,
+          "title": "Confirmation of Approval Sent to All Parties",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 205472493,
-          "title": "SCAP Certificate Recieved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208362082,
-          "title": "DPL lodged?",
-          "due_date": "2026-10-23",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4455,41 +4437,23 @@
       ]
     },
     "18501428": {
-      "total": 4,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 208363148,
-          "title": "Job folder created in Dropbox/Clockify",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208363149,
-          "title": "Title search completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208363150,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 208363151,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208363204,
+          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4543,17 +4507,6 @@
       "due_soon": false,
       "project_id": 18489079,
       "project_name": "A1360 - Joseph St IDENT"
-    },
-    {
-      "task_id": 208362082,
-      "title": "DPL lodged?",
-      "due_date": "2026-10-23",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -5054,10 +5007,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
+    "total_open": 406,
     "total_overdue": 45,
-    "total_due_today": 5,
+    "total_due_today": 4,
     "projects_with_tasks": 101
   },
-  "last_updated": "2026-10-23T14:45:28.328757+09:30"
+  "last_updated": "2026-10-23T15:00:39.181830+09:30"
 }
