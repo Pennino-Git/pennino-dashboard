@@ -65,6 +65,25 @@
       "lng": 138.5082043
     },
     {
+      "id": 18501428,
+      "name": "A1362 - Lot 701 Peerless Road Ident",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "4 Peerless Rd, Munno Para West SA 5115, Australia",
+      "client": "Ali Prior",
+      "link": "https://crm.na1.insightly.com/details/project/18501428",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.6657201,
+      "lng": 138.6748885
+    },
+    {
       "id": 18499118,
       "name": "B1143 - Heaslip Rd CONTOUR",
       "tier": "T1",
@@ -2368,6 +2387,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-23T14:30:48.353994+09:30",
-  "total": 108
+  "last_updated": "2026-10-23T14:45:28.328757+09:30",
+  "total": 109
 }
