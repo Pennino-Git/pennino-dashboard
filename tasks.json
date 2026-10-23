@@ -953,9 +953,9 @@
       ]
     },
     "17782437": {
-      "total": 11,
+      "total": 12,
       "overdue": 5,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -1056,6 +1056,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208362082,
+          "title": "DPL lodged?",
+          "due_date": "2026-10-23",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4472,6 +4481,17 @@
       "due_soon": false,
       "project_id": 18489079,
       "project_name": "A1360 - Joseph St IDENT"
+    },
+    {
+      "task_id": 208362082,
+      "title": "DPL lodged?",
+      "due_date": "2026-10-23",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17782437,
+      "project_name": "F1106 Glenloth Dr TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -4972,10 +4992,10 @@
     }
   ],
   "summary": {
-    "total_open": 403,
+    "total_open": 404,
     "total_overdue": 45,
-    "total_due_today": 4,
+    "total_due_today": 5,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-23T09:45:27.597424+09:30"
+  "last_updated": "2026-10-23T10:00:39.998038+09:30"
 }
