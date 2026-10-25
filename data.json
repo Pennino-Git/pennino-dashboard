@@ -748,7 +748,7 @@
       "address": "306-314 Diment Road, Burton SA 5110",
       "client": "Steve  Choimes",
       "link": "https://crm.na1.insightly.com/details/project/18390050",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 75,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2387,6 +2387,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-26T08:15:29.330171+09:30",
+  "last_updated": "2026-10-26T08:30:48.444643+09:30",
   "total": 109
 }
