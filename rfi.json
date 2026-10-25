@@ -77,21 +77,8 @@
       "type": "RFI",
       "description": "Regional Council of Goyder (Masterplan) RFI: 1) acoustic assessment by qualified expert re interface between new residential allotments and surrounding non-residential uses; 2) Practice Direction 14 site contamination declaration + preliminary site investigation by qualified consultant. Infrastructure referral still underway - further info may follow.",
       "due_date_iso": null
-    },
-    {
-      "app_id": "26025216",
-      "project_ref": "S1145",
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "insightly_id": "18254196",
-      "location": "29 MINORCA CR HACKHAM WEST SA 5163",
-      "authority": "City of Onkaparinga",
-      "due_date": "2027-01-14",
-      "status": "pending",
-      "type": "RFI",
-      "description": "RFI #1 (City of Onkaparinga): remove indicative building envelopes from Plan of Division.",
-      "due_date_iso": "2027-01-14"
     }
   ],
-  "last_updated": "2026-10-15T19:35:06.381Z",
-  "total": 7
+  "last_updated": "2026-10-25T19:35:12.160Z",
+  "total": 6
 }
