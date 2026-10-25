@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18476014,
+      "project_name": "K1036 - Buckley Cres TD1-3",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-10-26T08:45:26.475644+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18390050,
       "project_name": "B1141 Diment Rd TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-10T05:45:27.740958+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18451911,
-      "project_name": "A1356 Dunstan Ct RE-PEG",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-09-09T14:45:28.652705+09:30"
     }
   ],
-  "last_updated": "2026-10-26T08:30:48.444643+09:30"
+  "last_updated": "2026-10-26T08:45:26.475644+09:30"
 }

@@ -577,10 +577,6 @@
       "id": "692e6934fedb9a1687422cd2",
       "name": "F1108 Kurrajong Pl TD1-3"
     },
-    "F1111": {
-      "id": "6980099dd3341503fc5d8290",
-      "name": "F1111 Bonnin St TD1-3"
-    },
     "F1112": {
       "id": "6a24ffc141257465f54842e4",
       "name": "F1112 Isabella Rd TD1-3"
@@ -1854,6 +1850,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 463,
-  "last_updated": "2026-10-26T08:30:48.444643+09:30"
+  "total": 462,
+  "last_updated": "2026-10-26T08:45:26.475644+09:30"
 }
