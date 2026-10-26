@@ -1558,7 +1558,7 @@
       "address": "9-11 Holder Avenue, Richmond SA 5033",
       "client": "Joseph Scali",
       "link": "https://crm.na1.insightly.com/details/project/17845187",
-      "responsibility": "Client",
+      "responsibility": "AR (Alex)",
       "days_in_stage": 84,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0183449; NEW H0192566",
@@ -2364,6 +2364,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-26T10:45:26.310725+09:30",
+  "last_updated": "2026-10-26T11:00:37.189227+09:30",
   "total": 108
 }
