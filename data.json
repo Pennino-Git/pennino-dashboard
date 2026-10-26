@@ -1517,11 +1517,11 @@
       "address": "Lot 21 & 22 Pederick Road, Lewiston SA 5501",
       "client": "Moni  Mazzeo",
       "link": "https://crm.na1.insightly.com/details/project/18425013",
-      "responsibility": "Client",
-      "days_in_stage": 13,
-      "stage_name": "2. PlanSA Lodgement",
+      "responsibility": "Council/Authority",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "tier2",
         "Community_Division"
@@ -2364,6 +2364,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-26T12:45:30.979411+09:30",
+  "last_updated": "2026-10-26T13:00:38.948197+09:30",
   "total": 108
 }
