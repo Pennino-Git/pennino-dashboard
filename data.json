@@ -323,11 +323,11 @@
       "id": 17902817,
       "name": "Z1059 Stanbel Rd IDENT & CONTOUR",
       "tier": "T1",
-      "status": "IN PROGRESS",
+      "status": "DEFERRED",
       "address": "87 Stanbel Road, Salisbury Plain SA 5109",
       "client": "Andrew Zummo",
       "link": "https://crm.na1.insightly.com/details/project/17902817",
-      "responsibility": "Field Work",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 137,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -338,7 +338,7 @@
         "contour",
         "zummo_design"
       ],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.7721687,
       "lng": 138.6626321
@@ -2364,6 +2364,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-26T15:15:26.755191+09:30",
+  "last_updated": "2026-10-26T15:30:48.743474+09:30",
   "total": 108
 }

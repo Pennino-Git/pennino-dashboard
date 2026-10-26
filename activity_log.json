@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17902817,
+      "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
+      "tier": "T1",
+      "from": "Field Work",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-26T15:30:48.743474+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18425013,
       "project_name": "M1069 Pederick Rd CD1-5",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Prepare Plan",
       "timestamp": "2026-09-10T10:30:40.827144+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18436280,
-      "project_name": "C1067 Edward St IDENT",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-09-10T10:30:40.827144+09:30"
     }
   ],
-  "last_updated": "2026-10-26T15:15:26.755191+09:30"
+  "last_updated": "2026-10-26T15:30:48.743474+09:30"
 }
