@@ -952,104 +952,6 @@
         }
       ]
     },
-    "17782437": {
-      "total": 10,
-      "overdue": 5,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 204448414,
-          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 204449281,
-          "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 204449286,
-          "title": "\ud83c\udf89 Planning & Land Division Consent GRANTED \u2014 F1106 (25033689) | City of Onkaparinga",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 204580451,
-          "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
-          "due_date": "2026-07-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205373343,
-          "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205428926,
-          "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
-          "due_date": "2026-08-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 205430708,
-          "title": "6.3 Send all invoices to client",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 205430709,
-          "title": "6.4 All fees paid?",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208363209,
-          "title": "LTO Examined and Approved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208363210,
-          "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "16772033": {
       "total": 7,
       "overdue": 1,
@@ -4554,17 +4456,6 @@
       "project_name": "F1105 Auricchio Ave TD1-2"
     },
     {
-      "task_id": 204448414,
-      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-      "due_date": "2026-07-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 204448416,
       "title": "RFI Response \u2014 E1032 (25005003) | State Planning Commission",
       "due_date": "2026-06-29",
@@ -4598,17 +4489,6 @@
       "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 204449281,
-      "title": "RFI Response \u2014 F1106 (25032522) | City of Onkaparinga",
-      "due_date": "2026-07-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 204528159,
       "title": "D1071 Deeds Rd \u2014 Chase SA Water invoice if not received by 5pm",
       "due_date": "2026-04-21",
@@ -4631,17 +4511,6 @@
       "project_name": "D1071 Deeds Rd CD1-10"
     },
     {
-      "task_id": 204580451,
-      "title": "RFI Response #4 \u2014 F1106 (25032522) | City of Onkaparinga \u2014 Due 1 Jul 2026",
-      "due_date": "2026-07-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
       "task_id": 204967980,
       "title": "Invoice Payment \u2014 A1318 LOT 301 (25031176) | Payment Required",
       "due_date": "2026-05-24",
@@ -4662,28 +4531,6 @@
       "due_soon": false,
       "project_id": 18187753,
       "project_name": "D1068 Crossley Ave TD1-2"
-    },
-    {
-      "task_id": 205373343,
-      "title": "RFI #5 \u2013 25032522 Glenloth Dr (setback/trees/bins)",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
-    },
-    {
-      "task_id": 205428926,
-      "title": "RFI #5 \u2014 F1106 Glenloth Dr TD1-3 (due 24 Aug 2026)",
-      "due_date": "2026-08-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3"
     },
     {
       "task_id": 205428927,
@@ -4951,10 +4798,10 @@
     }
   ],
   "summary": {
-    "total_open": 402,
-    "total_overdue": 48,
+    "total_open": 392,
+    "total_overdue": 43,
     "total_due_today": 0,
-    "projects_with_tasks": 100
+    "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-27T09:00:39.362236+09:30"
+  "last_updated": "2026-10-27T09:15:28.170004+09:30"
 }
