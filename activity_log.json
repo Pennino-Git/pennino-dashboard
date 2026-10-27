@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-10-28T08:45:28.414692+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18505444,
       "project_name": "F1152 - HANISCH ST EASEMENT",
@@ -1790,16 +1799,7 @@
       "from": "SA Water",
       "to": "Client",
       "timestamp": "2026-09-10T12:00:36.118279+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-09-10T10:45:26.417319+09:30"
     }
   ],
-  "last_updated": "2026-10-28T08:30:48.908868+09:30"
+  "last_updated": "2026-10-28T08:45:28.414692+09:30"
 }
