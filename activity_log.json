@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-10-27T11:00:36.423691+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17902817,
       "project_name": "Z1059 Stanbel Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-10T10:30:40.827144+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18415320,
-      "project_name": "C1066 Haig St IDENT & CONTOUR",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Prepare Plan",
-      "timestamp": "2026-09-10T10:30:40.827144+09:30"
     }
   ],
-  "last_updated": "2026-10-27T10:45:34.644540+09:30"
+  "last_updated": "2026-10-27T11:00:36.423691+09:30"
 }
