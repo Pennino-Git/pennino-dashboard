@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-10-27T12:45:29.174455+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18273273,
       "project_name": "F1114 Blackham Cres TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "3. Authority Assessment",
       "timestamp": "2026-09-10T10:30:40.827144+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17956195,
-      "project_name": "A1336 The Parade TD1-2",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-10T10:30:40.827144+09:30"
     }
   ],
-  "last_updated": "2026-10-27T12:30:50.921251+09:30"
+  "last_updated": "2026-10-27T12:45:29.174455+09:30"
 }
