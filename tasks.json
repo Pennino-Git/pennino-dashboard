@@ -3247,9 +3247,9 @@
       ]
     },
     "18187249": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
-      "due_today": 0,
+      "due_today": 1,
       "due_soon": 0,
       "tasks": [
         {
@@ -3269,6 +3269,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208426704,
+          "title": "Call SA Water if no response",
+          "due_date": "2026-10-28",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4330,7 +4339,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 208426704,
+      "title": "Call SA Water if no response",
+      "due_date": "2026-10-28",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4796,10 +4817,10 @@
     }
   ],
   "summary": {
-    "total_open": 393,
+    "total_open": 394,
     "total_overdue": 42,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 99
   },
-  "last_updated": "2026-10-28T02:45:32.360880+09:30"
+  "last_updated": "2026-10-28T03:00:45.451158+09:30"
 }
