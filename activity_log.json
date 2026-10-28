@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "4. Conditions & Compliance",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-10-28T10:45:29.357661+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Field Work",
+      "timestamp": "2026-10-28T10:45:29.357661+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18501428,
       "project_name": "A1362 - Lot 701 Peerless Road Ident",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-15T09:45:26.030583+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "LTO",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-14T16:15:28.827552+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17928270,
-      "project_name": "J1024 Pine Ave TD1-4",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-09-14T11:00:34.005444+09:30"
     }
   ],
-  "last_updated": "2026-10-28T10:30:50.468385+09:30"
+  "last_updated": "2026-10-28T10:45:29.357661+09:30"
 }
