@@ -65,25 +65,6 @@
       "lng": 138.5082043
     },
     {
-      "id": 18501428,
-      "name": "A1362 - Lot 701 Peerless Road Ident",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "4 Peerless Rd, Munno Para West SA 5115, Australia",
-      "client": "Ali Prior",
-      "link": "https://crm.na1.insightly.com/details/project/18501428",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 0,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6657201,
-      "lng": 138.6748885
-    },
-    {
       "id": 18499118,
       "name": "B1143 - Heaslip Rd CONTOUR",
       "tier": "T1",
@@ -1555,7 +1536,7 @@
       "address": "9-11 Holder Avenue, Richmond SA 5033",
       "client": "Joseph Scali",
       "link": "https://crm.na1.insightly.com/details/project/17845187",
-      "responsibility": "AR (Alex)",
+      "responsibility": "Field Work",
       "days_in_stage": 86,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0183449; NEW H0192566",
@@ -1564,7 +1545,7 @@
         "tier2",
         "community_division"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.9405122,
       "lng": 138.5667367
@@ -2380,6 +2361,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-28T22:15:29.767441+09:30",
-  "total": 109
+  "last_updated": "2026-10-28T22:30:55.486300+09:30",
+  "total": 108
 }

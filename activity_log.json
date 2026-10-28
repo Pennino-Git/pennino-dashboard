@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17845187,
+      "project_name": "N1027 Holder Ave CD2-2",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Field Work",
+      "timestamp": "2026-10-28T22:30:55.486300+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18487294,
       "project_name": "S1155 - Helps Rd Syphon 1",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-16T10:00:37.620978+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18459045,
-      "project_name": "Z1075 - 10&11 Kindale Ct Contour",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-09-16T10:00:37.620978+09:30"
     }
   ],
-  "last_updated": "2026-10-28T22:15:29.767441+09:30"
+  "last_updated": "2026-10-28T22:30:55.486300+09:30"
 }
