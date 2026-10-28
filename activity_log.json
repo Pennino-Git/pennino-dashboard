@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-10-28T22:45:29.783986+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17845187,
       "project_name": "N1027 Holder Ave CD2-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-16T13:15:26.433154+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18459045,
-      "project_name": "Z1075 - 10&11 Kindale Ct Contour",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-16T10:00:37.620978+09:30"
     }
   ],
-  "last_updated": "2026-10-28T22:30:55.486300+09:30"
+  "last_updated": "2026-10-28T22:45:29.783986+09:30"
 }
