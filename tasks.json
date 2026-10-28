@@ -3930,20 +3930,11 @@
       ]
     },
     "18487253": {
-      "total": 5,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 208105977,
-          "title": "Concept plan drafted (Kate)",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 208105978,
           "title": "Concept plan sent to client for approval",
@@ -4958,10 +4949,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
+    "total_open": 409,
     "total_overdue": 41,
     "total_due_today": 1,
     "projects_with_tasks": 100
   },
-  "last_updated": "2026-10-28T11:45:29.602212+09:30"
+  "last_updated": "2026-10-28T12:00:38.369561+09:30"
 }

@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18487253,
+      "project_name": "M1071 - Paxton St TD1-2",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-28T12:00:38.369561+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-15T16:49:40.205724+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-15T09:45:26.030583+09:30"
     }
   ],
-  "last_updated": "2026-10-28T11:45:29.602212+09:30"
+  "last_updated": "2026-10-28T12:00:38.369561+09:30"
 }
