@@ -5,6 +5,15 @@
       "project_id": 18487253,
       "project_name": "M1071 - Paxton St TD1-2",
       "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Client",
+      "timestamp": "2026-10-28T12:30:50.210177+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18487253,
+      "project_name": "M1071 - Paxton St TD1-2",
+      "tier": "T2",
       "from": "Kate (Drafting)",
       "to": "AR (Alex)",
       "timestamp": "2026-10-28T12:00:38.369561+09:30"
@@ -1790,16 +1799,7 @@
       "from": "Search & DBYD",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-15T17:00:35.408372+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-15T16:49:40.205724+09:30"
     }
   ],
-  "last_updated": "2026-10-28T12:15:28.266648+09:30"
+  "last_updated": "2026-10-28T12:30:50.210177+09:30"
 }
