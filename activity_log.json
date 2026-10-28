@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18187249,
+      "project_name": "D1067 Eastern Pde TD1-2",
+      "tier": "T2",
+      "from": "SA Water",
+      "to": "Client",
+      "timestamp": "2026-10-29T09:15:27.655445+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Search & DBYD",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-16T13:15:26.433154+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18460385,
-      "project_name": "F1150 RAAF Base TIER3",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-16T13:15:26.433154+09:30"
     }
   ],
-  "last_updated": "2026-10-29T09:00:38.369844+09:30"
+  "last_updated": "2026-10-29T09:15:27.655445+09:30"
 }
