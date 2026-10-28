@@ -504,7 +504,7 @@
       "address": "Lot 300 Euston Avenue, Highgate SA 5063",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17539782",
-      "responsibility": "Field Work",
+      "responsibility": "Council/Authority",
       "days_in_stage": 0,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0189504",
@@ -514,7 +514,7 @@
         "alete_homes",
         "community_division"
       ],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.9634248,
       "lng": 138.6250584
@@ -2361,6 +2361,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-28T13:45:27.498271+09:30",
+  "last_updated": "2026-10-28T14:00:41.139483+09:30",
   "total": 108
 }

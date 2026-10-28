@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4",
+      "tier": "T2",
+      "from": "Field Work",
+      "to": "Council/Authority",
+      "timestamp": "2026-10-28T14:00:41.139483+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "Client",
       "timestamp": "2026-09-15T18:30:43.526143+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18443181,
-      "project_name": "V1022 Byre Ave CD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-09-15T18:15:27.174806+09:30"
     }
   ],
-  "last_updated": "2026-10-28T13:45:27.498271+09:30"
+  "last_updated": "2026-10-28T14:00:41.139483+09:30"
 }
