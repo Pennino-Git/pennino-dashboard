@@ -2144,13 +2144,13 @@
       "address": "306 Diment Rd, Burton SA 5110, Australia",
       "client": "Aaron Seychell",
       "link": "https://crm.na1.insightly.com/details/project/18487294",
-      "responsibility": "Field Work",
-      "days_in_stage": 19,
-      "stage_name": "Field Work Scheduled",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [],
-      "needs_fieldwork": true,
+      "needs_fieldwork": false,
       "is_premium": false,
       "lat": -34.7289957,
       "lng": 138.6068224
@@ -2361,6 +2361,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-28T15:15:28.851226+09:30",
+  "last_updated": "2026-10-28T15:30:52.632827+09:30",
   "total": 108
 }

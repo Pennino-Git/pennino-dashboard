@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18487294,
+      "project_name": "S1155 - Helps Rd Syphon 1",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-28T15:30:52.632827+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18487294,
+      "project_name": "S1155 - Helps Rd Syphon 1",
+      "tier": "T3",
+      "from": "Field Work",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-28T15:30:52.632827+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "TR (Tristan)",
       "timestamp": "2026-09-16T10:00:37.620978+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-09-16T04:15:28.105428+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18443116,
-      "project_name": "V1021 Grove Ave CD1-2",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Client",
-      "timestamp": "2026-09-15T18:30:43.526143+09:30"
     }
   ],
-  "last_updated": "2026-10-28T15:15:28.851226+09:30"
+  "last_updated": "2026-10-28T15:30:52.632827+09:30"
 }
