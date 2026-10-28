@@ -253,6 +253,25 @@
       "lng": 138.7101726
     },
     {
+      "id": 18505750,
+      "name": "L1049 - Womma Elec Easement",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "Lot 6000 Womma Road Andrews Farm",
+      "client": "Louis Beinke",
+      "link": "https://crm.na1.insightly.com/details/project/18505750",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.6949734,
+      "lng": 138.6503356
+    },
+    {
       "id": 18483048,
       "name": "R1037 - Angle Vale Lease Plan",
       "tier": "T1",
@@ -2361,6 +2380,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-28T15:45:29.155523+09:30",
-  "total": 108
+  "last_updated": "2026-10-28T16:00:42.037818+09:30",
+  "total": 109
 }
