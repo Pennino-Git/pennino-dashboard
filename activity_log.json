@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18501428,
+      "project_name": "A1362 - Lot 701 Peerless Road Ident",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Invoice",
+      "timestamp": "2026-10-28T09:45:28.345544+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18505444,
       "project_name": "F1152 - HANISCH ST EASEMENT",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-09-14T11:00:34.005444+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17700505,
-      "project_name": "A1324 Euston Ave CD1-7",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "Client",
-      "timestamp": "2026-09-10T12:00:36.118279+09:30"
     }
   ],
-  "last_updated": "2026-10-28T09:34:40.000359+09:30"
+  "last_updated": "2026-10-28T09:45:28.345544+09:30"
 }
