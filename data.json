@@ -2317,6 +2317,25 @@
       "lng": 138.5208258
     },
     {
+      "id": 18506998,
+      "name": "T1340 - ANDREWS RD POTS",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "Lot1006 Ceravolo Street Andrews Farm",
+      "client": "Rob Wootton",
+      "link": "https://crm.na1.insightly.com/details/project/18506998",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.6818477,
+      "lng": 138.6507731
+    },
+    {
       "id": 18420550,
       "name": "W1022 Main North Rd TIER3",
       "tier": "T3",
@@ -2339,6 +2358,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-29T12:15:26.605980+09:30",
-  "total": 107
+  "last_updated": "2026-10-29T12:30:51.106819+09:30",
+  "total": 108
 }
