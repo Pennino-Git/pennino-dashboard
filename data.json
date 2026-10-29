@@ -2071,28 +2071,6 @@
       "lng": 138.8169792
     },
     {
-      "id": 17847395,
-      "name": "S1134 Wynn Vale Dr TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Wynn Vale Drive",
-      "client": "Aaron Seychell",
-      "link": "https://crm.na1.insightly.com/details/project/17847395",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 62,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "seychell"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7972971,
-      "lng": 138.673632
-    },
-    {
       "id": 18103170,
       "name": "S1141 Montague & Bridge Rd TIER3",
       "tier": "T3",
@@ -2361,6 +2339,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-29T10:00:38.813181+09:30",
-  "total": 108
+  "last_updated": "2026-10-29T10:15:27.775518+09:30",
+  "total": 107
 }

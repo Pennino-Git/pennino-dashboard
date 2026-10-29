@@ -1273,10 +1273,6 @@
       "id": "68c118a5e702157429639c45",
       "name": "S1130 Strawson Rd TD1-2"
     },
-    "S1134": {
-      "id": "69099e97c1e468610d3f57c0",
-      "name": "S1134 Wynn Vale Dr TIER3"
-    },
     "S1136": {
       "id": "690973e00acd8e3cd7b09340",
       "name": "S1136 Elizabeth Rd TD1-3"
@@ -1858,6 +1854,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 464,
-  "last_updated": "2026-10-29T10:00:38.813181+09:30"
+  "total": 463,
+  "last_updated": "2026-10-29T10:15:27.775518+09:30"
 }
