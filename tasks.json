@@ -3040,8 +3040,8 @@
     },
     "18443116": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3067,8 +3067,8 @@
           "title": "Review SA Water RFI",
           "due_date": "2026-10-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3434,8 +3434,8 @@
     "13466164": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207714694,
@@ -3461,8 +3461,8 @@
           "due_date": "2026-10-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3696,8 +3696,8 @@
     "18203158": {
       "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208083500,
@@ -3750,15 +3750,15 @@
           "due_date": "2026-10-30",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
     "18487294": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3793,8 +3793,8 @@
           "title": "Prep AGIG INV",
           "due_date": "2026-10-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4185,8 +4185,8 @@
     },
     "18415320": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4221,16 +4221,16 @@
           "title": "Did DP respond? How much to INV?",
           "due_date": "2026-10-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
     },
     "18505444": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4256,8 +4256,8 @@
           "title": "Received from Kate",
           "due_date": "2026-10-29",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4397,48 +4397,26 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208389209,
-      "title": "Did DP respond? How much to INV?",
-      "due_date": "2026-10-29",
+      "task_id": 208131932,
+      "title": "Ask DP for status if he's done with drafting",
+      "due_date": "2026-10-30",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18415320,
-      "project_name": "C1066 Haig St IDENT & CONTOUR"
+      "project_id": 18203158,
+      "project_name": "L1038 Beach Rd TD1-2"
     },
     {
-      "task_id": 208414167,
-      "title": "Review SA Water RFI",
-      "due_date": "2026-10-29",
+      "task_id": 208438321,
+      "title": "Check if SA Water responded",
+      "due_date": "2026-10-30",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18443116,
-      "project_name": "V1021 Grove Ave CD1-2"
-    },
-    {
-      "task_id": 208434339,
-      "title": "Received from Kate",
-      "due_date": "2026-10-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18505444,
-      "project_name": "F1152 - HANISCH ST EASEMENT"
-    },
-    {
-      "task_id": 208439257,
-      "title": "Prep AGIG INV",
-      "due_date": "2026-10-29",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18487294,
-      "project_name": "S1155 - Helps Rd Syphon 1"
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2"
     }
   ],
   "tasks_overdue": [
@@ -4892,13 +4870,57 @@
       "due_soon": false,
       "project_id": 18489079,
       "project_name": "A1360 - Joseph St IDENT"
+    },
+    {
+      "task_id": 208389209,
+      "title": "Did DP respond? How much to INV?",
+      "due_date": "2026-10-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18415320,
+      "project_name": "C1066 Haig St IDENT & CONTOUR"
+    },
+    {
+      "task_id": 208414167,
+      "title": "Review SA Water RFI",
+      "due_date": "2026-10-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
+      "task_id": 208434339,
+      "title": "Received from Kate",
+      "due_date": "2026-10-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT"
+    },
+    {
+      "task_id": 208439257,
+      "title": "Prep AGIG INV",
+      "due_date": "2026-10-29",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18487294,
+      "project_name": "S1155 - Helps Rd Syphon 1"
     }
   ],
   "summary": {
     "total_open": 402,
-    "total_overdue": 41,
-    "total_due_today": 4,
+    "total_overdue": 45,
+    "total_due_today": 2,
     "projects_with_tasks": 97
   },
-  "last_updated": "2026-10-29T23:45:30.503121+09:30"
+  "last_updated": "2026-10-30T00:00:44.155303+09:30"
 }
