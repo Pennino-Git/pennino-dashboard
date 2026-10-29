@@ -1701,18 +1701,6 @@
       "id": "6a8be6560785ab59942638d8",
       "name": "T1331 Light Common TIER3"
     },
-    "T1333": {
-      "id": "6a97ae2e1b17138b7cf5e77e",
-      "name": "T1333 7 Ormiston Ct - Engineering (Setout/Pickup)"
-    },
-    "T1334": {
-      "id": "6a97b7d7d4fbca52419af05e",
-      "name": "T1334 1 North Terrace - Engineering (Setout/Pickup)"
-    },
-    "T1335": {
-      "id": "6a9a122bf6a0b275195caf55",
-      "name": "T1335 760 Marion Rd - Engineering (Setout/Pickup)"
-    },
     "T1337": {
       "id": "6ab0c360f2ee87635709b6b0",
       "name": "T1337 199 Belair Rd - Engineering (Setout/Pickup)"
@@ -1858,6 +1846,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 464,
-  "last_updated": "2026-10-29T12:30:51.106819+09:30"
+  "total": 461,
+  "last_updated": "2026-10-29T12:45:28.047465+09:30"
 }

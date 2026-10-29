@@ -2200,63 +2200,6 @@
       "lng": 138.6152567
     },
     {
-      "id": 18445564,
-      "name": "T1333 - Ormison Court Water T3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "7 Ormiston Ct, Taperoo SA 5017, Australia",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18445564",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 37,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8109166,
-      "lng": 138.4973837
-    },
-    {
-      "id": 18445572,
-      "name": "T1334 - Wingfield Water Test Hole",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "1 North Terrace, Wingfield SA 5013, Australia",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18445572",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 37,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8372954,
-      "lng": 138.5559435
-    },
-    {
-      "id": 18449645,
-      "name": "T1335 - DIT SLOT TRENCHES T3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "760 Marion Rd, Marion SA 5043, Australia",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18449645",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 31,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -35.00667920000001,
-      "lng": 138.5577556
-    },
-    {
       "id": 18464665,
       "name": "T1337 - Belair Rd Pots",
       "tier": "T3",
@@ -2358,6 +2301,6 @@
       "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-29T12:30:51.106819+09:30",
-  "total": 108
+  "last_updated": "2026-10-29T12:45:28.047465+09:30",
+  "total": 105
 }
