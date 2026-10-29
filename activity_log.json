@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18209910,
+      "project_name": "T1320 Russell St TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-29T12:00:39.152576+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18187249,
       "project_name": "D1067 Eastern Pde TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Client",
       "timestamp": "2026-09-16T15:45:26.322752+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18460385,
-      "project_name": "F1150 RAAF Base TIER3",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-16T13:15:26.433154+09:30"
     }
   ],
-  "last_updated": "2026-10-29T11:45:26.602306+09:30"
+  "last_updated": "2026-10-29T12:00:39.152576+09:30"
 }
