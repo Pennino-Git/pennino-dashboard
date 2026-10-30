@@ -2134,28 +2134,6 @@
       "lng": 138.6068224
     },
     {
-      "id": 18184868,
-      "name": "T1319 Grange Rd TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Grange Road, Colonel Light Gardens",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18184868",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 10,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9771389,
-      "lng": 138.5928341
-    },
-    {
       "id": 18209910,
       "name": "T1320 Russell St TIER3",
       "tier": "T3",
@@ -2176,69 +2154,6 @@
       "is_premium": false,
       "lat": -34.8564211,
       "lng": 138.5190531
-    },
-    {
-      "id": 18435136,
-      "name": "T1331 Light Common TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "4-6 LIGHT COMMON, MAWSON LAKES SA 5095",
-      "client": "",
-      "link": "https://crm.na1.insightly.com/details/project/18435136",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 65,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8088886,
-      "lng": 138.6152567
-    },
-    {
-      "id": 18464665,
-      "name": "T1337 - Belair Rd Pots",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "199 Belair Rd, Torrens Park SA 5062, Australia",
-      "client": "Rob Wooton",
-      "link": "https://crm.na1.insightly.com/details/project/18464665",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 7,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.98393,
-      "lng": 138.6117796
-    },
-    {
-      "id": 18471829,
-      "name": "T1338 - Nazer Reserve Water",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "40 Park Ave, Semaphore South SA 5019, Australia",
-      "client": "Rob Wootton",
-      "link": "https://crm.na1.insightly.com/details/project/18471829",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 16,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "tpc"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8488083,
-      "lng": 138.4850294
     },
     {
       "id": 18497594,
@@ -2277,30 +2192,8 @@
       "is_premium": false,
       "lat": -34.6818477,
       "lng": 138.6507731
-    },
-    {
-      "id": 18420550,
-      "name": "W1022 Main North Rd TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "590 Main North Road, Gepps Cross",
-      "client": "Harry Tsakalos",
-      "link": "https://crm.na1.insightly.com/details/project/18420550",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 64,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [
-        "tier3",
-        "wingfield_construction"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.8433787,
-      "lng": 138.6025314
     }
   ],
-  "last_updated": "2026-10-30T11:45:28.417353+09:30",
-  "total": 105
+  "last_updated": "2026-10-30T12:00:36.833013+09:30",
+  "total": 100
 }

@@ -214,11 +214,6 @@
     "entered": "2026-06-11",
     "stage_name": "1. Concept Planning"
   },
-  "18184868": {
-    "stage_id": 3134305,
-    "entered": "2026-10-20",
-    "stage_name": "Invoice & Close"
-  },
   "18187249": {
     "stage_id": 4845737,
     "entered": "2026-09-07",
@@ -364,11 +359,6 @@
     "entered": "2026-09-19",
     "stage_name": "2. PlanSA Lodgement"
   },
-  "18420550": {
-    "stage_id": 3134305,
-    "entered": "2026-08-27",
-    "stage_name": "Invoice & Close"
-  },
   "18425013": {
     "stage_id": 4845735,
     "entered": "2026-10-26",
@@ -378,11 +368,6 @@
     "stage_id": 3823938,
     "entered": "2026-09-01",
     "stage_name": "Prepare Plan"
-  },
-  "18435136": {
-    "stage_id": 3134305,
-    "entered": "2026-08-26",
-    "stage_name": "Invoice & Close"
   },
   "18436280": {
     "stage_id": 3823938,
@@ -432,16 +417,6 @@
   "18460385": {
     "stage_id": 3134305,
     "entered": "2026-09-28",
-    "stage_name": "Invoice & Close"
-  },
-  "18464665": {
-    "stage_id": 3134305,
-    "entered": "2026-10-23",
-    "stage_name": "Invoice & Close"
-  },
-  "18471829": {
-    "stage_id": 3134305,
-    "entered": "2026-10-14",
     "stage_name": "Invoice & Close"
   },
   "18474550": {

@@ -1819,32 +1819,6 @@
         }
       ]
     },
-    "18184868": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 205407753,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208184116,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18059610": {
       "total": 2,
       "overdue": 0,
@@ -2803,32 +2777,6 @@
         }
       ]
     },
-    "18435136": {
-      "total": 2,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207244903,
-          "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
-          "due_date": "2026-09-17",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 207244904,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18438117": {
       "total": 3,
       "overdue": 0,
@@ -2873,32 +2821,6 @@
         {
           "task_id": 207271919,
           "title": "Lodgement invoice paid",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
-    "18420550": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207272511,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 207272512,
-          "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3912,32 +3834,6 @@
         }
       ]
     },
-    "18471829": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208184278,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208184279,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18483048": {
       "total": 2,
       "overdue": 1,
@@ -4149,32 +4045,6 @@
         {
           "task_id": 208322473,
           "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
-    "18464665": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208362302,
-          "title": "Final invoice issued and In XERO",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208362303,
-          "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4729,17 +4599,6 @@
       "project_name": "J1015 Eudunda Land TD1-50"
     },
     {
-      "task_id": 207244903,
-      "title": "Final invoice issued and In XERO 4&2 hrs per email on 26 aug",
-      "due_date": "2026-09-17",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18435136,
-      "project_name": "T1331 Light Common TIER3"
-    },
-    {
       "task_id": 207477021,
       "title": "Action SA Water RFI- check with DP",
       "due_date": "2026-09-26",
@@ -4917,10 +4776,10 @@
     }
   ],
   "summary": {
-    "total_open": 402,
-    "total_overdue": 45,
+    "total_open": 392,
+    "total_overdue": 44,
     "total_due_today": 2,
-    "projects_with_tasks": 97
+    "projects_with_tasks": 92
   },
-  "last_updated": "2026-10-30T11:45:28.417353+09:30"
+  "last_updated": "2026-10-30T12:00:36.833013+09:30"
 }
