@@ -2014,25 +2014,6 @@
       "lng": 138.6287652
     },
     {
-      "id": 18474550,
-      "name": "F1151 - Summit WTP Balhannah",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Balhannah SA, Australia",
-      "client": "Jonathon Tozer",
-      "link": "https://crm.na1.insightly.com/details/project/18474550",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 24,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.9905404,
-      "lng": 138.8260723
-    },
-    {
       "id": 18505444,
       "name": "F1152 - HANISCH ST EASEMENT",
       "tier": "T3",
@@ -2175,6 +2156,6 @@
       "lng": 138.6507731
     }
   ],
-  "last_updated": "2026-10-30T12:15:27.677096+09:30",
-  "total": 99
+  "last_updated": "2026-10-30T12:30:50.404512+09:30",
+  "total": 98
 }
