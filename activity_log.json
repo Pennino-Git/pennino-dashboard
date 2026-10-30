@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 17303279,
+      "project_name": "A1310 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "Further Work Required",
+      "to": "Invoice & Close",
+      "timestamp": "2026-10-30T13:45:26.303953+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 17303279,
+      "project_name": "A1310 Railway Tce TIER3",
+      "tier": "T3",
+      "from": "Client",
+      "to": "AR (Alex)",
+      "timestamp": "2026-10-30T13:45:26.303953+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18209910,
       "project_name": "T1320 Russell St TIER3",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "Council/Authority",
       "timestamp": "2026-09-17T10:23:40.140643+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-16T16:00:36.331177+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-09-16T15:45:26.322752+09:30"
     }
   ],
-  "last_updated": "2026-10-30T13:30:48.419232+09:30"
+  "last_updated": "2026-10-30T13:45:26.303953+09:30"
 }

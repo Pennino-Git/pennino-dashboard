@@ -1917,11 +1917,11 @@
       "address": "Railway Tce",
       "client": "Joe Campbell",
       "link": "https://crm.na1.insightly.com/details/project/17303279",
-      "responsibility": "Client",
-      "days_in_stage": 141,
-      "stage_name": "Further Work Required",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier3",
         "apa"
@@ -2134,6 +2134,6 @@
       "lng": 138.6507731
     }
   ],
-  "last_updated": "2026-10-30T13:30:48.419232+09:30",
+  "last_updated": "2026-10-30T13:45:26.303953+09:30",
   "total": 97
 }
