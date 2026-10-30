@@ -1973,25 +1973,6 @@
       "lng": 138.5455327
     },
     {
-      "id": 18438117,
-      "name": "D1073 - Gawler Gate Station",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "Allendale Rd, Kalbeeba SA 5118, Australia",
-      "client": "Downer",
-      "link": "https://crm.na1.insightly.com/details/project/18438117",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 24,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.6305015,
-      "lng": 138.8008256
-    },
-    {
       "id": 17810905,
       "name": "F1107 Edinburgh- Geotech Investigation",
       "tier": "T3",
@@ -2194,6 +2175,6 @@
       "lng": 138.6507731
     }
   ],
-  "last_updated": "2026-10-30T12:00:36.833013+09:30",
-  "total": 100
+  "last_updated": "2026-10-30T12:15:27.677096+09:30",
+  "total": 99
 }
