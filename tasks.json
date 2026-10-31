@@ -2987,20 +2987,11 @@
       ]
     },
     "18443754": {
-      "total": 3,
+      "total": 4,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
-        {
-          "task_id": 207357075,
-          "title": "Client approval received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
         {
           "task_id": 207357076,
           "title": "Physical Docket Created",
@@ -3011,8 +3002,26 @@
           "due_soon": ""
         },
         {
-          "task_id": 207357077,
-          "title": "[AUTO REMINDER] Follow up client re concept plan",
+          "task_id": 208498605,
+          "title": "Lodgement invoice received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208498606,
+          "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208498607,
+          "title": "Client Advised of Lodgement in Plan SA",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4735,10 +4744,10 @@
     }
   ],
   "summary": {
-    "total_open": 388,
+    "total_open": 389,
     "total_overdue": 46,
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-10-31T12:00:36.570821+09:30"
+  "last_updated": "2026-10-31T12:15:24.596349+09:30"
 }
