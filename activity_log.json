@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18449737,
+      "project_name": "L1045 30 Redwood Dr TD1-2",
+      "tier": "T2",
+      "from": "1. Concept Planning",
+      "to": "2. PlanSA Lodgement",
+      "timestamp": "2026-10-31T13:30:43.134179+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18449744,
       "project_name": "L1046 9 Marblewood Wy TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-17T13:15:25.459653+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "SA Water",
-      "timestamp": "2026-09-17T13:00:33.768417+09:30"
     }
   ],
-  "last_updated": "2026-10-31T13:15:26.027219+09:30"
+  "last_updated": "2026-10-31T13:30:43.134179+09:30"
 }
