@@ -2462,8 +2462,8 @@
       ]
     },
     "17845187": {
-      "total": 3,
-      "overdue": 1,
+      "total": 2,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2484,15 +2484,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208389448,
-          "title": "Need to prep Final Plan/survey work",
-          "due_date": "2026-10-31",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4651,17 +4642,6 @@
       "project_name": "C1066 Haig St IDENT & CONTOUR"
     },
     {
-      "task_id": 208389448,
-      "title": "Need to prep Final Plan/survey work",
-      "due_date": "2026-10-31",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 17845187,
-      "project_name": "N1027 Holder Ave CD2-2"
-    },
-    {
       "task_id": 208414167,
       "title": "Review SA Water RFI",
       "due_date": "2026-10-29",
@@ -4707,10 +4687,10 @@
     }
   ],
   "summary": {
-    "total_open": 385,
-    "total_overdue": 47,
+    "total_open": 384,
+    "total_overdue": 46,
     "total_due_today": 0,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-02T13:00:38.678681+09:30"
+  "last_updated": "2026-11-02T13:15:27.274488+09:30"
 }
