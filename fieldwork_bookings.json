@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T19:30:29.132Z",
+ "generated": "2026-11-02T19:30:45.592Z",
  "bookings": {
   "T1338": {
    "next": null,
@@ -35,9 +35,9 @@
   },
   "T1339": {
    "next": {
-    "date": "2026-11-05",
-    "who": "DP",
-    "title": "DP🔧-T1339-Moresby Street Lockleys Pot PU."
+    "date": "2026-11-04",
+    "who": "TR",
+    "title": "DP🔧-T1339-Lockleys Pot Pickup"
    },
    "last": null
   },
@@ -153,9 +153,17 @@
    },
    "last": null
   },
-  "L1048": {
+  "A1318": {
    "next": {
     "date": "2026-11-09",
+    "who": "TR",
+    "title": "TR🔧-A1318-Euston Repeg (Partial)"
+   },
+   "last": null
+  },
+  "L1048": {
+   "next": {
+    "date": "2026-11-10",
     "who": "TR",
     "title": "TR 🔧 L1048 - Holmes Ave IDENT"
    },
@@ -163,7 +171,7 @@
   },
   "Z1072": {
    "next": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "who": "TR",
     "title": "TR 🔧 Z1072 Frederick St IDENT"
    },
