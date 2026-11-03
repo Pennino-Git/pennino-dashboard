@@ -3303,7 +3303,7 @@
     },
     "13466164": {
       "total": 3,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3328,9 +3328,9 @@
         {
           "task_id": 208438321,
           "title": "Check if SA Water responded",
-          "due_date": "2026-10-30",
+          "due_date": "2026-11-13",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
           "due_soon": false
         }
@@ -3520,8 +3520,8 @@
       ]
     },
     "18203158": {
-      "total": 6,
-      "overdue": 1,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3569,15 +3569,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208131932,
-          "title": "Ask DP for status if he's done with drafting",
-          "due_date": "2026-10-30",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4597,17 +4588,6 @@
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
     },
     {
-      "task_id": 208131932,
-      "title": "Ask DP for status if he's done with drafting",
-      "due_date": "2026-10-30",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18203158,
-      "project_name": "L1038 Beach Rd TD1-2"
-    },
-    {
       "task_id": 208213595,
       "title": "Plan From Kate Recieved",
       "due_date": "2026-10-23",
@@ -4685,17 +4665,6 @@
       "project_name": "F1152 - HANISCH ST EASEMENT"
     },
     {
-      "task_id": 208438321,
-      "title": "Check if SA Water responded",
-      "due_date": "2026-10-30",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 13466164,
-      "project_name": "F1063 Araluen St TD1-2"
-    },
-    {
       "task_id": 208439257,
       "title": "Prep AGIG INV",
       "due_date": "2026-10-29",
@@ -4708,10 +4677,10 @@
     }
   ],
   "summary": {
-    "total_open": 385,
-    "total_overdue": 46,
+    "total_open": 384,
+    "total_overdue": 44,
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-04T07:30:46.513519+09:30"
+  "last_updated": "2026-11-04T07:45:28.222905+09:30"
 }
