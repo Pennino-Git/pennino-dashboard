@@ -3896,7 +3896,7 @@
       ]
     },
     "18499118": {
-      "total": 4,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3931,6 +3931,15 @@
         {
           "task_id": 208322473,
           "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208534292,
+          "title": "Check Notes for Invoice Notes",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4687,10 +4696,10 @@
     }
   ],
   "summary": {
-    "total_open": 384,
+    "total_open": 385,
     "total_overdue": 46,
     "total_due_today": 0,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-03T10:00:41.305847+09:30"
+  "last_updated": "2026-11-03T10:15:26.589419+09:30"
 }
