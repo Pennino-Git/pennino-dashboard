@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18497594,
+      "project_name": "T1339 - Lockleys Pot PU T3",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-11-04T16:00:39.052794+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18475733,
       "project_name": "A1359 - Rickaby St TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "LTO",
       "timestamp": "2026-09-18T10:00:33.829593+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-17T16:15:26.033782+09:30"
     }
   ],
-  "last_updated": "2026-11-04T15:45:30.297659+09:30"
+  "last_updated": "2026-11-04T16:00:39.052794+09:30"
 }
