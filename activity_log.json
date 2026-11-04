@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-04T14:45:29.316432+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-17T16:15:26.033782+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18187249,
-      "project_name": "D1067 Eastern Pde TD1-2",
-      "tier": "T2",
-      "from": "Client",
-      "to": "SA Water",
-      "timestamp": "2026-09-17T16:00:39.759997+09:30"
     }
   ],
-  "last_updated": "2026-11-04T14:30:46.816488+09:30"
+  "last_updated": "2026-11-04T14:45:29.316432+09:30"
 }
