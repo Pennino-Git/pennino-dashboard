@@ -1734,8 +1734,8 @@
     },
     "17956195": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1770,8 +1770,8 @@
           "title": "Review actionables before scheduling Tristan for field work",
           "due_date": "2026-11-04",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4159,19 +4159,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 208414180,
-      "title": "Review actionables before scheduling Tristan for field work",
-      "due_date": "2026-11-04",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 17956195,
-      "project_name": "A1336 The Parade TD1-2"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4636,6 +4624,17 @@
       "project_name": "V1021 Grove Ave CD1-2"
     },
     {
+      "task_id": 208414180,
+      "title": "Review actionables before scheduling Tristan for field work",
+      "due_date": "2026-11-04",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2"
+    },
+    {
       "task_id": 208434339,
       "title": "Received from Kate",
       "due_date": "2026-10-29",
@@ -4660,9 +4659,9 @@
   ],
   "summary": {
     "total_open": 382,
-    "total_overdue": 44,
-    "total_due_today": 1,
+    "total_overdue": 45,
+    "total_due_today": 0,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-04T23:45:28.460557+09:30"
+  "last_updated": "2026-11-05T00:00:44.836060+09:30"
 }
