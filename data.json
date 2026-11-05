@@ -481,7 +481,7 @@
       "address": "28 Fife Street, Klemzig SA 5087",
       "client": "Teegan  Bowley",
       "link": "https://crm.na1.insightly.com/details/project/17278348",
-      "responsibility": "Council/Authority",
+      "responsibility": "Field Work",
       "days_in_stage": 147,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0177652; H0177653",
@@ -491,7 +491,7 @@
         "tier2",
         "1into8"
       ],
-      "needs_fieldwork": false,
+      "needs_fieldwork": true,
       "is_premium": false,
       "lat": -34.8810316,
       "lng": 138.6292872
@@ -2175,6 +2175,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-05T17:15:26.576148+09:30",
+  "last_updated": "2026-11-05T17:30:47.222034+09:30",
   "total": 99
 }

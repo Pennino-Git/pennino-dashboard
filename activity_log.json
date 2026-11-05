@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Field Work",
+      "timestamp": "2026-11-05T17:30:47.222034+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18515088,
       "project_name": "T1341 - BLOCK E NORTH TCE POTS",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "Council/Authority",
       "timestamp": "2026-09-19T15:00:35.337264+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 13466164,
-      "project_name": "F1063 Araluen St TD1-2",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "5. Certified Survey",
-      "timestamp": "2026-09-19T11:15:24.152475+09:30"
     }
   ],
-  "last_updated": "2026-11-05T17:15:26.576148+09:30"
+  "last_updated": "2026-11-05T17:30:47.222034+09:30"
 }
