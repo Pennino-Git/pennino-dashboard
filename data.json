@@ -2036,6 +2036,25 @@
       "lng": 138.8169792
     },
     {
+      "id": 18515051,
+      "name": "F1153 - VIC PARK BH",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "304 Pirie Street Adelaide (VIC PARK)",
+      "client": "Harry John",
+      "link": "https://crm.na1.insightly.com/details/project/18515051",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.9245691,
+      "lng": 138.6111705
+    },
+    {
       "id": 18103170,
       "name": "S1141 Montague & Bridge Rd TIER3",
       "tier": "T3",
@@ -2137,6 +2156,6 @@
       "lng": 138.6507731
     }
   ],
-  "last_updated": "2026-11-05T13:45:26.741810+09:30",
-  "total": 97
+  "last_updated": "2026-11-05T14:00:35.709142+09:30",
+  "total": 98
 }

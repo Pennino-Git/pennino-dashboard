@@ -2729,6 +2729,12 @@
     "lng": 138.5450687,
     "source": "map.html-seed"
   },
+  "304 pirie street adelaide (vic park)": {
+    "cachedAt": "2026-11-05",
+    "lat": -34.9245691,
+    "lng": 138.6111705,
+    "source": "google"
+  },
   "306 diment rd, burton sa 5110, australia": {
     "cachedAt": "2026-10-09",
     "lat": -34.7289957,
