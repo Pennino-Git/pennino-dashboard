@@ -3389,9 +3389,9 @@
       ]
     },
     "18475733": {
-      "total": 6,
+      "total": 4,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3402,24 +3402,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 207928050,
-          "title": "[AUTO REMINDER] Follow up client re concept plan",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208580181,
-          "title": "Application form completed on PlanSA portal",
-          "due_date": "2026-11-05",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         },
         {
           "task_id": 208580182,
@@ -4247,19 +4229,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 208580181,
-      "title": "Application form completed on PlanSA portal",
-      "due_date": "2026-11-05",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18475733,
-      "project_name": "A1359 - Rickaby St TD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4758,10 +4728,10 @@
     }
   ],
   "summary": {
-    "total_open": 390,
+    "total_open": 388,
     "total_overdue": 45,
-    "total_due_today": 1,
+    "total_due_today": 0,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-05T16:15:26.801303+09:30"
+  "last_updated": "2026-11-05T16:30:44.535943+09:30"
 }
