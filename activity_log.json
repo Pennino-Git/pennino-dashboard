@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "AR (Alex)",
+      "to": "Council/Authority",
+      "timestamp": "2026-11-05T17:45:36.140703+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17278348,
       "project_name": "A1309 Fife St CD1-8",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "1. Concept Planning",
       "to": "2. PlanSA Lodgement",
       "timestamp": "2026-09-19T15:00:35.337264+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-19T15:00:35.337264+09:30"
     }
   ],
-  "last_updated": "2026-11-05T17:30:47.222034+09:30"
+  "last_updated": "2026-11-05T17:45:36.140703+09:30"
 }
