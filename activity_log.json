@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 17700505,
+      "project_name": "A1324 Euston Ave CD1-7",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-11-05T18:30:50.773265+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18475733,
       "project_name": "A1359 - Rickaby St TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Kate (Drafting)",
       "timestamp": "2026-09-19T15:30:42.652802+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-09-19T15:00:35.337264+09:30"
     }
   ],
-  "last_updated": "2026-11-05T18:15:30.296676+09:30"
+  "last_updated": "2026-11-05T18:30:50.773265+09:30"
 }
