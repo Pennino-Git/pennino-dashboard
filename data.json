@@ -2107,10 +2107,10 @@
       "client": "Rob Wootton",
       "link": "https://crm.na1.insightly.com/details/project/18497594",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 1,
-      "stage_name": "Plan Drawing & Check",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 6,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2137,6 +2137,6 @@
       "lng": 138.6507731
     }
   ],
-  "last_updated": "2026-11-05T11:15:24.422490+09:30",
+  "last_updated": "2026-11-05T11:30:45.551139+09:30",
   "total": 97
 }

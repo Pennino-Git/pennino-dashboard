@@ -460,9 +460,9 @@
     "stage_name": "Invoice"
   },
   "18497594": {
-    "stage_id": 3134302,
-    "entered": "2026-11-04",
-    "stage_name": "Plan Drawing & Check"
+    "stage_id": 3134305,
+    "entered": "2026-11-05",
+    "stage_name": "Invoice & Close"
   },
   "18499118": {
     "stage_id": 3823937,

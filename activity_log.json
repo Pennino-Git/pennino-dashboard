@@ -5,6 +5,15 @@
       "project_id": 18497594,
       "project_name": "T1339 - Lockleys Pot PU T3",
       "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-11-05T11:30:45.551139+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18497594,
+      "project_name": "T1339 - Lockleys Pot PU T3",
+      "tier": "T3",
       "from": "Field Work Scheduled",
       "to": "Plan Drawing & Check",
       "timestamp": "2026-11-04T16:00:39.052794+09:30"
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-09-18T16:30:42.903624+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 15978707,
-      "project_name": "A1266 Fatchen St CD1-3",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "LTO",
-      "timestamp": "2026-09-18T10:00:33.829593+09:30"
     }
   ],
-  "last_updated": "2026-11-05T11:15:24.422490+09:30"
+  "last_updated": "2026-11-05T11:30:45.551139+09:30"
 }
