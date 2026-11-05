@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18515088,
+      "project_name": "T1341 - BLOCK E NORTH TCE POTS",
+      "tier": "T3",
+      "from": "Search & DBYD",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-11-05T17:00:37.234791+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18475733,
       "project_name": "A1359 - Rickaby St TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "2. PlanSA Lodgement",
       "to": "5. Certified Survey",
       "timestamp": "2026-09-19T11:15:24.152475+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 14754903,
-      "project_name": "O1012 The Hind Marsh Estate TD 1 - 150",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-09-18T17:00:35.865284+09:30"
     }
   ],
-  "last_updated": "2026-11-05T16:45:30.439224+09:30"
+  "last_updated": "2026-11-05T17:00:37.234791+09:30"
 }
