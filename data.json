@@ -173,6 +173,25 @@
       "lng": 138.6321384
     },
     {
+      "id": 18516403,
+      "name": "H1035 - Wanke Rd IDENT PEG",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "Lot 100 Wanker Rd, Mannum",
+      "client": "Ali Prior",
+      "link": "https://crm.na1.insightly.com/details/project/18516403",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": 39.9197323,
+      "lng": -78.34571430000001
+    },
+    {
       "id": 18476014,
       "name": "K1036 - Buckley Cres TD1-3",
       "tier": "T1",
@@ -2175,6 +2194,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-06T10:45:26.935332+09:30",
-  "total": 99
+  "last_updated": "2026-11-06T11:00:37.624264+09:30",
+  "total": 100
 }
