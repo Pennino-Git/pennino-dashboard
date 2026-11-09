@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT",
+      "tier": "T3",
+      "from": "Kate (Drafting)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-09T14:00:39.835420+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 11236872,
       "project_name": "C1031 Diment Rd TD1-3",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "LTO",
       "timestamp": "2026-09-21T12:00:35.207231+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18091731,
-      "project_name": "F1112 Isabella Rd TD1-3",
-      "tier": "T2",
-      "from": "6 Land Division Certificate Lodged with PlanSA",
-      "to": "7. SCAP Application",
-      "timestamp": "2026-09-21T10:00:34.839409+09:30"
     }
   ],
-  "last_updated": "2026-11-09T13:45:32.597316+09:30"
+  "last_updated": "2026-11-09T14:00:39.835420+09:30"
 }
