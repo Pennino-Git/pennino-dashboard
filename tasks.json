@@ -3757,8 +3757,8 @@
       ]
     },
     "18483048": {
-      "total": 2,
-      "overdue": 1,
+      "total": 1,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3770,15 +3770,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208213595,
-          "title": "Plan From Kate Recieved",
-          "due_date": "2026-10-23",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4660,17 +4651,6 @@
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
     },
     {
-      "task_id": 208213595,
-      "title": "Plan From Kate Recieved",
-      "due_date": "2026-10-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18483048,
-      "project_name": "R1037 - Angle Vale Lease Plan"
-    },
-    {
       "task_id": 208237030,
       "title": "check what's next? dnf sent to Jake",
       "due_date": "2026-10-22",
@@ -4771,10 +4751,10 @@
     }
   ],
   "summary": {
-    "total_open": 389,
-    "total_overdue": 46,
+    "total_open": 388,
+    "total_overdue": 45,
     "total_due_today": 2,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-10T07:30:47.341841+09:30"
+  "last_updated": "2026-11-10T07:45:31.605960+09:30"
 }
