@@ -3476,41 +3476,6 @@
         }
       ]
     },
-    "18476014": {
-      "total": 3,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207935784,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208388790,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208388794,
-          "title": "Contour to Designer",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18273554": {
       "total": 2,
       "overdue": 1,
@@ -4185,14 +4150,23 @@
       ]
     },
     "18516458": {
-      "total": 1,
+      "total": 2,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 208602934,
-          "title": "Physical Docket Prepared",
+          "task_id": 208651987,
+          "title": "Field work date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208651988,
+          "title": "Field work completed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4724,10 +4698,10 @@
     }
   ],
   "summary": {
-    "total_open": 385,
+    "total_open": 383,
     "total_overdue": 45,
     "total_due_today": 2,
-    "projects_with_tasks": 92
+    "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-10T09:00:39.944602+09:30"
+  "last_updated": "2026-11-10T09:15:27.228350+09:30"
 }

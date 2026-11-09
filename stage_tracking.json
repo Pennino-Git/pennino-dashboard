@@ -425,9 +425,9 @@
     "stage_name": "1. Concept Planning"
   },
   "18476014": {
-    "stage_id": 3823937,
-    "entered": "2026-10-26",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3823939,
+    "entered": "2026-11-10",
+    "stage_name": "Send Plan to Client"
   },
   "18483048": {
     "stage_id": 3823938,
@@ -490,8 +490,8 @@
     "stage_name": "Field Work Scheduled"
   },
   "18516458": {
-    "stage_id": 3823936,
-    "entered": "2026-11-06",
-    "stage_name": "Prepare Project"
+    "stage_id": 3823937,
+    "entered": "2026-11-10",
+    "stage_name": "Field Work Scheduled"
   }
 }

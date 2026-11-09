@@ -50,11 +50,11 @@
       "address": "Lot 100 Wanke Rd, Mannum",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18516458",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 4,
-      "stage_name": "Prepare Project",
+      "responsibility": "TR (Tristan)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -178,10 +178,10 @@
       "client": "Matthew Kantarias",
       "link": "https://crm.na1.insightly.com/details/project/18476014",
       "responsibility": "Field Work",
-      "days_in_stage": 15,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Send Plan to Client",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 4,
       "tags": [],
       "needs_fieldwork": true,
       "is_premium": false,
@@ -2172,6 +2172,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-10T09:00:39.944602+09:30",
+  "last_updated": "2026-11-10T09:15:27.228350+09:30",
   "total": 99
 }

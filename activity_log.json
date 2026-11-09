@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18476014,
+      "project_name": "K1036 - Buckley Cres TD1-3",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Send Plan to Client",
+      "timestamp": "2026-11-10T09:15:27.228350+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18516458,
+      "project_name": "A1363 - Wanke Rd IDENT PEG",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-11-10T09:15:27.228350+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18516458,
+      "project_name": "A1363 - Wanke Rd IDENT PEG",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "TR (Tristan)",
+      "timestamp": "2026-11-10T09:15:27.228350+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
@@ -1772,34 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-09-21T23:45:26.663789+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18254196,
-      "project_name": "S1145 Minorca Cres TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-21T16:45:26.903566+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18464673,
-      "project_name": "A1358 - Morrow Rd Ident",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-21T16:30:44.928340+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18464668,
-      "project_name": "A1357 - Riesling St Morphett Vale Ident",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-21T15:45:27.877851+09:30"
     }
   ],
-  "last_updated": "2026-11-10T09:00:39.944602+09:30"
+  "last_updated": "2026-11-10T09:15:27.228350+09:30"
 }
