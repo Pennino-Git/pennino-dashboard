@@ -24,28 +24,6 @@
       "lng": 138.664237
     },
     {
-      "id": 18489079,
-      "name": "A1360 - Joseph St IDENT",
-      "tier": "T1",
-      "status": "IN PROGRESS",
-      "address": "Lot 1343 Joseph Street, Virginia",
-      "client": "Ali Prior",
-      "link": "https://crm.na1.insightly.com/details/project/18489079",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 21,
-      "stage_name": "Invoice",
-      "sa_water_ref": "",
-      "stage_order": 5,
-      "tags": [
-        "ident",
-        "tier1"
-      ],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": 37.4315734,
-      "lng": -78.6568942
-    },
-    {
       "id": 18496189,
       "name": "A1361 - Candover Cres Ident RePeg",
       "tier": "T1",
@@ -2194,6 +2172,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-10T07:15:29.420426+09:30",
-  "total": 100
+  "last_updated": "2026-11-10T07:30:47.341841+09:30",
+  "total": 99
 }

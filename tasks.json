@@ -3817,50 +3817,6 @@
         }
       ]
     },
-    "18489079": {
-      "total": 4,
-      "overdue": 1,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208290781,
-          "title": "Invoice issued",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208290782,
-          "title": "Payment received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208290783,
-          "title": "Job folder finalised and filed - Job Closed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208316646,
-          "title": "Prep INV- check average inv $$$",
-          "due_date": "2026-10-23",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        }
-      ]
-    },
     "17732479": {
       "total": 2,
       "overdue": 0,
@@ -4737,17 +4693,6 @@
       "project_name": "P1088 Penong Ave CD1-6"
     },
     {
-      "task_id": 208316646,
-      "title": "Prep INV- check average inv $$$",
-      "due_date": "2026-10-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18489079,
-      "project_name": "A1360 - Joseph St IDENT"
-    },
-    {
       "task_id": 208389209,
       "title": "Did DP respond? How much to INV?",
       "due_date": "2026-10-29",
@@ -4826,10 +4771,10 @@
     }
   ],
   "summary": {
-    "total_open": 393,
-    "total_overdue": 47,
+    "total_open": 389,
+    "total_overdue": 46,
     "total_due_today": 2,
-    "projects_with_tasks": 93
+    "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-10T07:15:29.420426+09:30"
+  "last_updated": "2026-11-10T07:30:47.341841+09:30"
 }
