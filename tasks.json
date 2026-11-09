@@ -1496,9 +1496,9 @@
       ]
     },
     "11236872": {
-      "total": 7,
+      "total": 6,
       "overdue": 0,
-      "due_today": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1554,15 +1554,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 206953255,
-          "title": "Ask DP for actionables. Per email on 11th Aug- to set a reminder after three months",
-          "due_date": "2026-11-09",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4275,17 +4266,6 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 206953255,
-      "title": "Ask DP for actionables. Per email on 11th Aug- to set a reminder after three months",
-      "due_date": "2026-11-09",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 11236872,
-      "project_name": "C1031 Diment Rd TD1-3"
-    },
-    {
       "task_id": 208603294,
       "title": "Response from Client regarding Council RFI",
       "due_date": "2026-11-09",
@@ -4806,10 +4786,10 @@
     }
   ],
   "summary": {
-    "total_open": 392,
+    "total_open": 391,
     "total_overdue": 46,
-    "total_due_today": 2,
+    "total_due_today": 1,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-11-09T10:15:29.180735+09:30"
+  "last_updated": "2026-11-09T10:30:48.081977+09:30"
 }
