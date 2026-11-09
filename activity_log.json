@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-09T14:30:47.537201+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18505444,
       "project_name": "F1152 - HANISCH ST EASEMENT",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-09-21T15:45:27.877851+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18214852,
-      "project_name": "L1041 Kensington Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "Client",
-      "to": "LTO",
-      "timestamp": "2026-09-21T12:00:35.207231+09:30"
     }
   ],
-  "last_updated": "2026-11-09T14:15:27.915854+09:30"
+  "last_updated": "2026-11-09T14:30:47.537201+09:30"
 }
