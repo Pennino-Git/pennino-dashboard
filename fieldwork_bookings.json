@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T19:30:40.032Z",
+ "generated": "2026-11-09T19:30:27.900Z",
  "bookings": {
   "T1338": {
    "next": null,
@@ -42,20 +42,20 @@
    }
   },
   "F1153": {
-   "next": {
+   "next": null,
+   "last": {
     "date": "2026-11-09",
     "who": "DP",
     "title": "DP 🔧 – F1153 – Vic Park BH"
-   },
-   "last": null
+   }
   },
   "S1141": {
-   "next": {
+   "next": null,
+   "last": {
     "date": "2026-11-09",
     "who": "DP",
     "title": "DP 🔧 – S1141 – Montague & Bridge Rd Field Work"
-   },
-   "last": null
+   }
   },
   "Z1071": {
    "next": {
@@ -170,12 +170,12 @@
    }
   },
   "A1318": {
-   "next": {
+   "next": null,
+   "last": {
     "date": "2026-11-09",
     "who": "TR",
     "title": "TR🔧-A1318-Euston Repeg (Partial)"
-   },
-   "last": null
+   }
   },
   "L1048": {
    "next": {
