@@ -3871,23 +3871,14 @@
       ]
     },
     "18505444": {
-      "total": 5,
+      "total": 6,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
+      "due_today": 1,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 208434008,
           "title": "Physical Docket Prepared",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208434301,
-          "title": "Final plan signed off",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3920,6 +3911,24 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208673079,
+          "title": "CLient Accepted",
+          "due_date": "2026-11-12",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
+        },
+        {
+          "task_id": 208673090,
+          "title": "Received Updated Plan from Kate",
+          "due_date": "2026-11-11",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4200,6 +4209,17 @@
       "due_soon": false,
       "project_id": 18076465,
       "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
+      "task_id": 208673090,
+      "title": "Received Updated Plan from Kate",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT"
     }
   ],
   "tasks_overdue": [
@@ -4667,10 +4687,10 @@
     }
   ],
   "summary": {
-    "total_open": 382,
+    "total_open": 383,
     "total_overdue": 42,
-    "total_due_today": 3,
+    "total_due_today": 4,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-11T08:00:39.037863+09:30"
+  "last_updated": "2026-11-11T08:15:28.607800+09:30"
 }
