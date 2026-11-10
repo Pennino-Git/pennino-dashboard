@@ -1026,8 +1026,8 @@
     "17539782": {
       "total": 18,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1134,8 +1134,8 @@
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208435832,
@@ -1744,8 +1744,8 @@
     "17956195": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205171354,
@@ -1780,8 +1780,8 @@
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2096,8 +2096,8 @@
     "18076465": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205588473,
@@ -2159,8 +2159,8 @@
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3872,8 +3872,8 @@
     },
     "18505444": {
       "total": 8,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3944,8 +3944,8 @@
           "title": "DP approved REV0?",
           "due_date": "2026-11-10",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4196,15 +4196,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208630535,
-      "title": "DP approved REV0?",
-      "due_date": "2026-11-10",
+      "task_id": 208414180,
+      "title": "Review actionables before scheduling Tristan for field work",
+      "due_date": "2026-11-11",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18505444,
-      "project_name": "F1152 - HANISCH ST EASEMENT"
+      "project_id": 17956195,
+      "project_name": "A1336 The Parade TD1-2"
+    },
+    {
+      "task_id": 208428005,
+      "title": "SA Water 20 bdays (for new INV)",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
+    },
+    {
+      "task_id": 208654226,
+      "title": "Update from SA Water? Call if no response",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
     }
   ],
   "tasks_overdue": [
@@ -4680,13 +4702,24 @@
       "due_soon": false,
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7"
+    },
+    {
+      "task_id": 208630535,
+      "title": "DP approved REV0?",
+      "due_date": "2026-11-10",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT"
     }
   ],
   "summary": {
     "total_open": 385,
-    "total_overdue": 43,
-    "total_due_today": 1,
+    "total_overdue": 44,
+    "total_due_today": 3,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-10T23:45:30.895751+09:30"
+  "last_updated": "2026-11-11T00:00:45.000822+09:30"
 }
