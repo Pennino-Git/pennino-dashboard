@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18476014,
+      "project_name": "K1036 - Buckley Cres TD1-3",
+      "tier": "T1",
+      "from": "Field Work",
+      "to": "Client",
+      "timestamp": "2026-11-10T09:30:49.857732+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18476014,
       "project_name": "K1036 - Buckley Cres TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Invoice & Close",
       "timestamp": "2026-09-22T09:45:26.939643+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-21T23:45:26.663789+09:30"
     }
   ],
-  "last_updated": "2026-11-10T09:15:27.228350+09:30"
+  "last_updated": "2026-11-10T09:30:49.857732+09:30"
 }
