@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-11-10T15:30:50.584164+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "DP (Damiano)",
+      "to": "SA Water",
+      "timestamp": "2026-11-10T15:30:50.584164+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 17732479,
       "project_name": "S1130 Strawson Rd TD1-2 ",
@@ -1781,25 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-09-22T10:00:34.093843+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18445564,
-      "project_name": "T1333 - Ormison Court Water T3",
-      "tier": "T3",
-      "from": "Field Work Scheduled",
-      "to": "Invoice & Close",
-      "timestamp": "2026-09-22T09:45:26.939643+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18445564,
-      "project_name": "T1333 - Ormison Court Water T3",
-      "tier": "T3",
-      "from": "DP (Damiano)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-09-22T09:45:26.939643+09:30"
     }
   ],
-  "last_updated": "2026-11-10T15:15:29.792565+09:30"
+  "last_updated": "2026-11-10T15:30:50.584164+09:30"
 }
