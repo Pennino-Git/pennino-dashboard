@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-11-10T21:00:42.798535+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18443181,
       "project_name": "V1022 Byre Ave CD1-2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-09-22T12:15:25.424590+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17385935,
-      "project_name": "K1030 Wilsden St CD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-22T10:31:04.412610+09:30"
     }
   ],
-  "last_updated": "2026-11-10T20:45:30.650531+09:30"
+  "last_updated": "2026-11-10T21:00:42.798535+09:30"
 }
