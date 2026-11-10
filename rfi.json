@@ -9,7 +9,7 @@
       "authority": "City of Tea Tree Gully",
       "due_date": "-",
       "status": "action_required",
-      "type": "Mandatory Docs",
+      "type": "RFI",
       "description": "City of Tea Tree Gully RFI (20 Jan 2026): 1) Show distance between proposed crossover and existing Council tree on plan. 2) Provide species and circumference details for any regulated/significant trees on/around site. 3) Allotment frontage <9m — provide indicative dwelling plans to justify frontage shortfall. Contact: Rani Dhruva 8397 7370 rani.dhruva@cttg.sa.gov.au",
       "due_date_iso": null
     },
@@ -77,8 +77,21 @@
       "type": "RFI",
       "description": "Regional Council of Goyder (Masterplan) RFI: 1) acoustic assessment by qualified expert re interface between new residential allotments and surrounding non-residential uses; 2) Practice Direction 14 site contamination declaration + preliminary site investigation by qualified consultant. Infrastructure referral still underway - further info may follow.",
       "due_date_iso": null
+    },
+    {
+      "app_id": "26034175",
+      "project_ref": "M1069",
+      "project_name": "M1069 Pederick Rd CD1-5",
+      "insightly_id": "18425013",
+      "location": "LOT 1000 & 1001 PEDERICK RD LEWISTON SA 5501",
+      "authority": "Adelaide Plains Council",
+      "due_date": "2027-02-10",
+      "status": "pending",
+      "type": "RFI",
+      "description": "Adelaide Plains Council: EFPA purpose; agricultural justification; per-lot agricultural use plan; bore/irrigation/sewer/easements/demolition",
+      "due_date_iso": "2027-02-10"
     }
   ],
-  "last_updated": "2026-10-25T19:35:12.160Z",
-  "total": 6
+  "last_updated": "2026-11-10T19:38:24.458Z",
+  "total": 7
 }
