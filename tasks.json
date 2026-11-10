@@ -1425,7 +1425,7 @@
       ]
     },
     "17700505": {
-      "total": 7,
+      "total": 8,
       "overdue": 1,
       "due_today": 0,
       "due_soon": 0,
@@ -1490,6 +1490,15 @@
           "due_date": "2026-11-06",
           "status": "NOT STARTED",
           "overdue": true,
+          "due_today": false,
+          "due_soon": false
+        },
+        {
+          "task_id": 208654077,
+          "title": "SA Water 20 bdays for re-costing",
+          "due_date": "2026-12-02",
+          "status": "NOT STARTED",
+          "overdue": false,
           "due_today": false,
           "due_soon": false
         }
@@ -4698,10 +4707,10 @@
     }
   ],
   "summary": {
-    "total_open": 383,
+    "total_open": 384,
     "total_overdue": 45,
     "total_due_today": 2,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-10T14:30:48.252296+09:30"
+  "last_updated": "2026-11-10T14:45:31.585052+09:30"
 }
