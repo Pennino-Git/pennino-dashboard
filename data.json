@@ -1827,11 +1827,11 @@
       "address": "21 Byre Avenue, Somerton Park SA 5044",
       "client": "Ashley Grinham",
       "link": "https://crm.na1.insightly.com/details/project/18443181",
-      "responsibility": "Client",
-      "days_in_stage": 49,
-      "stage_name": "2. PlanSA Lodgement",
+      "responsibility": "Council/Authority",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "H0196115",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "tier2",
         "community_division"
@@ -2172,6 +2172,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-10T20:30:51.630050+09:30",
+  "last_updated": "2026-11-10T20:45:30.650531+09:30",
   "total": 99
 }
