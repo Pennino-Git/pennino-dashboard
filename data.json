@@ -1715,10 +1715,10 @@
       "client": "Jim Smith",
       "link": "https://crm.na1.insightly.com/details/project/18273554",
       "responsibility": "Field Work",
-      "days_in_stage": 37,
-      "stage_name": "4. Conditions & Compliance",
+      "days_in_stage": 0,
+      "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0193854",
-      "stage_order": 4,
+      "stage_order": 5,
       "tags": [
         "tier2",
         "torrens_division"
@@ -2148,6 +2148,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-11T15:15:29.637750+09:30",
+  "last_updated": "2026-11-11T15:30:47.423118+09:30",
   "total": 98
 }

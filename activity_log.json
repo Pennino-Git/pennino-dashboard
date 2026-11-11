@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "4. Conditions & Compliance",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-11-11T15:30:47.423118+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "SA Water",
       "timestamp": "2026-09-22T14:00:37.234041+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-22T13:45:30.050053+09:30"
     }
   ],
-  "last_updated": "2026-11-11T15:15:29.637750+09:30"
+  "last_updated": "2026-11-11T15:30:47.423118+09:30"
 }
