@@ -2559,8 +2559,8 @@
       ]
     },
     "18417055": {
-      "total": 3,
-      "overdue": 1,
+      "total": 2,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2581,15 +2581,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208315587,
-          "title": "Follow up with DP what to do with SA Water RFI",
-          "due_date": "2026-10-23",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4554,17 +4545,6 @@
       "project_name": "F1147 Norongo St TD1-3"
     },
     {
-      "task_id": 208315587,
-      "title": "Follow up with DP what to do with SA Water RFI",
-      "due_date": "2026-10-23",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
-    },
-    {
       "task_id": 208389209,
       "title": "Did DP respond? How much to INV?",
       "due_date": "2026-10-29",
@@ -4610,10 +4590,10 @@
     }
   ],
   "summary": {
-    "total_open": 379,
-    "total_overdue": 41,
+    "total_open": 378,
+    "total_overdue": 40,
     "total_due_today": 2,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-11T14:15:29.539677+09:30"
+  "last_updated": "2026-11-11T14:30:50.081854+09:30"
 }
