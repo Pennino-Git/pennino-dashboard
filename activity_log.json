@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-11-11T14:45:27.440810+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 17539782,
       "project_name": "A1318 Euston Ave CD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-09-22T13:45:30.050053+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18443181,
-      "project_name": "V1022 Byre Ave CD1-2",
-      "tier": "T2",
-      "from": "1. Concept Planning",
-      "to": "2. PlanSA Lodgement",
-      "timestamp": "2026-09-22T12:30:43.359378+09:30"
     }
   ],
-  "last_updated": "2026-11-11T14:30:50.081854+09:30"
+  "last_updated": "2026-11-11T14:45:27.440810+09:30"
 }

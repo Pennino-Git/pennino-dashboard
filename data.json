@@ -1625,7 +1625,7 @@
       "address": "75 Penong Avenue, Camden Park SA 5038",
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18417055",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 53,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "H0196071",
@@ -2148,6 +2148,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-11T14:30:50.081854+09:30",
+  "last_updated": "2026-11-11T14:45:27.440810+09:30",
   "total": 98
 }
