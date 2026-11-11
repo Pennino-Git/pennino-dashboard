@@ -3747,32 +3747,6 @@
         }
       ]
     },
-    "17732479": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208317894,
-          "title": "LTO Examined and Approved",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208317895,
-          "title": "Confirmation of Approval Sent to All Parties",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18499118": {
       "total": 3,
       "overdue": 0,
@@ -4636,10 +4610,10 @@
     }
   ],
   "summary": {
-    "total_open": 381,
+    "total_open": 379,
     "total_overdue": 41,
     "total_due_today": 2,
-    "projects_with_tasks": 91
+    "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-11T12:15:28.454168+09:30"
+  "last_updated": "2026-11-11T12:30:46.533421+09:30"
 }
