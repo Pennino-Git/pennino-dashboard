@@ -2086,8 +2086,8 @@
     },
     "18076465": {
       "total": 7,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2149,8 +2149,8 @@
           "title": "Update from SA Water? Call if no response",
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3811,9 +3811,9 @@
     },
     "18505444": {
       "total": 6,
-      "overdue": 0,
+      "overdue": 1,
       "due_today": 1,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208434008,
@@ -3857,16 +3857,16 @@
           "due_date": "2026-11-12",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208673090,
           "title": "Received Updated Plan from Kate",
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4116,8 +4116,8 @@
     },
     "18273554": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4143,8 +4143,8 @@
           "title": "Pegging Plan form Tristan",
           "due_date": "2026-11-11",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4152,37 +4152,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208654226,
-      "title": "Update from SA Water? Call if no response",
-      "due_date": "2026-11-11",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18076465,
-      "project_name": "T1318 South Eastern Fwy CD1-4"
-    },
-    {
-      "task_id": 208673090,
-      "title": "Received Updated Plan from Kate",
-      "due_date": "2026-11-11",
+      "task_id": 208673079,
+      "title": "CLient Accepted",
+      "due_date": "2026-11-12",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
       "project_id": 18505444,
       "project_name": "F1152 - HANISCH ST EASEMENT"
-    },
-    {
-      "task_id": 208676527,
-      "title": "Pegging Plan form Tristan",
-      "due_date": "2026-11-11",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "tasks_overdue": [
@@ -4614,13 +4592,46 @@
       "due_soon": false,
       "project_id": 17700505,
       "project_name": "A1324 Euston Ave CD1-7"
+    },
+    {
+      "task_id": 208654226,
+      "title": "Update from SA Water? Call if no response",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18076465,
+      "project_name": "T1318 South Eastern Fwy CD1-4"
+    },
+    {
+      "task_id": 208673090,
+      "title": "Received Updated Plan from Kate",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT"
+    },
+    {
+      "task_id": 208676527,
+      "title": "Pegging Plan form Tristan",
+      "due_date": "2026-11-11",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3"
     }
   ],
   "summary": {
     "total_open": 381,
-    "total_overdue": 39,
-    "total_due_today": 3,
+    "total_overdue": 42,
+    "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-11T23:45:29.673388+09:30"
+  "last_updated": "2026-11-12T00:00:48.510323+09:30"
 }
