@@ -1971,25 +1971,6 @@
       "lng": 138.6332525
     },
     {
-      "id": 18460385,
-      "name": "F1150 RAAF Base TIER3",
-      "tier": "T3",
-      "status": "IN PROGRESS",
-      "address": "2 Sturton Rd, Edinburgh SA 5111, Australia",
-      "client": "Jonathon Tozer",
-      "link": "https://crm.na1.insightly.com/details/project/18460385",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 45,
-      "stage_name": "Invoice & Close",
-      "sa_water_ref": "",
-      "stage_order": 6,
-      "tags": [],
-      "needs_fieldwork": false,
-      "is_premium": false,
-      "lat": -34.7275218,
-      "lng": 138.6287652
-    },
-    {
       "id": 18505444,
       "name": "F1152 - HANISCH ST EASEMENT",
       "tier": "T3",
@@ -2148,6 +2129,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-12T18:00:40.136698+09:30",
-  "total": 98
+  "last_updated": "2026-11-12T18:15:31.127146+09:30",
+  "total": 97
 }
