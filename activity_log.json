@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-11-12T09:30:49.702237+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-11-12T09:30:49.702237+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "TR (Tristan)",
       "timestamp": "2026-09-22T16:15:25.820733+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18464673,
-      "project_name": "A1358 - Morrow Rd Ident",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-09-22T16:15:25.820733+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17900271,
-      "project_name": "A1335 Mitchel Dr TD1-3",
-      "tier": "T2",
-      "from": "3. Authority Assessment",
-      "to": "4. Conditions & Compliance",
-      "timestamp": "2026-09-22T16:00:37.797840+09:30"
     }
   ],
-  "last_updated": "2026-11-12T09:15:29.840073+09:30"
+  "last_updated": "2026-11-12T09:30:49.702237+09:30"
 }
