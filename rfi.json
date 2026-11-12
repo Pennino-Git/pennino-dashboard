@@ -1,30 +1,17 @@
 {
   "rfis": [
     {
-      "app_id": "26000851",
-      "project_ref": "A1336",
-      "project_name": "A1336 The Parade TD1-2",
-      "insightly_id": "17956195",
-      "location": "42 THE PARADE HOLDEN HILL SA 5088",
-      "authority": "City of Tea Tree Gully",
-      "due_date": "-",
-      "status": "action_required",
-      "type": "RFI",
-      "description": "City of Tea Tree Gully RFI (20 Jan 2026): 1) Show distance between proposed crossover and existing Council tree on plan. 2) Provide species and circumference details for any regulated/significant trees on/around site. 3) Allotment frontage <9m — provide indicative dwelling plans to justify frontage shortfall. Contact: Rani Dhruva 8397 7370 rani.dhruva@cttg.sa.gov.au",
-      "due_date_iso": null
-    },
-    {
       "app_id": "25031176",
       "project_ref": "A1324",
       "project_name": "A1324 Euston Ave CD1-7",
       "insightly_id": "17700505",
       "location": "LOT 301 EUSTON AV HIGHGATE SA 5063",
       "authority": "City of Unley",
-      "due_date": "23/11/2026",
+      "due_date": "2026-11-23",
       "status": "pending",
       "type": "RFI",
       "description": "Commissioner of Highways information request for PlanSA application 25031176 at Lot 301 Euston Ave. Portal shows action paused with the current response due 23 November 2026.",
-      "due_date_iso": null
+      "due_date_iso": "2026-11-23"
     },
     {
       "app_id": "25029522",
@@ -33,11 +20,11 @@
       "insightly_id": "17708499",
       "location": "66 AURICCHIO AV ST MARYS SA 5042",
       "authority": "City of Mitcham",
-      "due_date": "17/06/2026",
+      "due_date": "2026-06-17",
       "status": "pending",
       "type": "RFI",
       "description": "The City of Mitcham has issued a Further Information Request for application 25029522, a Torrens title land division creating 2 allotments at 66 Auricchio Ave St Marys. The application is currently on hold at the applicant's request. The RFI response is due by 17 June 2026, and the relevant authority must also be contacted to take the consent off hold.",
-      "due_date_iso": null
+      "due_date_iso": "2026-06-17"
     },
     {
       "app_id": "25008390",
@@ -59,11 +46,11 @@
       "insightly_id": "16772033",
       "location": "LOT 157 HENRI ST COOBER PEDY SA 5723, LOT 2193 HENRI ST COOBER PEDY SA 5723",
       "authority": "State Planning Commission",
-      "due_date": "30/11/2026",
+      "due_date": "2026-11-30",
       "status": "pending",
       "type": "RFI",
       "description": "State Planning Commission information request for PlanSA application 25005003 (E1032 Henri St). Damiano confirmed the deadline is extended to 30 November 2026; it is not critical or overdue.",
-      "due_date_iso": null
+      "due_date_iso": "2026-11-30"
     },
     {
       "app_id": "26020269",
@@ -72,11 +59,11 @@
       "insightly_id": "17928270",
       "location": "12 PINE AV EUDUNDA SA 5374",
       "authority": "Mid North Regional Assessment Panel",
-      "due_date": "23/12/2026",
+      "due_date": "2026-12-23",
       "status": "pending",
       "type": "RFI",
       "description": "Regional Council of Goyder (Masterplan) RFI: 1) acoustic assessment by qualified expert re interface between new residential allotments and surrounding non-residential uses; 2) Practice Direction 14 site contamination declaration + preliminary site investigation by qualified consultant. Infrastructure referral still underway - further info may follow.",
-      "due_date_iso": null
+      "due_date_iso": "2026-12-23"
     },
     {
       "app_id": "26034175",
@@ -90,8 +77,34 @@
       "type": "RFI",
       "description": "Adelaide Plains Council: EFPA purpose; agricultural justification; per-lot agricultural use plan; bore/irrigation/sewer/easements/demolition",
       "due_date_iso": "2027-02-10"
+    },
+    {
+      "app_id": "26028483",
+      "project_ref": "J1015",
+      "project_name": "J1015 Eudunda Land TD1-50",
+      "insightly_id": "15599174",
+      "location": "LOT 400 BRUCE ST EUDUNDA SA 5374",
+      "authority": "Mid North Regional Assessment Panel",
+      "due_date": null,
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Mandatory documentation outstanding; historical item, no deadline shown.",
+      "due_date_iso": null
+    },
+    {
+      "app_id": "26025219",
+      "project_ref": "A1352",
+      "project_name": "A1352 Gulf Pde TD1-3",
+      "insightly_id": null,
+      "location": "43 GULF PDE MASLIN BEACH SA 5170",
+      "authority": "City of Onkaparinga",
+      "due_date": null,
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Mandatory documentation outstanding; historical item, no deadline shown.",
+      "due_date_iso": null
     }
   ],
-  "last_updated": "2026-11-10T19:38:24.458Z",
-  "total": 7
+  "last_updated": "2026-11-12T19:39:04.139Z",
+  "total": 8
 }
