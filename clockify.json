@@ -1265,10 +1265,6 @@
       "id": "6880522c85df0d4d99211277",
       "name": "S1129 SA103 V57 ISW Newland Ave TIER3"
     },
-    "S1130": {
-      "id": "68c118a5e702157429639c45",
-      "name": "S1130 Strawson Rd TD1-2"
-    },
     "S1136": {
       "id": "690973e00acd8e3cd7b09340",
       "name": "S1136 Elizabeth Rd TD1-3"
@@ -1822,6 +1818,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 455,
-  "last_updated": "2026-11-12T18:15:31.127146+09:30"
+  "total": 454,
+  "last_updated": "2026-11-12T18:30:49.781566+09:30"
 }
