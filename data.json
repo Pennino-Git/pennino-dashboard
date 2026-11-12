@@ -614,11 +614,11 @@
       "address": "13 Rickaby St, Croydon Park SA 5008, Australia",
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18475733",
-      "responsibility": "Council/Authority",
-      "days_in_stage": 7,
-      "stage_name": "2. PlanSA Lodgement",
+      "responsibility": "Client",
+      "days_in_stage": 0,
+      "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [
         "tier2",
         "Torrens_Division"
@@ -2148,6 +2148,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-12T09:45:29.898464+09:30",
+  "last_updated": "2026-11-12T10:00:40.727625+09:30",
   "total": 98
 }

@@ -3467,15 +3467,6 @@
           "due_soon": ""
         },
         {
-          "task_id": 208580182,
-          "title": "Lodgement invoice received",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
           "task_id": 208580183,
           "title": "Lodgement invoice paid",
           "due_date": null,
@@ -3485,8 +3476,17 @@
           "due_soon": ""
         },
         {
-          "task_id": 208580184,
-          "title": "Client Advised of Lodgement in Plan SA",
+          "task_id": 208695395,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208695396,
+          "title": "Council Decision Notification Form received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4658,5 +4658,5 @@
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-12T09:45:29.898464+09:30"
+  "last_updated": "2026-11-12T10:00:40.727625+09:30"
 }

@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-11-12T10:00:40.727625+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18475733,
+      "project_name": "A1359 - Rickaby St TD1-4",
+      "tier": "T2",
+      "from": "Council/Authority",
+      "to": "Client",
+      "timestamp": "2026-11-12T10:00:40.727625+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18443116,
       "project_name": "V1021 Grove Ave CD1-2",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "Client",
       "to": "DP (Damiano)",
       "timestamp": "2026-09-23T10:45:25.693007+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "AR (Alex)",
-      "timestamp": "2026-09-23T09:30:48.302530+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18464668,
-      "project_name": "A1357 - Riesling St Morphett Vale Ident",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-09-22T16:15:25.820733+09:30"
     }
   ],
-  "last_updated": "2026-11-12T09:45:29.898464+09:30"
+  "last_updated": "2026-11-12T10:00:40.727625+09:30"
 }
