@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18515051,
+      "project_name": "F1153 - VIC PARK BH",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Invoice & Close",
+      "timestamp": "2026-11-12T12:00:39.412128+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18475733,
       "project_name": "A1359 - Rickaby St TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "4. Conditions & Compliance",
       "to": "5. Certified Survey",
       "timestamp": "2026-09-23T11:00:35.066630+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10",
-      "tier": "T2",
-      "from": "Client",
-      "to": "DP (Damiano)",
-      "timestamp": "2026-09-23T10:45:25.693007+09:30"
     }
   ],
-  "last_updated": "2026-11-12T11:45:28.670934+09:30"
+  "last_updated": "2026-11-12T12:00:39.412128+09:30"
 }

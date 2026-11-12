@@ -2017,10 +2017,10 @@
       "client": "Harry John",
       "link": "https://crm.na1.insightly.com/details/project/18515051",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 7,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 6,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2148,6 +2148,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-12T11:45:28.670934+09:30",
+  "last_updated": "2026-11-12T12:00:39.412128+09:30",
   "total": 98
 }
