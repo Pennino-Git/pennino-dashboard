@@ -1517,7 +1517,7 @@
       "address": "46 Paxton St, Willaston SA 5118, Australia",
       "client": "Alex Martin",
       "link": "https://crm.na1.insightly.com/details/project/18487253",
-      "responsibility": "Client",
+      "responsibility": "DP (Damiano)",
       "days_in_stage": 34,
       "stage_name": "1. Concept Planning",
       "sa_water_ref": "",
@@ -2148,6 +2148,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-12T16:15:30.666328+09:30",
+  "last_updated": "2026-11-12T16:30:47.668391+09:30",
   "total": 98
 }

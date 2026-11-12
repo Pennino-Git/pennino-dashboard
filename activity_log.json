@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18487253,
+      "project_name": "M1071 - Paxton St TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-12T16:30:47.668391+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "SCAP/DAC",
       "timestamp": "2026-09-24T04:30:45.040977+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "3. Authority Assessment",
-      "timestamp": "2026-09-23T17:30:44.053480+09:30"
     }
   ],
-  "last_updated": "2026-11-12T16:15:30.666328+09:30"
+  "last_updated": "2026-11-12T16:30:47.668391+09:30"
 }
