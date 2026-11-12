@@ -3400,7 +3400,7 @@
       ]
     },
     "18460385": {
-      "total": 2,
+      "total": 3,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3422,6 +3422,15 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208697949,
+          "title": "Ask DP if good for sending",
+          "due_date": "2026-11-20",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": false
         }
       ]
     },
@@ -4649,10 +4658,10 @@
     }
   ],
   "summary": {
-    "total_open": 387,
+    "total_open": 388,
     "total_overdue": 39,
     "total_due_today": 1,
     "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-12T17:45:33.057292+09:30"
+  "last_updated": "2026-11-12T18:00:40.136698+09:30"
 }
