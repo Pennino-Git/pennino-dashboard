@@ -1027,7 +1027,7 @@
       "total": 18,
       "overdue": 5,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1135,7 +1135,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 208435832,
@@ -1196,8 +1196,8 @@
     "18225672": {
       "total": 7,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1259,8 +1259,8 @@
           "due_date": "2026-11-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2579,8 +2579,8 @@
     "18417055": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206870069,
@@ -2606,8 +2606,8 @@
           "due_date": "2026-11-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2929,8 +2929,8 @@
     "18443116": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207345227,
@@ -2956,8 +2956,8 @@
           "due_date": "2026-11-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208694933,
@@ -3341,8 +3341,8 @@
     "13466164": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 207714694,
@@ -3368,8 +3368,8 @@
           "due_date": "2026-11-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3691,8 +3691,8 @@
     "18483048": {
       "total": 2,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208202696,
@@ -3709,8 +3709,8 @@
           "due_date": "2026-11-13",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3830,8 +3830,8 @@
     },
     "18505444": {
       "total": 6,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3875,8 +3875,8 @@
           "title": "CLient Accepted",
           "due_date": "2026-11-12",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4180,15 +4180,59 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208673079,
-      "title": "CLient Accepted",
-      "due_date": "2026-11-12",
+      "task_id": 208414167,
+      "title": "Review SA Water RFI",
+      "due_date": "2026-11-13",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18505444,
-      "project_name": "F1152 - HANISCH ST EASEMENT"
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
+      "task_id": 208438321,
+      "title": "Check if SA Water responded",
+      "due_date": "2026-11-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2"
+    },
+    {
+      "task_id": 208676232,
+      "title": "Check if client responded",
+      "due_date": "2026-11-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6"
+    },
+    {
+      "task_id": 208677261,
+      "title": "Did client respond? Status on Plan SA?",
+      "due_date": "2026-11-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
+      "task_id": 208696044,
+      "title": "Did Kate prep the DPL?",
+      "due_date": "2026-11-13",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "tasks_overdue": [
@@ -4600,6 +4644,17 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
+      "task_id": 208673079,
+      "title": "CLient Accepted",
+      "due_date": "2026-11-12",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18505444,
+      "project_name": "F1152 - HANISCH ST EASEMENT"
+    },
+    {
       "task_id": 208673090,
       "title": "Received Updated Plan from Kate",
       "due_date": "2026-11-11",
@@ -4624,9 +4679,9 @@
   ],
   "summary": {
     "total_open": 385,
-    "total_overdue": 39,
-    "total_due_today": 1,
+    "total_overdue": 40,
+    "total_due_today": 5,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-11-12T23:45:33.092354+09:30"
+  "last_updated": "2026-11-13T00:00:42.636147+09:30"
 }
