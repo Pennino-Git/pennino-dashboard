@@ -2630,8 +2630,8 @@
     },
     "16351320": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2675,8 +2675,8 @@
           "title": "Prep INV",
           "due_date": "2026-11-14",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4178,19 +4178,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 207791429,
-      "title": "Prep INV",
-      "due_date": "2026-11-14",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4512,6 +4500,17 @@
       "project_name": "O1012 The Hind Marsh Estate TD 1 - 150"
     },
     {
+      "task_id": 207791429,
+      "title": "Prep INV",
+      "due_date": "2026-11-14",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+    },
+    {
       "task_id": 207925724,
       "title": "Check for SA Water update",
       "due_date": "2026-10-13",
@@ -4690,9 +4689,9 @@
   ],
   "summary": {
     "total_open": 385,
-    "total_overdue": 45,
-    "total_due_today": 1,
+    "total_overdue": 46,
+    "total_due_today": 0,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-11-14T23:45:30.464202+09:30"
+  "last_updated": "2026-11-15T00:00:47.382850+09:30"
 }
