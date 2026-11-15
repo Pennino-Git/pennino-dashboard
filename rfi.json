@@ -70,7 +70,7 @@
       "project_ref": "M1069",
       "project_name": "M1069 Pederick Rd CD1-5",
       "insightly_id": "18425013",
-      "location": "LOT 1000 & 1001 PEDERICK RD LEWISTON SA 5501",
+      "location": "LOT 1000 PEDERICK RD LEWISTON SA 5501, LOT 1001 PEDERICK RD LEWISTON SA 5501",
       "authority": "Adelaide Plains Council",
       "due_date": "2027-02-10",
       "status": "pending",
@@ -105,6 +105,6 @@
       "due_date_iso": null
     }
   ],
-  "last_updated": "2026-11-12T19:39:04.139Z",
+  "last_updated": "2026-11-15T19:42:25.070Z",
   "total": 8
 }
