@@ -4073,32 +4073,6 @@
         }
       ]
     },
-    "18516458": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208651987,
-          "title": "Field work date scheduled",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208651988,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18254196": {
       "total": 1,
       "overdue": 0,
@@ -4174,6 +4148,23 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        }
+      ]
+    },
+    "18516458": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 1,
+      "tasks": [
+        {
+          "task_id": 208745141,
+          "title": "Prep INV",
+          "due_date": "2026-11-18",
+          "status": "NOT STARTED",
+          "overdue": false,
+          "due_today": false,
+          "due_soon": true
         }
       ]
     }
@@ -4688,10 +4679,10 @@
     }
   ],
   "summary": {
-    "total_open": 385,
+    "total_open": 384,
     "total_overdue": 46,
     "total_due_today": 0,
     "projects_with_tasks": 89
   },
-  "last_updated": "2026-11-16T10:00:39.933925+09:30"
+  "last_updated": "2026-11-16T10:15:31.461099+09:30"
 }

@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18516458,
+      "project_name": "A1363 - Wanke Rd IDENT PEG",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Send Plan to Client",
+      "timestamp": "2026-11-16T10:15:31.461099+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18516458,
+      "project_name": "A1363 - Wanke Rd IDENT PEG",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-11-16T10:15:31.461099+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18487253,
       "project_name": "M1071 - Paxton St TD1-2",
       "tier": "T2",
@@ -1781,25 +1799,7 @@
       "from": "AR (Alex)",
       "to": "SCAP/DAC",
       "timestamp": "2026-09-24T10:15:24.933549+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Client",
-      "timestamp": "2026-09-24T09:45:24.317785+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-09-24T06:15:25.430429+09:30"
     }
   ],
-  "last_updated": "2026-11-16T10:00:39.933925+09:30"
+  "last_updated": "2026-11-16T10:15:31.461099+09:30"
 }
