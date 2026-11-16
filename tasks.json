@@ -2445,6 +2445,23 @@
         }
       ]
     },
+    "18227807": {
+      "total": 1,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 206547405,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
     "18398274": {
       "total": 2,
       "overdue": 0,
@@ -4679,10 +4696,10 @@
     }
   ],
   "summary": {
-    "total_open": 384,
+    "total_open": 385,
     "total_overdue": 46,
     "total_due_today": 0,
-    "projects_with_tasks": 89
+    "projects_with_tasks": 90
   },
-  "last_updated": "2026-11-16T13:00:42.118610+09:30"
+  "last_updated": "2026-11-16T13:15:28.879179+09:30"
 }
