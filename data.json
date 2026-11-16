@@ -1364,7 +1364,7 @@
       "responsibility": "Client",
       "days_in_stage": 79,
       "stage_name": "2. PlanSA Lodgement",
-      "sa_water_ref": "",
+      "sa_water_ref": "H0196185",
       "stage_order": 2,
       "tags": [
         "tier2",
@@ -2129,6 +2129,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-16T10:15:31.461099+09:30",
+  "last_updated": "2026-11-16T10:30:53.978524+09:30",
   "total": 97
 }
