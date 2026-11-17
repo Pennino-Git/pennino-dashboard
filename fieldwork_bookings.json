@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T19:30:42.956Z",
+ "generated": "2026-11-17T19:30:58.964Z",
  "bookings": {
   "S1155": {
    "next": null,
@@ -110,15 +110,11 @@
    }
   },
   "B1143": {
-   "next": {
+   "next": null,
+   "last": {
     "date": "2026-11-17",
     "who": "TR",
     "title": "TR🔧-B1143-Heaslip Road Contour Stage 2"
-   },
-   "last": {
-    "date": "2026-11-06",
-    "who": "TR",
-    "title": "TR 🔧 B1143 Heaslip Rd CONTOUR"
    }
   },
   "A1318": {
