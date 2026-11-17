@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18308881,
+      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-11-17T12:15:33.358761+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18516458,
       "project_name": "A1363 - Wanke Rd IDENT PEG",
@@ -1790,16 +1799,7 @@
       "from": "Field Work Scheduled",
       "to": "Invoice",
       "timestamp": "2026-09-25T10:45:26.887474+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17782437,
-      "project_name": "F1106 Glenloth Dr TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-09-24T10:15:24.933549+09:30"
     }
   ],
-  "last_updated": "2026-11-17T12:00:40.922057+09:30"
+  "last_updated": "2026-11-17T12:15:33.358761+09:30"
 }
