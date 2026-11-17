@@ -1447,7 +1447,7 @@
       "address": "Lot 2025 30 Redwood Dr, Mount Barker SA 5251, Australia",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18449737",
-      "responsibility": "Client",
+      "responsibility": "Council/Authority",
       "days_in_stage": 18,
       "stage_name": "2. PlanSA Lodgement",
       "sa_water_ref": "",
@@ -2170,6 +2170,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-18T08:03:31.224456+09:30",
+  "last_updated": "2026-11-18T08:15:31.925050+09:30",
   "total": 99
 }
