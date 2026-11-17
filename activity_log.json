@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "2. PlanSA Lodgement",
+      "to": "3. Authority Assessment",
+      "timestamp": "2026-11-17T13:30:51.858462+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-11-17T13:30:51.858462+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1781,25 +1799,7 @@
       "from": "TR (Tristan)",
       "to": "AR (Alex)",
       "timestamp": "2026-09-25T11:03:40.942941+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18464668,
-      "project_name": "A1357 - Riesling St Morphett Vale Ident",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Invoice",
-      "timestamp": "2026-09-25T10:45:26.887474+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18464673,
-      "project_name": "A1358 - Morrow Rd Ident",
-      "tier": "T1",
-      "from": "Field Work Scheduled",
-      "to": "Invoice",
-      "timestamp": "2026-09-25T10:45:26.887474+09:30"
     }
   ],
-  "last_updated": "2026-11-17T13:15:36.994627+09:30"
+  "last_updated": "2026-11-17T13:30:51.858462+09:30"
 }

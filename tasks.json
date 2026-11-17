@@ -2540,8 +2540,8 @@
       ]
     },
     "18417055": {
-      "total": 3,
-      "overdue": 1,
+      "total": 2,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -2555,22 +2555,13 @@
           "due_soon": ""
         },
         {
-          "task_id": 207715148,
-          "title": "Lodgement invoice paid",
+          "task_id": 208771038,
+          "title": "Council Decision Notification Form received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208676232,
-          "title": "Check if client responded",
-          "due_date": "2026-11-13",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -2856,9 +2847,9 @@
     },
     "18443116": {
       "total": 7,
-      "overdue": 1,
+      "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 207345227,
@@ -2881,11 +2872,11 @@
         {
           "task_id": 208414167,
           "title": "Review SA Water RFI",
-          "due_date": "2026-11-13",
+          "due_date": "2026-11-24",
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 208694933,
@@ -4582,17 +4573,6 @@
       "project_name": "C1066 Haig St IDENT & CONTOUR"
     },
     {
-      "task_id": 208414167,
-      "title": "Review SA Water RFI",
-      "due_date": "2026-11-13",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18443116,
-      "project_name": "V1021 Grove Ave CD1-2"
-    },
-    {
       "task_id": 208438321,
       "title": "Check if SA Water responded",
       "due_date": "2026-11-13",
@@ -4648,17 +4628,6 @@
       "project_name": "F1152 - HANISCH ST EASEMENT"
     },
     {
-      "task_id": 208676232,
-      "title": "Check if client responded",
-      "due_date": "2026-11-13",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6"
-    },
-    {
       "task_id": 208676527,
       "title": "Pegging Plan form Tristan",
       "due_date": "2026-11-11",
@@ -4693,10 +4662,10 @@
     }
   ],
   "summary": {
-    "total_open": 385,
-    "total_overdue": 45,
+    "total_open": 384,
+    "total_overdue": 43,
     "total_due_today": 0,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-17T13:15:36.994627+09:30"
+  "last_updated": "2026-11-17T13:30:51.858462+09:30"
 }
