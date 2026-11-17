@@ -103,8 +103,21 @@
       "type": "Mandatory Docs",
       "description": "Mandatory documentation outstanding; historical item, no deadline shown.",
       "due_date_iso": null
+    },
+    {
+      "app_id": "26037896",
+      "project_ref": "M1071",
+      "project_name": "M1071 - Paxton St TD1-2",
+      "insightly_id": "18487253",
+      "location": "46 PAXTON ST WILLASTON SA 5118",
+      "authority": "Town of Gawler",
+      "due_date": null,
+      "status": "pending",
+      "type": "Mandatory Docs",
+      "description": "Mandatory: updated plan of division showing existing SEP in verge adjacent proposed Lot 471. Non-mandatory assessment information: existing dwelling layout on proposed Lot 470 and connection to existing/proposed dedicated POS. Request 17 Nov 2026; no statutory response deadline.",
+      "due_date_iso": null
     }
   ],
-  "last_updated": "2026-11-15T19:42:25.070Z",
-  "total": 8
+  "last_updated": "2026-11-17T19:39:41.696Z",
+  "total": 9
 }
