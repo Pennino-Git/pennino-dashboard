@@ -1,6 +1,24 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18499118,
+      "project_name": "B1143 - Heaslip Rd CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Prepare Plan",
+      "timestamp": "2026-11-18T07:30:47.982878+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18499118,
+      "project_name": "B1143 - Heaslip Rd CONTOUR",
+      "tier": "T1",
+      "from": "Field Work",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-18T07:30:47.982878+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
@@ -1781,25 +1799,7 @@
       "from": "Council/Authority",
       "to": "Harry",
       "timestamp": "2026-09-25T14:46:01.341425+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18091731,
-      "project_name": "F1112 Isabella Rd TD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-09-25T13:00:36.346642+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18464668,
-      "project_name": "A1357 - Riesling St Morphett Vale Ident",
-      "tier": "T1",
-      "from": "TR (Tristan)",
-      "to": "AR (Alex)",
-      "timestamp": "2026-09-25T11:03:40.942941+09:30"
     }
   ],
-  "last_updated": "2026-11-18T07:15:32.532301+09:30"
+  "last_updated": "2026-11-18T07:30:47.982878+09:30"
 }
