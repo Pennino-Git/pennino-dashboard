@@ -3783,8 +3783,8 @@
       ]
     },
     "18505444": {
-      "total": 6,
-      "overdue": 2,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -3827,20 +3827,11 @@
         {
           "task_id": 208673079,
           "title": "CLient Accepted",
-          "due_date": "2026-11-12",
+          "due_date": null,
           "status": "NOT STARTED",
-          "overdue": true,
+          "overdue": "",
           "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 208673090,
-          "title": "Received Updated Plan from Kate",
-          "due_date": "2026-11-11",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
+          "due_soon": ""
         }
       ]
     },
@@ -4584,28 +4575,6 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
-      "task_id": 208673079,
-      "title": "CLient Accepted",
-      "due_date": "2026-11-12",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18505444,
-      "project_name": "F1152 - HANISCH ST EASEMENT"
-    },
-    {
-      "task_id": 208673090,
-      "title": "Received Updated Plan from Kate",
-      "due_date": "2026-11-11",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18505444,
-      "project_name": "F1152 - HANISCH ST EASEMENT"
-    },
-    {
       "task_id": 208676527,
       "title": "Pegging Plan form Tristan",
       "due_date": "2026-11-11",
@@ -4629,10 +4598,10 @@
     }
   ],
   "summary": {
-    "total_open": 384,
-    "total_overdue": 40,
+    "total_open": 383,
+    "total_overdue": 38,
     "total_due_today": 0,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-17T15:00:41.548275+09:30"
+  "last_updated": "2026-11-17T15:15:32.464265+09:30"
 }
