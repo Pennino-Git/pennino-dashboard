@@ -279,7 +279,7 @@
       "address": "151 Angle Vale Road, Angle Vale SA 5117",
       "client": "Dave Stockbridge",
       "link": "https://crm.na1.insightly.com/details/project/18227807",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "TR (Tristan)",
       "days_in_stage": 2,
       "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
@@ -2170,6 +2170,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-18T09:00:47.878626+09:30",
+  "last_updated": "2026-11-18T09:15:31.041682+09:30",
   "total": 99
 }
