@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18515088,
+      "project_name": "T1341 - BLOCK E NORTH TCE POTS",
+      "tier": "T3",
+      "from": "AR (Alex)",
+      "to": "DP (Damiano)",
+      "timestamp": "2026-11-18T12:45:31.207778+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18443754,
       "project_name": "L1044 11 Marblewood Wy TD1-2",
@@ -1790,16 +1799,7 @@
       "from": "8. Final Authority Approvals",
       "to": "10. LTO Approval",
       "timestamp": "2026-09-28T16:28:15.938882+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "LTO",
-      "timestamp": "2026-09-28T16:28:15.938882+09:30"
     }
   ],
-  "last_updated": "2026-11-18T12:30:47.856874+09:30"
+  "last_updated": "2026-11-18T12:45:31.207778+09:30"
 }
