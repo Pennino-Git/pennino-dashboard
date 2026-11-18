@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "Client",
+      "to": "Council/Authority",
+      "timestamp": "2026-11-18T13:00:42.097871+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18515088,
       "project_name": "T1341 - BLOCK E NORTH TCE POTS",
       "tier": "T3",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "Client",
       "timestamp": "2026-09-29T00:46:44.405859+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 17328458,
-      "project_name": "L1031 Stebonheath Rd TD1-5",
-      "tier": "T2",
-      "from": "8. Final Authority Approvals",
-      "to": "10. LTO Approval",
-      "timestamp": "2026-09-28T16:28:15.938882+09:30"
     }
   ],
-  "last_updated": "2026-11-18T12:45:31.207778+09:30"
+  "last_updated": "2026-11-18T13:00:42.097871+09:30"
 }
