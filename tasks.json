@@ -4210,6 +4210,41 @@
           "due_soon": ""
         }
       ]
+    },
+    "18527920": {
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208793687,
+          "title": "Field work date scheduled",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208793688,
+          "title": "Third Parties Booked",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208793689,
+          "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -4668,10 +4703,10 @@
     }
   ],
   "summary": {
-    "total_open": 387,
+    "total_open": 390,
     "total_overdue": 38,
     "total_due_today": 3,
-    "projects_with_tasks": 91
+    "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-18T13:00:42.097871+09:30"
+  "last_updated": "2026-11-18T13:15:31.143459+09:30"
 }

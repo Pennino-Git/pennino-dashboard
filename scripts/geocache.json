@@ -485,6 +485,12 @@
     "lng": 138.60746,
     "source": "map.html-seed"
   },
+  "111 mill rd, waterloo corner sa 5110, australia": {
+    "cachedAt": "2026-11-18",
+    "lat": -34.7165377,
+    "lng": 138.5878849,
+    "source": "google"
+  },
   "111 wingfield road, wingfield sa 5013": {
     "cachedAt": "2026-08-25",
     "lat": -34.8374338,

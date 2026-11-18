@@ -2091,6 +2091,25 @@
       "lng": 138.6068224
     },
     {
+      "id": 18527920,
+      "name": "S1156 - M88 - Inspection Monitoring Point Setout",
+      "tier": "T3",
+      "status": "IN PROGRESS",
+      "address": "111 Mill Rd, Waterloo Corner SA 5110, Australia",
+      "client": "Aaron Seychell",
+      "link": "https://crm.na1.insightly.com/details/project/18527920",
+      "responsibility": "Field Work",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
+      "sa_water_ref": "",
+      "stage_order": 2,
+      "tags": [],
+      "needs_fieldwork": true,
+      "is_premium": false,
+      "lat": -34.7165377,
+      "lng": 138.5878849
+    },
+    {
       "id": 18209910,
       "name": "T1320 Russell St TIER3",
       "tier": "T3",
@@ -2170,6 +2189,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-18T13:00:42.097871+09:30",
-  "total": 99
+  "last_updated": "2026-11-18T13:15:31.143459+09:30",
+  "total": 100
 }
