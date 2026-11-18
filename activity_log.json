@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-11-19T08:00:46.494144+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18308881,
       "project_name": "L1042 Grand Junction Rd REALIGNMENT",
@@ -1790,16 +1799,7 @@
       "from": "Kate (Drafting)",
       "to": "Council/Authority",
       "timestamp": "2026-09-29T16:25:01.944304+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18308881,
-      "project_name": "L1042 Grand Junction Rd REALIGNMENT",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-29T16:25:01.944304+09:30"
     }
   ],
-  "last_updated": "2026-11-19T07:45:34.469174+09:30"
+  "last_updated": "2026-11-19T08:00:46.494144+09:30"
 }
