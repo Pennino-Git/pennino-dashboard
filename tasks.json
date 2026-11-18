@@ -2987,7 +2987,7 @@
       ]
     },
     "18443754": {
-      "total": 3,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3018,11 +3018,29 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
+        },
+        {
+          "task_id": 208792383,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208792384,
+          "title": "Council Decision Notification Form received",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
         }
       ]
     },
     "18449737": {
-      "total": 3,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3048,6 +3066,24 @@
         {
           "task_id": 208498758,
           "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208792355,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208792356,
+          "title": "Council Decision Notification Form received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -3110,7 +3146,7 @@
       ]
     },
     "18451364": {
-      "total": 3,
+      "total": 5,
       "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
@@ -3136,6 +3172,24 @@
         {
           "task_id": 208498580,
           "title": "Lodgement invoice paid",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208792368,
+          "title": "SA Water connection request submitted (May Require Pegging)",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208792369,
+          "title": "Council Decision Notification Form received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4641,10 +4695,10 @@
     }
   ],
   "summary": {
-    "total_open": 384,
+    "total_open": 390,
     "total_overdue": 38,
     "total_due_today": 3,
     "projects_with_tasks": 91
   },
-  "last_updated": "2026-11-18T09:45:31.125300+09:30"
+  "last_updated": "2026-11-18T10:00:40.882808+09:30"
 }
