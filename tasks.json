@@ -1169,8 +1169,8 @@
     "18225672": {
       "total": 7,
       "overdue": 4,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204528159,
@@ -1232,8 +1232,8 @@
           "due_date": "2026-11-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2550,8 +2550,8 @@
     "16351320": {
       "total": 5,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 206951092,
@@ -2595,8 +2595,8 @@
           "due_date": "2026-11-19",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -2803,8 +2803,8 @@
     },
     "18443116": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2830,8 +2830,8 @@
           "title": "Review SA Water RFI- ask DP if we can do field work now (DNF Received)",
           "due_date": "2026-11-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3287,8 +3287,8 @@
     },
     "13466164": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3314,8 +3314,8 @@
           "title": "Did DP response to query about SA Water feedback",
           "due_date": "2026-11-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4152,8 +4152,8 @@
     },
     "18516458": {
       "total": 1,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4161,8 +4161,8 @@
           "title": "Prep INV",
           "due_date": "2026-11-18",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4267,37 +4267,26 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208414167,
-      "title": "Review SA Water RFI- ask DP if we can do field work now (DNF Received)",
-      "due_date": "2026-11-18",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18443116,
-      "project_name": "V1021 Grove Ave CD1-2"
-    },
-    {
-      "task_id": 208745141,
+      "task_id": 207791429,
       "title": "Prep INV",
-      "due_date": "2026-11-18",
+      "due_date": "2026-11-19",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18516458,
-      "project_name": "A1363 - Wanke Rd IDENT PEG"
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
     },
     {
-      "task_id": 208771378,
-      "title": "Did DP response to query about SA Water feedback",
-      "due_date": "2026-11-18",
+      "task_id": 208771253,
+      "title": "Plan SA status?",
+      "due_date": "2026-11-19",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 13466164,
-      "project_name": "F1063 Araluen St TD1-2"
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
     }
   ],
   "tasks_overdue": [
@@ -4676,6 +4665,17 @@
       "project_name": "C1066 Haig St IDENT & CONTOUR"
     },
     {
+      "task_id": 208414167,
+      "title": "Review SA Water RFI- ask DP if we can do field work now (DNF Received)",
+      "due_date": "2026-11-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18443116,
+      "project_name": "V1021 Grove Ave CD1-2"
+    },
+    {
       "task_id": 208439257,
       "title": "Prep AGIG INV",
       "due_date": "2026-10-29",
@@ -4718,13 +4718,35 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
+      "task_id": 208745141,
+      "title": "Prep INV",
+      "due_date": "2026-11-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18516458,
+      "project_name": "A1363 - Wanke Rd IDENT PEG"
+    },
+    {
+      "task_id": 208771378,
+      "title": "Did DP response to query about SA Water feedback",
+      "due_date": "2026-11-18",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2"
     }
   ],
   "summary": {
     "total_open": 392,
-    "total_overdue": 38,
-    "total_due_today": 3,
+    "total_overdue": 41,
+    "total_due_today": 2,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-18T23:45:34.520579+09:30"
+  "last_updated": "2026-11-19T00:00:44.531216+09:30"
 }
