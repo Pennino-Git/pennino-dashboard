@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18187753,
+      "project_name": "D1068 Crossley Ave TD1-2",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SA Water",
+      "timestamp": "2026-11-19T14:15:32.107606+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18273273,
       "project_name": "F1114 Blackham Cres TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "7. SCAP Application",
       "to": "8. Final Authority Approvals",
       "timestamp": "2026-09-30T14:00:36.504399+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17385935,
-      "project_name": "K1030 Wilsden St CD1-3",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-09-30T14:00:36.504399+09:30"
     }
   ],
-  "last_updated": "2026-11-19T14:00:43.514378+09:30"
+  "last_updated": "2026-11-19T14:15:32.107606+09:30"
 }
