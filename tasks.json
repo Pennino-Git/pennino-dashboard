@@ -671,8 +671,8 @@
     "17278348": {
       "total": 7,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 197665090,
@@ -734,8 +734,8 @@
           "due_date": "2026-11-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -1026,8 +1026,8 @@
     "17539782": {
       "total": 16,
       "overdue": 5,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 204448419,
@@ -1116,8 +1116,8 @@
           "due_date": "2026-11-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208435832,
@@ -1177,8 +1177,8 @@
     },
     "18225672": {
       "total": 7,
-      "overdue": 4,
-      "due_today": 1,
+      "overdue": 5,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -1240,8 +1240,8 @@
           "title": "Plan SA status?",
           "due_date": "2026-11-19",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -2558,8 +2558,8 @@
     },
     "16351320": {
       "total": 5,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2603,8 +2603,8 @@
           "title": "Prep INV",
           "due_date": "2026-11-19",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3736,8 +3736,8 @@
     "18212535": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208183747,
@@ -3763,8 +3763,8 @@
           "due_date": "2026-11-20",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4347,26 +4347,37 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 207791429,
-      "title": "Prep INV",
-      "due_date": "2026-11-19",
+      "task_id": 208428005,
+      "title": "SA Water 20 bdays (for new INV)",
+      "due_date": "2026-11-20",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 16351320,
-      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+      "project_id": 17539782,
+      "project_name": "A1318 Euston Ave CD1-4"
     },
     {
-      "task_id": 208771253,
-      "title": "Plan SA status?",
-      "due_date": "2026-11-19",
+      "task_id": 208769294,
+      "title": "per DP, make sure this is invoiced",
+      "due_date": "2026-11-20",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18225672,
-      "project_name": "D1071 Deeds Rd CD1-10"
+      "project_id": 18212535,
+      "project_name": "D1069 Railway Tce TIER3"
+    },
+    {
+      "task_id": 208814044,
+      "title": "Ask DP for Actionables",
+      "due_date": "2026-11-20",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 17278348,
+      "project_name": "A1309 Fife St CD1-8"
     }
   ],
   "tasks_overdue": [
@@ -4690,6 +4701,17 @@
       "project_name": "O1012 The Hind Marsh Estate TD 1 - 150"
     },
     {
+      "task_id": 207791429,
+      "title": "Prep INV",
+      "due_date": "2026-11-19",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 16351320,
+      "project_name": "L1025 Lipson 1 CD3-13 Stage 1"
+    },
+    {
       "task_id": 207925724,
       "title": "Check for SA Water update",
       "due_date": "2026-10-13",
@@ -4811,6 +4833,17 @@
       "project_name": "A1363 - Wanke Rd IDENT PEG"
     },
     {
+      "task_id": 208771253,
+      "title": "Plan SA status?",
+      "due_date": "2026-11-19",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10"
+    },
+    {
       "task_id": 208771378,
       "title": "Did DP response to query about SA Water feedback",
       "due_date": "2026-11-18",
@@ -4824,9 +4857,9 @@
   ],
   "summary": {
     "total_open": 400,
-    "total_overdue": 41,
-    "total_due_today": 2,
+    "total_overdue": 43,
+    "total_due_today": 3,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-11-19T23:45:33.629346+09:30"
+  "last_updated": "2026-11-20T00:00:50.780218+09:30"
 }
