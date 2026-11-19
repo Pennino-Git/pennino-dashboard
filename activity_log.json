@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-11-19T13:45:33.956465+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 17278348,
       "project_name": "A1309 Fife St CD1-8",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-09-30T14:00:36.504399+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 17385935,
-      "project_name": "K1030 Wilsden St CD1-3",
-      "tier": "T2",
-      "from": "Kate (Drafting)",
-      "to": "Council/Authority",
-      "timestamp": "2026-09-29T16:25:01.944304+09:30"
     }
   ],
-  "last_updated": "2026-11-19T13:30:52.041899+09:30"
+  "last_updated": "2026-11-19T13:45:33.956465+09:30"
 }
