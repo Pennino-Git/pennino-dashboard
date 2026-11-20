@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18515088,
+      "project_name": "T1341 - BLOCK E NORTH TCE POTS",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Plan Drawing & Check",
+      "timestamp": "2026-11-20T14:00:46.580917+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18425013,
       "project_name": "M1069 Pederick Rd CD1-5",
@@ -1790,16 +1799,7 @@
       "from": "Client",
       "to": "Council/Authority",
       "timestamp": "2026-10-01T21:00:37.216430+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18474550,
-      "project_name": "F1151 - Summit WTP Balhannah",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-09-30T15:45:28.524290+09:30"
     }
   ],
-  "last_updated": "2026-11-20T13:45:32.061119+09:30"
+  "last_updated": "2026-11-20T14:00:46.580917+09:30"
 }

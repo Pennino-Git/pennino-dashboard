@@ -480,9 +480,9 @@
     "stage_name": "Invoice & Close"
   },
   "18515088": {
-    "stage_id": 3134301,
-    "entered": "2026-11-05",
-    "stage_name": "Field Work Scheduled"
+    "stage_id": 3134302,
+    "entered": "2026-11-20",
+    "stage_name": "Plan Drawing & Check"
   },
   "18516458": {
     "stage_id": 3823939,
@@ -503,5 +503,10 @@
     "stage_id": 3823937,
     "entered": "2026-11-19",
     "stage_name": "Field Work Scheduled"
+  },
+  "18530668": {
+    "stage_id": 3823936,
+    "entered": "2026-11-20",
+    "stage_name": "Prepare Project"
   }
 }

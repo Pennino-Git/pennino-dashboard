@@ -4127,23 +4127,6 @@
         }
       ]
     },
-    "18515088": {
-      "total": 1,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208581321,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18254196": {
       "total": 1,
       "overdue": 0,
@@ -4354,6 +4337,76 @@
         {
           "task_id": 208815936,
           "title": "Field work completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18515088": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208837727,
+          "title": "Survey data processed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208837728,
+          "title": "Final plan signed off",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18530668": {
+      "total": 4,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208837771,
+          "title": "Job folder created in Dropbox/Clockify",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208837772,
+          "title": "Title search completed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208837773,
+          "title": "Existing plan / survey research done",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208837774,
+          "title": "Physical Docket Prepared",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4863,10 +4916,10 @@
     }
   ],
   "summary": {
-    "total_open": 402,
+    "total_open": 407,
     "total_overdue": 42,
     "total_due_today": 3,
-    "projects_with_tasks": 93
+    "projects_with_tasks": 94
   },
-  "last_updated": "2026-11-20T13:45:32.061119+09:30"
+  "last_updated": "2026-11-20T14:00:46.580917+09:30"
 }

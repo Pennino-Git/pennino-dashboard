@@ -272,6 +272,25 @@
       "lng": 138.6516054
     },
     {
+      "id": 18530668,
+      "name": "R1038 - Mooringe Ave CONTOUR",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "129-131 Mooringe Ave, Camden Park SA 5038, Australia",
+      "client": "David Rowett",
+      "link": "https://crm.na1.insightly.com/details/project/18530668",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.9609625,
+      "lng": 138.5397334
+    },
+    {
       "id": 18227807,
       "name": "S1144 Angle Vale Rd IDENT",
       "tier": "T1",
@@ -2197,10 +2216,10 @@
       "client": "Rob Wootton",
       "link": "https://crm.na1.insightly.com/details/project/18515088",
       "responsibility": "DP (Damiano)",
-      "days_in_stage": 15,
-      "stage_name": "Field Work Scheduled",
+      "days_in_stage": 0,
+      "stage_name": "Plan Drawing & Check",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 3,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2208,6 +2227,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-20T13:45:32.061119+09:30",
-  "total": 101
+  "last_updated": "2026-11-20T14:00:46.580917+09:30",
+  "total": 102
 }
