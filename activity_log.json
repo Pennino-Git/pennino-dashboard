@@ -5,6 +5,24 @@
       "project_id": 18515088,
       "project_name": "T1341 - BLOCK E NORTH TCE POTS",
       "tier": "T3",
+      "from": "Plan Drawing & Check",
+      "to": "Invoice & Close",
+      "timestamp": "2026-11-21T10:30:48.410176+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18515088,
+      "project_name": "T1341 - BLOCK E NORTH TCE POTS",
+      "tier": "T3",
+      "from": "DP (Damiano)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-11-21T10:30:48.410176+09:30"
+    },
+    {
+      "type": "stage_change",
+      "project_id": 18515088,
+      "project_name": "T1341 - BLOCK E NORTH TCE POTS",
+      "tier": "T3",
       "from": "Field Work Scheduled",
       "to": "Plan Drawing & Check",
       "timestamp": "2026-11-20T14:00:46.580917+09:30"
@@ -1781,25 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-10-05T14:00:37.976321+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18417055,
-      "project_name": "P1088 Penong Ave CD1-6",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-10-01T21:30:49.811927+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4",
-      "tier": "T2",
-      "from": "Client",
-      "to": "Council/Authority",
-      "timestamp": "2026-10-01T21:00:37.216430+09:30"
     }
   ],
-  "last_updated": "2026-11-21T10:15:28.505889+09:30"
+  "last_updated": "2026-11-21T10:30:48.410176+09:30"
 }

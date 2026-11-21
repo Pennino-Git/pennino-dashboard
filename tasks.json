@@ -4345,32 +4345,6 @@
         }
       ]
     },
-    "18515088": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 208837727,
-          "title": "Survey data processed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208837728,
-          "title": "Final plan signed off",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18530668": {
       "total": 4,
       "overdue": 0,
@@ -4407,6 +4381,32 @@
         {
           "task_id": 208837774,
           "title": "Physical Docket Prepared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
+    },
+    "18515088": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208854237,
+          "title": "Final invoice issued and In XERO",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208854238,
+          "title": "Job folder finalised and filed - Job Closed",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4943,5 +4943,5 @@
     "total_due_today": 2,
     "projects_with_tasks": 94
   },
-  "last_updated": "2026-11-21T10:15:28.505889+09:30"
+  "last_updated": "2026-11-21T10:30:48.410176+09:30"
 }

@@ -2215,11 +2215,11 @@
       "address": "326 North Terrace, Adelaide SA 5000, Australia",
       "client": "Rob Wootton",
       "link": "https://crm.na1.insightly.com/details/project/18515088",
-      "responsibility": "DP (Damiano)",
-      "days_in_stage": 1,
-      "stage_name": "Plan Drawing & Check",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice & Close",
       "sa_water_ref": "",
-      "stage_order": 3,
+      "stage_order": 6,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2227,6 +2227,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-21T10:15:28.505889+09:30",
+  "last_updated": "2026-11-21T10:30:48.410176+09:30",
   "total": 102
 }
