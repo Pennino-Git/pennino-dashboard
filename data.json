@@ -51,10 +51,10 @@
       "client": "Ali Prior",
       "link": "https://crm.na1.insightly.com/details/project/18516458",
       "responsibility": "AR (Alex)",
-      "days_in_stage": 5,
-      "stage_name": "Send Plan to Client",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 4,
+      "stage_order": 5,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2227,6 +2227,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-21T13:30:52.874307+09:30",
+  "last_updated": "2026-11-21T13:39:38.027941+09:30",
   "total": 102
 }
