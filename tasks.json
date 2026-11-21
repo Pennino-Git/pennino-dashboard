@@ -3364,32 +3364,6 @@
         }
       ]
     },
-    "18474571": {
-      "total": 2,
-      "overdue": 0,
-      "due_today": 0,
-      "due_soon": 0,
-      "tasks": [
-        {
-          "task_id": 207902788,
-          "title": "Existing plan / survey research done",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        },
-        {
-          "task_id": 208159234,
-          "title": "Field work completed",
-          "due_date": null,
-          "status": "NOT STARTED",
-          "overdue": "",
-          "due_today": false,
-          "due_soon": ""
-        }
-      ]
-    },
     "18475733": {
       "total": 4,
       "overdue": 0,
@@ -4414,6 +4388,32 @@
           "due_soon": ""
         }
       ]
+    },
+    "18474571": {
+      "total": 2,
+      "overdue": 0,
+      "due_today": 0,
+      "due_soon": 0,
+      "tasks": [
+        {
+          "task_id": 208854627,
+          "title": "Invoice issued",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208854629,
+          "title": "Job folder finalised and filed - Job Closed",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        }
+      ]
     }
   },
   "tasks_due_today": [
@@ -4943,5 +4943,5 @@
     "total_due_today": 2,
     "projects_with_tasks": 94
   },
-  "last_updated": "2026-11-21T13:15:35.249856+09:30"
+  "last_updated": "2026-11-21T13:30:52.874307+09:30"
 }

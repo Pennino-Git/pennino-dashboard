@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18474571,
+      "project_name": "C1068 - Broadacres Dr CONTOUR",
+      "tier": "T1",
+      "from": "Field Work Scheduled",
+      "to": "Invoice",
+      "timestamp": "2026-11-21T13:30:52.874307+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18474571,
+      "project_name": "C1068 - Broadacres Dr CONTOUR",
+      "tier": "T1",
+      "from": "TR (Tristan)",
+      "to": "AR (Alex)",
+      "timestamp": "2026-11-21T13:30:52.874307+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18515088,
       "project_name": "T1341 - BLOCK E NORTH TCE POTS",
       "tier": "T3",
@@ -1781,25 +1799,7 @@
       "from": "3. Authority Assessment",
       "to": "4. Conditions & Compliance",
       "timestamp": "2026-10-05T14:15:27.133650+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18273554,
-      "project_name": "S1148 Elizabeth Rd TD1-3",
-      "tier": "T2",
-      "from": "SA Water",
-      "to": "Client",
-      "timestamp": "2026-10-05T14:15:27.133650+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18443181,
-      "project_name": "V1022 Byre Ave CD1-2",
-      "tier": "T2",
-      "from": "Council/Authority",
-      "to": "Client",
-      "timestamp": "2026-10-05T14:00:37.976321+09:30"
     }
   ],
-  "last_updated": "2026-11-21T13:15:35.249856+09:30"
+  "last_updated": "2026-11-21T13:30:52.874307+09:30"
 }

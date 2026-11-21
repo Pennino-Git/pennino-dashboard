@@ -155,11 +155,11 @@
       "address": "140 Broadacres Dr, Penfield Gardens SA 5121, Australia",
       "client": "Adam Smith",
       "link": "https://crm.na1.insightly.com/details/project/18474571",
-      "responsibility": "TR (Tristan)",
-      "days_in_stage": 39,
-      "stage_name": "Field Work Scheduled",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Invoice",
       "sa_water_ref": "",
-      "stage_order": 2,
+      "stage_order": 5,
       "tags": [
         "ident",
         "tier1"
@@ -2227,6 +2227,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-21T13:15:35.249856+09:30",
+  "last_updated": "2026-11-21T13:30:52.874307+09:30",
   "total": 102
 }
