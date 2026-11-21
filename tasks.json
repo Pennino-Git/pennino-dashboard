@@ -2584,8 +2584,8 @@
     },
     "18425013": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2620,8 +2620,8 @@
           "title": "DP reviewed email from SA Water?",
           "due_date": "2026-11-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3700,8 +3700,8 @@
     },
     "18483048": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 1,
       "tasks": [
         {
@@ -3727,8 +3727,8 @@
           "title": "Notify client that it's been lodged",
           "due_date": "2026-11-21",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4443,30 +4443,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 208837494,
-      "title": "DP reviewed email from SA Water?",
-      "due_date": "2026-11-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18425013,
-      "project_name": "M1069 Pederick Rd CD1-5"
-    },
-    {
-      "task_id": 208837567,
-      "title": "Notify client that it's been lodged",
-      "due_date": "2026-11-21",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18483048,
-      "project_name": "R1037 - Angle Vale Lease Plan"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4962,13 +4939,35 @@
       "due_soon": false,
       "project_id": 17278348,
       "project_name": "A1309 Fife St CD1-8"
+    },
+    {
+      "task_id": 208837494,
+      "title": "DP reviewed email from SA Water?",
+      "due_date": "2026-11-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18425013,
+      "project_name": "M1069 Pederick Rd CD1-5"
+    },
+    {
+      "task_id": 208837567,
+      "title": "Notify client that it's been lodged",
+      "due_date": "2026-11-21",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "summary": {
     "total_open": 410,
-    "total_overdue": 45,
-    "total_due_today": 2,
+    "total_overdue": 47,
+    "total_due_today": 0,
     "projects_with_tasks": 94
   },
-  "last_updated": "2026-11-21T23:45:32.172804+09:30"
+  "last_updated": "2026-11-22T00:00:41.417041+09:30"
 }
