@@ -2557,23 +2557,50 @@
       ]
     },
     "18039448": {
-      "total": 2,
-      "overdue": 1,
+      "total": 5,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
-          "task_id": 206977011,
-          "title": "SA Water invoice paid?",
-          "due_date": "2026-09-01",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
           "task_id": 206977015,
           "title": "Issue Final PAA Invoice",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208873790,
+          "title": "Final council sign-off obtained",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208873791,
+          "title": "All remaining conditions cleared",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208873792,
+          "title": "SA Water Conditions Met",
+          "due_date": null,
+          "status": "NOT STARTED",
+          "overdue": "",
+          "due_today": false,
+          "due_soon": ""
+        },
+        {
+          "task_id": 208873793,
+          "title": "SCAP Certificate Received",
           "due_date": null,
           "status": "NOT STARTED",
           "overdue": "",
@@ -4721,17 +4748,6 @@
       "project_name": "A1352 Gulf Pde TD1-3"
     },
     {
-      "task_id": 206977011,
-      "title": "SA Water invoice paid?",
-      "due_date": "2026-09-01",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18039448,
-      "project_name": "S1137 Ellis Ave TD2-6"
-    },
-    {
       "task_id": 207112382,
       "title": "Ask DP what's next",
       "due_date": "2026-08-24",
@@ -4964,10 +4980,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
-    "total_overdue": 47,
+    "total_open": 413,
+    "total_overdue": 46,
     "total_due_today": 0,
     "projects_with_tasks": 94
   },
-  "last_updated": "2026-11-23T12:15:28.814439+09:30"
+  "last_updated": "2026-11-23T12:30:47.663832+09:30"
 }
