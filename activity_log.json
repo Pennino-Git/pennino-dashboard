@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "Kate (Drafting)",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-11-23T11:45:35.673730+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18021299,
       "project_name": "Z1060 Collison St IDENT & CONTOUR",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "AR (Alex)",
       "timestamp": "2026-10-06T14:30:50.977751+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18475883,
-      "project_name": "C1069 Destroyer TD1-3",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-10-06T12:45:28.838427+09:30"
     }
   ],
-  "last_updated": "2026-11-23T11:30:44.825538+09:30"
+  "last_updated": "2026-11-23T11:45:35.673730+09:30"
 }
