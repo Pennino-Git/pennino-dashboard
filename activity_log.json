@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "Client",
+      "to": "SCAP/DAC",
+      "timestamp": "2026-11-23T15:45:28.920914+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18039448,
       "project_name": "S1137 Ellis Ave TD2-6",
@@ -1790,16 +1799,7 @@
       "from": "Council/Authority",
       "to": "Client",
       "timestamp": "2026-10-07T12:30:49.612190+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18475733,
-      "project_name": "A1359 - Rickaby St TD1-4",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Kate (Drafting)",
-      "timestamp": "2026-10-06T22:30:54.737766+09:30"
     }
   ],
-  "last_updated": "2026-11-23T15:30:46.286727+09:30"
+  "last_updated": "2026-11-23T15:45:28.920914+09:30"
 }

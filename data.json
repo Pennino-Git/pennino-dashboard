@@ -1194,7 +1194,7 @@
       "address": "47 Amundsen Drive, Ingle Farm SA 5098",
       "client": "Jake Ferraro",
       "link": "https://crm.na1.insightly.com/details/project/18252749",
-      "responsibility": "Client",
+      "responsibility": "SCAP/DAC",
       "days_in_stage": 20,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -2227,6 +2227,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-23T15:30:46.286727+09:30",
+  "last_updated": "2026-11-23T15:45:28.920914+09:30",
   "total": 102
 }
