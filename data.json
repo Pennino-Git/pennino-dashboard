@@ -81,6 +81,25 @@
       "lng": 138.6302806
     },
     {
+      "id": 18533079,
+      "name": "B1144 - Garden Tce TIER3",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "31 Garden Terrace, Underdale SA 5032, Australia",
+      "client": "Piotr Rzad",
+      "link": "https://crm.na1.insightly.com/details/project/18533079",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.9201446,
+      "lng": 138.5441535
+    },
+    {
       "id": 18056682,
       "name": "C1061 Port Wakefield Rd IDENT & CONTOUR",
       "tier": "T1",
@@ -2227,6 +2246,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-23T21:00:43.005984+09:30",
-  "total": 102
+  "last_updated": "2026-11-23T21:15:31.409955+09:30",
+  "total": 103
 }
