@@ -1250,7 +1250,7 @@
       "total": 13,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 204641155,
@@ -1367,7 +1367,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -1804,7 +1804,7 @@
       "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205472567,
@@ -1867,7 +1867,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -3393,8 +3393,8 @@
     "18273273": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208021623,
@@ -3456,8 +3456,8 @@
           "due_date": "2026-11-24",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4487,7 +4487,19 @@
       ]
     }
   },
-  "tasks_due_today": [],
+  "tasks_due_today": [
+    {
+      "task_id": 208815367,
+      "title": "SA Water RFI",
+      "due_date": "2026-11-24",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3"
+    }
+  ],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4988,8 +5000,8 @@
   "summary": {
     "total_open": 414,
     "total_overdue": 45,
-    "total_due_today": 0,
+    "total_due_today": 1,
     "projects_with_tasks": 95
   },
-  "last_updated": "2026-11-23T23:45:33.813857+09:30"
+  "last_updated": "2026-11-24T00:00:44.310928+09:30"
 }
