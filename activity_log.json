@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18021299,
+      "project_name": "Z1060 Collison St IDENT & CONTOUR",
+      "tier": "T2",
+      "from": "LTO",
+      "to": "AR (Alex)",
+      "timestamp": "2026-11-23T11:00:38.166333+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18393529,
       "project_name": "F1147 Norongo St TD1-3",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Kate (Drafting)",
       "timestamp": "2026-10-06T12:45:28.838427+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3",
-      "tier": "T2",
-      "from": "2. PlanSA Lodgement",
-      "to": "3. Authority Assessment",
-      "timestamp": "2026-10-06T11:25:29.759753+09:30"
     }
   ],
-  "last_updated": "2026-11-23T10:45:27.440475+09:30"
+  "last_updated": "2026-11-23T11:00:38.166333+09:30"
 }
