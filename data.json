@@ -1075,7 +1075,7 @@
       "address": "12 Araluen Street, Ridgehaven SA 5097",
       "client": "Darren Ferber",
       "link": "https://crm.na1.insightly.com/details/project/13466164",
-      "responsibility": "DP (Damiano)",
+      "responsibility": "Kate (Drafting)",
       "days_in_stage": 66,
       "stage_name": "5. Certified Survey",
       "sa_water_ref": "H0125919",
@@ -2265,6 +2265,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-24T15:15:31.463525+09:30",
+  "last_updated": "2026-11-24T15:30:48.035726+09:30",
   "total": 104
 }
