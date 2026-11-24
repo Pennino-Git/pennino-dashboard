@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18225672,
+      "project_name": "D1071 Deeds Rd CD1-10",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "7. SCAP Application",
+      "timestamp": "2026-11-25T08:15:31.548896+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18417055,
       "project_name": "P1088 Penong Ave CD1-6",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-10-12T13:00:41.432077+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18489079,
-      "project_name": "A1360 - Joseph St IDENT",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-10-12T13:00:41.432077+09:30"
     }
   ],
-  "last_updated": "2026-11-25T08:00:47.952267+09:30"
+  "last_updated": "2026-11-25T08:15:31.548896+09:30"
 }

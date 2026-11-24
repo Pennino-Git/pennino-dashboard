@@ -985,10 +985,10 @@
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18225672",
       "responsibility": "Client",
-      "days_in_stage": 63,
-      "stage_name": "5. Certified Survey",
+      "days_in_stage": 0,
+      "stage_name": "7. SCAP Application",
       "sa_water_ref": "H0190294",
-      "stage_order": 5,
+      "stage_order": 7,
       "tags": [
         "tier2",
         "community_division",
@@ -2265,6 +2265,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-25T08:00:47.952267+09:30",
+  "last_updated": "2026-11-25T08:15:31.548896+09:30",
   "total": 104
 }
