@@ -1410,7 +1410,7 @@
       "total": 7,
       "overdue": 0,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 205068468,
@@ -1473,7 +1473,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         }
       ]
     },
@@ -2060,8 +2060,8 @@
     "18252749": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205773303,
@@ -2096,8 +2096,8 @@
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3322,8 +3322,8 @@
     },
     "18273273": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3385,8 +3385,8 @@
           "title": "SA Water RFI",
           "due_date": "2026-11-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -3667,7 +3667,7 @@
       "total": 5,
       "overdue": 1,
       "due_today": 0,
-      "due_soon": 0,
+      "due_soon": 1,
       "tasks": [
         {
           "task_id": 208237029,
@@ -3694,7 +3694,7 @@
           "status": "NOT STARTED",
           "overdue": false,
           "due_today": false,
-          "due_soon": false
+          "due_soon": true
         },
         {
           "task_id": 208854837,
@@ -3850,9 +3850,9 @@
     },
     "18505750": {
       "total": 5,
-      "overdue": 0,
+      "overdue": 1,
       "due_today": 1,
-      "due_soon": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208439485,
@@ -3886,8 +3886,8 @@
           "title": "With KAte for Drafting",
           "due_date": "2026-11-24",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -3896,8 +3896,8 @@
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4017,8 +4017,8 @@
     "18497594": {
       "total": 3,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208579589,
@@ -4044,8 +4044,8 @@
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4472,8 +4472,8 @@
     "18534238": {
       "total": 7,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208894775,
@@ -4535,8 +4535,8 @@
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -4569,20 +4569,42 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208815367,
-      "title": "SA Water RFI",
-      "due_date": "2026-11-24",
+      "task_id": 208657078,
+      "title": "Prep INV for TPC- see email on 9th Nov",
+      "due_date": "2026-11-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18273273,
-      "project_name": "F1114 Blackham Cres TD1-3"
+      "project_id": 18497594,
+      "project_name": "T1339 - Lockleys Pot PU T3"
     },
     {
-      "task_id": 208896204,
-      "title": "With KAte for Drafting",
-      "due_date": "2026-11-24",
+      "task_id": 208874488,
+      "title": "Plan SA response?",
+      "due_date": "2026-11-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
+    },
+    {
+      "task_id": 208894816,
+      "title": "Concept Carparks to Client Approved",
+      "due_date": "2026-11-25",
+      "status": "NOT STARTED",
+      "overdue": false,
+      "due_today": true,
+      "due_soon": false,
+      "project_id": 18534238,
+      "project_name": "G1042 - GLOBE DERBY CD 1-9"
+    },
+    {
+      "task_id": 208896205,
+      "title": "On Site survey or Ascon provided",
+      "due_date": "2026-11-25",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
@@ -5066,6 +5088,17 @@
       "project_name": "A1309 Fife St CD1-8"
     },
     {
+      "task_id": 208815367,
+      "title": "SA Water RFI",
+      "due_date": "2026-11-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18273273,
+      "project_name": "F1114 Blackham Cres TD1-3"
+    },
+    {
       "task_id": 208837494,
       "title": "DP reviewed email from SA Water?",
       "due_date": "2026-11-21",
@@ -5086,13 +5119,24 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
+      "task_id": 208896204,
+      "title": "With KAte for Drafting",
+      "due_date": "2026-11-24",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18505750,
+      "project_name": "L1049 - Womma Elec Easement"
     }
   ],
   "summary": {
     "total_open": 422,
-    "total_overdue": 45,
-    "total_due_today": 2,
+    "total_overdue": 47,
+    "total_due_today": 4,
     "projects_with_tasks": 96
   },
-  "last_updated": "2026-11-24T23:45:34.943637+09:30"
+  "last_updated": "2026-11-25T00:00:43.071785+09:30"
 }
