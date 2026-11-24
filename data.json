@@ -1501,7 +1501,7 @@
       "address": "Lot 2032 11 Marblewood Way, Mount Barker SA 5251",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18443754",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 6,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -1523,7 +1523,7 @@
       "address": "Lot 2025 30 Redwood Dr, Mount Barker SA 5251",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18449737",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 6,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -1545,7 +1545,7 @@
       "address": "Lot 2031 9 Marblewood Wy, Mount Barker SA 5251",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18449744",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 6,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -1567,7 +1567,7 @@
       "address": "Lot 2017 3 Marblewood Wy, Mount Barker SA 5251",
       "client": "Donna  Salvisberg",
       "link": "https://crm.na1.insightly.com/details/project/18451364",
-      "responsibility": "Council/Authority",
+      "responsibility": "Client",
       "days_in_stage": 6,
       "stage_name": "3. Authority Assessment",
       "sa_water_ref": "",
@@ -2265,6 +2265,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-24T10:30:44.523220+09:30",
+  "last_updated": "2026-11-24T10:45:38.095983+09:30",
   "total": 104
 }
