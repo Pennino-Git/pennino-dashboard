@@ -257,11 +257,11 @@
       "address": "Lot 6000 Womma Road Andrews Farm",
       "client": "Louis Beinke",
       "link": "https://crm.na1.insightly.com/details/project/18505750",
-      "responsibility": "AR (Alex)",
-      "days_in_stage": 27,
-      "stage_name": "Prepare Project",
+      "responsibility": "Kate (Drafting)",
+      "days_in_stage": 0,
+      "stage_name": "Field Work Scheduled",
       "sa_water_ref": "",
-      "stage_order": 1,
+      "stage_order": 2,
       "tags": [],
       "needs_fieldwork": false,
       "is_premium": false,
@@ -2265,6 +2265,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-24T16:00:40.418421+09:30",
+  "last_updated": "2026-11-24T16:15:30.508163+09:30",
   "total": 104
 }

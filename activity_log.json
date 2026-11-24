@@ -2,6 +2,24 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18505750,
+      "project_name": "L1049 - Womma Elec Easement",
+      "tier": "T1",
+      "from": "Prepare Project",
+      "to": "Field Work Scheduled",
+      "timestamp": "2026-11-24T16:15:30.508163+09:30"
+    },
+    {
+      "type": "responsibility_change",
+      "project_id": 18505750,
+      "project_name": "L1049 - Womma Elec Easement",
+      "tier": "T1",
+      "from": "AR (Alex)",
+      "to": "Kate (Drafting)",
+      "timestamp": "2026-11-24T16:15:30.508163+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18227807,
       "project_name": "S1144 Angle Vale Rd IDENT",
       "tier": "T1",
@@ -1781,25 +1799,7 @@
       "from": "Prepare Project",
       "to": "Field Work Scheduled",
       "timestamp": "2026-10-12T10:15:29.346164+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18425013,
-      "project_name": "M1069 Pederick Rd CD1-5",
-      "tier": "T2",
-      "from": "AR (Alex)",
-      "to": "Client",
-      "timestamp": "2026-10-12T09:00:37.807919+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18474571,
-      "project_name": "C1068 - Broadacres Dr CONTOUR",
-      "tier": "T1",
-      "from": "AR (Alex)",
-      "to": "TR (Tristan)",
-      "timestamp": "2026-10-12T01:15:29.703569+09:30"
     }
   ],
-  "last_updated": "2026-11-24T16:00:40.418421+09:30"
+  "last_updated": "2026-11-24T16:15:30.508163+09:30"
 }
