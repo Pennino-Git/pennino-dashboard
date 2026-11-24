@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18417055,
+      "project_name": "P1088 Penong Ave CD1-6",
+      "tier": "T2",
+      "from": "3. Authority Assessment",
+      "to": "4. Conditions & Compliance",
+      "timestamp": "2026-11-25T08:00:47.952267+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18505750,
       "project_name": "L1049 - Womma Elec Easement",
       "tier": "T1",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "TR (Tristan)",
       "timestamp": "2026-10-12T13:00:41.432077+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18489026,
-      "project_name": "L1048 - Holmes Ave IDENT",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-10-12T10:15:29.346164+09:30"
     }
   ],
-  "last_updated": "2026-11-25T07:45:31.221171+09:30"
+  "last_updated": "2026-11-25T08:00:47.952267+09:30"
 }

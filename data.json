@@ -1743,10 +1743,10 @@
       "client": "David Schneider",
       "link": "https://crm.na1.insightly.com/details/project/18417055",
       "responsibility": "SA Water",
-      "days_in_stage": 8,
-      "stage_name": "3. Authority Assessment",
+      "days_in_stage": 0,
+      "stage_name": "4. Conditions & Compliance",
       "sa_water_ref": "H0196071",
-      "stage_order": 3,
+      "stage_order": 4,
       "tags": [
         "tier2",
         "community_division"
@@ -2265,6 +2265,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-25T07:45:31.221171+09:30",
+  "last_updated": "2026-11-25T08:00:47.952267+09:30",
   "total": 104
 }
