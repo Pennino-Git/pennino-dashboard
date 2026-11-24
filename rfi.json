@@ -10,7 +10,7 @@
       "due_date": "2026-11-23",
       "status": "pending",
       "type": "RFI",
-      "description": "Commissioner of Highways information request for PlanSA application 25031176 at Lot 301 Euston Ave. Portal shows action paused with the current response due 23 November 2026.",
+      "description": "Commissioner of Highways RFI due 23 Nov 2026. Live portal checked 25 Nov: Pending Applicant Response; response dialog says applicant yet to respond. Two calendar days overdue. Applicant-request assessment hold does not establish an extension.",
       "due_date_iso": "2026-11-23"
     },
     {
@@ -118,6 +118,6 @@
       "due_date_iso": null
     }
   ],
-  "last_updated": "2026-11-22T19:42:29.456Z",
+  "last_updated": "2026-11-24T19:44:00.427Z",
   "total": 9
 }
