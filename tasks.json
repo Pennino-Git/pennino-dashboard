@@ -3631,8 +3631,8 @@
     "18483048": {
       "total": 3,
       "overdue": 1,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 208202696,
@@ -3649,8 +3649,8 @@
           "due_date": "2026-11-26",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         },
         {
           "task_id": 208837567,
@@ -3998,8 +3998,8 @@
     },
     "18497594": {
       "total": 3,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4025,8 +4025,8 @@
           "title": "Prep INV for TPC- see email on 9th Nov",
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4453,8 +4453,8 @@
     },
     "18534238": {
       "total": 7,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -4516,8 +4516,8 @@
           "title": "Concept Carparks to Client Approved",
           "due_date": "2026-11-25",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4551,26 +4551,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208657078,
-      "title": "Prep INV for TPC- see email on 9th Nov",
-      "due_date": "2026-11-25",
+      "task_id": 208837565,
+      "title": "DPL Approval?",
+      "due_date": "2026-11-26",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18497594,
-      "project_name": "T1339 - Lockleys Pot PU T3"
-    },
-    {
-      "task_id": 208894816,
-      "title": "Concept Carparks to Client Approved",
-      "due_date": "2026-11-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18534238,
-      "project_name": "G1042 - GLOBE DERBY CD 1-9"
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
     }
   ],
   "tasks_overdue": [
@@ -4982,6 +4971,17 @@
       "project_name": "T1318 South Eastern Fwy CD1-4"
     },
     {
+      "task_id": 208657078,
+      "title": "Prep INV for TPC- see email on 9th Nov",
+      "due_date": "2026-11-25",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18497594,
+      "project_name": "T1339 - Lockleys Pot PU T3"
+    },
+    {
       "task_id": 208676527,
       "title": "Pegging Plan form Tristan",
       "due_date": "2026-11-11",
@@ -5057,13 +5057,24 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
+      "task_id": 208894816,
+      "title": "Concept Carparks to Client Approved",
+      "due_date": "2026-11-25",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18534238,
+      "project_name": "G1042 - GLOBE DERBY CD 1-9"
     }
   ],
   "summary": {
     "total_open": 420,
-    "total_overdue": 44,
-    "total_due_today": 2,
+    "total_overdue": 46,
+    "total_due_today": 1,
     "projects_with_tasks": 96
   },
-  "last_updated": "2026-11-25T23:45:32.342480+09:30"
+  "last_updated": "2026-11-26T00:00:42.708263+09:30"
 }
