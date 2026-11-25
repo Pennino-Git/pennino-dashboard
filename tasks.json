@@ -3858,9 +3858,9 @@
       ]
     },
     "18505750": {
-      "total": 5,
-      "overdue": 1,
-      "due_today": 1,
+      "total": 3,
+      "overdue": 0,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3889,24 +3889,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208896204,
-          "title": "With KAte for Drafting",
-          "due_date": "2026-11-24",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
-        },
-        {
-          "task_id": 208896205,
-          "title": "On Site survey or Ascon provided",
-          "due_date": "2026-11-25",
-          "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
-          "due_soon": false
         }
       ]
     },
@@ -4598,17 +4580,6 @@
       "due_soon": false,
       "project_id": 18534238,
       "project_name": "G1042 - GLOBE DERBY CD 1-9"
-    },
-    {
-      "task_id": 208896205,
-      "title": "On Site survey or Ascon provided",
-      "due_date": "2026-11-25",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18505750,
-      "project_name": "L1049 - Womma Elec Easement"
     }
   ],
   "tasks_overdue": [
@@ -5106,24 +5077,13 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
-    },
-    {
-      "task_id": 208896204,
-      "title": "With KAte for Drafting",
-      "due_date": "2026-11-24",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18505750,
-      "project_name": "L1049 - Womma Elec Easement"
     }
   ],
   "summary": {
-    "total_open": 423,
-    "total_overdue": 46,
-    "total_due_today": 3,
+    "total_open": 421,
+    "total_overdue": 45,
+    "total_due_today": 2,
     "projects_with_tasks": 96
   },
-  "last_updated": "2026-11-25T20:15:30.042231+09:30"
+  "last_updated": "2026-11-25T20:30:50.265045+09:30"
 }
