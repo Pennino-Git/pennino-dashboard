@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "responsibility_change",
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "SA Water",
+      "timestamp": "2026-11-25T12:00:39.830529+09:30"
+    },
+    {
       "type": "stage_change",
       "project_id": 18225672,
       "project_name": "D1071 Deeds Rd CD1-10",
@@ -1790,16 +1799,7 @@
       "from": "DP (Damiano)",
       "to": "SCAP/DAC",
       "timestamp": "2026-10-12T16:00:41.184069+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18489079,
-      "project_name": "A1360 - Joseph St IDENT",
-      "tier": "T1",
-      "from": "Prepare Project",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-10-12T13:00:41.432077+09:30"
     }
   ],
-  "last_updated": "2026-11-25T11:45:30.751851+09:30"
+  "last_updated": "2026-11-25T12:00:39.830529+09:30"
 }
