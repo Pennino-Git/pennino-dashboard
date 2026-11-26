@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 18527920,
+      "project_name": "S1156 - M88 - Inspection Monitoring Point Setout",
+      "tier": "T3",
+      "from": "Field Work Scheduled",
+      "to": "Further Work Required",
+      "timestamp": "2026-11-26T15:30:52.736487+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 13466164,
       "project_name": "F1063 Araluen St TD1-2",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Field Work",
       "timestamp": "2026-10-13T11:15:29.905099+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18487294,
-      "project_name": "S1155 - Helps Rd Syphon 1",
-      "tier": "T3",
-      "from": "AR (Alex)",
-      "to": "Field Work",
-      "timestamp": "2026-10-13T11:15:29.905099+09:30"
     }
   ],
-  "last_updated": "2026-11-26T15:15:30.275793+09:30"
+  "last_updated": "2026-11-26T15:30:52.736487+09:30"
 }
