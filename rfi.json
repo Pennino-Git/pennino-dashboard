@@ -10,7 +10,7 @@
       "due_date": "2026-11-23",
       "status": "pending",
       "type": "RFI",
-      "description": "Commissioner of Highways RFI due 23 Nov 2026. Live portal checked 25 Nov: Pending Applicant Response; response dialog says applicant yet to respond. Two calendar days overdue. Applicant-request assessment hold does not establish an extension.",
+      "description": "Commissioner of Highways RFI due 23 Nov 2026. Live checked 27 Nov: Pending Applicant Response; dialog says applicant yet to respond. Four calendar days overdue. Assessment hold is not evidence of deadline extension.",
       "due_date_iso": "2026-11-23"
     },
     {
@@ -116,8 +116,21 @@
       "type": "Mandatory Docs",
       "description": "Mandatory: updated plan of division showing existing SEP in verge adjacent proposed Lot 471. Non-mandatory assessment information: existing dwelling layout on proposed Lot 470 and connection to existing/proposed dedicated POS. Request 17 Nov 2026; no statutory response deadline.",
       "due_date_iso": null
+    },
+    {
+      "app_id": "26037054",
+      "project_ref": "A1359",
+      "project_name": null,
+      "insightly_id": "18475733",
+      "location": "13 RICKABY ST CROYDON PARK SA 5008, 15 RICKABY ST CROYDON PARK SA 5008",
+      "authority": "City of Port Adelaide Enfield",
+      "due_date": "2027-02-26",
+      "status": "pending",
+      "type": "RFI",
+      "description": "City of Port Adelaide Enfield RFI issued 25 Nov 2026, due 26 Feb 2027. Proposed lots 6.7 m wide fall below 9 m detached/7 m terrace-row standards and cannot fit 9 m x 15 m rectangle. Council requests intended dwelling designs and integrated dwelling DA for concurrent assessment; assessment paused.",
+      "due_date_iso": "2027-02-26"
     }
   ],
-  "last_updated": "2026-11-24T19:44:00.427Z",
-  "total": 9
+  "last_updated": "2026-11-26T19:41:19.608Z",
+  "total": 10
 }
