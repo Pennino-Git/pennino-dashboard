@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "stage_change",
+      "project_id": 13466164,
+      "project_name": "F1063 Araluen St TD1-2",
+      "tier": "T2",
+      "from": "5. Certified Survey",
+      "to": "6 Land Division Certificate Lodged with PlanSA",
+      "timestamp": "2026-11-26T12:30:46.337308+09:30"
+    },
+    {
+      "type": "stage_change",
       "project_id": 18254196,
       "project_name": "S1145 Minorca Cres TD1-4",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Field Work",
       "timestamp": "2026-10-13T11:15:29.905099+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "3. Authority Assessment",
-      "to": "7. SCAP Application",
-      "timestamp": "2026-10-12T16:00:41.184069+09:30"
     }
   ],
-  "last_updated": "2026-11-26T12:15:28.507084+09:30"
+  "last_updated": "2026-11-26T12:30:46.337308+09:30"
 }

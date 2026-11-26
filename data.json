@@ -1076,10 +1076,10 @@
       "client": "Darren Ferber",
       "link": "https://crm.na1.insightly.com/details/project/13466164",
       "responsibility": "Kate (Drafting)",
-      "days_in_stage": 68,
-      "stage_name": "5. Certified Survey",
+      "days_in_stage": 0,
+      "stage_name": "6 Land Division Certificate Lodged with PlanSA",
       "sa_water_ref": "H0125919",
-      "stage_order": 5,
+      "stage_order": 6,
       "tags": [
         "tier2",
         "torrens_division",
@@ -2246,6 +2246,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-26T12:15:28.507084+09:30",
+  "last_updated": "2026-11-26T12:30:46.337308+09:30",
   "total": 103
 }
