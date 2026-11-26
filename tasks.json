@@ -3602,8 +3602,8 @@
       ]
     },
     "18393529": {
-      "total": 5,
-      "overdue": 1,
+      "total": 4,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 1,
       "tasks": [
@@ -3615,15 +3615,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208237030,
-          "title": "check what's next? dnf sent to Jake",
-          "due_date": "2026-10-22",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         },
         {
           "task_id": 208696870,
@@ -4783,17 +4774,6 @@
       "project_name": "L1042 Grand Junction Rd REALIGNMENT"
     },
     {
-      "task_id": 208237030,
-      "title": "check what's next? dnf sent to Jake",
-      "due_date": "2026-10-22",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18393529,
-      "project_name": "F1147 Norongo St TD1-3"
-    },
-    {
       "task_id": 208389209,
       "title": "Did DP respond? How much to INV?",
       "due_date": "2026-10-29",
@@ -4916,10 +4896,10 @@
     }
   ],
   "summary": {
-    "total_open": 410,
-    "total_overdue": 43,
+    "total_open": 409,
+    "total_overdue": 42,
     "total_due_today": 1,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-27T08:00:41.865899+09:30"
+  "last_updated": "2026-11-27T08:15:29.553370+09:30"
 }
