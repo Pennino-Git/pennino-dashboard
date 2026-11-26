@@ -2033,8 +2033,8 @@
     "18252749": {
       "total": 4,
       "overdue": 0,
-      "due_today": 0,
-      "due_soon": 1,
+      "due_today": 1,
+      "due_soon": 0,
       "tasks": [
         {
           "task_id": 205773303,
@@ -2069,8 +2069,8 @@
           "due_date": "2026-11-27",
           "status": "NOT STARTED",
           "overdue": false,
-          "due_today": false,
-          "due_soon": true
+          "due_today": true,
+          "due_soon": false
         }
       ]
     },
@@ -3568,8 +3568,8 @@
     },
     "18483048": {
       "total": 3,
-      "overdue": 1,
-      "due_today": 1,
+      "overdue": 2,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -3586,8 +3586,8 @@
           "title": "DPL Approval?",
           "due_date": "2026-11-26",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         },
         {
@@ -4429,15 +4429,15 @@
   },
   "tasks_due_today": [
     {
-      "task_id": 208837565,
-      "title": "DPL Approval?",
-      "due_date": "2026-11-26",
+      "task_id": 208917204,
+      "title": "SA Water responded?",
+      "due_date": "2026-11-27",
       "status": "NOT STARTED",
       "overdue": false,
       "due_today": true,
       "due_soon": false,
-      "project_id": 18483048,
-      "project_name": "R1037 - Angle Vale Lease Plan"
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
     }
   ],
   "tasks_overdue": [
@@ -4882,6 +4882,17 @@
       "project_name": "M1069 Pederick Rd CD1-5"
     },
     {
+      "task_id": 208837565,
+      "title": "DPL Approval?",
+      "due_date": "2026-11-26",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18483048,
+      "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
       "task_id": 208837567,
       "title": "Notify client that it's been lodged",
       "due_date": "2026-11-21",
@@ -4906,9 +4917,9 @@
   ],
   "summary": {
     "total_open": 410,
-    "total_overdue": 42,
+    "total_overdue": 43,
     "total_due_today": 1,
     "projects_with_tasks": 92
   },
-  "last_updated": "2026-11-26T23:45:30.151818+09:30"
+  "last_updated": "2026-11-27T00:00:42.195020+09:30"
 }
