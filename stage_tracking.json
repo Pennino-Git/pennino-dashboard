@@ -229,11 +229,6 @@
     "entered": "2026-10-08",
     "stage_name": "5. Certified Survey"
   },
-  "18209910": {
-    "stage_id": 3134305,
-    "entered": "2026-10-29",
-    "stage_name": "Invoice & Close"
-  },
   "18212535": {
     "stage_id": 3134305,
     "entered": "2026-10-14",
@@ -443,11 +438,6 @@
     "stage_id": 3823940,
     "entered": "2026-10-20",
     "stage_name": "Invoice"
-  },
-  "18497594": {
-    "stage_id": 3134305,
-    "entered": "2026-11-05",
-    "stage_name": "Invoice & Close"
   },
   "18499118": {
     "stage_id": 3823938,

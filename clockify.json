@@ -1693,10 +1693,6 @@
       "id": "6a45f2f11fee215f3ece6195",
       "name": "T1329 Springs Rd Mt Barker TIER3"
     },
-    "T1339": {
-      "id": "6ad7053944ec46b91703c782",
-      "name": "T1339 Lockleys Pot PU T3"
-    },
     "T1340": {
       "id": "6ae2b4232355bfc87109c84f",
       "name": "T1340 ANDREWS RD POTS"
@@ -1834,6 +1830,6 @@
       "name": "Z1075 11 Kindale Ct - Contour and feature survey"
     }
   },
-  "total": 458,
-  "last_updated": "2026-11-26T13:15:29.209408+09:30"
+  "total": 457,
+  "last_updated": "2026-11-26T13:30:54.496824+09:30"
 }
