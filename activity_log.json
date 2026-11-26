@@ -1,6 +1,15 @@
 {
   "changes": [
     {
+      "type": "stage_change",
+      "project_id": 18254196,
+      "project_name": "S1145 Minorca Cres TD1-4",
+      "tier": "T2",
+      "from": "4. Conditions & Compliance",
+      "to": "5. Certified Survey",
+      "timestamp": "2026-11-26T12:13:57.310099+09:30"
+    },
+    {
       "type": "responsibility_change",
       "project_id": 18252749,
       "project_name": "F1113 Amundsen Dr TD1-4",
@@ -1790,16 +1799,7 @@
       "from": "3. Authority Assessment",
       "to": "7. SCAP Application",
       "timestamp": "2026-10-12T16:00:41.184069+09:30"
-    },
-    {
-      "type": "responsibility_change",
-      "project_id": 18377245,
-      "project_name": "F1146 Oakridge Rise TD1-4",
-      "tier": "T2",
-      "from": "DP (Damiano)",
-      "to": "SCAP/DAC",
-      "timestamp": "2026-10-12T16:00:41.184069+09:30"
     }
   ],
-  "last_updated": "2026-11-26T12:00:38.736121+09:30"
+  "last_updated": "2026-11-26T12:13:57.310099+09:30"
 }
