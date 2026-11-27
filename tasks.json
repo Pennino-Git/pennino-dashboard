@@ -2032,8 +2032,8 @@
     },
     "18252749": {
       "total": 4,
-      "overdue": 0,
-      "due_today": 1,
+      "overdue": 1,
+      "due_today": 0,
       "due_soon": 0,
       "tasks": [
         {
@@ -2068,8 +2068,8 @@
           "title": "SA Water responded?",
           "due_date": "2026-11-27",
           "status": "NOT STARTED",
-          "overdue": false,
-          "due_today": true,
+          "overdue": true,
+          "due_today": false,
           "due_soon": false
         }
       ]
@@ -4453,19 +4453,7 @@
       ]
     }
   },
-  "tasks_due_today": [
-    {
-      "task_id": 208917204,
-      "title": "SA Water responded?",
-      "due_date": "2026-11-27",
-      "status": "NOT STARTED",
-      "overdue": false,
-      "due_today": true,
-      "due_soon": false,
-      "project_id": 18252749,
-      "project_name": "F1113 Amundsen Dr TD1-4"
-    }
-  ],
+  "tasks_due_today": [],
   "tasks_overdue": [
     {
       "task_id": 178896318,
@@ -4917,13 +4905,24 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
+    },
+    {
+      "task_id": 208917204,
+      "title": "SA Water responded?",
+      "due_date": "2026-11-27",
+      "status": "NOT STARTED",
+      "overdue": true,
+      "due_today": false,
+      "due_soon": false,
+      "project_id": 18252749,
+      "project_name": "F1113 Amundsen Dr TD1-4"
     }
   ],
   "summary": {
     "total_open": 412,
-    "total_overdue": 41,
-    "total_due_today": 1,
+    "total_overdue": 42,
+    "total_due_today": 0,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-11-27T23:45:31.020271+09:30"
+  "last_updated": "2026-11-28T00:00:44.494327+09:30"
 }
