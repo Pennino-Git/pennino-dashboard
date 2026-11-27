@@ -4242,8 +4242,8 @@
       ]
     },
     "18534238": {
-      "total": 7,
-      "overdue": 1,
+      "total": 6,
+      "overdue": 0,
       "due_today": 0,
       "due_soon": 0,
       "tasks": [
@@ -4300,15 +4300,6 @@
           "overdue": "",
           "due_today": false,
           "due_soon": ""
-        },
-        {
-          "task_id": 208894816,
-          "title": "Concept Carparks to Client Approved",
-          "due_date": "2026-11-25",
-          "status": "NOT STARTED",
-          "overdue": true,
-          "due_today": false,
-          "due_soon": false
         }
       ]
     },
@@ -4926,24 +4917,13 @@
       "due_soon": false,
       "project_id": 18483048,
       "project_name": "R1037 - Angle Vale Lease Plan"
-    },
-    {
-      "task_id": 208894816,
-      "title": "Concept Carparks to Client Approved",
-      "due_date": "2026-11-25",
-      "status": "NOT STARTED",
-      "overdue": true,
-      "due_today": false,
-      "due_soon": false,
-      "project_id": 18534238,
-      "project_name": "G1042 - GLOBE DERBY CD 1-9"
     }
   ],
   "summary": {
-    "total_open": 413,
-    "total_overdue": 42,
+    "total_open": 412,
+    "total_overdue": 41,
     "total_due_today": 1,
     "projects_with_tasks": 93
   },
-  "last_updated": "2026-11-27T17:45:39.865872+09:30"
+  "last_updated": "2026-11-27T18:00:42.747150+09:30"
 }
