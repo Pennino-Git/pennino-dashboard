@@ -269,6 +269,25 @@
       "lng": 138.6503356
     },
     {
+      "id": 18537595,
+      "name": "Q1003 - Cygnet Ct Marina Wall Monitoring",
+      "tier": "T1",
+      "status": "IN PROGRESS",
+      "address": "33 Cygnet Ct, Glenelg North SA 5045, Australia",
+      "client": "Frank Quaini",
+      "link": "https://crm.na1.insightly.com/details/project/18537595",
+      "responsibility": "AR (Alex)",
+      "days_in_stage": 0,
+      "stage_name": "Prepare Project",
+      "sa_water_ref": "",
+      "stage_order": 1,
+      "tags": [],
+      "needs_fieldwork": false,
+      "is_premium": false,
+      "lat": -34.9746062,
+      "lng": 138.511017
+    },
+    {
       "id": 18483048,
       "name": "R1037 - Angle Vale Lease Plan",
       "tier": "T1",
@@ -2186,6 +2205,6 @@
       "lng": 138.6090662
     }
   ],
-  "last_updated": "2026-11-27T14:45:29.145419+09:30",
-  "total": 100
+  "last_updated": "2026-11-27T15:00:44.581775+09:30",
+  "total": 101
 }
