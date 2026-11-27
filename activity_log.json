@@ -2,6 +2,15 @@
   "changes": [
     {
       "type": "responsibility_change",
+      "project_id": 18273554,
+      "project_name": "S1148 Elizabeth Rd TD1-3",
+      "tier": "T2",
+      "from": "SCAP/DAC",
+      "to": "Client",
+      "timestamp": "2026-11-27T14:45:29.145419+09:30"
+    },
+    {
+      "type": "responsibility_change",
       "project_id": 18415275,
       "project_name": "E1037 Eastern Pde CD1-7",
       "tier": "T2",
@@ -1790,16 +1799,7 @@
       "from": "AR (Alex)",
       "to": "Field Work",
       "timestamp": "2026-10-13T11:30:47.130902+09:30"
-    },
-    {
-      "type": "stage_change",
-      "project_id": 18471829,
-      "project_name": "T1338 - Nazer Reserve Water",
-      "tier": "T3",
-      "from": "Search & DBYD",
-      "to": "Field Work Scheduled",
-      "timestamp": "2026-10-13T11:15:29.905099+09:30"
     }
   ],
-  "last_updated": "2026-11-27T14:30:48.945562+09:30"
+  "last_updated": "2026-11-27T14:45:29.145419+09:30"
 }
